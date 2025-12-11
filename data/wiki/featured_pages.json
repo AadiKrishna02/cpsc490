@@ -1,0 +1,5 @@
+{
+  "_comment": "List wiki page slugs (filenames without .md) to feature on the homepage. If empty, shows most recent 6 pages.",
+  "featured": []
+}
+

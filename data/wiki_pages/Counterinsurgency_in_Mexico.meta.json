@@ -1,0 +1,250 @@
+{
+  "topic": "Counterinsurgency in Mexico",
+  "generated_at": "2025-10-12T14:20:08.169025",
+  "model": "gpt-4o",
+  "num_sources": 40,
+  "source_documents": [
+    {
+      "doc_id": "IAFminutes_2009-2010",
+      "title": "IAFminutes_2009-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7668257693480824
+    },
+    {
+      "doc_id": "IAFminutes_2009-2010",
+      "title": "IAFminutes_2009-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7601885053551325
+    },
+    {
+      "doc_id": "9DEAintellRpts_2007-2015",
+      "title": "9DEAintellRpts_2007-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5642697628014356
+    },
+    {
+      "doc_id": "EOP_ONDCP_StrategyAnnex1997",
+      "title": "EOP_ONDCP_StrategyAnnex1997.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5230245120356041
+    },
+    {
+      "doc_id": "EOP_ONDCP_StrategyAnnex1997",
+      "title": "EOP_ONDCP_StrategyAnnex1997.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4714717153986483
+    },
+    {
+      "doc_id": "FBI100-HQ-343044SovietWarPlans_1945-1948",
+      "title": "FBI100-HQ-343044SovietWarPlans_1945-1948.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4334840177980199
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.338310411092134
+    },
+    {
+      "doc_id": "FBI100-HQ-343044SovietWarPlans_1945-1948",
+      "title": "FBI100-HQ-343044SovietWarPlans_1945-1948.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3333749287319622
+    },
+    {
+      "doc_id": "9DEAintellRpts_2007-2015",
+      "title": "9DEAintellRpts_2007-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.33206085809760894
+    },
+    {
+      "doc_id": "VetsActiveComp_2010",
+      "title": "VetsActiveComp_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.320902226997734
+    },
+    {
+      "doc_id": "ABMC-Talking-Points_2010",
+      "title": "ABMC-Talking-Points_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3
+    },
+    {
+      "doc_id": "3-JFCOMLessonsLearned",
+      "title": "3-JFCOMLessonsLearned.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2834385001725292
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2744334472173678
+    },
+    {
+      "doc_id": "ATFfoiaLog2014-2015",
+      "title": "ATFfoiaLog2014-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2622195941029151
+    },
+    {
+      "doc_id": "E4Y_Project_Ethiopia_CMEP_2016",
+      "title": "E4Y_Project_Ethiopia_CMEP_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.24510273155779955
+    },
+    {
+      "doc_id": "IAFmgmtRpt_July_2017",
+      "title": "IAFmgmtRpt_July_2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.24330479732814567
+    },
+    {
+      "doc_id": "3-JFCOMLessonsLearned",
+      "title": "3-JFCOMLessonsLearned.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2345034063041677
+    },
+    {
+      "doc_id": "FEMA-RAMP-DB_2003-2008",
+      "title": "FEMA-RAMP-DB_2003-2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.22553819341030282
+    },
+    {
+      "doc_id": "2ArmyCounterintelDocs_1962-1963",
+      "title": "2ArmyCounterintelDocs_1962-1963.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.21708434860421286
+    },
+    {
+      "doc_id": "AAA-2013AnnualPerfReport",
+      "title": "AAA-2013AnnualPerfReport.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.21681987345404416
+    },
+    {
+      "doc_id": "NApetRenaissanceStudy_2014",
+      "title": "NApetRenaissanceStudy_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.21457359920491476
+    },
+    {
+      "doc_id": "34GSA-OIGinvsClosingDocs_2008-2015",
+      "title": "34GSA-OIGinvsClosingDocs_2008-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.21167489465708852
+    },
+    {
+      "doc_id": "DOJcrdRaceByFLE_2003",
+      "title": "DOJcrdRaceByFLE_2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.20600742770676395
+    },
+    {
+      "doc_id": "24USAIGcloseDocsOIGinvests_2010-2014",
+      "title": "24USAIGcloseDocsOIGinvests_2010-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.1928198116421127
+    },
+    {
+      "doc_id": "2ArmyCounterintelDocs_1962-1963",
+      "title": "2ArmyCounterintelDocs_1962-1963.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.19179264688487271
+    },
+    {
+      "doc_id": "NApetRenaissanceStudy_2014",
+      "title": "NApetRenaissanceStudy_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.17428650470959356
+    },
+    {
+      "doc_id": "ATFfoiaLog2014-2015",
+      "title": "ATFfoiaLog2014-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.1714770156709229
+    },
+    {
+      "doc_id": "32DOE-IGinvsClosingDocs_2000-2017",
+      "title": "32DOE-IGinvsClosingDocs_2000-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.16629833187520854
+    },
+    {
+      "doc_id": "ABMCmtgMinutes_2013-2017",
+      "title": "ABMCmtgMinutes_2013-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.16375644997070768
+    },
+    {
+      "doc_id": "AMTRAKdirMinutes_2005-2006",
+      "title": "AMTRAKdirMinutes_2005-2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.15381542793474332
+    },
+    {
+      "doc_id": "LSCintnlLegalOpinionsAndReleasePolicy",
+      "title": "LSCintnlLegalOpinionsAndReleasePolicy.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.13938152932677275
+    },
+    {
+      "doc_id": "ABMC-Talking-Points_2010",
+      "title": "ABMC-Talking-Points_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.1388138241810833
+    },
+    {
+      "doc_id": "5NPSpolicyManuals_2009-2015",
+      "title": "5NPSpolicyManuals_2009-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.13477190864691535
+    },
+    {
+      "doc_id": "NRC-TribalProtocolManual_2010",
+      "title": "NRC-TribalProtocolManual_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.12652904174985635
+    },
+    {
+      "doc_id": "ABMCPolProced_2014-2015_MOUarmy",
+      "title": "ABMCPolProced_2014-2015_MOUarmy.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.12336736879359556
+    },
+    {
+      "doc_id": "IAFmgmtRpt_July_2017",
+      "title": "IAFmgmtRpt_July_2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.11946677968168633
+    },
+    {
+      "doc_id": "VA-SPOP_2012",
+      "title": "VA-SPOP_2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.11463405969049548
+    },
+    {
+      "doc_id": "3SECnewsletters_1998-2017",
+      "title": "3SECnewsletters_1998-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.11005283932450712
+    },
+    {
+      "doc_id": "ODNIcovertOps1800s2007",
+      "title": "ODNIcovertOps1800s2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.10763994388606052
+    },
+    {
+      "doc_id": "USSecretService-Intranet-StratPlan",
+      "title": "USSecretService-Intranet-StratPlan.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.10565253115805216
+    }
+  ],
+  "context_length": 20505,
+  "style": "comprehensive"
+}

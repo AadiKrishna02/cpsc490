@@ -1,0 +1,1540 @@
+{
+  "topic": "CIA meddling in elections",
+  "generated_at": "2025-11-25T22:18:49.257572",
+  "model": "gpt-5-nano",
+  "num_sources": 64,
+  "source_documents": [
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.9582967783930602
+    },
+    {
+      "doc_id": "ComplaintsFCCallBroadMMedia_2019",
+      "title": "ComplaintsFCCallBroadMMedia_2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.9109285857241617
+    },
+    {
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.828683551020553
+    },
+    {
+      "doc_id": "DIA_FileId_238597",
+      "title": "DIA_FileId_238597.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.814387903956934
+    },
+    {
+      "doc_id": "NARAjfkAssassinationRecordsCollWithheld_2016",
+      "title": "NARAjfkAssassinationRecordsCollWithheld_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8121653193529995
+    },
+    {
+      "doc_id": "EACrespQFRs_2017-2020",
+      "title": "EACrespQFRs_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7896994541657804
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7582454199406193
+    },
+    {
+      "doc_id": "CIA-OIGinvsClosed_2007-2011",
+      "title": "CIA-OIGinvsClosed_2007-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7470882835960928
+    },
+    {
+      "doc_id": "ODNIgamesTheyPlayThesis2008",
+      "title": "ODNIgamesTheyPlayThesis2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "CISAminAgendasGFS-EIS_2019-2020",
+      "title": "CISAminAgendasGFS-EIS_2019-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "ThesisRenditionsCounterterr2009",
+      "title": "ThesisRenditionsCounterterr2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "USSSprotIntelBriefsQOPT2021",
+      "title": "USSSprotIntelBriefsQOPT2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "NARAclintonPLfoiaLogs2008-2020",
+      "title": "NARAclintonPLfoiaLogs2008-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6835449743340514
+    },
+    {
+      "doc_id": "ThesisUnlawDisclInfoSharing2004",
+      "title": "ThesisUnlawDisclInfoSharing2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6401730916896373
+    },
+    {
+      "doc_id": "TreasuryDO-FOIAbacklogEmail_2012-14",
+      "title": "TreasuryDO-FOIAbacklogEmail_2012-14.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6372005519584905
+    },
+    {
+      "doc_id": "DIAintelLawHndbk_2004",
+      "title": "DIAintelLawHndbk_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.627442853010143
+    },
+    {
+      "doc_id": "DTICtrdBiblioCA-CIApre2000_2014",
+      "title": "DTICtrdBiblioCA-CIApre2000_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6143574445723337
+    },
+    {
+      "doc_id": "FBI-BellaAbzug_1950-1990",
+      "title": "FBI-BellaAbzug_1950-1990.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6078341933971693
+    },
+    {
+      "doc_id": "FBI-SexPerverts_1950-1966",
+      "title": "FBI-SexPerverts_1950-1966.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5966463692115004
+    },
+    {
+      "doc_id": "NSA_AmerCryptColdWarBk1",
+      "title": "NSA_AmerCryptColdWarBk1.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5888259281063688
+    },
+    {
+      "doc_id": "RespCongCmteesODNI_2012-2013",
+      "title": "RespCongCmteesODNI_2012-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.582939554953244
+    },
+    {
+      "doc_id": "DCI-BriefReleasability_2007",
+      "title": "DCI-BriefReleasability_2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.579689514588963
+    },
+    {
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5724113204690274
+    },
+    {
+      "doc_id": "EACstdsBdMinutes_2017-2019",
+      "title": "EACstdsBdMinutes_2017-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5699887919140418
+    },
+    {
+      "doc_id": "FOIAreqsJeffreyScudder_CY2012",
+      "title": "FOIAreqsJeffreyScudder_CY2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5693526562172093
+    },
+    {
+      "doc_id": "Closed_DOI-OIG_Invest_2003-2007",
+      "title": "Closed_DOI-OIG_Invest_2003-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5602349346949559
+    },
+    {
+      "doc_id": "ODNIqfr_2017-2020",
+      "title": "ODNIqfr_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5599282733230715
+    },
+    {
+      "doc_id": "FBI-RampartsMagazine_1964-1975",
+      "title": "FBI-RampartsMagazine_1964-1975.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5598617750423679
+    },
+    {
+      "doc_id": "ODNIcovertOps1800s2007",
+      "title": "ODNIcovertOps1800s2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5533787230904899
+    },
+    {
+      "doc_id": "NSA-WARgrams_1998_2004",
+      "title": "NSA-WARgrams_1998_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5442471112925783
+    },
+    {
+      "doc_id": "USSSemailTrumpMilhoan_2016",
+      "title": "USSSemailTrumpMilhoan_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5433575185870675
+    },
+    {
+      "doc_id": "ODNIfoiaLogs_2017-2020",
+      "title": "ODNIfoiaLogs_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5372015593677776
+    },
+    {
+      "doc_id": "DIA_FileId_238737",
+      "title": "DIA_FileId_238737.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5352414638098691
+    },
+    {
+      "doc_id": "TIGTAweeklyRepts_2011-2014",
+      "title": "TIGTAweeklyRepts_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5199410353943852
+    },
+    {
+      "doc_id": "USAIDtransBriefBiden_2020",
+      "title": "USAIDtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.518075294896047
+    },
+    {
+      "doc_id": "CIAbudgetSequestration_2013",
+      "title": "CIAbudgetSequestration_2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5177540959104412
+    },
+    {
+      "doc_id": "USSSadminHistSheafeUnpub_1983",
+      "title": "USSSadminHistSheafeUnpub_1983.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5175282847665574
+    },
+    {
+      "doc_id": "FBI1338181-cigieCIA%20Buckley_2012_2014",
+      "title": "FBI1338181-cigieCIA%20Buckley_2012_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5157342163869382
+    },
+    {
+      "doc_id": "FBI-DangerousAliens_1951-1955",
+      "title": "FBI-DangerousAliens_1951-1955.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5126061409313845
+    },
+    {
+      "doc_id": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u",
+      "title": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5001611070650577
+    },
+    {
+      "doc_id": "PerryHistSatRecon-IIIA_New-Jan1974",
+      "title": "PerryHistSatRecon-IIIA_New-Jan1974.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4868953897444717
+    },
+    {
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4835341043488278
+    },
+    {
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.47999460357727175
+    },
+    {
+      "doc_id": "NARA-CIA-MOU_2008",
+      "title": "NARA-CIA-MOU_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4637508175063533
+    },
+    {
+      "doc_id": "DIA_FileId_238856",
+      "title": "DIA_FileId_238856.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4631446139310601
+    },
+    {
+      "doc_id": "CIA-RptPubRelInfoPgms_1992",
+      "title": "CIA-RptPubRelInfoPgms_1992.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.45416695996351375
+    },
+    {
+      "doc_id": "NSAcaptPuebloSIGINT1992U2024",
+      "title": "NSAcaptPuebloSIGINT1992U2024.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.45295335570980005
+    },
+    {
+      "doc_id": "DIA_FileId_239088",
+      "title": "DIA_FileId_239088.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4452070813682515
+    },
+    {
+      "doc_id": "ODNIoigCloseDocsOtherAgencies_2010-2020",
+      "title": "ODNIoigCloseDocsOtherAgencies_2010-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4321031286342234
+    },
+    {
+      "doc_id": "FBI-KayHalle_1949-1965",
+      "title": "FBI-KayHalle_1949-1965.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4306084704886129
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.43038914606908674
+    },
+    {
+      "doc_id": "FBI-FOIA-PA-Ref-Manual",
+      "title": "FBI-FOIA-PA-Ref-Manual.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.42897014020821694
+    },
+    {
+      "doc_id": "FBI-62-HQ-97308-PhoneSecurity_1952-1995",
+      "title": "FBI-62-HQ-97308-PhoneSecurity_1952-1995.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4276839357864382
+    },
+    {
+      "doc_id": "GAO_Cocaine_Heroin_S_America_1975",
+      "title": "GAO_Cocaine_Heroin_S_America_1975.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4274035997434607
+    },
+    {
+      "doc_id": "FOIA_NRO_Ltrs-Resp_2003",
+      "title": "FOIA_NRO_Ltrs-Resp_2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.41675040405188657
+    },
+    {
+      "doc_id": "DIA_FileId_239208",
+      "title": "DIA_FileId_239208.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4164237636419249
+    },
+    {
+      "doc_id": "OCSformalHatchActAOWL_Jan-Jun2021",
+      "title": "OCSformalHatchActAOWL_Jan-Jun2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.41477401789539786
+    },
+    {
+      "doc_id": "DOJ-OIP-INSLAW_1993",
+      "title": "DOJ-OIP-INSLAW_1993.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.41439178023570805
+    },
+    {
+      "doc_id": "CIA-IG_Report-to-DCI_1999",
+      "title": "CIA-IG_Report-to-DCI_1999.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4116748336473785
+    },
+    {
+      "doc_id": "StateDeptRedBookINR_2008",
+      "title": "StateDeptRedBookINR_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4113444013307608
+    },
+    {
+      "doc_id": "FBIfile80-HQ-760UltrasonicListenDev_1945-1969",
+      "title": "FBIfile80-HQ-760UltrasonicListenDev_1945-1969.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4055767215287785
+    },
+    {
+      "doc_id": "FECtransBriefBiden_2020",
+      "title": "FECtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.401134726089919
+    },
+    {
+      "doc_id": "19-OGE-EthicsReviews_2005-2009",
+      "title": "19-OGE-EthicsReviews_2005-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4010999458411318
+    },
+    {
+      "doc_id": "CIAoigInvestsClosed2018-2019",
+      "title": "CIAoigInvestsClosed2018-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.40107673467104876
+    }
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 22,
+      "text_preview": "x 3 of the GFAP spelled out the elections program. The\nOrganization for Security and Cooperation in Europe (OSCE) was the lead intemational\nagency for elections, but the Provisional Election Commissio...",
+      "text_length": 352,
+      "relevance_score": 0.9582967783930602,
+      "semantic_score": 0.9648906571528771,
+      "bm25_score": 0.9429110612868207,
+      "citation_key": "ForgedInTheFire_2008_p22"
+    },
+    {
+      "index": 1,
+      "doc_id": "ComplaintsFCCallBroadMMedia_2019",
+      "title": "ComplaintsFCCallBroadMMedia_2019.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "the Commission\naddress this issue. Thank you\n\nSt. Elmo, Illinois 62456\nEmail\n\n\nCommission\n\n(b) (6)(b) (6)\n\n___\nTicket: # 3608665 - Election Meddling\nDate: 10/21/2019 5:41:46 AM\nCity/State/Zip: Buffalo...",
+      "text_length": 486,
+      "relevance_score": 0.9109285857241617,
+      "semantic_score": 0.8727551224630881,
+      "bm25_score": 1.0,
+      "citation_key": "ComplaintsFCCallBroadMMedia_2019_chunk1"
+    },
+    {
+      "index": 2,
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 60,
+      "text_preview": "nced democratic elections in Italy, where Italian., amuniSts threatened to win the/elections: The CIA boujht votes, bro. adcast\n\u2022 P'fopaganda, thr~ened and beat up oppositiort leaders. and infiltr~ed....",
+      "text_length": 492,
+      "relevance_score": 0.828683551020553,
+      "semantic_score": 0.9756322678506885,
+      "bm25_score": 0.4858032117502371,
+      "citation_key": "CIA-comments_1994-2005u_p60"
+    },
+    {
+      "index": 3,
+      "doc_id": "DIA_FileId_238597",
+      "title": "DIA_FileId_238597.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 115,
+      "text_preview": "r a chilling effect on open expression and debate. Govemmental\nuse of clandestine affiliation with its citizens must be con190See Report to the President by the Commission on CIA Activities Within the...",
+      "text_length": 512,
+      "relevance_score": 0.814387903956934,
+      "semantic_score": 1.0,
+      "bm25_score": 0.38129301318978,
+      "citation_key": "DIA_FileId_238597_p115"
+    },
+    {
+      "index": 4,
+      "doc_id": "NARAjfkAssassinationRecordsCollWithheld_2016",
+      "title": "NARAjfkAssassinationRecordsCollWithheld_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 140,
+      "text_preview": "-10071\n\nCIA FILE ON LUGE, CLAIRE BOOTH\n(ARCHIVES).\n\n\n\n\n\n\n03/07/1998 416\n\nNot Marked 1998.03.07.11:38:56:043107: NOT\n\nJFK64-10: F8:\n\nJFK64-10: F7:\n\n104-10174-10072\n\nCIA FILE ON LYNCH, GRAYSON.\n\n\n\n\n\n\n03...",
+      "text_length": 507,
+      "relevance_score": 0.8121653193529995,
+      "semantic_score": 1.0,
+      "bm25_score": 0.3738843978433317,
+      "citation_key": "NARAjfkAssassinationRecordsCollWithheld_2016_p140"
+    },
+    {
+      "index": 5,
+      "doc_id": "EACrespQFRs_2017-2020",
+      "title": "EACrespQFRs_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 213,
+      "text_preview": "e, insecure software in the 2018 general\nelection. In its response, DHS revealed that it does not have that data, and, as such, has no idea\nhow vulnerable our election infrastructure is to foreign hac...",
+      "text_length": 500,
+      "relevance_score": 0.7896994541657804,
+      "semantic_score": 1.0,
+      "bm25_score": 0.29899818055260136,
+      "citation_key": "EACrespQFRs_2017-2020_p213"
+    },
+    {
+      "index": 6,
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 42,
+      "text_preview": "the actions\n\nof Blackwater security contractors from June 2005 through August 2005.\n\u2022 Copies of documents written by then U. S. Ambassador to Iraq, John Negroponte, in\n\nresponse to a November 2004 cla...",
+      "text_length": 472,
+      "relevance_score": 0.7582454199406193,
+      "semantic_score": 0.7249479101457655,
+      "bm25_score": 0.8359396094619449,
+      "citation_key": "StateInfoPgmsRpts_2008_p42"
+    },
+    {
+      "index": 7,
+      "doc_id": "CIA-OIGinvsClosed_2007-2011",
+      "title": "CIA-OIGinvsClosed_2007-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 16,
+      "text_preview": "n DS&T\n\n(U) Alleged Conspiracy to Conceal Documents\n\n(U) Alleged Assault at a CIA Facility\n\n(U) Alleged Sexual Assault at a CIA Facility\n\n(U) Alleged Violations Conceming Inherently Govemmental Functi...",
+      "text_length": 512,
+      "relevance_score": 0.7470882835960928,
+      "semantic_score": 0.8588728387506804,
+      "bm25_score": 0.48625765490205497,
+      "citation_key": "CIA-OIGinvsClosed_2007-2011_p16"
+    },
+    {
+      "index": 8,
+      "doc_id": "ODNIgamesTheyPlayThesis2008",
+      "title": "ODNIgamesTheyPlayThesis2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 76,
+      "text_preview": "ultural ties while in fact conducting\n\ndeceptions. In the future, much like the Comintem, the Presidential Department for\n\nIntemational and Cultural Ties with Foreign Countries might become more secre...",
+      "text_length": 508,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "ODNIgamesTheyPlayThesis2008_p76"
+    },
+    {
+      "index": 9,
+      "doc_id": "CISAminAgendasGFS-EIS_2019-2020",
+      "title": "CISAminAgendasGFS-EIS_2019-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "Fl NA 1. -;\\Jot for further distribution\n\nJuly 2. 2020\nPage 2\n\nNew Business/Open Discussion\n\u2022 DI IS Intelligence and Analysis (!&A) hosts bi-weekly Cybcr Threat Calls, \\Vhich arc not\nspecific to elect...",
+      "text_length": 436,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "CISAminAgendasGFS-EIS_2019-2020_chunk9"
+    },
+    {
+      "index": 10,
+      "doc_id": "ThesisRenditionsCounterterr2009",
+      "title": "ThesisRenditionsCounterterr2009.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 96,
+      "text_preview": "tigative authorities once it\n\ncame under scrutiny. And this was in Italy, which is a particularly permissive\n\nenvironment for Americans to operate in without attracting undue attention.\n\nTherefore, th...",
+      "text_length": 506,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "ThesisRenditionsCounterterr2009_p96"
+    },
+    {
+      "index": 11,
+      "doc_id": "USSSprotIntelBriefsQOPT2021",
+      "title": "USSSprotIntelBriefsQOPT2021.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 5,
+      "text_preview": "o discuss action for the US\npresidential election. There is no indication such a meetup occurred.\n\u2022 On October 22, 2020, a QAnon Telegram channel shared an opinion article written by former\nGeneral Mi...",
+      "text_length": 321,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "USSSprotIntelBriefsQOPT2021_p5"
+    },
+    {
+      "index": 12,
+      "doc_id": "NARAclintonPLfoiaLogs2008-2020",
+      "title": "NARAclintonPLfoiaLogs2008-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 36,
+      "text_preview": ".\n\n2015-0709-F\n\n5/12/2015\n\nGeorge Tenet 1997-2004.\n\nAll images of the following former CIA directors during their terms of service: James Woolsey, 1993-1995; John Deutch, 1995-1996;\n\n2015-0718-F\n\n5/13...",
+      "text_length": 421,
+      "relevance_score": 0.6835449743340514,
+      "semantic_score": 0.7528039544593285,
+      "bm25_score": 0.5219406873750718,
+      "citation_key": "NARAclintonPLfoiaLogs2008-2020_p36"
+    },
+    {
+      "index": 13,
+      "doc_id": "ThesisUnlawDisclInfoSharing2004",
+      "title": "ThesisUnlawDisclInfoSharing2004.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 66,
+      "text_preview": "is a criminal offence to name a covert CIA agent. The scandal is the biggest to hit the\nadministration since Bush took office in January 2001. The US Justice Department\nopened a formal investigation o...",
+      "text_length": 468,
+      "relevance_score": 0.6401730916896373,
+      "semantic_score": 0.9145329881280534,
+      "bm25_score": 0,
+      "citation_key": "ThesisUnlawDisclInfoSharing2004_p66"
+    },
+    {
+      "index": 14,
+      "doc_id": "TreasuryDO-FOIAbacklogEmail_2012-14",
+      "title": "TreasuryDO-FOIAbacklogEmail_2012-14.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 63,
+      "text_preview": "s\n\ncalendar for Oct. 1, 2012 to December 31, 2012.\n\u2022 Request from, a private citizen, for any e-mails and attachments sent\n\nto CIA from Treasury for time period: 12-1-2012 to 12-5-2012\n\nMelissa Hartma...",
+      "text_length": 512,
+      "relevance_score": 0.6372005519584905,
+      "semantic_score": 0.7301658385193011,
+      "bm25_score": 0.42028154998326583,
+      "citation_key": "TreasuryDO-FOIAbacklogEmail_2012-14_p63"
+    },
+    {
+      "index": 15,
+      "doc_id": "DIAintelLawHndbk_2004",
+      "title": "DIAintelLawHndbk_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 118,
+      "text_preview": "r a chilling effect on open expression and debate. Govemmental\nuse of clandestine affiliation with its citizens must be con190see Report to the President by the Conunission on CIA Activities Within th...",
+      "text_length": 470,
+      "relevance_score": 0.627442853010143,
+      "semantic_score": 0.7672727119633737,
+      "bm25_score": 0.3011731821192718,
+      "citation_key": "DIAintelLawHndbk_2004_p118"
+    },
+    {
+      "index": 16,
+      "doc_id": "DTICtrdBiblioCA-CIApre2000_2014",
+      "title": "DTICtrdBiblioCA-CIApre2000_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 117,
+      "text_preview": "lly delved into all aspects of the CIA and the IC. For the first time in\nthe Agency's history, CIA officials faced hostile Congressional committees bent on the exposure of\nabuses by intelligence agenc...",
+      "text_length": 392,
+      "relevance_score": 0.6143574445723337,
+      "semantic_score": 0.7345676256027072,
+      "bm25_score": 0.33386702216812886,
+      "citation_key": "DTICtrdBiblioCA-CIApre2000_2014_p117"
+    },
+    {
+      "index": 17,
+      "doc_id": "FBI-BellaAbzug_1950-1990",
+      "title": "FBI-BellaAbzug_1950-1990.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 260,
+      "text_preview": "ent.~\nInspectl\nIntell.\n\nTraining __\n\nTelephone Rm._\n\nDirector Sec'y_\n\n\nlIt ~s rather amusi~ and sickening to see you on NBC confronting M\n\nWilliam E. Colby regarding the CIA 1 s file on you and your a...",
+      "text_length": 511,
+      "relevance_score": 0.6078341933971693,
+      "semantic_score": 0.8683345619959562,
+      "bm25_score": 0,
+      "citation_key": "FBI-BellaAbzug_1950-1990_p260"
+    },
+    {
+      "index": 18,
+      "doc_id": "FBI-SexPerverts_1950-1966",
+      "title": "FBI-SexPerverts_1950-1966.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 30,
+      "text_preview": "d to the\nDivisionll c: t:_<t;9~_. a151a. t_. AAU.. J The latter ls the desl\nt10n whic\n~e Di~n~~ Army has fumished CIA tor thls particular\npu:, pos!.: I~\n\nv. j.\n\nCIA has 1ndicated that perm1ssicn for t...",
+      "text_length": 446,
+      "relevance_score": 0.5966463692115004,
+      "semantic_score": 0.82104928265184,
+      "bm25_score": 0.07303957118404163,
+      "citation_key": "FBI-SexPerverts_1950-1966_p30"
+    },
+    {
+      "index": 19,
+      "doc_id": "NSA_AmerCryptColdWarBk1",
+      "title": "NSA_AmerCryptColdWarBk1.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 105,
+      "text_preview": "s such, could play a large role in CO MINT policy. The results of the Brownell Report\nalso gave CIA the chance to lean on the new NSA to. get its own requirements satisfied. No\nlonger would the civili...",
+      "text_length": 449,
+      "relevance_score": 0.5888259281063688,
+      "semantic_score": 0.7156627317604287,
+      "bm25_score": 0.29287338624689574,
+      "citation_key": "NSA_AmerCryptColdWarBk1_p105"
+    },
+    {
+      "index": 20,
+      "doc_id": "RespCongCmteesODNI_2012-2013",
+      "title": "RespCongCmteesODNI_2012-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 61,
+      "text_preview": "anne Feinstein\nHonorable Saxby Chambliss!.(b~(3\\,.; CIA, ___ _\n\u2022 ---~!(b)(3)\n\u2022 The IC IG reviewed the five cases declined by OOJ since June 2012 and detennined that\ntwo cases that affected CIA merited...",
+      "text_length": 421,
+      "relevance_score": 0.582939554953244,
+      "semantic_score": 0.7690448285253768,
+      "bm25_score": 0.1486939166182678,
+      "citation_key": "RespCongCmteesODNI_2012-2013_p61"
+    },
+    {
+      "index": 21,
+      "doc_id": "DCI-BriefReleasability_2007",
+      "title": "DCI-BriefReleasability_2007.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 30,
+      "text_preview": "CIA is not limited to the impact upon that source.\n\nDisclosure of information leading to the exposure of an\n\nintelligence source, no matter how inadvertent, could\n\ncripple the CIA's ability to recruit...",
+      "text_length": 317,
+      "relevance_score": 0.579689514588963,
+      "semantic_score": 0.8281278779842329,
+      "bm25_score": 0,
+      "citation_key": "DCI-BriefReleasability_2007_p30"
+    },
+    {
+      "index": 22,
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 105,
+      "text_preview": "an \\vas the groundwork done prior to September 11.\n\nDespite the lack of interest policy makers showed to Afghanistan\nafter the Soviet withdrawal, the CIA remained active in the area,\nworking to increa...",
+      "text_length": 494,
+      "relevance_score": 0.5724113204690274,
+      "semantic_score": 0.6647912785734118,
+      "bm25_score": 0.3568580848921307,
+      "citation_key": "DIA_FileId_238567_p105"
+    },
+    {
+      "index": 23,
+      "doc_id": "EACstdsBdMinutes_2017-2019",
+      "title": "EACstdsBdMinutes_2017-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 8,
+      "text_preview": "unts of election officials, staff, and\nvolunteers.\n\nSpencer Fisher addressed the Commission to provide testimony regarding\nelection security and that the govemment, the IEC, and the\ncounterintelligenc...",
+      "text_length": 454,
+      "relevance_score": 0.5699887919140418,
+      "semantic_score": 0.8142697027343455,
+      "bm25_score": 0,
+      "citation_key": "EACstdsBdMinutes_2017-2019_p8"
+    },
+    {
+      "index": 24,
+      "doc_id": "FOIAreqsJeffreyScudder_CY2012",
+      "title": "FOIAreqsJeffreyScudder_CY2012.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 67,
+      "text_preview": "Intelligence\n\nThe CIA and American Foreign Policy\n\nSpycalcher\n\n48 of 66\n\n'Book Review\n\nBook Review! Article, Article\n\n\n\n\n\niCEREMONY\n\nIBook Review\n\n\n\n\nI Book Review\n\n\nI Article\n\n\nBook Review\n\n\nC'?\n(.)\n...",
+      "text_length": 423,
+      "relevance_score": 0.5693526562172093,
+      "semantic_score": 0.8133609374531562,
+      "bm25_score": 0,
+      "citation_key": "FOIAreqsJeffreyScudder_CY2012_p67"
+    },
+    {
+      "index": 25,
+      "doc_id": "Closed_DOI-OIG_Invest_2003-2007",
+      "title": "Closed_DOI-OIG_Invest_2003-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "cialmtle\n\nISpecial Agent\n\nApproving Officialffitl.\nNeil Smith/Special Agent-in-Charge\n\nSignature\n\nSignature\n\nDate\n\nDate\n\nDistribution: Original- Case File ~ - SAC/SIU Office!&I! Y HQ Other:\n\nCase Numb...",
+      "text_length": 454,
+      "relevance_score": 0.5602349346949559,
+      "semantic_score": 0.8003356209927942,
+      "bm25_score": 0,
+      "citation_key": "Closed_DOI-OIG_Invest_2003-2007_chunk25"
+    },
+    {
+      "index": 26,
+      "doc_id": "ODNIqfr_2017-2020",
+      "title": "ODNIqfr_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 16,
+      "text_preview": "tampered\nwith ballots in prior federal elections. At this time and without further information,\nI am unable to assess a particular level of confidence in response to your question.\n\n[From Senator Hein...",
+      "text_length": 482,
+      "relevance_score": 0.5599282733230715,
+      "semantic_score": 0.7998975333186736,
+      "bm25_score": 0,
+      "citation_key": "ODNIqfr_2017-2020_p16"
+    },
+    {
+      "index": 27,
+      "doc_id": "FBI-RampartsMagazine_1964-1975",
+      "title": "FBI-RampartsMagazine_1964-1975.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 383,
+      "text_preview": "sationalized exposes of CIA intelligence programs. It has\nbeen operating at a deficit in excess of one million dollars\nand discreet investigation is being conducted under the\nForeign Agents Registrati...",
+      "text_length": 412,
+      "relevance_score": 0.5598617750423679,
+      "semantic_score": 0.7998025357748113,
+      "bm25_score": 0,
+      "citation_key": "FBI-RampartsMagazine_1964-1975_p383"
+    },
+    {
+      "index": 28,
+      "doc_id": "ODNIcovertOps1800s2007",
+      "title": "ODNIcovertOps1800s2007.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 14,
+      "text_preview": "in Sicily and mainland Italy during World War 11. 10 The\n\nCIA' s Secret Wars article below by Waller and Frank provides a chronology of several\n\ncovert U. S. operations.\n\nCoups, Killings and Ditty Tri...",
+      "text_length": 511,
+      "relevance_score": 0.5533787230904899,
+      "semantic_score": 0.6160762426811018,
+      "bm25_score": 0.40708451071239543,
+      "citation_key": "ODNIcovertOps1800s2007_p14"
+    },
+    {
+      "index": 29,
+      "doc_id": "NSA-WARgrams_1998_2004",
+      "title": "NSA-WARgrams_1998_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "neral, USAF\nDirector\n\nDERIVED FROM: NSA/CSSM 1-52. Dated: 23 November 2004\nDECLASSIFY ON: 20291123\n\nnocfb: 4315001\n\n(U) WARgram':'69: The Director's Intent\n\n(UHFOUO) The recent free and democratic ele...",
+      "text_length": 487,
+      "relevance_score": 0.5442471112925783,
+      "semantic_score": 0.6861576882196705,
+      "bm25_score": 0.2131224317960299,
+      "citation_key": "NSA-WARgrams_1998_2004_chunk29"
+    },
+    {
+      "index": 30,
+      "doc_id": "USSSemailTrumpMilhoan_2016",
+      "title": "USSSemailTrumpMilhoan_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 179,
+      "text_preview": "/23/politics/russia-hack-new-york-times-fbi/index. html? adkey=bn\n\n(CNN)Hackers thought to be working for Russian intelligence have carried out a series of cyber\nbreaches targeting reporters at the Ne...",
+      "text_length": 407,
+      "relevance_score": 0.5433575185870675,
+      "semantic_score": 0.7762250265529536,
+      "bm25_score": 0,
+      "citation_key": "USSSemailTrumpMilhoan_2016_p179"
+    },
+    {
+      "index": 31,
+      "doc_id": "ODNIfoiaLogs_2017-2020",
+      "title": "ODNIfoiaLogs_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 50,
+      "text_preview": "FOREIGN\nINTERFERENCE IN A UNITED STATES ELECTION.\n\nMARTELLE, MICHAEL\n\n01/07/2019\n\nDF-2019-00101\n\nREQUEST ACCESS TO AND COPIES OF ANY AND ALL EMAIL AND OTHER CORRESPONDENCE BETWEEN\nDIRECTOR OF NATIONAL...",
+      "text_length": 391,
+      "relevance_score": 0.5372015593677776,
+      "semantic_score": 0.7674307990968252,
+      "bm25_score": 0,
+      "citation_key": "ODNIfoiaLogs_2017-2020_p50"
+    },
+    {
+      "index": 32,
+      "doc_id": "DIA_FileId_238737",
+      "title": "DIA_FileId_238737.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 5,
+      "text_preview": "D MENEM AS BEING INSINCERE ON\nHUMAN RIGHTS ISSUES. MENEM CAN EXPECT SUCH ATTACKS TO\nCONTINUE, BUT THEY ARE UNLIKELY TO HAVE A STRONG IMPACT\nON THE ELECTION OUTCOME.\n//IPSP: (U) (b)l3) 10 USC 424\n\n' - ...",
+      "text_length": 478,
+      "relevance_score": 0.5352414638098691,
+      "semantic_score": 0.7646306625855275,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238737_p5"
+    },
+    {
+      "index": 33,
+      "doc_id": "TIGTAweeklyRepts_2011-2014",
+      "title": "TIGTAweeklyRepts_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 544,
+      "text_preview": "cial position to reduce\nColeman's tax liabilities.2\n\nThe following final reports have been issued to the IRS and are awaiting public\nrelease:\n\nSubject: Fiscal Year 2011 Statutory Audit of Compliance W...",
+      "text_length": 474,
+      "relevance_score": 0.5199410353943852,
+      "semantic_score": 0.7427729077062646,
+      "bm25_score": 0,
+      "citation_key": "TIGTAweeklyRepts_2011-2014_p544"
+    },
+    {
+      "index": 34,
+      "doc_id": "USAIDtransBriefBiden_2020",
+      "title": "USAIDtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 40,
+      "text_preview": "ly, Russia has sought to undermine democratic ins. titutions in a\nvariety of ways, from attempts to discredit civil society organizations, to funding political parties, to\ncyberattacks on central elec...",
+      "text_length": 511,
+      "relevance_score": 0.518075294896047,
+      "semantic_score": 0.74010756413721,
+      "bm25_score": 0,
+      "citation_key": "USAIDtransBriefBiden_2020_p40"
+    },
+    {
+      "index": 35,
+      "doc_id": "CIAbudgetSequestration_2013",
+      "title": "CIAbudgetSequestration_2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 43,
+      "text_preview": "an effective\n\nother OIG's with similar missions routinely perform\n\nand efficient manner.\n\nthemselves, such as serving as affiants for warrants\n\nand criminal complaints. The CIA DIGs dependency\n\non oth...",
+      "text_length": 364,
+      "relevance_score": 0.5177540959104412,
+      "semantic_score": 0.6644594695080153,
+      "bm25_score": 0.17544155751610194,
+      "citation_key": "CIAbudgetSequestration_2013_p43"
+    },
+    {
+      "index": 36,
+      "doc_id": "USSSadminHistSheafeUnpub_1983",
+      "title": "USSSadminHistSheafeUnpub_1983.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 42,
+      "text_preview": "ve\norganizations.\nis attempting at the present ti. me to again retain the\nauthority to infiltrate certain groups that seem to be\nplotting the overthrow of the present Govemment.)\n\n(It is interesting t...",
+      "text_length": 447,
+      "relevance_score": 0.5175282847665574,
+      "semantic_score": 0.7393261210950821,
+      "bm25_score": 0,
+      "citation_key": "USSSadminHistSheafeUnpub_1983_p42"
+    },
+    {
+      "index": 37,
+      "doc_id": "FBI1338181-cigieCIA%20Buckley_2012_2014",
+      "title": "FBI1338181-cigieCIA%20Buckley_2012_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 17,
+      "text_preview": "contracting, clandestine, intelligence, and more.\nWorking as one team, this highly professional intelligent staff\nand skilled criminal investigators has conducted some of the\nmost complex and highly s...",
+      "text_length": 478,
+      "relevance_score": 0.5157342163869382,
+      "semantic_score": 0.7367631662670546,
+      "bm25_score": 0,
+      "citation_key": "FBI1338181-cigieCIA%20Buckley_2012_2014_p17"
+    },
+    {
+      "index": 38,
+      "doc_id": "FBI-DangerousAliens_1951-1955",
+      "title": "FBI-DangerousAliens_1951-1955.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 231,
+      "text_preview": "P\n\n\n\n\n\n3(1)\n\u2022 10$-\n12839\n\n'6$\nlS26S. 105-:-: r0$..;\n14654 ~313\n100100-\n11771 6993\n\u2022 --\n\n100100-\n353623 '90762\n6528762 5757.\n\n65100~\n365023 '96863\n\n100-...\n\n\n105105-'\n18466 4806\n\n1051: O$-\n12553 1434\n\n...",
+      "text_length": 412,
+      "relevance_score": 0.5126061409313845,
+      "semantic_score": 0.732294487044835,
+      "bm25_score": 0,
+      "citation_key": "FBI-DangerousAliens_1951-1955_p231"
+    },
+    {
+      "index": 39,
+      "doc_id": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u",
+      "title": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "'~ I\n\n1-U\\ -\n' '\n\n\nb3 per FBI\nb7E per FBI\n\nm I.. X. c,,._\n_,...,..,,...: r. r\n\"\"-.:::_\n\u2022 33 _,\n\n\n'Sbl\nI b3\n\nper CIA\nper CIA\n\n\n\n\n\n\n(\" j..\n\nbl per CIA\n(Sb3 per CIA\n\ne---\n\n\n\n\n\n\nWithin the United States a...",
+      "text_length": 333,
+      "relevance_score": 0.5001611070650577,
+      "semantic_score": 0.4239512292412174,
+      "bm25_score": 0.6779841553206849,
+      "citation_key": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u_chunk39"
+    },
+    {
+      "index": 40,
+      "doc_id": "PerryHistSatRecon-IIIA_New-Jan1974",
+      "title": "PerryHistSatRecon-IIIA_New-Jan1974.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 119,
+      "text_preview": "e\n\nportion of. iu We.\n\nAnother factor of. ome con. iderable importance in the perceived\n\u2022 \u2022 fundamental difference\n\nof viewpoint between the CIA and the photo-intelligence community. on\n\nthe one b. iu...",
+      "text_length": 502,
+      "relevance_score": 0.4868953897444717,
+      "semantic_score": 0.5272487161206524,
+      "bm25_score": 0.39273762820005015,
+      "citation_key": "PerryHistSatRecon-IIIA_New-Jan1974_p119"
+    },
+    {
+      "index": 41,
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 619,
+      "text_preview": "cial\nOfficer of the District of Columbia.\n\n\uf0b7 H. R. 3487, a bill to amend the Federal Election Campaign Act to extend through\n2018 the authority of the Federal Election Commission to impose civil money...",
+      "text_length": 369,
+      "relevance_score": 0.4835341043488278,
+      "semantic_score": 0.6907630062126112,
+      "bm25_score": 0,
+      "citation_key": "DOJ-OLAwklyRptsAG_2009-2013_p619"
+    },
+    {
+      "index": 42,
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 4438,
+      "text_preview": "senberg, Center for Responsive Govemment, discuss how\nelections are organized in the U. S., whether there are special\ncommittees in charge of organizing elections and who runs them,\nwhether these comm...",
+      "text_length": 462,
+      "relevance_score": 0.47999460357727175,
+      "semantic_score": 0.49137676137268765,
+      "bm25_score": 0.45343623538796785,
+      "citation_key": "VOA-Legacy-Assets_2011_p4438"
+    },
+    {
+      "index": 43,
+      "doc_id": "NARA-CIA-MOU_2008",
+      "title": "NARA-CIA-MOU_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 5,
+      "text_preview": "nformation, such information is properly declassified after:\n\n(a) CIA review (regardless of whether the information\nis found in CIA records or the records of other agencies or\norganizations, or whethe...",
+      "text_length": 439,
+      "relevance_score": 0.4637508175063533,
+      "semantic_score": 0.47453916041411215,
+      "bm25_score": 0.4385780173882493,
+      "citation_key": "NARA-CIA-MOU_2008_p5"
+    },
+    {
+      "index": 44,
+      "doc_id": "DIA_FileId_238856",
+      "title": "DIA_FileId_238856.pdf",
+      "source": "DIA Reading Room",
+      "page_no": null,
+      "text_preview": ")i: ny in Full: _~=\n\u2022 \\I- 2.12. I\n\u2022 r 'S vSC.\n\n\n'. PIOPQRIII\n\nSECR! I\n\nDECLASSIFIED IN FULL\nAuthority: EO 13526\nDIA FOIA& Declassification Services Offices\nDate: Oct 18, 2018\n\nSECRET\n\nDECLASSIFIED IN ...",
+      "text_length": 480,
+      "relevance_score": 0.4631446139310601,
+      "semantic_score": 0.6616351627586573,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238856_chunk44"
+    },
+    {
+      "index": 45,
+      "doc_id": "CIA-RptPubRelInfoPgms_1992",
+      "title": "CIA-RptPubRelInfoPgms_1992.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 34,
+      "text_preview": "visible and understandable\nto the American public. This policy stems from my fundamental\nbelief that CIA should be accountable to the American people,\nboth directly and through Congress, as an organiz...",
+      "text_length": 357,
+      "relevance_score": 0.45416695996351375,
+      "semantic_score": 0.6400684105681744,
+      "bm25_score": 0.020396908552639037,
+      "citation_key": "CIA-RptPubRelInfoPgms_1992_p34"
+    },
+    {
+      "index": 46,
+      "doc_id": "NSAcaptPuebloSIGINT1992U2024",
+      "title": "NSAcaptPuebloSIGINT1992U2024.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 128,
+      "text_preview": "pprehension throughout the intelligence community.\nNSA, however, was especially sensitive to overreactions to the situation. On 2 February,\nin one of its\n\nSituation Reports, CIA made this statement:\n\n...",
+      "text_length": 457,
+      "relevance_score": 0.45295335570980005,
+      "semantic_score": 0.5260999480172471,
+      "bm25_score": 0.28227797365909013,
+      "citation_key": "NSAcaptPuebloSIGINT1992U2024_p128"
+    },
+    {
+      "index": 47,
+      "doc_id": "DIA_FileId_239088",
+      "title": "DIA_FileId_239088.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 1,
+      "text_preview": "BODY\n\n~~~TRY: (U) NICARA~~iN_lJ_L'ID, IEWEtA(IIE).\n\n(b)(3):10 USC 424,(b)(3):50\nUSC 403: c1 (i)\n\nSUBJ:~---~NICARAGUAN PRESS REACTION TO US\nHANDLING OF VENEZUELAN COUP/COUNTER-COUP PORTRAYS US\nINVOLVEM...",
+      "text_length": 491,
+      "relevance_score": 0.4452070813682515,
+      "semantic_score": 0.6360101162403593,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239088_p1"
+    },
+    {
+      "index": 48,
+      "doc_id": "ODNIoigCloseDocsOtherAgencies_2010-2020",
+      "title": "ODNIoigCloseDocsOtherAgencies_2010-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 47,
+      "text_preview": "ORMATION\n\n1. (U//: f888) AGENCY OFFICIAL: David H. Petraeus - Director, Central Intelligence\nAgency\n\nDissemination Is prohibfted except as authorized by section Sec. 103H of the National Security Act....",
+      "text_length": 462,
+      "relevance_score": 0.4321031286342234,
+      "semantic_score": 0.6172901837631763,
+      "bm25_score": 0,
+      "citation_key": "ODNIoigCloseDocsOtherAgencies_2010-2020_p47"
+    },
+    {
+      "index": 49,
+      "doc_id": "FBI-KayHalle_1949-1965",
+      "title": "FBI-KayHalle_1949-1965.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "'\n\u2022 4 -\n\n\n\u2022 I ' \u2022\n\nti-- '~'.~\n\n\ni,~' t,...\n\n\n(5). OBSERVATIONS:\n\nAlthough there are no speoifio allegations that the\nsubjeot is engaging in espionage aotivities there appears, in\nview O/ the a/ore-enu...",
+      "text_length": 503,
+      "relevance_score": 0.4306084704886129,
+      "semantic_score": 0.6151549578408756,
+      "bm25_score": 0,
+      "citation_key": "FBI-KayHalle_1949-1965_chunk49"
+    },
+    {
+      "index": 50,
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 245,
+      "text_preview": "prove covert action programs initiated by the\nCIA. 6 The membership of the Special Group varied depending upon the situation\nfaced. Meetings were infrequent until 1959 when weekly meetings began to be...",
+      "text_length": 506,
+      "relevance_score": 0.43038914606908674,
+      "semantic_score": 0.6148416372415525,
+      "bm25_score": 0,
+      "citation_key": "35StateDeptDocDeclass_1973-2009_p245"
+    },
+    {
+      "index": 51,
+      "doc_id": "FBI-FOIA-PA-Ref-Manual",
+      "title": "FBI-FOIA-PA-Ref-Manual.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 227,
+      "text_preview": "asky v. CIA, 499 F. Supp. 269, 275-76\n(S. D. N. Y. 1980) (rejecting as irrelevant requester's claim of illegality under\nsimilar provision in prior executive order so long as infonnation properly clas\n...",
+      "text_length": 489,
+      "relevance_score": 0.42897014020821694,
+      "semantic_score": 0.6128144860117385,
+      "bm25_score": 0,
+      "citation_key": "FBI-FOIA-PA-Ref-Manual_p227"
+    },
+    {
+      "index": 52,
+      "doc_id": "FBI-62-HQ-97308-PhoneSecurity_1952-1995",
+      "title": "FBI-62-HQ-97308-PhoneSecurity_1952-1995.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 860,
+      "text_preview": "stated\n1, \u00b7\u00b7\nthat in view of recent events; i. e., the break-in at the Democratic: National Headquarters and the earlier break-in at the office of Patricia\nHarris, Chairman of the Credentials Committe...",
+      "text_length": 481,
+      "relevance_score": 0.4276839357864382,
+      "semantic_score": 0.6109770511234832,
+      "bm25_score": 0,
+      "citation_key": "FBI-62-HQ-97308-PhoneSecurity_1952-1995_p860"
+    },
+    {
+      "index": 53,
+      "doc_id": "GAO_Cocaine_Heroin_S_America_1975",
+      "title": "GAO_Cocaine_Heroin_S_America_1975.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 37,
+      "text_preview": "als. This also applies to narcotics intel\nligence. At times, DEA has expressed concem be\ncause CIA does not assist in collecting intelligence\nin cases involving narcotics traffickers who are\nAmerican ...",
+      "text_length": 414,
+      "relevance_score": 0.4274035997434607,
+      "semantic_score": 0.484511589317529,
+      "bm25_score": 0.2941516240706346,
+      "citation_key": "GAO_Cocaine_Heroin_S_America_1975_p37"
+    },
+    {
+      "index": 54,
+      "doc_id": "FOIA_NRO_Ltrs-Resp_2003",
+      "title": "FOIA_NRO_Ltrs-Resp_2003.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 68,
+      "text_preview": "ns that would reveal the\nlnflltratlon of the U. S. govemment by foreign forces and spies, then they flntd the whlstleblower. Other\nntports In the media Indicate that the FBI Is not taking calls from c...",
+      "text_length": 357,
+      "relevance_score": 0.41675040405188657,
+      "semantic_score": 0.5953577200741237,
+      "bm25_score": 0,
+      "citation_key": "FOIA_NRO_Ltrs-Resp_2003_p68"
+    },
+    {
+      "index": 55,
+      "doc_id": "DIA_FileId_239208",
+      "title": "DIA_FileId_239208.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 1,
+      "text_preview": "USC 424,(b)(3):50 USC 3024(i)\n\nCOUNTRY: U PERU PE.\n\n(b)(3): 10 USC 424\n\n(b)(3): I ousc SU_B_J:_JJ8'---,,---'EX-SIE AGENT ZANATTA'S ACCUSATIONS\n424\n\u2022 ~O F HR ABUSES, TELEPHONE TAPS, ELECTION FRAUD, AND...",
+      "text_length": 493,
+      "relevance_score": 0.4164237636419249,
+      "semantic_score": 0.5948910909170356,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239208_p1"
+    },
+    {
+      "index": 56,
+      "doc_id": "OCSformalHatchActAOWL_Jan-Jun2021",
+      "title": "OCSformalHatchActAOWL_Jan-Jun2021.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 25,
+      "text_preview": "we are declining to pursue disciplinary\n\nelection. OSC reviewed this matter, and as explained below,\n\n(b)(6);\n\nAs an employee of the Central Intelligence Agency (CIA), you are subject to the Hatch\nAct...",
+      "text_length": 285,
+      "relevance_score": 0.41477401789539786,
+      "semantic_score": 0.5925343112791398,
+      "bm25_score": 0,
+      "citation_key": "OCSformalHatchActAOWL_Jan-Jun2021_p25"
+    },
+    {
+      "index": 57,
+      "doc_id": "DOJ-OIP-INSLAW_1993",
+      "title": "DOJ-OIP-INSLAW_1993.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 351,
+      "text_preview": ". S. covert intelligence operations that the U. S.\nCongress has declined to finance, such as the mid-1980's\ncovert assistance to the Contras in Nicaragua; and (3) an\ninitiative to penetrate the secret...",
+      "text_length": 512,
+      "relevance_score": 0.41439178023570805,
+      "semantic_score": 0.591988257479583,
+      "bm25_score": 0,
+      "citation_key": "DOJ-OIP-INSLAW_1993_p351"
+    },
+    {
+      "index": 58,
+      "doc_id": "CIA-IG_Report-to-DCI_1999",
+      "title": "CIA-IG_Report-to-DCI_1999.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "telli ence, and related\n\n~~---'--~~---.\n\u2022 $CPF. I.\n\nMORI DocID: 1409332\n\n~CRET\n\nDCIDs for the disclosure of US intelligence to officials of\nforeign govemments and intemational organizations are\nunifor...",
+      "text_length": 467,
+      "relevance_score": 0.4116748336473785,
+      "semantic_score": 0.5881069052105408,
+      "bm25_score": 0,
+      "citation_key": "CIA-IG_Report-to-DCI_1999_chunk58"
+    },
+    {
+      "index": 59,
+      "doc_id": "StateDeptRedBookINR_2008",
+      "title": "StateDeptRedBookINR_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 5,
+      "text_preview": "continue to be referred to CIA for the time\nbeing.\n\n(U) The longstanding President's Intelligence Advisory Board (PIAB, ex-PFIAB) and\nthe Intelligence Oversight Board (IOB), a committee of the PIAB), ...",
+      "text_length": 491,
+      "relevance_score": 0.4113444013307608,
+      "semantic_score": 0.587634859043944,
+      "bm25_score": 0,
+      "citation_key": "StateDeptRedBookINR_2008_p5"
+    },
+    {
+      "index": 60,
+      "doc_id": "FBIfile80-HQ-760UltrasonicListenDev_1945-1969",
+      "title": "FBIfile80-HQ-760UltrasonicListenDev_1945-1969.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 194,
+      "text_preview": "ian, Jliohigan; and was\n\nsince 1934 of on\n\nJee\nso. ctal\nsuqj(#ot\n\nof a Lpyalty of Gouemmen t Emp oyees inves iga ion, empl'ayed\nby the, National Bureau of Standards who was registe-ned with\nt_he Bor;:...",
+      "text_length": 463,
+      "relevance_score": 0.4055767215287785,
+      "semantic_score": 0.5793953164696836,
+      "bm25_score": 0,
+      "citation_key": "FBIfile80-HQ-760UltrasonicListenDev_1945-1969_p194"
+    },
+    {
+      "index": 61,
+      "doc_id": "FECtransBriefBiden_2020",
+      "title": "FECtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 166,
+      "text_preview": "h a specific focus on the U. S. electoral process.117 FBI officials stated\nthat the Foreign Influence Task Force is aware of federal campaign finance laws and, as\nappropriate, disseminates information...",
+      "text_length": 339,
+      "relevance_score": 0.401134726089919,
+      "semantic_score": 0.5730496086998843,
+      "bm25_score": 0,
+      "citation_key": "FECtransBriefBiden_2020_p166"
+    },
+    {
+      "index": 62,
+      "doc_id": "19-OGE-EthicsReviews_2005-2009",
+      "title": "19-OGE-EthicsReviews_2005-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 179,
+      "text_preview": "granted under the authority of 5 C. F. R.\n\u00a7 2635.502(d) are not always specific as to the particular\nmatter involved and the nature of the authorized participation.\nTherefore, the report suggests that...",
+      "text_length": 506,
+      "relevance_score": 0.4010999458411318,
+      "semantic_score": 0.5729999226301883,
+      "bm25_score": 0,
+      "citation_key": "19-OGE-EthicsReviews_2005-2009_p179"
+    },
+    {
+      "index": 63,
+      "doc_id": "CIAoigInvestsClosed2018-2019",
+      "title": "CIAoigInvestsClosed2018-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 2,
+      "text_preview": "ect your right to pursue an administrative appeal.\n\nTo contact CIA directly with questions or to To contact the Office of Govemment\nappeal the CIA ' s response to the Agency\nRelease Panel:\nInformation...",
+      "text_length": 511,
+      "relevance_score": 0.40107673467104876,
+      "semantic_score": 0.3802306918877481,
+      "bm25_score": 0.44971750116541703,
+      "citation_key": "CIAoigInvestsClosed2018-2019_p2"
+    }
+  ],
+  "context_length": 34626,
+  "style": "comprehensive",
+  "length_mode": "long",
+  "quality_iterations": 3,
+  "final_quality": {
+    "citation_density": 0.5574614065180103,
+    "avg_relevance": 0.4583333333333333,
+    "total_citations": 13,
+    "valid_citations": 12,
+    "invalid_citations": 1,
+    "passes_standards": false
+  },
+  "validation_cache": {
+    "total_citations": 13,
+    "valid": 12,
+    "invalid": 1,
+    "citation_density": 0.5574614065180103,
+    "total_words": 2332,
+    "avg_relevance_score": 0.4583333333333333,
+    "issues": [
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIAoIGInvestsClosed2018-2019#page=2\" class=\"citation\" target=\"_blank\">(Doc #CIAoIGInvestsClosed2018-2019, p.2)</a>",
+          "document_id": "CIAoIGInvestsClosed2018-2019",
+          "page_no": 2
+        },
+        "issue": "Document not found in DB",
+        "context": "and ensure accountability for covert actions with potential electoral implications. <a href=\"/pdf/19-OGE-EthicsReviews2005-2009page=179\" class=\"citation\" target=\"blank\">(Doc 2005-2009, p.179)</a> <a href=\"/pdf/CIAoIGInvestsClosed2018-2019page=2\" class=\"citation\" target=\"blank\">(Doc CIAoIGInvestsClosed2018-2019, p.2)</a>\n\n Case studies: documented episodes and patterns\n\nThe FOIA corpus includes explicit or strongly implied references to election-related influence, ranging from overt coups framed in ideological term",
+        "relevance_score": null,
+        "verdict": null
+      }
+    ],
+    "warnings": [
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ODNIcovertOps1800s2007#page=14\" class=\"citation\" target=\"_blank\">(Doc #ODNIcovertOps1800s2007, p.14)</a>",
+          "document_id": "ODNIcovertOps1800s2007",
+          "page_no": 14
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited ODNI page discusses covert operations, coups, and other political meddling, but it does not mention election-related influence or financing. Therefore, it does not directly support the specific claim as written.",
+        "context": "nance surrounding election-related influence abroad, drawing on a broad corpus of declassified materials. Citations point to the exact source keys that appear in the declassified document collection. <a href=\"/pdf/ODNIcovertOps1800s2007page=14\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.14)</a> <a href=\"/pdf/CIA-RptPubRelInfoPgms1992page=34\" class=\"citation\" target=\"blank\">(Doc 1992, p.34)</a>\n\nKey documents identify several recurring motifs. First, covert action programs have been desc",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIA-RptPubRelInfoPgms_1992#page=34\" class=\"citation\" target=\"_blank\">(Doc #1992, p.34)</a>",
+          "document_id": "CIA-RptPubRelInfoPgms_1992",
+          "page_no": 34
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited CIA document page 34 discusses CIA openness, FOIA, and related accountability, but contains no mention of covert action programs or their use during election seasons; thus it does not substantiate the claim on this page.",
+        "context": "nt to the exact source keys that appear in the declassified document collection. <a href=\"/pdf/ODNIcovertOps1800s2007page=14\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.14)</a> <a href=\"/pdf/CIA-RptPubRelInfoPgms1992page=34\" class=\"citation\" target=\"blank\">(Doc 1992, p.34)</a>\n\nKey documents identify several recurring motifs. First, covert action programs have been described as tools invoked during election seasons to shape political trajectories in other countries, includ",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/35StateDeptDocDeclass_1973-2009#page=245\" class=\"citation\" target=\"_blank\">(Doc #1973-2009, p.245)</a>",
+          "document_id": "35StateDeptDocDeclass_1973-2009",
+          "page_no": 245
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The cited page documents mid-20th-century planning for covert actions and the establishment/role of the Special Group and evolving governance mechanisms (NSC directives, OCB). However, it does not discuss public disclosures or related debates about legality, ethics, and accountability, so that portion of the claim is not supported by this page.",
+        "context": "the mid\u201120th century and related planning efforts by intelligence organizations. <a href=\"/pdf/ODNIcovertOps1800s2007page=14\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.14)</a> <a href=\"/pdf/35StateDeptDocDeclass1973-2009page=245\" class=\"citation\" target=\"blank\">(Doc 1973-2009, p.245)</a> Second, public disclosures of such activities have fueled debates about legality, ethics, and accountability, including the role of the Special Group and evolving governance frameworks for covert ope",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ODNIgamesTheyPlayThesis2008#page=76\" class=\"citation\" target=\"_blank\">(Doc #ODNIgamesTheyPlayThesis2008, p.76)</a>",
+          "document_id": "ODNIgamesTheyPlayThesis2008",
+          "page_no": 76
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The ODNI page discusses disinformation campaigns and propaganda as a means to influence public/government opinion in historical contexts, which supports parts of the claim about disinformation and media manipulation. However, it does not explicitly mention electoral outcomes or strategic messaging in relation to elections, so the claim\u2019s full scope (including electoral outcomes) is not fully substantiated by this page.",
+        "context": ", p.34)</a> Third, documentation discusses disinformation, media manipulation, and strategic messaging as mechanisms to influence public opinion and electoral outcomes in various historical contexts. <a href=\"/pdf/ODNIgamesTheyPlayThesis2008page=76\" class=\"citation\" target=\"blank\">(Doc ODNIgamesTheyPlayThesis2008, p.76)</a> <a href=\"/pdf/CIA-comments1994-2005upage=60\" class=\"citation\" target=\"blank\">(Doc 1994-2005u, p.60)</a> Finally, contemporary materials examine how current U.S. election-security concerns interse",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIA-comments_1994-2005u#page=60\" class=\"citation\" target=\"_blank\">(Doc #1994-2005u, p.60)</a>",
+          "document_id": "CIA-comments_1994-2005u",
+          "page_no": 60
+        },
+        "issue": "LLM validation: PARTIAL (HIGH): The CIA-comments page includes explicit historical examples of electoral interference (e.g., Italy 1948) and propaganda/media manipulation (Operation MOCKINGBIRD), which support the claim about public opinion and electoral outcomes in historical contexts. However, it does not address contemporary materials or current election-security concerns and the response of civil institutions, so it does not fully support the entire claim.",
+        "context": "public opinion and electoral outcomes in various historical contexts. <a href=\"/pdf/ODNIgamesTheyPlayThesis2008page=76\" class=\"citation\" target=\"blank\">(Doc ODNIgamesTheyPlayThesis2008, p.76)</a> <a href=\"/pdf/CIA-comments1994-2005upage=60\" class=\"citation\" target=\"blank\">(Doc 1994-2005u, p.60)</a> Finally, contemporary materials examine how current U.S. election-security concerns intersect with legacy practices and how the intelligence community and civil institutions respond to information-en",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ODNIqfr_2017-2020#page=16\" class=\"citation\" target=\"_blank\">(Doc #2017-2020, p.16)</a>",
+          "document_id": "ODNIqfr_2017-2020",
+          "page_no": 16
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The ODNI 2017-2020 page 16 content supports the part of the claim stating that the IC and civil institutions respond to information-environment threats by identifying threats and working with DHS/FBI/CISA to develop best practices and tools to enhance election security. It does not address the \u201clegacy practices\u201d intersection, so the page does not fully support the entire claim.",
+        "context": "ary materials examine how current U.S. election-security concerns intersect with legacy practices and how the intelligence community and civil institutions respond to information-environment threats. <a href=\"/pdf/ODNIqfr2017-2020page=16\" class=\"citation\" target=\"blank\">(Doc 2017-2020, p.16)</a> <a href=\"/pdf/USAIDtransBriefBiden2020page=40\" class=\"citation\" target=\"blank\">(Doc 2020, p.40)</a> <a href=\"/pdf/EACrespQFRs2017-2020page=213\" class=\"citation\" target=\"blank\">(Doc 2017-2020,",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/USAIDtransBriefBiden_2020#page=40\" class=\"citation\" target=\"_blank\">(Doc #2020, p.40)</a>",
+          "document_id": "USAIDtransBriefBiden_2020",
+          "page_no": 40
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The cited USAID page describes civil-institution responses (USAID\u2019s response) to information-environment threats, but it does not mention or address the intelligence community, so it does not fully support the claim that covers both IC and civil institutions.",
+        "context": "how the intelligence community and civil institutions respond to information-environment threats. <a href=\"/pdf/ODNIqfr2017-2020page=16\" class=\"citation\" target=\"blank\">(Doc 2017-2020, p.16)</a> <a href=\"/pdf/USAIDtransBriefBiden2020page=40\" class=\"citation\" target=\"blank\">(Doc 2020, p.40)</a> <a href=\"/pdf/EACrespQFRs2017-2020page=213\" class=\"citation\" target=\"blank\">(Doc 2017-2020, p.213)</a>\n\n Historical patterns: framework, methods, and oversight\n\n Covert action framework and",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/EACrespQFRs_2017-2020#page=213\" class=\"citation\" target=\"_blank\">(Doc #2017-2020, p.213)</a>",
+          "document_id": "EACrespQFRs_2017-2020",
+          "page_no": 213
+        },
+        "issue": "LLM validation: UNSUPPORTED (HIGH): The cited page (EACrespQFRs_2017-2020, p.213) is a 2019 letter about election cybersecurity and outdated software risks, not about a Cold War covert action framework or governance of electoral interventions, so it does not substantiate the claim.",
+        "context": "ef=\"/pdf/ODNIqfr2017-2020page=16\" class=\"citation\" target=\"blank\">(Doc 2017-2020, p.16)</a> <a href=\"/pdf/USAIDtransBriefBiden2020page=40\" class=\"citation\" target=\"blank\">(Doc 2020, p.40)</a> <a href=\"/pdf/EACrespQFRs2017-2020page=213\" class=\"citation\" target=\"blank\">(Doc 2017-2020, p.213)</a>\n\n Historical patterns: framework, methods, and oversight\n\n Covert action framework and the governance of electoral interventions\n\nDuring the Cold War, a covert action framework existed that coul",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/19-OGE-EthicsReviews_2005-2009#page=179\" class=\"citation\" target=\"_blank\">(Doc #2005-2009, p.179)</a>",
+          "document_id": "19-OGE-EthicsReviews_2005-2009",
+          "page_no": 179
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The page shows emphasis on strengthening ethics programs, external review (OGE), and internal controls to deter abuses and ensure accountability, which aligns with part of the claim. However, it does not explicitly discuss covert actions or information-sharing activities or their electoral implications, so it only partially supports the claim.",
+        "context": "ns and accountability mechanisms surrounding covert action and information-sharing activities. <a href=\"/pdf/CIA-RptPubRelInfoPgms1992page=34\" class=\"citation\" target=\"blank\">(Doc 1992, p.34)</a> <a href=\"/pdf/19-OGE-EthicsReviews2005-2009page=179\" class=\"citation\" target=\"blank\">(Doc 2005-2009, p.179)</a> There is emphasis across sources on strengthening ethics programs, external reviews, and internal controls to deter abuses and ensure accountability for covert actions with potential electoral implic",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ODNIfoiaLogs_2017-2020#page=50\" class=\"citation\" target=\"_blank\">(Doc #2017-2020, p.50)</a>",
+          "document_id": "ODNIfoiaLogs_2017-2020",
+          "page_no": 50
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The cited page references the Intelligence Community\u2019s public-facing report on foreign interference in the 2018 elections, which supports the idea of ongoing attention to election integrity. However, it does not substantiate the claim about clarifying agency roles and responsibilities, nor explicitly discuss legacy influence methods versus modern resilience strategies.",
+        "context": "larify agency roles and responsibilities in election integrity. Public-facing reports and formal responses reflect continued attention to legacy methods of influence and modern resilience strategies. <a href=\"/pdf/ODNIfoiaLogs2017-2020page=50\" class=\"citation\" target=\"blank\">(Doc 2017-2020, p.50)</a> <a href=\"/pdf/ODNIqfr2017-2020page=16\" class=\"citation\" target=\"blank\">(Doc 2017-2020, p.16)</a> <a href=\"/pdf/USAIDtransBriefBiden2020page=40\" class=\"citation\" target=\"blank\">(Doc 2020, p.40",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "N/A",
+          "document_id": "",
+          "page_no": 0
+        },
+        "issue": "Low citation density (0.56 per 100 words). Aim for at least 2.0 citations per 100 words (1 per 50 words).",
+        "context": "Document has 13 citations in 2332 words",
+        "relevance_score": null,
+        "verdict": null
+      }
+    ],
+    "validated_citations": [
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ODNIcovertOps1800s2007#page=14\" class=\"citation\" target=\"_blank\">(Doc #ODNIcovertOps1800s2007, p.14)</a>",
+          "document_id": "ODNIcovertOps1800s2007",
+          "page_no": 14
+        },
+        "context": "nance surrounding election-related influence abroad, drawing on a broad corpus of declassified materials. Citations point to the exact source keys that appear in the declassified document collection. <a href=\"/pdf/ODNIcovertOps1800s2007page=14\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.14)</a> <a href=\"/pdf/CIA-RptPubRelInfoPgms1992page=34\" class=\"citation\" target=\"blank\">(Doc 1992, p.34)</a>\n\nKey documents identify several recurring motifs. First, covert action programs have been desc",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited ODNI page discusses covert operations, coups, and other political meddling, but it does not mention election-related influence or financing. Therefore, it does not directly support the specific claim as written."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIA-RptPubRelInfoPgms_1992#page=34\" class=\"citation\" target=\"_blank\">(Doc #1992, p.34)</a>",
+          "document_id": "CIA-RptPubRelInfoPgms_1992",
+          "page_no": 34
+        },
+        "context": "nt to the exact source keys that appear in the declassified document collection. <a href=\"/pdf/ODNIcovertOps1800s2007page=14\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.14)</a> <a href=\"/pdf/CIA-RptPubRelInfoPgms1992page=34\" class=\"citation\" target=\"blank\">(Doc 1992, p.34)</a>\n\nKey documents identify several recurring motifs. First, covert action programs have been described as tools invoked during election seasons to shape political trajectories in other countries, includ",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited CIA document page 34 discusses CIA openness, FOIA, and related accountability, but contains no mention of covert action programs or their use during election seasons; thus it does not substantiate the claim on this page."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/35StateDeptDocDeclass_1973-2009#page=245\" class=\"citation\" target=\"_blank\">(Doc #1973-2009, p.245)</a>",
+          "document_id": "35StateDeptDocDeclass_1973-2009",
+          "page_no": 245
+        },
+        "context": "the mid\u201120th century and related planning efforts by intelligence organizations. <a href=\"/pdf/ODNIcovertOps1800s2007page=14\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.14)</a> <a href=\"/pdf/35StateDeptDocDeclass1973-2009page=245\" class=\"citation\" target=\"blank\">(Doc 1973-2009, p.245)</a> Second, public disclosures of such activities have fueled debates about legality, ethics, and accountability, including the role of the Special Group and evolving governance frameworks for covert ope",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The cited page documents mid-20th-century planning for covert actions and the establishment/role of the Special Group and evolving governance mechanisms (NSC directives, OCB). However, it does not discuss public disclosures or related debates about legality, ethics, and accountability, so that portion of the claim is not supported by this page."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ODNIgamesTheyPlayThesis2008#page=76\" class=\"citation\" target=\"_blank\">(Doc #ODNIgamesTheyPlayThesis2008, p.76)</a>",
+          "document_id": "ODNIgamesTheyPlayThesis2008",
+          "page_no": 76
+        },
+        "context": ", p.34)</a> Third, documentation discusses disinformation, media manipulation, and strategic messaging as mechanisms to influence public opinion and electoral outcomes in various historical contexts. <a href=\"/pdf/ODNIgamesTheyPlayThesis2008page=76\" class=\"citation\" target=\"blank\">(Doc ODNIgamesTheyPlayThesis2008, p.76)</a> <a href=\"/pdf/CIA-comments1994-2005upage=60\" class=\"citation\" target=\"blank\">(Doc 1994-2005u, p.60)</a> Finally, contemporary materials examine how current U.S. election-security concerns interse",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The ODNI page discusses disinformation campaigns and propaganda as a means to influence public/government opinion in historical contexts, which supports parts of the claim about disinformation and media manipulation. However, it does not explicitly mention electoral outcomes or strategic messaging in relation to elections, so the claim\u2019s full scope (including electoral outcomes) is not fully substantiated by this page."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIA-comments_1994-2005u#page=60\" class=\"citation\" target=\"_blank\">(Doc #1994-2005u, p.60)</a>",
+          "document_id": "CIA-comments_1994-2005u",
+          "page_no": 60
+        },
+        "context": "public opinion and electoral outcomes in various historical contexts. <a href=\"/pdf/ODNIgamesTheyPlayThesis2008page=76\" class=\"citation\" target=\"blank\">(Doc ODNIgamesTheyPlayThesis2008, p.76)</a> <a href=\"/pdf/CIA-comments1994-2005upage=60\" class=\"citation\" target=\"blank\">(Doc 1994-2005u, p.60)</a> Finally, contemporary materials examine how current U.S. election-security concerns intersect with legacy practices and how the intelligence community and civil institutions respond to information-en",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "HIGH",
+        "explanation": "PARTIAL (HIGH): The CIA-comments page includes explicit historical examples of electoral interference (e.g., Italy 1948) and propaganda/media manipulation (Operation MOCKINGBIRD), which support the claim about public opinion and electoral outcomes in historical contexts. However, it does not address contemporary materials or current election-security concerns and the response of civil institutions, so it does not fully support the entire claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ODNIqfr_2017-2020#page=16\" class=\"citation\" target=\"_blank\">(Doc #2017-2020, p.16)</a>",
+          "document_id": "ODNIqfr_2017-2020",
+          "page_no": 16
+        },
+        "context": "ary materials examine how current U.S. election-security concerns intersect with legacy practices and how the intelligence community and civil institutions respond to information-environment threats. <a href=\"/pdf/ODNIqfr2017-2020page=16\" class=\"citation\" target=\"blank\">(Doc 2017-2020, p.16)</a> <a href=\"/pdf/USAIDtransBriefBiden2020page=40\" class=\"citation\" target=\"blank\">(Doc 2020, p.40)</a> <a href=\"/pdf/EACrespQFRs2017-2020page=213\" class=\"citation\" target=\"blank\">(Doc 2017-2020,",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The ODNI 2017-2020 page 16 content supports the part of the claim stating that the IC and civil institutions respond to information-environment threats by identifying threats and working with DHS/FBI/CISA to develop best practices and tools to enhance election security. It does not address the \u201clegacy practices\u201d intersection, so the page does not fully support the entire claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/USAIDtransBriefBiden_2020#page=40\" class=\"citation\" target=\"_blank\">(Doc #2020, p.40)</a>",
+          "document_id": "USAIDtransBriefBiden_2020",
+          "page_no": 40
+        },
+        "context": "how the intelligence community and civil institutions respond to information-environment threats. <a href=\"/pdf/ODNIqfr2017-2020page=16\" class=\"citation\" target=\"blank\">(Doc 2017-2020, p.16)</a> <a href=\"/pdf/USAIDtransBriefBiden2020page=40\" class=\"citation\" target=\"blank\">(Doc 2020, p.40)</a> <a href=\"/pdf/EACrespQFRs2017-2020page=213\" class=\"citation\" target=\"blank\">(Doc 2017-2020, p.213)</a>\n\n Historical patterns: framework, methods, and oversight\n\n Covert action framework and",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The cited USAID page describes civil-institution responses (USAID\u2019s response) to information-environment threats, but it does not mention or address the intelligence community, so it does not fully support the claim that covers both IC and civil institutions."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/EACrespQFRs_2017-2020#page=213\" class=\"citation\" target=\"_blank\">(Doc #2017-2020, p.213)</a>",
+          "document_id": "EACrespQFRs_2017-2020",
+          "page_no": 213
+        },
+        "context": "ef=\"/pdf/ODNIqfr2017-2020page=16\" class=\"citation\" target=\"blank\">(Doc 2017-2020, p.16)</a> <a href=\"/pdf/USAIDtransBriefBiden2020page=40\" class=\"citation\" target=\"blank\">(Doc 2020, p.40)</a> <a href=\"/pdf/EACrespQFRs2017-2020page=213\" class=\"citation\" target=\"blank\">(Doc 2017-2020, p.213)</a>\n\n Historical patterns: framework, methods, and oversight\n\n Covert action framework and the governance of electoral interventions\n\nDuring the Cold War, a covert action framework existed that coul",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "UNSUPPORTED (HIGH): The cited page (EACrespQFRs_2017-2020, p.213) is a 2019 letter about election cybersecurity and outdated software risks, not about a Cold War covert action framework or governance of electoral interventions, so it does not substantiate the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/19-OGE-EthicsReviews_2005-2009#page=179\" class=\"citation\" target=\"_blank\">(Doc #2005-2009, p.179)</a>",
+          "document_id": "19-OGE-EthicsReviews_2005-2009",
+          "page_no": 179
+        },
+        "context": "ns and accountability mechanisms surrounding covert action and information-sharing activities. <a href=\"/pdf/CIA-RptPubRelInfoPgms1992page=34\" class=\"citation\" target=\"blank\">(Doc 1992, p.34)</a> <a href=\"/pdf/19-OGE-EthicsReviews2005-2009page=179\" class=\"citation\" target=\"blank\">(Doc 2005-2009, p.179)</a> There is emphasis across sources on strengthening ethics programs, external reviews, and internal controls to deter abuses and ensure accountability for covert actions with potential electoral implic",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The page shows emphasis on strengthening ethics programs, external review (OGE), and internal controls to deter abuses and ensure accountability, which aligns with part of the claim. However, it does not explicitly discuss covert actions or information-sharing activities or their electoral implications, so it only partially supports the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIAoIGInvestsClosed2018-2019#page=2\" class=\"citation\" target=\"_blank\">(Doc #CIAoIGInvestsClosed2018-2019, p.2)</a>",
+          "document_id": "CIAoIGInvestsClosed2018-2019",
+          "page_no": 2
+        },
+        "context": "and ensure accountability for covert actions with potential electoral implications. <a href=\"/pdf/19-OGE-EthicsReviews2005-2009page=179\" class=\"citation\" target=\"blank\">(Doc 2005-2009, p.179)</a> <a href=\"/pdf/CIAoIGInvestsClosed2018-2019page=2\" class=\"citation\" target=\"blank\">(Doc CIAoIGInvestsClosed2018-2019, p.2)</a>\n\n Case studies: documented episodes and patterns\n\nThe FOIA corpus includes explicit or strongly implied references to election-related influence, ranging from overt coups framed in ideological term",
+        "relevance_score": null,
+        "verdict": null,
+        "confidence": null,
+        "explanation": null
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239208#page=1\" class=\"citation\" target=\"_blank\">(Doc #239208, p.1)</a>",
+          "document_id": "DIA_FileId_239208",
+          "page_no": 1
+        },
+        "context": ".S. audiences. The document highlights concerns about how information, surveillance, and coercive tactics featured in attempts to influence Peruvian electoral outcomes and political power structures. <a href=\"/pdf/DIAFileId239208page=1\" class=\"citation\" target=\"blank\">(Doc 239208, p.1)</a>\n\n- The Peru case demonstrates cross-cutting themes of coercive tactics around electoral processes and the attention such activities attract when disclosed in declassified records. <a href=\"/pdf/DIAF",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The cited page explicitly references allegations of phone taps, abuses, and election fraud tied to Peruvian security services and groups, illustrating coercive and surveillance tactics around elections and indicating these topics appear in declassified records."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238737#page=5\" class=\"citation\" target=\"_blank\">(Doc #238737, p.5)</a>",
+          "document_id": "DIA_FileId_238737",
+          "page_no": 5
+        },
+        "context": "ians and human rights issues, illustrating how regional political pressures and messaging can intersect with electoral politics and foreign-influence narratives within a broader security environment. <a href=\"/pdf/DIAFileId238737page=5\" class=\"citation\" target=\"blank\">(Doc 238737, p.5)</a>\n\n- While not a self-contained \u201celection meddling\u201d episode in the same sense as Guatemala or Italy, this material shows how regional messaging and human-rights framing can become entangled with electo",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The page describes Balza\u2019s speech influencing Argentina\u2019s electoral dynamics, with emphasis on human-rights framing and regional political messaging affecting candidates and political contest, which supports the claim about the intersection of human rights, regional pressures, and electoral politics."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ODNIfoiaLogs_2017-2020#page=50\" class=\"citation\" target=\"_blank\">(Doc #2017-2020, p.50)</a>",
+          "document_id": "ODNIfoiaLogs_2017-2020",
+          "page_no": 50
+        },
+        "context": "larify agency roles and responsibilities in election integrity. Public-facing reports and formal responses reflect continued attention to legacy methods of influence and modern resilience strategies. <a href=\"/pdf/ODNIfoiaLogs2017-2020page=50\" class=\"citation\" target=\"blank\">(Doc 2017-2020, p.50)</a> <a href=\"/pdf/ODNIqfr2017-2020page=16\" class=\"citation\" target=\"blank\">(Doc 2017-2020, p.16)</a> <a href=\"/pdf/USAIDtransBriefBiden2020page=40\" class=\"citation\" target=\"blank\">(Doc 2020, p.40",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The cited page references the Intelligence Community\u2019s public-facing report on foreign interference in the 2018 elections, which supports the idea of ongoing attention to election integrity. However, it does not substantiate the claim about clarifying agency roles and responsibilities, nor explicitly discuss legacy influence methods versus modern resilience strategies."
+      }
+    ]
+  }
+}

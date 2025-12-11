@@ -1,0 +1,1410 @@
+{
+  "topic": "Eval_Space Race Espionage_40",
+  "generated_at": "2025-11-26T15:12:54.075867",
+  "model": "gpt-5-nano",
+  "num_sources": 40,
+  "source_documents": [
+    {
+      "doc_id": "1stPgClassGAOrptsPre1972",
+      "title": "1stPgClassGAOrptsPre1972.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "Two_Repts_USAF_Guided_Missile_Tests_1953",
+      "title": "Two_Repts_USAF_Guided_Missile_Tests_1953.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "NSAohList_1971-2010",
+      "title": "NSAohList_1971-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "FBI-KayHalle_1949-1965",
+      "title": "FBI-KayHalle_1949-1965.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "FOIAreqsJeffreyScudder_CY2012",
+      "title": "FOIAreqsJeffreyScudder_CY2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "FOIA_NRO_Ltrs-Resp_2003",
+      "title": "FOIA_NRO_Ltrs-Resp_2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.687165299239881
+    },
+    {
+      "doc_id": "DIA_3_oldest_classified_2008",
+      "title": "DIA_3_oldest_classified_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6833858250477742
+    },
+    {
+      "doc_id": "1stPgClassGAOrptsPre1972",
+      "title": "1stPgClassGAOrptsPre1972.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6762704504435658
+    },
+    {
+      "doc_id": "FOIA_NRO_Ltrs-Resp_2003",
+      "title": "FOIA_NRO_Ltrs-Resp_2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6691699028316068
+    },
+    {
+      "doc_id": "FSTC-381-2016_1965",
+      "title": "FSTC-381-2016_1965.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6516581022290473
+    },
+    {
+      "doc_id": "KHRUVIS_1957-1959",
+      "title": "KHRUVIS_1957-1959.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5861756939086495
+    },
+    {
+      "doc_id": "19DCAApublications_1996-2013",
+      "title": "19DCAApublications_1996-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5673370538774647
+    },
+    {
+      "doc_id": "2ArmyCounterintelDocs_1962-1963",
+      "title": "2ArmyCounterintelDocs_1962-1963.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5644367825909102
+    },
+    {
+      "doc_id": "FBIfile80-HQ-760UltrasonicListenDev_1945-1969",
+      "title": "FBIfile80-HQ-760UltrasonicListenDev_1945-1969.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.54968346134639
+    },
+    {
+      "doc_id": "10OldestClassDocsCMA_1947-1989",
+      "title": "10OldestClassDocsCMA_1947-1989.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5354403630340041
+    },
+    {
+      "doc_id": "DoD-CIAjointInspecNRO_1996",
+      "title": "DoD-CIAjointInspecNRO_1996.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5215160566252023
+    },
+    {
+      "doc_id": "NSAohiREDACTEDiad_2008",
+      "title": "NSAohiREDACTEDiad_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5190274141019561
+    },
+    {
+      "doc_id": "ADB088395_CatAVProds_Vol1_ArmyProds_1984",
+      "title": "ADB088395_CatAVProds_Vol1_ArmyProds_1984.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5156168312243167
+    },
+    {
+      "doc_id": "ClassGAOrptTitlPgs_1972-1990",
+      "title": "ClassGAOrptTitlPgs_1972-1990.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5107101863117038
+    },
+    {
+      "doc_id": "USAFSScapabilitySEasia_1963-1964-1969",
+      "title": "USAFSScapabilitySEasia_1963-1964-1969.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5090150804216407
+    },
+    {
+      "doc_id": "NSAdefsmacCommAsset1964-1989_1993",
+      "title": "NSAdefsmacCommAsset1964-1989_1993.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5062258803327362
+    },
+    {
+      "doc_id": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u",
+      "title": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4930035162403059
+    },
+    {
+      "doc_id": "NSAdefsmacCommAsset1964-1989_1993",
+      "title": "NSAdefsmacCommAsset1964-1989_1993.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.48726917604856634
+    },
+    {
+      "doc_id": "DIA_FileId_237647",
+      "title": "DIA_FileId_237647.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4843852228043396
+    },
+    {
+      "doc_id": "ClassGAOrptTitlPgs_1972-1990",
+      "title": "ClassGAOrptTitlPgs_1972-1990.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.48197214550890893
+    },
+    {
+      "doc_id": "FBI-65-HQ-59264-IIC_1950-1951",
+      "title": "FBI-65-HQ-59264-IIC_1950-1951.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4781008707797734
+    },
+    {
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.47638854323032376
+    },
+    {
+      "doc_id": "NSAohiCrippen_OH1988-05_1988",
+      "title": "NSAohiCrippen_OH1988-05_1988.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4725990123008885
+    },
+    {
+      "doc_id": "NASAhaftsoscMono54",
+      "title": "NASAhaftsoscMono54.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4717423964658433
+    },
+    {
+      "doc_id": "UnpubDocsDeconnISS_2010-2016",
+      "title": "UnpubDocsDeconnISS_2010-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4586861017149664
+    },
+    {
+      "doc_id": "NSA50YrsMathCrypt1988",
+      "title": "NSA50YrsMathCrypt1988.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4476216347284538
+    },
+    {
+      "doc_id": "NRO-SIGINTsatStory_1994u",
+      "title": "NRO-SIGINTsatStory_1994u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.44561495113097915
+    },
+    {
+      "doc_id": "FBI-KayHalle_1949-1965",
+      "title": "FBI-KayHalle_1949-1965.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.44459570939089066
+    },
+    {
+      "doc_id": "NSA-WasntAllMagic_2002",
+      "title": "NSA-WasntAllMagic_2002.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.44392029341799355
+    },
+    {
+      "doc_id": "UnpubDocsDeconnISS_2010-2016",
+      "title": "UnpubDocsDeconnISS_2010-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.43990601303270005
+    },
+    {
+      "doc_id": "ADA268219_CatAVProds_Vol3_AfandMiscProds_1984",
+      "title": "ADA268219_CatAVProds_Vol3_AfandMiscProds_1984.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4374393825284975
+    },
+    {
+      "doc_id": "INSCOM-Impersonal_Index_2010",
+      "title": "INSCOM-Impersonal_Index_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4364103044108069
+    },
+    {
+      "doc_id": "NatnlCryptoSchoolTVctrCat_1991",
+      "title": "NatnlCryptoSchoolTVctrCat_1991.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4358716453681264
+    }
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "doc_id": "1stPgClassGAOrptsPre1972",
+      "title": "1stPgClassGAOrptsPre1972.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 56,
+      "text_preview": "espionage lows, Title 18, U~.', \u00b7i.\u2022, f.\u00b7.)\nSecs. 793 onJ 794, as respectively amenJeJ, the transmission or reve~ I\nol. wlticlt in any Manner to on unautborizef/_ person is proltibiteJ by t--\u00b7 \u00b7~\n\n~ o...",
+      "text_length": 506,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "1stPgClassGAOrptsPre1972_p56"
+    },
+    {
+      "index": 1,
+      "doc_id": "Two_Repts_USAF_Guided_Missile_Tests_1953",
+      "title": "Two_Repts_USAF_Guided_Missile_Tests_1953.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 49,
+      "text_preview": "the Espionage Laws Title 18, Sections\n79) and 79h.\nmanner to an unauthariaed parson ie prohibited by law.! ta transliliesion or the revelation of its content in any\n\nSECURITY INFORIV1AT! O\\'I\nUNCLASSI...",
+      "text_length": 495,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "Two_Repts_USAF_Guided_Missile_Tests_1953_p49"
+    },
+    {
+      "index": 2,
+      "doc_id": "NSAohList_1971-2010",
+      "title": "NSAohList_1971-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 7,
+      "text_preview": "\u2022. \u00b7./. ~.~Sf\n\n(Continuation of above interview)..\n(Continuation of above intellVi~)\n\n\n\n\nArmy CIA, CBB, S\\\\ll>~ WW II\n\n\nArmv courier, CBB, ~WP A, WW II\nArmv Cl A. CB8, SWP A, WW II\nNavy R, i.\u2022 optcer,...",
+      "text_length": 380,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "NSAohList_1971-2010_p7"
+    },
+    {
+      "index": 3,
+      "doc_id": "FBI-KayHalle_1949-1965",
+      "title": "FBI-KayHalle_1949-1965.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": ",..,\n\n/:.; 'J\n\n\n\n\n.\"6....,. W'9\n\nAD,,)E11 DUM:\n\n).1\"\\\n\u2022 11 anJ haB, attached hereto for approval a letter to Ylashington i'lela.:,\\t J o/Pice containing appropriate instructi. ons.\n\nThe Espionage Sect...",
+      "text_length": 481,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "FBI-KayHalle_1949-1965_chunk3"
+    },
+    {
+      "index": 4,
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "OF\nESPIONAGE COMMITTED AGAINST THE UNITED STATES.\n\nPage 3083 of 4994 Pages\n\nTape No\n\nTitle\n\nSub Title\n\nPublisher\n\nFormat\n\nLength\n\nLocation\n\nTape Created No Hits\n\nSpecial Notes\n\nEM96 0171\n\n\nEM96 0172\n\n...",
+      "text_length": 496,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "VOA-Legacy-Assets_2011_chunk4"
+    },
+    {
+      "index": 5,
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 751,
+      "text_preview": "y_:_\n\n895\n\nSee - Russian Military\n\nSpaatz, Carl A., Gen:\n\n583,\n\n609, 612, 616, 626, 635,\n724, 754, 755, 767, 793,\n810,!14, ITS\", ~. 918,\n939, 1025, 1074, 1134, 1208,\n1223, 1264, 1266\nSpaatz, Ruth, Mrs...",
+      "text_length": 512,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "USAFohCat_1982_p751"
+    },
+    {
+      "index": 6,
+      "doc_id": "FOIAreqsJeffreyScudder_CY2012",
+      "title": "FOIAreqsJeffreyScudder_CY2012.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 31,
+      "text_preview": "1-5-4\nO 62-6-1\n\n\n\nctl\na:;\na::: 62-6-1\n\"C 62-6-1\na. 62-6-1\n\n\nIntelligence for the Space Race\n\nProduction at Small Posts\n\nWhat To Do With Defectors\n\nThe Problem of Scientific Surprise\n\nNumber One from M...",
+      "text_length": 512,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "FOIAreqsJeffreyScudder_CY2012_p31"
+    },
+    {
+      "index": 7,
+      "doc_id": "FOIA_NRO_Ltrs-Resp_2003",
+      "title": "FOIA_NRO_Ltrs-Resp_2003.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 9,
+      "text_preview": "e U. S.\nIntelligence Cggppqnity (Westview, 4th ed.1999); \u00b7 American Espionage\nand the\u00b7 soviet Target (Morrow, 1987): America's \u00b7secret Eyes in space\n\u2022 (Harper _& Row -1990); A century of Spies; Intell...",
+      "text_length": 511,
+      "relevance_score": 0.687165299239881,
+      "semantic_score": 0.9816647131998301,
+      "bm25_score": 0,
+      "citation_key": "FOIA_NRO_Ltrs-Resp_2003_p9"
+    },
+    {
+      "index": 8,
+      "doc_id": "DIA_3_oldest_classified_2008",
+      "title": "DIA_3_oldest_classified_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 7,
+      "text_preview": "to the detr\u2022.\u2022, o\"-..,,,,-\nof the United States.. -ed information affecting the national secu\ning of the espionage laws, US Code\nrohibits its transmission\nuthorized pe rsan,\nst of the\n\n(b)(3): 10---.,...",
+      "text_length": 451,
+      "relevance_score": 0.6833858250477742,
+      "semantic_score": 0.9762654643539632,
+      "bm25_score": 0,
+      "citation_key": "DIA_3_oldest_classified_2008_p7"
+    },
+    {
+      "index": 9,
+      "doc_id": "1stPgClassGAOrptsPre1972",
+      "title": "1stPgClassGAOrptsPre1972.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 206,
+      "text_preview": "of the espionage laws, Title 18, U. si.: t:, Secs. 793 and 794, as respectively amended, the\ntransmission or revelation ol whic, h in any mmmer t1> an unautboriz. ed person is prohil. iteJ by Aiw,\n\n\n\n...",
+      "text_length": 478,
+      "relevance_score": 0.6762704504435658,
+      "semantic_score": 0.9661006434908084,
+      "bm25_score": 0,
+      "citation_key": "1stPgClassGAOrptsPre1972_p206"
+    },
+    {
+      "index": 10,
+      "doc_id": "FOIA_NRO_Ltrs-Resp_2003",
+      "title": "FOIA_NRO_Ltrs-Resp_2003.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 220,
+      "text_preview": "U. S. Intelligence Camaunif: y (llestview,\n4th ed.1999), A Century of Spies: Intelligence ill t. he Twentieth\nCentury (Oxford, 1995); America's Secret Byes in Space (Harper &\nRow, 1990), and American ...",
+      "text_length": 456,
+      "relevance_score": 0.6691699028316068,
+      "semantic_score": 0.9559570040451527,
+      "bm25_score": 0,
+      "citation_key": "FOIA_NRO_Ltrs-Resp_2003_p220"
+    },
+    {
+      "index": 11,
+      "doc_id": "FSTC-381-2016_1965",
+      "title": "FSTC-381-2016_1965.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 5,
+      "text_preview": "e meaning of the Espionage Laws {1.8 U. S.. C.:7g.3, 794). the transmission or revelation of which in any manner to an\nunauthorized person is prohibited by law.\n\n~NClA~~lrltD.\n\u2022 sECRIET\n\nPage 449 of 4...",
+      "text_length": 389,
+      "relevance_score": 0.6516581022290473,
+      "semantic_score": 0.9309401460414962,
+      "bm25_score": 0,
+      "citation_key": "FSTC-381-2016_1965_p5"
+    },
+    {
+      "index": 12,
+      "doc_id": "KHRUVIS_1957-1959",
+      "title": "KHRUVIS_1957-1959.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 341,
+      "text_preview": "rded t; o the Espionage Section\n\nb7C\n\nREG- 79 &-,.<-; o '1- v 'IS\"- /: A/\n\n\n\"UG 28 1S~2..\n\n'll 'i '\"\n~~-~~~~~~\n\n\n1.-Mr\u00b7 Be Zm, anj\n\n~jMr. Bartl et; t;\n1-Liairo n\nI ~FL-'8-:-a-mmww-_1,-6-) _ ___.\n\\Ji1\"...",
+      "text_length": 499,
+      "relevance_score": 0.5861756939086495,
+      "semantic_score": 0.837393848440928,
+      "bm25_score": 0,
+      "citation_key": "KHRUVIS_1957-1959_p341"
+    },
+    {
+      "index": 13,
+      "doc_id": "19DCAApublications_1996-2013",
+      "title": "19DCAApublications_1996-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 259,
+      "text_preview": "'\n\n\"'-\"\u2022'\" \u2022 ' *\"'' -^^ \"\"-'\u2022\u2022'\n\nFeb 26, 86\n\n5240.6 (Encl 2 continued)\n\n10.; V, Espionage.\u00bb As set foirth in 18 uVs-iC. ^ 2 - 7; 98.(rgfer<lhcp (j)) r- J^ generals\n\na. ' Espionage is the act of obtain...",
+      "text_length": 500,
+      "relevance_score": 0.5673370538774647,
+      "semantic_score": 0.8104815055392354,
+      "bm25_score": 0,
+      "citation_key": "19DCAApublications_1996-2013_p259"
+    },
+    {
+      "index": 14,
+      "doc_id": "2ArmyCounterintelDocs_1962-1963",
+      "title": "2ArmyCounterintelDocs_1962-1963.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 4,
+      "text_preview": ".. \": ), \u00b7..\n\n\nI \u2022 \u2022 1\n\u2022 .. I --. \u00b7: -- \u00b7.\n\nI -...\n\nALL FBI HJFORMATI J N CONTAINED\nHEREilJ IS ID1CLASSIFIED\nDATE 11-04-2011 BY 60324 UC BAw/ SAB/MJS\n\n(U) FOREWORD CU}\n\n(tT) T~i-~; p~~'11~-fubli$~<}. ...",
+      "text_length": 452,
+      "relevance_score": 0.5644367825909102,
+      "semantic_score": 0.8063382608441575,
+      "bm25_score": 0,
+      "citation_key": "2ArmyCounterintelDocs_1962-1963_p4"
+    },
+    {
+      "index": 15,
+      "doc_id": "FBIfile80-HQ-760UltrasonicListenDev_1945-1969",
+      "title": "FBIfile80-HQ-760UltrasonicListenDev_1945-1969.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "/Plf- f fJ-71f o -;; ii\n\nRECORDED. 108\n\nllViJt; M. t) \u2022 108\n\nEX-89\n\nb7E\n\nOffice Memorandum \u2022 UNITED STATE. S GOVERNMENT\n\nftugust 16, vl950\n\nDATE:\n\nA. H.\n\nFR; OM\n\nc. E. He\n\nSUBJECT: TARGET\n\nESPIONAGE -...",
+      "text_length": 469,
+      "relevance_score": 0.54968346134639,
+      "semantic_score": 0.7852620876377001,
+      "bm25_score": 0,
+      "citation_key": "FBIfile80-HQ-760UltrasonicListenDev_1945-1969_chunk15"
+    },
+    {
+      "index": 16,
+      "doc_id": "10OldestClassDocsCMA_1947-1989",
+      "title": "10OldestClassDocsCMA_1947-1989.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 5,
+      "text_preview": "AH\n\nJUNE 1968\n\n' -1~\u00b7~.:\n\n~?\"!,(./\n\nLTC, USA\nTOR.. 04113\n\nIn addition lo Sl: t: Vflty requi11: menls which apply lo\nthis document ond mus1 be met, cod1 tron! mil! ol\nout>id\" 1he Department of Deferuc ...",
+      "text_length": 459,
+      "relevance_score": 0.5354403630340041,
+      "semantic_score": 0.7649148043342916,
+      "bm25_score": 0,
+      "citation_key": "10OldestClassDocsCMA_1947-1989_p5"
+    },
+    {
+      "index": 17,
+      "doc_id": "DoD-CIAjointInspecNRO_1996",
+      "title": "DoD-CIAjointInspecNRO_1996.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 155,
+      "text_preview": "Intelligence Activities.'' October 24. 1952. (U).\n\nNSC =\"41212. \"Note by the Executive Secretary to thr National Securi1y Council on Covert\nOperations.\" December 2K. 1955. ( U).:-.=sc Action No. I K. ...",
+      "text_length": 500,
+      "relevance_score": 0.5215160566252023,
+      "semantic_score": 0.7450229380360033,
+      "bm25_score": 0,
+      "citation_key": "DoD-CIAjointInspecNRO_1996_p155"
+    },
+    {
+      "index": 18,
+      "doc_id": "NSAohiREDACTEDiad_2008",
+      "title": "NSAohiREDACTEDiad_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 5,
+      "text_preview": "ey:, Okay good Could you describe your work with the Space Shuttle\n\n86-36/50 use 3605 I..... 1: Qt2. i1e,\"&; if. i(~Q~,.,1~1.1 \u2022. ~P9~_ 2_ 9t JQ \u2022\u2022\u2022\u2022\u2022\u2022\u2022 ___ _\n\nNSA Center for Cryptologic History Oral ...",
+      "text_length": 512,
+      "relevance_score": 0.5190274141019561,
+      "semantic_score": 0.7414677344313658,
+      "bm25_score": 0,
+      "citation_key": "NSAohiREDACTEDiad_2008_p5"
+    },
+    {
+      "index": 19,
+      "doc_id": "ADB088395_CatAVProds_Vol1_ArmyProds_1984",
+      "title": "ADB088395_CatAVProds_Vol1_ArmyProds_1984.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 36,
+      "text_preview": "Espionage,\nsabotage and supervision. Cryptography. For \u25a0 i I itary la\u2022 enforce\u25a0ent, see 8/09\nLu.\n\nlissile handling and launching, including transportation; storage; preparation for\nlaunching; surface,...",
+      "text_length": 485,
+      "relevance_score": 0.5156168312243167,
+      "semantic_score": 0.7365954731775952,
+      "bm25_score": 0,
+      "citation_key": "ADB088395_CatAVProds_Vol1_ArmyProds_1984_p36"
+    },
+    {
+      "index": 20,
+      "doc_id": "ClassGAOrptTitlPgs_1972-1990",
+      "title": "ClassGAOrptTitlPgs_1972-1990.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 289,
+      "text_preview": "ES\n\u2022 --::-\n\n\n\n\n\nBarriers To lnterservice Developm. ent\nOf Tactical Data Systems B-163074\n\n\nDepartment of Defense\n\n''This material contains information affecting the national defense of the\nUnited Stat...",
+      "text_length": 502,
+      "relevance_score": 0.5107101863117038,
+      "semantic_score": 0.7295859804452912,
+      "bm25_score": 0,
+      "citation_key": "ClassGAOrptTitlPgs_1972-1990_p289"
+    },
+    {
+      "index": 21,
+      "doc_id": "USAFSScapabilitySEasia_1963-1964-1969",
+      "title": "USAFSScapabilitySEasia_1963-1964-1969.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 81,
+      "text_preview": "eaning of the Espionage Law, s (Title 18,\nU. S. C., Sections 793 and 794), the transmission or revelation of which\nin any manner to an unauthorized person is prohibited by law.\n\n\n\nPrepared by:\n\n\nThoma...",
+      "text_length": 512,
+      "relevance_score": 0.5090150804216407,
+      "semantic_score": 0.7271644006023439,
+      "bm25_score": 0,
+      "citation_key": "USAFSScapabilitySEasia_1963-1964-1969_p81"
+    },
+    {
+      "index": 22,
+      "doc_id": "NSAdefsmacCommAsset1964-1989_1993",
+      "title": "NSAdefsmacCommAsset1964-1989_1993.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 41,
+      "text_preview": "iet\n\nspacecraft prelaunch activity and operations.\\\n\nL---'\n\nimprove coordination of space intelligence analysis and reporting\n\nI These officers\n\n\nNd L k@I@d\u00a7dbl@ Lb f OI@\u00b1gii Nd Elbhdi\u00a7\n\nOGA\nPL 86-36/...",
+      "text_length": 496,
+      "relevance_score": 0.5062258803327362,
+      "semantic_score": 0.723179829046766,
+      "bm25_score": 0,
+      "citation_key": "NSAdefsmacCommAsset1964-1989_1993_p41"
+    },
+    {
+      "index": 23,
+      "doc_id": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u",
+      "title": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "EVELOPMENTS IN COUNTERINTELLIGENCE\nOPERATIONS\n\n'..\n\n\nDa\u03bcgle Oper~tions ---\n\n\"b7E\n\nX \u2022U\\\n\n\n\nUtilization of Air~raft for_ Survei_llance\n\nXnn\n\u2022 24 \u2022\n\nb7E\n\n><1u)\n\nX(U)\n\nX1ui\n\nFBI Effectiveness\n\u2022 25 -\n\n\nb3...",
+      "text_length": 486,
+      "relevance_score": 0.4930035162403059,
+      "semantic_score": 0.7042907374861513,
+      "bm25_score": 0,
+      "citation_key": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u_chunk23"
+    },
+    {
+      "index": 24,
+      "doc_id": "NSAdefsmacCommAsset1964-1989_1993",
+      "title": "NSAdefsmacCommAsset1964-1989_1993.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 58,
+      "text_preview": "Functions M8), Defense/SMAC-140-70S, 25 June 1970.\n\nWriW~E VIA TALE~I~ ~E11IOE, E 891HN~ 88HJR0h 8\u00a58TBM8 JOHiTbY\n~9P SBCRB~\n\nDeclassified and Approved for Release by NSA on 9-27-2024 pursuant to\nE. O....",
+      "text_length": 443,
+      "relevance_score": 0.48726917604856634,
+      "semantic_score": 0.6960988229265234,
+      "bm25_score": 0,
+      "citation_key": "NSAdefsmacCommAsset1964-1989_1993_p58"
+    },
+    {
+      "index": 25,
+      "doc_id": "DIA_FileId_237647",
+      "title": "DIA_FileId_237647.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 1,
+      "text_preview": "UNCLASSIFIEL, fl\"e\" Cl\"I\"! e1, it tl!! L e11t I\n\nDefense\nIntelligence\nReference\nDocument\nAcquisition Threat Support\n\n29 March 2010\n\nICOD: 1 December 2009\n\nDIA-08-1003-015\n\nAdvanced Space Propulsion\nBa...",
+      "text_length": 277,
+      "relevance_score": 0.4843852228043396,
+      "semantic_score": 0.6919788897204852,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_237647_p1"
+    },
+    {
+      "index": 26,
+      "doc_id": "ClassGAOrptTitlPgs_1972-1990",
+      "title": "ClassGAOrptTitlPgs_1972-1990.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 253,
+      "text_preview": "g of the espionage laws, Title 18, U. S. C.,\nSecs. 793 and 794, as respectively amended, the transmission or revelation \u00b7\nof which in any manner to an unauthorized person is prohibited by law.\"\n\nBY TH...",
+      "text_length": 397,
+      "relevance_score": 0.48197214550890893,
+      "semantic_score": 0.6885316364412986,
+      "bm25_score": 0,
+      "citation_key": "ClassGAOrptTitlPgs_1972-1990_p253"
+    },
+    {
+      "index": 27,
+      "doc_id": "FBI-65-HQ-59264-IIC_1950-1951",
+      "title": "FBI-65-HQ-59264-IIC_1950-1951.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 86,
+      "text_preview": "ENT OF INVASION ~ V'~: r..~~\nESPIONAGE - R\n\u2022 '(...-~\n\nAll IHFORMATIO! t CONTAINED\nHEREIN IS UNCL. ASSIFIEO~\nPAl~~~ ~c( BYSJ\n\u2022 \u00b7\n\nI(~ ( _\n\n\n~: r __\n\n\nTele. Rooc_\nReferral/Consult\nOo: l41 __ \"\"'\n\nTo. ad...",
+      "text_length": 508,
+      "relevance_score": 0.4781008707797734,
+      "semantic_score": 0.683001243971105,
+      "bm25_score": 0,
+      "citation_key": "FBI-65-HQ-59264-IIC_1950-1951_p86"
+    },
+    {
+      "index": 28,
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 748,
+      "text_preview": "~lso - Research and\n\nDevelopment\n\nScott, Jesse E., Maj:\nScott, Robert L., Brig Gen:\n\n663\n\n955\n\n564\n\n008\n\nScott, Thomas w., Maj:\nScramble:\nScramble Alert Setup:\nScuderi, Richard, Maj:\nSE-SA:\nSF. A: See...",
+      "text_length": 388,
+      "relevance_score": 0.47638854323032376,
+      "semantic_score": 0.6805550617576054,
+      "bm25_score": 0,
+      "citation_key": "USAFohCat_1982_p748"
+    },
+    {
+      "index": 29,
+      "doc_id": "NSAohiCrippen_OH1988-05_1988",
+      "title": "NSAohiCrippen_OH1988-05_1988.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "for Release by NSA on 02-12-2024 pursuant to E. O. 13526, MDR Case #114593\n\nfOP 9E8RE\"FJ'f'Fl(}DYE/Ji!9i!04 4i!3\n\nI PL 86-36/50 use 3605 f\n\nTucker:\n\nCrippen:\n\nTucker:\n\nCrippen:\n\nmissiles in my backgro...",
+      "text_length": 434,
+      "relevance_score": 0.4725990123008885,
+      "semantic_score": 0.6751414461441265,
+      "bm25_score": 0,
+      "citation_key": "NSAohiCrippen_OH1988-05_1988_chunk29"
+    },
+    {
+      "index": 30,
+      "doc_id": "NASAhaftsoscMono54",
+      "title": "NASAhaftsoscMono54.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 115,
+      "text_preview": "f Miami, 1974, Monographs in Intemational\nAffairs. This is a detailed exploration of the competition/cooperation in space exploration by the two\nsuperpowers of the Cold War era through the de\u0301tente th...",
+      "text_length": 496,
+      "relevance_score": 0.4717423964658433,
+      "semantic_score": 0.6739177092369191,
+      "bm25_score": 0,
+      "citation_key": "NASAhaftsoscMono54_p115"
+    },
+    {
+      "index": 31,
+      "doc_id": "UnpubDocsDeconnISS_2010-2016",
+      "title": "UnpubDocsDeconnISS_2010-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "244-7038.\n\nSincerely,\n\nJJ.\n\n\\, b. c- C. ~\n\nKirk A. Shireman\nManager, Intemational Space Station Program\n\ncc:\nOV /Roscosmos Houston Liaison Office\nRSC-E/E. A. Milain\n\nNational Aeronautics and\nSpace Adm...",
+      "text_length": 494,
+      "relevance_score": 0.4586861017149664,
+      "semantic_score": 0.6552658595928091,
+      "bm25_score": 0,
+      "citation_key": "UnpubDocsDeconnISS_2010-2016_chunk31"
+    },
+    {
+      "index": 32,
+      "doc_id": "NSA50YrsMathCrypt1988",
+      "title": "NSA50YrsMathCrypt1988.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 99,
+      "text_preview": "Ford, A. M., \" The Birth o f ATLAS I \", NSA Tech. Joumal, Vo I.\n( RS I C I a s sified Mathematics\n\nXVIII, N o. 1, Win t e r 1 9 7 3, S - 2 O 7 O 5 1\nLibrary).\n\n[ 1 O 4 ]\n\nFord, C. A., Cover memo, Subj...",
+      "text_length": 506,
+      "relevance_score": 0.4476216347284538,
+      "semantic_score": 0.6394594781835055,
+      "bm25_score": 0,
+      "citation_key": "NSA50YrsMathCrypt1988_p99"
+    },
+    {
+      "index": 33,
+      "doc_id": "NRO-SIGINTsatStory_1994u",
+      "title": "NRO-SIGINTsatStory_1994u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "t O. M. Showers, USN\nSAFMS, D/AF, Lt C.01 aiwin J. -Istvan, USAF\nUSA, Mr. Herbert L. o: nley\nCIA, Mr. Harold Willis\n\nPage I\n\nroP\u00b7SEcRET\n\n\nTOP SECRET\n\nSPACE VEHICLE ELS:: nnuc SIGW.. ~\n\n~SIBILITIES AND...",
+      "text_length": 496,
+      "relevance_score": 0.44561495113097915,
+      "semantic_score": 0.6365927873299703,
+      "bm25_score": 0,
+      "citation_key": "NRO-SIGINTsatStory_1994u_chunk33"
+    },
+    {
+      "index": 34,
+      "doc_id": "FBI-KayHalle_1949-1965",
+      "title": "FBI-KayHalle_1949-1965.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "'\n\u2022 4 -\n\n\n\u2022 I ' \u2022\n\nti-- '~'.~\n\n\ni,~' t,...\n\n\n(5). OBSERVATIONS:\n\nAlthough there are no speoifio allegations that the\nsubjeot is engaging in espionage aotivities there appears, in\nview O/ the a/ore-enu...",
+      "text_length": 503,
+      "relevance_score": 0.44459570939089066,
+      "semantic_score": 0.6351367277012724,
+      "bm25_score": 0,
+      "citation_key": "FBI-KayHalle_1949-1965_chunk34"
+    },
+    {
+      "index": 35,
+      "doc_id": "NSA-WasntAllMagic_2002",
+      "title": "NSA-WasntAllMagic_2002.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 281,
+      "text_preview": "-~,---~---\n\n~\"'.'. \" -~-r- -\u2022\"'-\"'\"' *\u2022--~\u00b7-~\"\u00b7~=.,-~~---___, ___ m ___ \"'_\"\"'-~'' ___, ___,\"''-''--'\"\"'\"'_\"_\"---~--~--~--~--_!_~llf\u00b7~-~=~==~~~~~~\n\n(U),4 Cryptanalytic Future\n\n\"f'PS) Although OP-20-G ...",
+      "text_length": 370,
+      "relevance_score": 0.44392029341799355,
+      "semantic_score": 0.6341718477399908,
+      "bm25_score": 0,
+      "citation_key": "NSA-WasntAllMagic_2002_p281"
+    },
+    {
+      "index": 36,
+      "doc_id": "UnpubDocsDeconnISS_2010-2016",
+      "title": "UnpubDocsDeconnISS_2010-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 10,
+      "text_preview": "42 Schepkina Street\nMoscow 107996\nRUSSIA\n\nDear Mr. Strelnikov:\n\nThis letter is to request your direction to\n\nSincerely, ~\u00a3J\n~,~~\n\nKirk A. Shireman\nManager, Intemational Space Station Program\n\ncc:\nOV/R...",
+      "text_length": 471,
+      "relevance_score": 0.43990601303270005,
+      "semantic_score": 0.6284371614752858,
+      "bm25_score": 0,
+      "citation_key": "UnpubDocsDeconnISS_2010-2016_p10"
+    },
+    {
+      "index": 37,
+      "doc_id": "ADA268219_CatAVProds_Vol3_AfandMiscProds_1984",
+      "title": "ADA268219_CatAVProds_Vol3_AfandMiscProds_1984.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 341,
+      "text_preview": "GAINST ESPIONAGE\n\u2022 A DEFENSE\n\n38412-DF\n\nIN NATURE.\n\nITEM;\n\n16MM, MOTION PICTURE! 039 MIN,\nNOT LLEARED, FOR OFF CI AL USE\n\n\n\n\n\nFOUR APPROACHES\n\nTHAT HOSTILE\nDEPICTS\nINTELLIGENCE AGENTS- MAY USE\nIN TRYI...",
+      "text_length": 510,
+      "relevance_score": 0.4374393825284975,
+      "semantic_score": 0.6249134036121393,
+      "bm25_score": 0,
+      "citation_key": "ADA268219_CatAVProds_Vol3_AfandMiscProds_1984_p341"
+    },
+    {
+      "index": 38,
+      "doc_id": "INSCOM-Impersonal_Index_2010",
+      "title": "INSCOM-Impersonal_Index_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 29,
+      "text_preview": "EGEV ISRAEL\n\nBENGURION UNIVERSITY\n\nBENGURION UNIVERSITY\n\nBENTLEY ELIZABETH T\n\nBERGSTROM AIR FORCE BASE TEXAS ESPIONAGE\n\nBERHAMPUR UNIVERSITY\n\nBERIN GERMANY SAEDA\n\nBERLIN GERMANY SAEDA\n\nBERLIN BZ SAEDA...",
+      "text_length": 452,
+      "relevance_score": 0.4364103044108069,
+      "semantic_score": 0.6234432920154385,
+      "bm25_score": 0,
+      "citation_key": "INSCOM-Impersonal_Index_2010_p29"
+    },
+    {
+      "index": 39,
+      "doc_id": "NatnlCryptoSchoolTVctrCat_1991",
+      "title": "NatnlCryptoSchoolTVctrCat_1991.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "Boyce recounts the personal horrors of espionage.\n\nSECRET\n\nVlll-2\nHANDLE VIA COMINT CHANNELS ONLY\n\u2022 Security\n\n00cID = 31riaa~MFIED\n\nREF ID: A3273254\n\n\nSECURITY\n\nTERRORISM: WAR IN THE SHADOWS (U)\nRunni...",
+      "text_length": 496,
+      "relevance_score": 0.4358716453681264,
+      "semantic_score": 0.6226737790973235,
+      "bm25_score": 0,
+      "citation_key": "NatnlCryptoSchoolTVctrCat_1991_chunk39"
+    }
+  ],
+  "context_length": 22407,
+  "style": "comprehensive",
+  "length_mode": "medium",
+  "max_chunks": 40,
+  "diversity_mode": "balanced",
+  "quality_iterations": 1,
+  "final_quality": {
+    "citation_density": 1.1943986820428336,
+    "avg_relevance": 0.44,
+    "total_citations": 29,
+    "valid_citations": 25,
+    "invalid_citations": 4,
+    "passes_standards": false
+  },
+  "validation_cache": {
+    "total_citations": 29,
+    "valid": 25,
+    "invalid": 4,
+    "citation_density": 1.1943986820428336,
+    "total_words": 2428,
+    "avg_relevance_score": 0.44,
+    "issues": [
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NASAshaftsoscMono54#page=115\" class=\"citation\" target=\"_blank\">(Doc #NASAshaftsoscMono54, p.115)</a>",
+          "document_id": "NASAshaftsoscMono54",
+          "page_no": 115
+        },
+        "issue": "Document not found in DB",
+        "context": "the Atlas-Abner trajectory and the cryptanalytic dimension of wartime and postwar intelligence. <a href=\"/pdf/NSA-WasntAllMagic2002page=281\" class=\"citation\" target=\"blank\">(Doc 2002, p.281)</a>, <a href=\"/pdf/NASAshaftsoscMono54page=115\" class=\"citation\" target=\"blank\">(Doc NASAshaftsoscMono54, p.115)</a>\n\n Technical and Analytic Dimensions\n\n Propulsion, Spacecraft, and Defense Propulsion\nDeclassified materials note advanced propulsion concepts and space propulsion research as part of the defense",
+        "relevance_score": null,
+        "verdict": null
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NRO-Ltrs-Resp_2003#page=9\" class=\"citation\" target=\"_blank\">(Doc #2003, p.9)</a>",
+          "document_id": "NRO-Ltrs-Resp_2003",
+          "page_no": 9
+        },
+        "issue": "Document not found in DB",
+        "context": "/NASAshaftsoscMono54page=115\" class=\"citation\" target=\"blank\">(Doc NASAshaftsoscMono54, p.115)</a>, <a href=\"/pdf/DIAFileId237647page=1\" class=\"citation\" target=\"blank\">(Doc 237647, p.1)</a>, <a href=\"/pdf/NRO-Ltrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc 2003, p.9)</a>, <a href=\"/pdf/FOIANROLtrs-Resp2003page=220\" class=\"citation\" target=\"blank\">(Doc 2003, p.220)</a>, <a href=\"/pdf/TwoReptsUSAFGuidedMissileTests1953page=49\" class=\"citation\" target=\"bla",
+        "relevance_score": null,
+        "verdict": null
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/InSCHomIndex_2010#page=29\" class=\"citation\" target=\"_blank\">(Doc #2010, p.29)</a>",
+          "document_id": "InSCHomIndex_2010",
+          "page_no": 29
+        },
+        "issue": "Document not found in DB",
+        "context": "target=\"blank\">FBI-HQ-74480-ForeignIntelAnal1972-1988uchunk23</a>, <a href=\"/pdf/ADA268219CatAVProdsVol3AfandMiscProds1984page=341\" class=\"citation\" target=\"blank\">(Doc 1984, p.341)</a>, <a href=\"/pdf/InSCHomIndex2010page=29\" class=\"citation\" target=\"blank\">(Doc 2010, p.29)</a>, <a href=\"/pdf/NSAohiREDACTEDiad2008page=5\" class=\"citation\" target=\"blank\">(Doc 2008, p.5)</a>, <a href=\"/documents/VOA-Legacy-Assets2011chunk4\" class=\"citation\" target=\"blank\">VOA-Legacy-As",
+        "relevance_score": null,
+        "verdict": null
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NRO-Ltrs-Resp_2003#page=220\" class=\"citation\" target=\"_blank\">(Doc #2003, p.220)</a>",
+          "document_id": "NRO-Ltrs-Resp_2003",
+          "page_no": 220
+        },
+        "issue": "Document not found in DB",
+        "context": "df/10OldestClassDocsCMA1947-1989page=5\" class=\"citation\" target=\"blank\">(Doc 1947-1989, p.5)</a>\n- <a href=\"/pdf/NRO-Ltrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc 2003, p.9)</a>\n- <a href=\"/pdf/NRO-Ltrs-Resp2003page=220\" class=\"citation\" target=\"blank\">(Doc 2003, p.220)</a>\n- <a href=\"/pdf/FOIANROLtrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc 2003, p.9)</a>\n- <a href=\"/pdf/FOIANROLtrs-Resp2003page=220\" class=\"citation\" target=\"blank\">(Doc 2003, p.",
+        "relevance_score": null,
+        "verdict": null
+      }
+    ],
+    "warnings": [
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/Two_Repts_USAF_Guided_Missile_Tests_1953#page=49\" class=\"citation\" target=\"_blank\">(Doc #1953, p.49)</a>",
+          "document_id": "Two_Repts_USAF_Guided_Missile_Tests_1953",
+          "page_no": 49
+        },
+        "issue": "LLM validation: UNSUPPORTED (HIGH): The cited page is the header/front matter of a 1953 USAF Guided Missile Test Activities report and contains no discussion of interagency intelligence activities, counterintelligence practice, or programmatic efforts to protect space systems or pursue strategic advantages in space/missile domains.",
+        "context": "context includes interagency intelligence activities, counterintelligence practice, and programmatic efforts to protect space systems while seeking strategic advantages in space and missile domains. <a href=\"/pdf/TwoReptsUSAFGuidedMissileTests1953page=49\" class=\"citation\" target=\"blank\">(Doc 1953, p.49)</a>\n\n Historical Context: The Space Race and Intelligence\n\n Cold War Foundations\nDuring the early Cold War, the United States and the Soviet Union competed for technological supremacy in rocketry, s",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSA50YrsMathCrypt1988#page=99\" class=\"citation\" target=\"_blank\">(Doc #NSA50YrsMathCrypt1988, p.99)</a>",
+          "document_id": "NSA50YrsMathCrypt1988",
+          "page_no": 99
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited NSA50YrsMathCrypt1988 page content appears to be a fragmented bibliography and internal notes listing NSA-related publications and items. It does not explicitly mention Defense Intelligence Agency (DIA), Central Intelligence Agency (CIA), or space-related intelligence activities, nor does it clearly support the claim about institutional actors and their roles in space propulsion or surveillance.",
+        "context": "ration of espionage controls with space propulsion and surveillance activities. <a href=\"/pdf/TwoReptsUSAFGuidedMissileTests1953page=49\" class=\"citation\" target=\"blank\">(Doc 1953, p.49)</a>, <a href=\"/pdf/NSA50YrsMathCrypt1988page=99\" class=\"citation\" target=\"blank\">(Doc NSA50YrsMathCrypt1988, p.99)</a>\n\n Institutional Actors and Roles\nKey U.S. actors involved in space-related intelligence include the Defense Intelligence Agency (DIA), the National Security Agency (NSA), the Central Intelligence",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSAdefsmacCommAsset1964-1989_1993#page=41\" class=\"citation\" target=\"_blank\">(Doc #1993, p.41)</a>",
+          "document_id": "NSAdefsmacCommAsset1964-1989_1993",
+          "page_no": 41
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The page 41 excerpt shows DEFSMAC coordinating space intelligence analysis/reporting and expanding time-sensitive intelligence flow with USSPACECOM, supporting the first claim about coordination and analytic improvements. It does not mention NSA\u2019s role or SIGINT related to monitoring Soviet space/missile activities, so the second bullet is not supported by this page.",
+        "context": "Federal Bureau of Investigation (FBI). Documents show a recurring pattern of:\n\n- DEFSMAC and space intelligence coordination aimed at improving analytic capabilities and interdepartmental reporting. <a href=\"/pdf/NSAdefsmacCommAsset1964-19891993page=41\" class=\"citation\" target=\"blank\">(Doc 1993, p.41)</a>\n- NSA\u2019s role in space-related SIGINT and the broader intelligence apparatus used to monitor Soviet space and missile activities. <a href=\"/pdf/NSAdefsmacCommAsset1964-19891993page=58\" class=\"citati",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSAdefsmacCommAsset1964-1989_1993#page=58\" class=\"citation\" target=\"_blank\">(Doc #1993, p.58)</a>",
+          "document_id": "NSAdefsmacCommAsset1964-1989_1993",
+          "page_no": 58
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The cited page\u2019s endnotes reference NSA-related SIGINT infrastructure (e.g., planning for a SIGINT Missile and Astronautics Center and DEFSMAC/NSA interagency agreements), which supports NSA\u2019s role in space-related SIGINT and the defense/intelligence apparatus. However, the page does not address NRO assets or CIA/FBI counterintelligence functions, so those portions of the claim aren\u2019t supported by this source.",
+        "context": "91993page=41\" class=\"citation\" target=\"blank\">(Doc 1993, p.41)</a>\n- NSA\u2019s role in space-related SIGINT and the broader intelligence apparatus used to monitor Soviet space and missile activities. <a href=\"/pdf/NSAdefsmacCommAsset1964-19891993page=58\" class=\"citation\" target=\"blank\">(Doc 1993, p.58)</a>\n- NRO and SIGINT-focused space assets that produced intelligence on space systems and launches. NRO-SIGINTsatStory1994u.pdf\n- CIA and FBI functions in counterintelligence, with case files and oper",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DoD-CIAjointInspecNRO_1996#page=155\" class=\"citation\" target=\"_blank\">(Doc #1996, p.155)</a>",
+          "document_id": "DoD-CIAjointInspecNRO_1996",
+          "page_no": 155
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited page is a bibliography of historical documents and memoranda related to national reconnaissance and space policy, but it contains no explicit reference to joint inspections, CIA/DoD coordination, safeguarding space knowledge, or the Apollo-Soyuz era as described in the claim.",
+        "context": "ned at the policy level. Joint inspections and coordination efforts with the CIA and DoD highlight ongoing concerns about safeguarding space-related knowledge while enabling competitive intelligence. <a href=\"/pdf/DoD-CIAjointInspecNRO1996page=155\" class=\"citation\" target=\"blank\">(Doc 1996, p.155)</a>\n\n- The Apollo-Soyuz era and the broader trajectory of international space collaboration and competition reflect a nuanced balance between scientific exchange and strategic intelligence. <a href=\"/pdf",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NASAhaftsoscMono54#page=115\" class=\"citation\" target=\"_blank\">(Doc #NASAhaftsoscMono54, p.115)</a>",
+          "document_id": "NASAhaftsoscMono54",
+          "page_no": 115
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited page is a Selective Annotated Bibliography listing sources on space programs and cooperation, but it contains no textual evidence or analysis that supports the specific claim about the Apollo-Soyuz era\u2019s balance between scientific exchange and strategic intelligence or about the Espionage Laws.",
+        "context": "6, p.155)</a>\n\n- The Apollo-Soyuz era and the broader trajectory of international space collaboration and competition reflect a nuanced balance between scientific exchange and strategic intelligence. <a href=\"/pdf/NASAhaftsoscMono54page=115\" class=\"citation\" target=\"blank\">(Doc NASAhaftsoscMono54, p.115)</a>\n\n Legal Framework: Espionage Laws and their Application to Space\n\n Core Provisions and prohibitions\nThe primary legal anchors are the Espionage Laws in Title 18, Sections 793 and 794, which make",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/FSTC-381-2016_1965#page=5\" class=\"citation\" target=\"_blank\">(Doc #1965, p.5)</a>",
+          "document_id": "FSTC-381-2016_1965",
+          "page_no": 5
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited page discusses general prohibitions on disclosure (Espionage Law) and classification of an intelligence document, but it does not mention space-related data or describe how agencies classify, store, or share space-related intelligence/technology data. Therefore it does not substantiate the specific claim.",
+        "context": "ass=\"citation\" target=\"blank\">(Doc 1stPgClassGAOrptsPre1972, p.56)</a>, <a href=\"/pdf/1stPgClassGAOrptsPre1972page=206\" class=\"citation\" target=\"blank\">(Doc 1stPgClassGAOrptsPre1972, p.206)</a>, <a href=\"/pdf/FSTC-381-20161965page=5\" class=\"citation\" target=\"blank\">(Doc 1965, p.5)</a>\n\n- The explicit prohibition against improper disclosure shapes how agencies classify, store, and share sensitive space-related intelligence and technology data. <a href=\"/pdf/FSTC-381-20161965page=",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/19DCAApublications_1996-2013#page=259\" class=\"citation\" target=\"_blank\">(Doc #1996-2013, p.259)</a>",
+          "document_id": "19DCAApublications_1996-2013",
+          "page_no": 259
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The cited page defines espionage and cites the Espionage Act, which underpins actions related to national defense information\u2014relevant to both foreign intelligence and domestic security. However, it does not explicitly discuss the enduring significance of these statutes or address domestic counterintelligence oversight as claimed.",
+        "context": "arget=\"blank\">(Doc 1965, p.5)</a>\n- Supplemental materials emphasize the enduring significance of these statutes for both foreign intelligence operations and domestic counterintelligence oversight. <a href=\"/pdf/19DCAApublications1996-2013page=259\" class=\"citation\" target=\"blank\">(Doc 1996-2013, p.259)</a>\n\n Documentation and Oversight\nSeveral documents frame the legal context for intelligence work in space and missile domains, including reports to Congress and internal security memoranda. They unde",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ClassGAOrptTitlPgs_1972-1990#page=253\" class=\"citation\" target=\"_blank\">(Doc #1972-1990, p.253)</a>",
+          "document_id": "ClassGAOrptTitlPgs_1972-1990",
+          "page_no": 253
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The page confirms the GAO\u2019s report to Congress and includes Espionage Act language about prohibiting transmission to unauthorized persons, which supports the idea that unauthorized transmission concerns national defense. However, it does not mention \u201cinternal security memoranda\u201d nor explicitly state that such transmission \u201cthreatens\u201d national security (it says information affecting national defense), so the claim is only partially supported.",
+        "context": "g reports to Congress and internal security memoranda. They underscore that unauthorized transmission of sensitive information threatens national security, consistent with the Espionage Act language. <a href=\"/pdf/ClassGAOrptTitlPgs1972-1990page=253\" class=\"citation\" target=\"blank\">(Doc 1972-1990, p.253)</a>\n\n- Foreword materials and introductory sections in older compilations explicitly remind readers of the statutory boundaries and the penalties for violations, reinforcing the legal gravity of space-re",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/FBI-65-HQ-59264-IIC_1950-1951#page=86\" class=\"citation\" target=\"_blank\">(Doc #1950-1951, p.86)</a>",
+          "document_id": "FBI-65-HQ-59264-IIC_1950-1951",
+          "page_no": 86
+        },
+        "issue": "LLM validation: UNSUPPORTED (HIGH): The cited page is a 1950-1951 FBI internal memo about a proposed intelligence coverage plan for Alaska in the event of invasion and discusses espionage logistics (e.g., \u201cstay behind\u201d agents). It contains no discussion of legal thresholds or counterintelligence practices specifically in the space program context, so it does not support the claim.",
+        "context": ">(Doc 1stPgClassGAOrptsPre1972, p.56)</a>\n- Contemporary-to-1950s materials similarly frame the legal thresholds that shaped espionage and counterintelligence practices in the space program context. <a href=\"/pdf/FBI-65-HQ-59264-IIC1950-1951page=86\" class=\"citation\" target=\"blank\">(Doc 1950-1951, p.86)</a>\n\n Space Intelligence Infrastructure: Gathering, Analysis, and Protection\n\n Defense Space Intelligence Integration\nDEFSMAC (Defense Special Security Communications and Analysis Center) and relate",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_237647#page=1\" class=\"citation\" target=\"_blank\">(Doc #237647, p.1)</a>",
+          "document_id": "DIA_FileId_237647",
+          "page_no": 1
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The page shows a DIA document titled \"Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering,\" which supports that DIA discusses advanced propulsion concepts. However, the excerpt does not mention monitoring space launch data, telemetry/tracking, or related defense considerations, nor NSA materials, so the page does not fully support the claim.",
+        "context": "to understanding Soviet capabilities in these domains. DIA and NSA materials discuss advanced propulsion concepts and the need to monitor space launch data, as well as related defense considerations. <a href=\"/pdf/DIAFileId237647page=1\" class=\"citation\" target=\"blank\">(Doc 237647, p.1)</a>, <a href=\"/pdf/TwoReptsUSAFGuidedMissileTests1953page=49\" class=\"citation\" target=\"blank\">(Doc 1953, p.49)</a>\n\n- Telemetry, tracking, and launch analysis were central to both defense planni",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/KHRUVIS_1957-1959#page=341\" class=\"citation\" target=\"_blank\">(Doc #1957-1959, p.341)</a>",
+          "document_id": "KHRUVIS_1957-1959",
+          "page_no": 341
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The page shows an instruction to forward information to the Espionage Section and contains a Referral/Consult process, which suggests espionage-related handling and some level of internal/interagency coordination. However, it does not explicitly reference broader national security planning, security classifications, or near-peer competition, so it only partially supports the claim.",
+        "context": "lligence concerns fed into broader national security planning. <a href=\"/pdf/FBI-65-HQ-59264-IIC1950-1951page=86\" class=\"citation\" target=\"blank\">(Doc 1950-1951, p.86)</a>\n- Khruvis-era documents <a href=\"/pdf/KHRUVIS1957-1959page=341\" class=\"citation\" target=\"blank\">(Doc 1957-1959, p.341)</a> reflect interagency communications and security classifications tied to espionage and defense-related information during near-peer competition. <a href=\"/pdf/KHRUVIS1957-1959page=341\" class=\"citati",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/FOIA_NRO_Ltrs-Resp_2003#page=9\" class=\"citation\" target=\"_blank\">(Doc #2003, p.9)</a>",
+          "document_id": "FOIA_NRO_Ltrs-Resp_2003",
+          "page_no": 9
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The provided page 9 excerpt appears to be about the FOIA requester\u2019s qualifications, intended use, and publications, not about the anatomy of spying, covert action planning, or counterintelligence concerns. It does not contain or substantiate the claimed topics.",
+        "context": "tion considerations, and the broader implications for space and defense programs. Documents discuss the anatomy of spying, covert action planning, and the persistence of counterintelligence concerns. <a href=\"/pdf/FOIANROLtrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc 2003, p.9)</a>, <a href=\"/pdf/FOIANROLtrs-Resp2003page=220\" class=\"citation\" target=\"blank\">(Doc 2003, p.220)</a>, <a href=\"/pdf/FOIAreqsJeffreyScudderCY2012page=31\" class=\"citation\" target=\"blank\">(Doc C",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/FOIA_NRO_Ltrs-Resp_2003#page=220\" class=\"citation\" target=\"_blank\">(Doc #2003, p.220)</a>",
+          "document_id": "FOIA_NRO_Ltrs-Resp_2003",
+          "page_no": 220
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The cited page (Doc 2003, p.220) lists Jeffrey Richelson\u2019s books on intelligence and espionage, which supports that the author covers topics related to spying and the intelligence community. However, it does not explicitly mention \u201ccovert action planning\u201d or \u201cthe persistence of counterintelligence concerns,\u201d so it only partially substantiates the claim.",
+        "context": "he anatomy of spying, covert action planning, and the persistence of counterintelligence concerns. <a href=\"/pdf/FOIANROLtrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc 2003, p.9)</a>, <a href=\"/pdf/FOIANROLtrs-Resp2003page=220\" class=\"citation\" target=\"blank\">(Doc 2003, p.220)</a>, <a href=\"/pdf/FOIAreqsJeffreyScudderCY2012page=31\" class=\"citation\" target=\"blank\">(Doc CY2012, p.31)</a>\n\n Defectors and Production of Space-Related Intelligence\nMaterials on defector handli",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ADA268219_CatAVProds_Vol3_AfandMiscProds_1984#page=341\" class=\"citation\" target=\"_blank\">(Doc #1984, p.341)</a>",
+          "document_id": "ADA268219_CatAVProds_Vol3_AfandMiscProds_1984",
+          "page_no": 341
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The cited page clearly supports the claim that training content emphasizes recognizing hostile espionage approaches and reporting to authorities (e.g., \"LEARN TO RECOGNIZE THE APPROACH AND REPORT IT TO YOUR COMMANDER OR THE OSI\"). It also notes internal distribution and content typical of training films. However, the page does not explicitly mention protecting \u201csensitive space information\u201d or publicly facing training materials, so the space-information focus is not clearly evidenced.",
+        "context": "uding public-facing training films and internal guidance. These resources stress recognizing espionage approaches and reporting to authorities, with a focus on protecting sensitive space information. <a href=\"/pdf/ADA268219CatAVProdsVol3AfandMiscProds1984page=341\" class=\"citation\" target=\"blank\">(Doc 1984, p.341)</a>\n\n- Training content often emphasizes the manipulation tactics used by hostile agents and the importance of reporting suspicious encounters to supervisors or OSI (Office of Special Investigations). <a",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSAohiREDACTEDiad_2008#page=5\" class=\"citation\" target=\"_blank\">(Doc #2008, p.5)</a>",
+          "document_id": "NSAohiREDACTEDiad_2008",
+          "page_no": 5
+        },
+        "issue": "LLM validation: PARTIAL (HIGH): The NSA 2008 page 5 excerpt discusses costs of equipment versus satellites and describes cryptographic techniques to protect software, which supports aspects of the claim related to crypto equipment and security methods. However, the claim cites multiple other documents (1984, 2010, VOA assets, etc.) not shown in the provided page, so the page alone cannot fully substantiate the entire multi-source claim.",
+        "context": "CatAVProdsVol3AfandMiscProds1984page=341\" class=\"citation\" target=\"blank\">(Doc 1984, p.341)</a>, <a href=\"/pdf/InSCHomIndex2010page=29\" class=\"citation\" target=\"blank\">(Doc 2010, p.29)</a>, <a href=\"/pdf/NSAohiREDACTEDiad2008page=5\" class=\"citation\" target=\"blank\">(Doc 2008, p.5)</a>, <a href=\"/documents/VOA-Legacy-Assets2011chunk4\" class=\"citation\" target=\"blank\">VOA-Legacy-Assets2011chunk4</a>, NA SdefsmacCommAsset1964-19891993p58, <a href=\"/pdf/FSTC-381-20161965pa",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/USAFohCat_1982#page=751\" class=\"citation\" target=\"_blank\">(Doc #1982, p.751)</a>",
+          "document_id": "USAFohCat_1982",
+          "page_no": 751
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The cited USAFohCat_1982 page 751 content clearly includes SEA-related terms and reference numbers (e.g., SEA Operations: 731, 959, 1273; SEA Buildup; SEA Coordinating Council), which supports the SEA-related portion of the claim. However, the claim lists multiple other documents and items, and page 751 alone does not address those other sources, so the support is partial.",
+        "context": "n\" target=\"blank\">(Doc 1971-2010, p.7)</a>\n- FBI-KayHalle1949-1965.pdf\n- <a href=\"/documents/VOA-Legacy-Assets2011chunk4\" class=\"citation\" target=\"blank\">VOA-Legacy-Assets2011chunk4</a>\n- <a href=\"/pdf/USAFohCat1982page=751\" class=\"citation\" target=\"blank\">(Doc 1982, p.751)</a>\n- <a href=\"/pdf/FOIAreqsJeffreyScudderCY2012page=31\" class=\"citation\" target=\"blank\">(Doc CY2012, p.31)</a>\n- <a href=\"/pdf/FOIANROLtrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/UnpubDocsDeconnISS_2010-2016#page=10\" class=\"citation\" target=\"_blank\">(Doc #2010-2016, p.10)</a>",
+          "document_id": "UnpubDocsDeconnISS_2010-2016",
+          "page_no": 10
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited page (UnpubDocsDeconnISS_2010-2016, p.10) shows a NASA/JSC letter regarding the International Space Station program and Roscosmos, with no mention of National Crypto School, TV center categories, NRO SIGINT satellite stories, or the other referenced documents. Therefore this page does not substantiate the stated claim.",
+        "context": "1chunk39\" class=\"citation\" target=\"blank\">NatnlCryptoSchoolTVctrCat1991chunk39</a>\n- <a href=\"/pdf/INSCOM-ImpersonalIndex2010page=29\" class=\"citation\" target=\"blank\">(Doc 2010, p.29)</a>\n- <a href=\"/pdf/UnpubDocsDeconnISS2010-2016page=10\" class=\"citation\" target=\"blank\">(Doc 2010-2016, p.10)</a>\n- NRO-SIGINTsatStory1994u.pdf \n- <a href=\"/pdf/ADA268219CatAVProdsVol3AfandMiscProds1984page=341\" class=\"citation\" target=\"blank\">(Doc 1984, p.341)</a>\n- <a href=\"/pdf/TwoReptsUSAFGuided",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/10OldestClassDocsCMA_1947-1989#page=5\" class=\"citation\" target=\"_blank\">(Doc #1947-1989, p.5)</a>",
+          "document_id": "10OldestClassDocsCMA_1947-1989",
+          "page_no": 5
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited page content is a 1968 Deseret Test Center document (DTC 66-2) with security boilerplate and does not mention or substantiate any of the topics suggested by the claim (e.g., sGAOrptsPre1972, FBI Ultrasonic Listen Dev, or the other listed documents). Therefore, it does not support the claim.",
+        "context": "sGAOrptsPre1972, p.206)</a>\n- <a href=\"/documents/FBIfile80-HQ-760UltrasonicListenDev1945-1969chunk15\" class=\"citation\" target=\"blank\">FBIfile80-HQ-760UltrasonicListenDev1945-1969chunk15</a>\n- <a href=\"/pdf/10OldestClassDocsCMA1947-1989page=5\" class=\"citation\" target=\"blank\">(Doc 1947-1989, p.5)</a>\n- <a href=\"/pdf/NRO-Ltrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc 2003, p.9)</a>\n- <a href=\"/pdf/NRO-Ltrs-Resp2003page=220\" class=\"citation\" target=\"blank\">(Doc 2003, p.220)</a>\n-",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "N/A",
+          "document_id": "",
+          "page_no": 0
+        },
+        "issue": "Low citation density (1.19 per 100 words). Aim for at least 2.0 citations per 100 words (1 per 50 words).",
+        "context": "Document has 29 citations in 2428 words",
+        "relevance_score": null,
+        "verdict": null
+      }
+    ],
+    "validated_citations": [
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/1stPgClassGAOrptsPre1972#page=56\" class=\"citation\" target=\"_blank\">(Doc #1stPgClassGAOrptsPre1972, p.56)</a>",
+          "document_id": "1stPgClassGAOrptsPre1972",
+          "page_no": 56
+        },
+        "context": "adversaries. This overview traces the legal framework, organizational actors, notable incidents, and the evolving understanding of space-enabled intelligence as reflected in the available materials. <a href=\"/pdf/1stPgClassGAOrptsPre1972page=56\" class=\"citation\" target=\"blank\">(Doc 1stPgClassGAOrptsPre1972, p.56)</a>\n\n- The Espionage Laws, notably Title 18, Sections 793 and 794, establish prohibitions on transmitting or revealing defense information to unauthorized persons, and these restrictions appear repeatedl",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The page explicitly cites Title 18, U.S.C. Secs. 793 and 794 and states that the transmission or reveal of information to unauthorized persons is prohibited, directly supporting the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/Two_Repts_USAF_Guided_Missile_Tests_1953#page=49\" class=\"citation\" target=\"_blank\">(Doc #1953, p.49)</a>",
+          "document_id": "Two_Repts_USAF_Guided_Missile_Tests_1953",
+          "page_no": 49
+        },
+        "context": "context includes interagency intelligence activities, counterintelligence practice, and programmatic efforts to protect space systems while seeking strategic advantages in space and missile domains. <a href=\"/pdf/TwoReptsUSAFGuidedMissileTests1953page=49\" class=\"citation\" target=\"blank\">(Doc 1953, p.49)</a>\n\n Historical Context: The Space Race and Intelligence\n\n Cold War Foundations\nDuring the early Cold War, the United States and the Soviet Union competed for technological supremacy in rocketry, s",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "UNSUPPORTED (HIGH): The cited page is the header/front matter of a 1953 USAF Guided Missile Test Activities report and contains no discussion of interagency intelligence activities, counterintelligence practice, or programmatic efforts to protect space systems or pursue strategic advantages in space/missile domains."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/1stPgClassGAOrptsPre1972#page=206\" class=\"citation\" target=\"_blank\">(Doc #1stPgClassGAOrptsPre1972, p.206)</a>",
+          "document_id": "1stPgClassGAOrptsPre1972",
+          "page_no": 206
+        },
+        "context": "e baseline for what constitutes unlawful disclosure of defense information. <a href=\"/pdf/1stPgClassGAOrptsPre1972page=56\" class=\"citation\" target=\"blank\">(Doc 1stPgClassGAOrptsPre1972, p.56)</a>, <a href=\"/pdf/1stPgClassGAOrptsPre1972page=206\" class=\"citation\" target=\"blank\">(Doc 1stPgClassGAOrptsPre1972, p.206)</a>\n\n- The evolution of space-focused intelligence often occurred in tandem with advances in cryptography, signals intelligence, and space systems development, illustrating a confluence of policy, law, a",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): Page 206 states that information affecting the national defense is subject to espionage laws and that transmitting or revealing it to an unauthorized person is prohibited, which aligns with the concept of a baseline for unlawful disclosure of defense information."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSA50YrsMathCrypt1988#page=99\" class=\"citation\" target=\"_blank\">(Doc #NSA50YrsMathCrypt1988, p.99)</a>",
+          "document_id": "NSA50YrsMathCrypt1988",
+          "page_no": 99
+        },
+        "context": "ration of espionage controls with space propulsion and surveillance activities. <a href=\"/pdf/TwoReptsUSAFGuidedMissileTests1953page=49\" class=\"citation\" target=\"blank\">(Doc 1953, p.49)</a>, <a href=\"/pdf/NSA50YrsMathCrypt1988page=99\" class=\"citation\" target=\"blank\">(Doc NSA50YrsMathCrypt1988, p.99)</a>\n\n Institutional Actors and Roles\nKey U.S. actors involved in space-related intelligence include the Defense Intelligence Agency (DIA), the National Security Agency (NSA), the Central Intelligence",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited NSA50YrsMathCrypt1988 page content appears to be a fragmented bibliography and internal notes listing NSA-related publications and items. It does not explicitly mention Defense Intelligence Agency (DIA), Central Intelligence Agency (CIA), or space-related intelligence activities, nor does it clearly support the claim about institutional actors and their roles in space propulsion or surveillance."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSAdefsmacCommAsset1964-1989_1993#page=41\" class=\"citation\" target=\"_blank\">(Doc #1993, p.41)</a>",
+          "document_id": "NSAdefsmacCommAsset1964-1989_1993",
+          "page_no": 41
+        },
+        "context": "Federal Bureau of Investigation (FBI). Documents show a recurring pattern of:\n\n- DEFSMAC and space intelligence coordination aimed at improving analytic capabilities and interdepartmental reporting. <a href=\"/pdf/NSAdefsmacCommAsset1964-19891993page=41\" class=\"citation\" target=\"blank\">(Doc 1993, p.41)</a>\n- NSA\u2019s role in space-related SIGINT and the broader intelligence apparatus used to monitor Soviet space and missile activities. <a href=\"/pdf/NSAdefsmacCommAsset1964-19891993page=58\" class=\"citati",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The page 41 excerpt shows DEFSMAC coordinating space intelligence analysis/reporting and expanding time-sensitive intelligence flow with USSPACECOM, supporting the first claim about coordination and analytic improvements. It does not mention NSA\u2019s role or SIGINT related to monitoring Soviet space/missile activities, so the second bullet is not supported by this page."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSAdefsmacCommAsset1964-1989_1993#page=58\" class=\"citation\" target=\"_blank\">(Doc #1993, p.58)</a>",
+          "document_id": "NSAdefsmacCommAsset1964-1989_1993",
+          "page_no": 58
+        },
+        "context": "91993page=41\" class=\"citation\" target=\"blank\">(Doc 1993, p.41)</a>\n- NSA\u2019s role in space-related SIGINT and the broader intelligence apparatus used to monitor Soviet space and missile activities. <a href=\"/pdf/NSAdefsmacCommAsset1964-19891993page=58\" class=\"citation\" target=\"blank\">(Doc 1993, p.58)</a>\n- NRO and SIGINT-focused space assets that produced intelligence on space systems and launches. NRO-SIGINTsatStory1994u.pdf\n- CIA and FBI functions in counterintelligence, with case files and oper",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The cited page\u2019s endnotes reference NSA-related SIGINT infrastructure (e.g., planning for a SIGINT Missile and Astronautics Center and DEFSMAC/NSA interagency agreements), which supports NSA\u2019s role in space-related SIGINT and the defense/intelligence apparatus. However, the page does not address NRO assets or CIA/FBI counterintelligence functions, so those portions of the claim aren\u2019t supported by this source."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DoD-CIAjointInspecNRO_1996#page=155\" class=\"citation\" target=\"_blank\">(Doc #1996, p.155)</a>",
+          "document_id": "DoD-CIAjointInspecNRO_1996",
+          "page_no": 155
+        },
+        "context": "ned at the policy level. Joint inspections and coordination efforts with the CIA and DoD highlight ongoing concerns about safeguarding space-related knowledge while enabling competitive intelligence. <a href=\"/pdf/DoD-CIAjointInspecNRO1996page=155\" class=\"citation\" target=\"blank\">(Doc 1996, p.155)</a>\n\n- The Apollo-Soyuz era and the broader trajectory of international space collaboration and competition reflect a nuanced balance between scientific exchange and strategic intelligence. <a href=\"/pdf",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited page is a bibliography of historical documents and memoranda related to national reconnaissance and space policy, but it contains no explicit reference to joint inspections, CIA/DoD coordination, safeguarding space knowledge, or the Apollo-Soyuz era as described in the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NASAhaftsoscMono54#page=115\" class=\"citation\" target=\"_blank\">(Doc #NASAhaftsoscMono54, p.115)</a>",
+          "document_id": "NASAhaftsoscMono54",
+          "page_no": 115
+        },
+        "context": "6, p.155)</a>\n\n- The Apollo-Soyuz era and the broader trajectory of international space collaboration and competition reflect a nuanced balance between scientific exchange and strategic intelligence. <a href=\"/pdf/NASAhaftsoscMono54page=115\" class=\"citation\" target=\"blank\">(Doc NASAhaftsoscMono54, p.115)</a>\n\n Legal Framework: Espionage Laws and their Application to Space\n\n Core Provisions and prohibitions\nThe primary legal anchors are the Espionage Laws in Title 18, Sections 793 and 794, which make",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited page is a Selective Annotated Bibliography listing sources on space programs and cooperation, but it contains no textual evidence or analysis that supports the specific claim about the Apollo-Soyuz era\u2019s balance between scientific exchange and strategic intelligence or about the Espionage Laws."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/FSTC-381-2016_1965#page=5\" class=\"citation\" target=\"_blank\">(Doc #1965, p.5)</a>",
+          "document_id": "FSTC-381-2016_1965",
+          "page_no": 5
+        },
+        "context": "ass=\"citation\" target=\"blank\">(Doc 1stPgClassGAOrptsPre1972, p.56)</a>, <a href=\"/pdf/1stPgClassGAOrptsPre1972page=206\" class=\"citation\" target=\"blank\">(Doc 1stPgClassGAOrptsPre1972, p.206)</a>, <a href=\"/pdf/FSTC-381-20161965page=5\" class=\"citation\" target=\"blank\">(Doc 1965, p.5)</a>\n\n- The explicit prohibition against improper disclosure shapes how agencies classify, store, and share sensitive space-related intelligence and technology data. <a href=\"/pdf/FSTC-381-20161965page=",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited page discusses general prohibitions on disclosure (Espionage Law) and classification of an intelligence document, but it does not mention space-related data or describe how agencies classify, store, or share space-related intelligence/technology data. Therefore it does not substantiate the specific claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/19DCAApublications_1996-2013#page=259\" class=\"citation\" target=\"_blank\">(Doc #1996-2013, p.259)</a>",
+          "document_id": "19DCAApublications_1996-2013",
+          "page_no": 259
+        },
+        "context": "arget=\"blank\">(Doc 1965, p.5)</a>\n- Supplemental materials emphasize the enduring significance of these statutes for both foreign intelligence operations and domestic counterintelligence oversight. <a href=\"/pdf/19DCAApublications1996-2013page=259\" class=\"citation\" target=\"blank\">(Doc 1996-2013, p.259)</a>\n\n Documentation and Oversight\nSeveral documents frame the legal context for intelligence work in space and missile domains, including reports to Congress and internal security memoranda. They unde",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The cited page defines espionage and cites the Espionage Act, which underpins actions related to national defense information\u2014relevant to both foreign intelligence and domestic security. However, it does not explicitly discuss the enduring significance of these statutes or address domestic counterintelligence oversight as claimed."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ClassGAOrptTitlPgs_1972-1990#page=253\" class=\"citation\" target=\"_blank\">(Doc #1972-1990, p.253)</a>",
+          "document_id": "ClassGAOrptTitlPgs_1972-1990",
+          "page_no": 253
+        },
+        "context": "g reports to Congress and internal security memoranda. They underscore that unauthorized transmission of sensitive information threatens national security, consistent with the Espionage Act language. <a href=\"/pdf/ClassGAOrptTitlPgs1972-1990page=253\" class=\"citation\" target=\"blank\">(Doc 1972-1990, p.253)</a>\n\n- Foreword materials and introductory sections in older compilations explicitly remind readers of the statutory boundaries and the penalties for violations, reinforcing the legal gravity of space-re",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The page confirms the GAO\u2019s report to Congress and includes Espionage Act language about prohibiting transmission to unauthorized persons, which supports the idea that unauthorized transmission concerns national defense. However, it does not mention \u201cinternal security memoranda\u201d nor explicitly state that such transmission \u201cthreatens\u201d national security (it says information affecting national defense), so the claim is only partially supported."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/FBI-65-HQ-59264-IIC_1950-1951#page=86\" class=\"citation\" target=\"_blank\">(Doc #1950-1951, p.86)</a>",
+          "document_id": "FBI-65-HQ-59264-IIC_1950-1951",
+          "page_no": 86
+        },
+        "context": ">(Doc 1stPgClassGAOrptsPre1972, p.56)</a>\n- Contemporary-to-1950s materials similarly frame the legal thresholds that shaped espionage and counterintelligence practices in the space program context. <a href=\"/pdf/FBI-65-HQ-59264-IIC1950-1951page=86\" class=\"citation\" target=\"blank\">(Doc 1950-1951, p.86)</a>\n\n Space Intelligence Infrastructure: Gathering, Analysis, and Protection\n\n Defense Space Intelligence Integration\nDEFSMAC (Defense Special Security Communications and Analysis Center) and relate",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "UNSUPPORTED (HIGH): The cited page is a 1950-1951 FBI internal memo about a proposed intelligence coverage plan for Alaska in the event of invasion and discusses espionage logistics (e.g., \u201cstay behind\u201d agents). It contains no discussion of legal thresholds or counterintelligence practices specifically in the space program context, so it does not support the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_237647#page=1\" class=\"citation\" target=\"_blank\">(Doc #237647, p.1)</a>",
+          "document_id": "DIA_FileId_237647",
+          "page_no": 1
+        },
+        "context": "to understanding Soviet capabilities in these domains. DIA and NSA materials discuss advanced propulsion concepts and the need to monitor space launch data, as well as related defense considerations. <a href=\"/pdf/DIAFileId237647page=1\" class=\"citation\" target=\"blank\">(Doc 237647, p.1)</a>, <a href=\"/pdf/TwoReptsUSAFGuidedMissileTests1953page=49\" class=\"citation\" target=\"blank\">(Doc 1953, p.49)</a>\n\n- Telemetry, tracking, and launch analysis were central to both defense planni",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The page shows a DIA document titled \"Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering,\" which supports that DIA discusses advanced propulsion concepts. However, the excerpt does not mention monitoring space launch data, telemetry/tracking, or related defense considerations, nor NSA materials, so the page does not fully support the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/KHRUVIS_1957-1959#page=341\" class=\"citation\" target=\"_blank\">(Doc #1957-1959, p.341)</a>",
+          "document_id": "KHRUVIS_1957-1959",
+          "page_no": 341
+        },
+        "context": "lligence concerns fed into broader national security planning. <a href=\"/pdf/FBI-65-HQ-59264-IIC1950-1951page=86\" class=\"citation\" target=\"blank\">(Doc 1950-1951, p.86)</a>\n- Khruvis-era documents <a href=\"/pdf/KHRUVIS1957-1959page=341\" class=\"citation\" target=\"blank\">(Doc 1957-1959, p.341)</a> reflect interagency communications and security classifications tied to espionage and defense-related information during near-peer competition. <a href=\"/pdf/KHRUVIS1957-1959page=341\" class=\"citati",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The page shows an instruction to forward information to the Espionage Section and contains a Referral/Consult process, which suggests espionage-related handling and some level of internal/interagency coordination. However, it does not explicitly reference broader national security planning, security classifications, or near-peer competition, so it only partially supports the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/FOIA_NRO_Ltrs-Resp_2003#page=9\" class=\"citation\" target=\"_blank\">(Doc #2003, p.9)</a>",
+          "document_id": "FOIA_NRO_Ltrs-Resp_2003",
+          "page_no": 9
+        },
+        "context": "tion considerations, and the broader implications for space and defense programs. Documents discuss the anatomy of spying, covert action planning, and the persistence of counterintelligence concerns. <a href=\"/pdf/FOIANROLtrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc 2003, p.9)</a>, <a href=\"/pdf/FOIANROLtrs-Resp2003page=220\" class=\"citation\" target=\"blank\">(Doc 2003, p.220)</a>, <a href=\"/pdf/FOIAreqsJeffreyScudderCY2012page=31\" class=\"citation\" target=\"blank\">(Doc C",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The provided page 9 excerpt appears to be about the FOIA requester\u2019s qualifications, intended use, and publications, not about the anatomy of spying, covert action planning, or counterintelligence concerns. It does not contain or substantiate the claimed topics."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/FOIA_NRO_Ltrs-Resp_2003#page=220\" class=\"citation\" target=\"_blank\">(Doc #2003, p.220)</a>",
+          "document_id": "FOIA_NRO_Ltrs-Resp_2003",
+          "page_no": 220
+        },
+        "context": "he anatomy of spying, covert action planning, and the persistence of counterintelligence concerns. <a href=\"/pdf/FOIANROLtrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc 2003, p.9)</a>, <a href=\"/pdf/FOIANROLtrs-Resp2003page=220\" class=\"citation\" target=\"blank\">(Doc 2003, p.220)</a>, <a href=\"/pdf/FOIAreqsJeffreyScudderCY2012page=31\" class=\"citation\" target=\"blank\">(Doc CY2012, p.31)</a>\n\n Defectors and Production of Space-Related Intelligence\nMaterials on defector handli",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The cited page (Doc 2003, p.220) lists Jeffrey Richelson\u2019s books on intelligence and espionage, which supports that the author covers topics related to spying and the intelligence community. However, it does not explicitly mention \u201ccovert action planning\u201d or \u201cthe persistence of counterintelligence concerns,\u201d so it only partially substantiates the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/FOIAreqsJeffreyScudder_CY2012#page=31\" class=\"citation\" target=\"_blank\">(Doc #CY2012, p.31)</a>",
+          "document_id": "FOIAreqsJeffreyScudder_CY2012",
+          "page_no": 31
+        },
+        "context": "f=\"/pdf/FOIANROLtrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc 2003, p.9)</a>, <a href=\"/pdf/FOIANROLtrs-Resp2003page=220\" class=\"citation\" target=\"blank\">(Doc 2003, p.220)</a>, <a href=\"/pdf/FOIAreqsJeffreyScudderCY2012page=31\" class=\"citation\" target=\"blank\">(Doc CY2012, p.31)</a>\n\n Defectors and Production of Space-Related Intelligence\nMaterials on defector handling, as well as intelligence production in compressed or \u201csmall post\u201d environments, shed light on how scarce res",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The CY2012 page 31 content includes the headings \u201cWhat To Do With Defectors,\u201d \u201cProduction at Small Posts,\u201d and \u201cIntelligence for the Space Race,\u201d which map directly to defector handling, space-related intelligence, and production in compressed/small-post environments mentioned in the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ADA268219_CatAVProds_Vol3_AfandMiscProds_1984#page=341\" class=\"citation\" target=\"_blank\">(Doc #1984, p.341)</a>",
+          "document_id": "ADA268219_CatAVProds_Vol3_AfandMiscProds_1984",
+          "page_no": 341
+        },
+        "context": "uding public-facing training films and internal guidance. These resources stress recognizing espionage approaches and reporting to authorities, with a focus on protecting sensitive space information. <a href=\"/pdf/ADA268219CatAVProdsVol3AfandMiscProds1984page=341\" class=\"citation\" target=\"blank\">(Doc 1984, p.341)</a>\n\n- Training content often emphasizes the manipulation tactics used by hostile agents and the importance of reporting suspicious encounters to supervisors or OSI (Office of Special Investigations). <a",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The cited page clearly supports the claim that training content emphasizes recognizing hostile espionage approaches and reporting to authorities (e.g., \"LEARN TO RECOGNIZE THE APPROACH AND REPORT IT TO YOUR COMMANDER OR THE OSI\"). It also notes internal distribution and content typical of training films. However, the page does not explicitly mention protecting \u201csensitive space information\u201d or publicly facing training materials, so the space-information focus is not clearly evidenced."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSA-WasntAllMagic_2002#page=281\" class=\"citation\" target=\"_blank\">(Doc #2002, p.281)</a>",
+          "document_id": "NSA-WasntAllMagic_2002",
+          "page_no": 281
+        },
+        "context": "nce considerations fed into policy and scientific collaboration. Notable references include analyses of the Atlas-Abner trajectory and the cryptanalytic dimension of wartime and postwar intelligence. <a href=\"/pdf/NSA-WasntAllMagic2002page=281\" class=\"citation\" target=\"blank\">(Doc 2002, p.281)</a>, <a href=\"/pdf/NASAshaftsoscMono54page=115\" class=\"citation\" target=\"blank\">(Doc NASAshaftsoscMono54, p.115)</a>\n\n Technical and Analytic Dimensions\n\n Propulsion, Spacecraft, and Defense Prop",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The cited page explicitly discusses the Atlas and Abner projects, the cryptanalytic dimension of wartime/postwar intelligence, and notes policy implications (e.g., informing policymakers) and the involvement of scientific advisory structures, aligning with the claim about Atlas-Abner analysis and policy/scientific collaboration."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NASAshaftsoscMono54#page=115\" class=\"citation\" target=\"_blank\">(Doc #NASAshaftsoscMono54, p.115)</a>",
+          "document_id": "NASAshaftsoscMono54",
+          "page_no": 115
+        },
+        "context": "the Atlas-Abner trajectory and the cryptanalytic dimension of wartime and postwar intelligence. <a href=\"/pdf/NSA-WasntAllMagic2002page=281\" class=\"citation\" target=\"blank\">(Doc 2002, p.281)</a>, <a href=\"/pdf/NASAshaftsoscMono54page=115\" class=\"citation\" target=\"blank\">(Doc NASAshaftsoscMono54, p.115)</a>\n\n Technical and Analytic Dimensions\n\n Propulsion, Spacecraft, and Defense Propulsion\nDeclassified materials note advanced propulsion concepts and space propulsion research as part of the defense",
+        "relevance_score": null,
+        "verdict": null,
+        "confidence": null,
+        "explanation": null
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NRO-Ltrs-Resp_2003#page=9\" class=\"citation\" target=\"_blank\">(Doc #2003, p.9)</a>",
+          "document_id": "NRO-Ltrs-Resp_2003",
+          "page_no": 9
+        },
+        "context": "/NASAshaftsoscMono54page=115\" class=\"citation\" target=\"blank\">(Doc NASAshaftsoscMono54, p.115)</a>, <a href=\"/pdf/DIAFileId237647page=1\" class=\"citation\" target=\"blank\">(Doc 237647, p.1)</a>, <a href=\"/pdf/NRO-Ltrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc 2003, p.9)</a>, <a href=\"/pdf/FOIANROLtrs-Resp2003page=220\" class=\"citation\" target=\"blank\">(Doc 2003, p.220)</a>, <a href=\"/pdf/TwoReptsUSAFGuidedMissileTests1953page=49\" class=\"citation\" target=\"bla",
+        "relevance_score": null,
+        "verdict": null,
+        "confidence": null,
+        "explanation": null
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/InSCHomIndex_2010#page=29\" class=\"citation\" target=\"_blank\">(Doc #2010, p.29)</a>",
+          "document_id": "InSCHomIndex_2010",
+          "page_no": 29
+        },
+        "context": "target=\"blank\">FBI-HQ-74480-ForeignIntelAnal1972-1988uchunk23</a>, <a href=\"/pdf/ADA268219CatAVProdsVol3AfandMiscProds1984page=341\" class=\"citation\" target=\"blank\">(Doc 1984, p.341)</a>, <a href=\"/pdf/InSCHomIndex2010page=29\" class=\"citation\" target=\"blank\">(Doc 2010, p.29)</a>, <a href=\"/pdf/NSAohiREDACTEDiad2008page=5\" class=\"citation\" target=\"blank\">(Doc 2008, p.5)</a>, <a href=\"/documents/VOA-Legacy-Assets2011chunk4\" class=\"citation\" target=\"blank\">VOA-Legacy-As",
+        "relevance_score": null,
+        "verdict": null,
+        "confidence": null,
+        "explanation": null
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSAohiREDACTEDiad_2008#page=5\" class=\"citation\" target=\"_blank\">(Doc #2008, p.5)</a>",
+          "document_id": "NSAohiREDACTEDiad_2008",
+          "page_no": 5
+        },
+        "context": "CatAVProdsVol3AfandMiscProds1984page=341\" class=\"citation\" target=\"blank\">(Doc 1984, p.341)</a>, <a href=\"/pdf/InSCHomIndex2010page=29\" class=\"citation\" target=\"blank\">(Doc 2010, p.29)</a>, <a href=\"/pdf/NSAohiREDACTEDiad2008page=5\" class=\"citation\" target=\"blank\">(Doc 2008, p.5)</a>, <a href=\"/documents/VOA-Legacy-Assets2011chunk4\" class=\"citation\" target=\"blank\">VOA-Legacy-Assets2011chunk4</a>, NA SdefsmacCommAsset1964-19891993p58, <a href=\"/pdf/FSTC-381-20161965pa",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "HIGH",
+        "explanation": "PARTIAL (HIGH): The NSA 2008 page 5 excerpt discusses costs of equipment versus satellites and describes cryptographic techniques to protect software, which supports aspects of the claim related to crypto equipment and security methods. However, the claim cites multiple other documents (1984, 2010, VOA assets, etc.) not shown in the provided page, so the page alone cannot fully substantiate the entire multi-source claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSAohList_1971-2010#page=7\" class=\"citation\" target=\"_blank\">(Doc #1971-2010, p.7)</a>",
+          "document_id": "NSAohList_1971-2010",
+          "page_no": 7
+        },
+        "context": "\" class=\"citation\" target=\"blank\">(Doc 1stPgClassGAOrptsPre1972, p.56)</a>\n- <a href=\"/pdf/TwoReptsUSAFGuidedMissileTests1953page=49\" class=\"citation\" target=\"blank\">(Doc 1953, p.49)</a>\n- <a href=\"/pdf/NSAohList1971-2010page=7\" class=\"citation\" target=\"blank\">(Doc 1971-2010, p.7)</a>\n- FBI-KayHalle1949-1965.pdf\n- <a href=\"/documents/VOA-Legacy-Assets2011chunk4\" class=\"citation\" target=\"blank\">VOA-Legacy-Assets2011chunk4</a>\n- <a href=\"/pdf/USAFohCat1982page=751\" class",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The cited NSAohList_1971-2010 page 7 includes explicit references to the NSA\u2019s role in the Cuban Missile Crisis (October 1962) and to the Cuban Missile Crisis from a Soviet target analyst\u2019s perspective, which directly supports the claim tied to that document."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/USAFohCat_1982#page=751\" class=\"citation\" target=\"_blank\">(Doc #1982, p.751)</a>",
+          "document_id": "USAFohCat_1982",
+          "page_no": 751
+        },
+        "context": "n\" target=\"blank\">(Doc 1971-2010, p.7)</a>\n- FBI-KayHalle1949-1965.pdf\n- <a href=\"/documents/VOA-Legacy-Assets2011chunk4\" class=\"citation\" target=\"blank\">VOA-Legacy-Assets2011chunk4</a>\n- <a href=\"/pdf/USAFohCat1982page=751\" class=\"citation\" target=\"blank\">(Doc 1982, p.751)</a>\n- <a href=\"/pdf/FOIAreqsJeffreyScudderCY2012page=31\" class=\"citation\" target=\"blank\">(Doc CY2012, p.31)</a>\n- <a href=\"/pdf/FOIANROLtrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The cited USAFohCat_1982 page 751 content clearly includes SEA-related terms and reference numbers (e.g., SEA Operations: 731, 959, 1273; SEA Buildup; SEA Coordinating Council), which supports the SEA-related portion of the claim. However, the claim lists multiple other documents and items, and page 751 alone does not address those other sources, so the support is partial."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/INSCOM-Impersonal_Index_2010#page=29\" class=\"citation\" target=\"_blank\">(Doc #2010, p.29)</a>",
+          "document_id": "INSCOM-Impersonal_Index_2010",
+          "page_no": 29
+        },
+        "context": "ion\" target=\"blank\">(Doc NASAhaftsoscMono54, p.115)</a>\n- <a href=\"/documents/NatnlCryptoSchoolTVctrCat1991chunk39\" class=\"citation\" target=\"blank\">NatnlCryptoSchoolTVctrCat1991chunk39</a>\n- <a href=\"/pdf/INSCOM-ImpersonalIndex2010page=29\" class=\"citation\" target=\"blank\">(Doc 2010, p.29)</a>\n- <a href=\"/pdf/UnpubDocsDeconnISS2010-2016page=10\" class=\"citation\" target=\"blank\">(Doc 2010-2016, p.10)</a>\n- NRO-SIGINTsatStory1994u.pdf \n- <a href=\"/pdf/ADA268219CatAVProdsVol3AfandMisc",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The cited INSCOM-Impersonal_Index_2010 page 29 content explicitly lists \"BELGIUM UNITED STATES FORCES ESPIONAGE\" and related variants, directly supporting the claim that this page contains espionage-related entries for Belgium/US forces."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/UnpubDocsDeconnISS_2010-2016#page=10\" class=\"citation\" target=\"_blank\">(Doc #2010-2016, p.10)</a>",
+          "document_id": "UnpubDocsDeconnISS_2010-2016",
+          "page_no": 10
+        },
+        "context": "1chunk39\" class=\"citation\" target=\"blank\">NatnlCryptoSchoolTVctrCat1991chunk39</a>\n- <a href=\"/pdf/INSCOM-ImpersonalIndex2010page=29\" class=\"citation\" target=\"blank\">(Doc 2010, p.29)</a>\n- <a href=\"/pdf/UnpubDocsDeconnISS2010-2016page=10\" class=\"citation\" target=\"blank\">(Doc 2010-2016, p.10)</a>\n- NRO-SIGINTsatStory1994u.pdf \n- <a href=\"/pdf/ADA268219CatAVProdsVol3AfandMiscProds1984page=341\" class=\"citation\" target=\"blank\">(Doc 1984, p.341)</a>\n- <a href=\"/pdf/TwoReptsUSAFGuided",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited page (UnpubDocsDeconnISS_2010-2016, p.10) shows a NASA/JSC letter regarding the International Space Station program and Roscosmos, with no mention of National Crypto School, TV center categories, NRO SIGINT satellite stories, or the other referenced documents. Therefore this page does not substantiate the stated claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/10OldestClassDocsCMA_1947-1989#page=5\" class=\"citation\" target=\"_blank\">(Doc #1947-1989, p.5)</a>",
+          "document_id": "10OldestClassDocsCMA_1947-1989",
+          "page_no": 5
+        },
+        "context": "sGAOrptsPre1972, p.206)</a>\n- <a href=\"/documents/FBIfile80-HQ-760UltrasonicListenDev1945-1969chunk15\" class=\"citation\" target=\"blank\">FBIfile80-HQ-760UltrasonicListenDev1945-1969chunk15</a>\n- <a href=\"/pdf/10OldestClassDocsCMA1947-1989page=5\" class=\"citation\" target=\"blank\">(Doc 1947-1989, p.5)</a>\n- <a href=\"/pdf/NRO-Ltrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc 2003, p.9)</a>\n- <a href=\"/pdf/NRO-Ltrs-Resp2003page=220\" class=\"citation\" target=\"blank\">(Doc 2003, p.220)</a>\n-",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited page content is a 1968 Deseret Test Center document (DTC 66-2) with security boilerplate and does not mention or substantiate any of the topics suggested by the claim (e.g., sGAOrptsPre1972, FBI Ultrasonic Listen Dev, or the other listed documents). Therefore, it does not support the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NRO-Ltrs-Resp_2003#page=220\" class=\"citation\" target=\"_blank\">(Doc #2003, p.220)</a>",
+          "document_id": "NRO-Ltrs-Resp_2003",
+          "page_no": 220
+        },
+        "context": "df/10OldestClassDocsCMA1947-1989page=5\" class=\"citation\" target=\"blank\">(Doc 1947-1989, p.5)</a>\n- <a href=\"/pdf/NRO-Ltrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc 2003, p.9)</a>\n- <a href=\"/pdf/NRO-Ltrs-Resp2003page=220\" class=\"citation\" target=\"blank\">(Doc 2003, p.220)</a>\n- <a href=\"/pdf/FOIANROLtrs-Resp2003page=9\" class=\"citation\" target=\"blank\">(Doc 2003, p.9)</a>\n- <a href=\"/pdf/FOIANROLtrs-Resp2003page=220\" class=\"citation\" target=\"blank\">(Doc 2003, p.",
+        "relevance_score": null,
+        "verdict": null,
+        "confidence": null,
+        "explanation": null
+      }
+    ]
+  }
+}

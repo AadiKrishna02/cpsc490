@@ -1,0 +1,786 @@
+{
+  "topic": "FBI surveillance",
+  "generated_at": "2025-11-26T20:03:27.035282",
+  "model": "gpt-5-nano",
+  "num_sources": 40,
+  "source_documents": [
+    {
+      "doc_id": "FBI-AshReport_1977-1981",
+      "title": "FBI-AshReport_1977-1981.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 1.0
+    },
+    {
+      "doc_id": "9IC-IGclosDocsInvests_2012-2013",
+      "title": "9IC-IGclosDocsInvests_2012-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.9555709892873648
+    },
+    {
+      "doc_id": "FBI-62-HQ-97308-PhoneSecurity_1952-1995",
+      "title": "FBI-62-HQ-97308-PhoneSecurity_1952-1995.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.9102048615454064
+    },
+    {
+      "doc_id": "ThesisRegDomIntelSurvAct2009",
+      "title": "ThesisRegDomIntelSurvAct2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7997188869729348
+    },
+    {
+      "doc_id": "9IC-IGclosDocsInvests_2012-2013",
+      "title": "9IC-IGclosDocsInvests_2012-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7855771152182027
+    },
+    {
+      "doc_id": "NARAclintonPLfoiaLogs2008-2020",
+      "title": "NARAclintonPLfoiaLogs2008-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7698232392603326
+    },
+    {
+      "doc_id": "ThesisRegDomIntelSurvAct2009",
+      "title": "ThesisRegDomIntelSurvAct2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7592544845941178
+    },
+    {
+      "doc_id": "OCDETFhistory_1984-1990",
+      "title": "OCDETFhistory_1984-1990.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7523764012603751
+    },
+    {
+      "doc_id": "15DOE-OIGrpts_1994-2013",
+      "title": "15DOE-OIGrpts_1994-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.751259122775147
+    },
+    {
+      "doc_id": "NMBtransBriefBiden_2020",
+      "title": "NMBtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7387051033368068
+    },
+    {
+      "doc_id": "32DOE-IGinvsClosingDocs_2000-2017",
+      "title": "32DOE-IGinvsClosingDocs_2000-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7092156741107505
+    },
+    {
+      "doc_id": "ThesisRegDomIntelSurvAct2009",
+      "title": "ThesisRegDomIntelSurvAct2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7074624071478672
+    },
+    {
+      "doc_id": "FBI-FOIA-PA-Ref-Manual",
+      "title": "FBI-FOIA-PA-Ref-Manual.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7057855904271209
+    },
+    {
+      "doc_id": "DIAintelLawHndbk_2004",
+      "title": "DIAintelLawHndbk_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6982330570052733
+    },
+    {
+      "doc_id": "JMDpresidTransBriefs2000-2016",
+      "title": "JMDpresidTransBriefs2000-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6822736812704915
+    },
+    {
+      "doc_id": "ThesisRegDomIntelSurvAct2009",
+      "title": "ThesisRegDomIntelSurvAct2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6644057963544239
+    },
+    {
+      "doc_id": "InterioreEmailBurningMan2019",
+      "title": "InterioreEmailBurningMan2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6512364424094665
+    },
+    {
+      "doc_id": "ThesisRegDomIntelSurvAct2009",
+      "title": "ThesisRegDomIntelSurvAct2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6508842794938938
+    },
+    {
+      "doc_id": "DIA_FileId_238597",
+      "title": "DIA_FileId_238597.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6413074179475073
+    },
+    {
+      "doc_id": "FBI_Pretexts_and_Cover_Techniques_May-1956",
+      "title": "FBI_Pretexts_and_Cover_Techniques_May-1956.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "DOJviewsLetters_2001-2005",
+      "title": "DOJviewsLetters_2001-2005.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "FBItransBriefBiden_2020",
+      "title": "FBItransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "USA-CID-Reg195-1ext",
+      "title": "USA-CID-Reg195-1ext.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.597805015970631
+    },
+    {
+      "doc_id": "FBI-AshReport_1977-1981",
+      "title": "FBI-AshReport_1977-1981.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5907820768013818
+    },
+    {
+      "doc_id": "FBI-NSC-SCTSC_1963-1964",
+      "title": "FBI-NSC-SCTSC_1963-1964.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5870340213748528
+    },
+    {
+      "doc_id": "DIA_FileId_238597",
+      "title": "DIA_FileId_238597.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5751835603374532
+    },
+    {
+      "doc_id": "NGB-ANG-ERAA-FBIrecordsStorage_2013",
+      "title": "NGB-ANG-ERAA-FBIrecordsStorage_2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5721188369207145
+    },
+    {
+      "doc_id": "FBIcorresHJC_2012-2013",
+      "title": "FBIcorresHJC_2012-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5715271092220839
+    },
+    {
+      "doc_id": "CorresOLC-Kavanaugh_2001-2006",
+      "title": "CorresOLC-Kavanaugh_2001-2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.559869144867836
+    },
+    {
+      "doc_id": "FBItransBriefBiden_2020",
+      "title": "FBItransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.551731870363022
+    },
+    {
+      "doc_id": "FBI_In_Our_Open_Society_1953",
+      "title": "FBI_In_Our_Open_Society_1953.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5458039886457304
+    },
+    {
+      "doc_id": "CBP-IA-Directives_1984-2009",
+      "title": "CBP-IA-Directives_1984-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5396608026236217
+    },
+    {
+      "doc_id": "DOJinvestigationRpts_2007-2010",
+      "title": "DOJinvestigationRpts_2007-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5384086689144528
+    },
+    {
+      "doc_id": "DHS-OIGspecAgentHdbk_2007-2017",
+      "title": "DHS-OIGspecAgentHdbk_2007-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5317797068952668
+    },
+    {
+      "doc_id": "FBI-AshReport_1977-1981",
+      "title": "FBI-AshReport_1977-1981.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5230862092918598
+    },
+    {
+      "doc_id": "FBI-FOIA-PA-Ref-Manual",
+      "title": "FBI-FOIA-PA-Ref-Manual.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5188190444683553
+    },
+    {
+      "doc_id": "DOJviewsLetters109-112Cong_2005-2007",
+      "title": "DOJviewsLetters109-112Cong_2005-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5166486381225445
+    },
+    {
+      "doc_id": "DIA_FileId_238597",
+      "title": "DIA_FileId_238597.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5108469280829125
+    },
+    {
+      "doc_id": "DIA_FileId_238597",
+      "title": "DIA_FileId_238597.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5006729887420933
+    },
+    {
+      "doc_id": "FBI-FOIA-PA-Ref-Manual",
+      "title": "FBI-FOIA-PA-Ref-Manual.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5003039522705413
+    }
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "doc_id": "FBI-AshReport_1977-1981",
+      "title": "FBI-AshReport_1977-1981.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 246,
+      "text_preview": "~..:... _;..~.\u2022. ~...,~i.-\u00b7---~__:,.,~_;...:...:...:.~.4.-!-;... ~ _ -~:...:._...:._.;__~~-~~--~\u00b7 -\u00b7:.. ~\u00b7;:\u00b7.. \u00b7\u00b7; \u00b7 \u00b7.!\n\u2022 \u00b7,---: ---\u00b7~ - ~..:... _._,... -\n\n\n\n\n\n\n\n(5) Routine Correspondence prepared ...",
+      "text_length": 511,
+      "relevance_score": 1.0,
+      "semantic_score": 1.0,
+      "bm25_score": 1.0,
+      "citation_key": "FBI-AshReport_1977-1981_p246"
+    },
+    {
+      "index": 1,
+      "doc_id": "9IC-IGclosDocsInvests_2012-2013",
+      "title": "9IC-IGclosDocsInvests_2012-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 9,
+      "text_preview": "described the surveillance as electronic eavesdro. a o~\nonal communications\nand physical surveillance oem Virginia neighborhood\n\u2022 -;1111\\egations are supported\nand throughout the Washington, DC metro ...",
+      "text_length": 512,
+      "relevance_score": 0.9555709892873648,
+      "semantic_score": 0.9550405221143066,
+      "bm25_score": 0.9563666900469522,
+      "citation_key": "9IC-IGclosDocsInvests_2012-2013_p9"
+    },
+    {
+      "index": 2,
+      "doc_id": "FBI-62-HQ-97308-PhoneSecurity_1952-1995",
+      "title": "FBI-62-HQ-97308-PhoneSecurity_1952-1995.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 618,
+      "text_preview": "the technical. surveillance countermeasures team.\nFor a discovery of a technical surveillance penetration made within\nthe United States (including Puerto Rico), the FBI has primary\njurisdiction subjec...",
+      "text_length": 465,
+      "relevance_score": 0.9102048615454064,
+      "semantic_score": 0.8503414359090107,
+      "bm25_score": 1.0,
+      "citation_key": "FBI-62-HQ-97308-PhoneSecurity_1952-1995_p618"
+    },
+    {
+      "index": 3,
+      "doc_id": "ThesisRegDomIntelSurvAct2009",
+      "title": "ThesisRegDomIntelSurvAct2009.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 119,
+      "text_preview": "exist prior\n\nto authorization of the surveillance. Such a requirement defeats the purpose of\n\nexpediency when emergency surveillance only can be applied to identified or suspected\n\ntargets involved in...",
+      "text_length": 446,
+      "relevance_score": 0.7997188869729348,
+      "semantic_score": 0.9513251584560997,
+      "bm25_score": 0.5723094797481875,
+      "citation_key": "ThesisRegDomIntelSurvAct2009_p119"
+    },
+    {
+      "index": 4,
+      "doc_id": "9IC-IGclosDocsInvests_2012-2013",
+      "title": "9IC-IGclosDocsInvests_2012-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 9,
+      "text_preview": "cted CIA and FBI officials who\ndenied any knowledge of surveillance actiony: ains \u2022\u2022mrrPwe reached similar\nwould be knowledgeable of a sanctioned surveillance ooeration al:! ainst~\nresults after inter...",
+      "text_length": 424,
+      "relevance_score": 0.7855771152182027,
+      "semantic_score": 0.7132606960346378,
+      "bm25_score": 0.8940517439935499,
+      "citation_key": "9IC-IGclosDocsInvests_2012-2013_p9"
+    },
+    {
+      "index": 5,
+      "doc_id": "NARAclintonPLfoiaLogs2008-2020",
+      "title": "NARAclintonPLfoiaLogs2008-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 97,
+      "text_preview": "rds relating to FBI investigative reports on U. S. Persons not related to a background investigation\n\nfor a security clearance or position in the U. S. govemment\n\n5/3/2020 records relating to FBI inve...",
+      "text_length": 512,
+      "relevance_score": 0.7698232392603326,
+      "semantic_score": 0.6163720654338877,
+      "bm25_score": 1.0,
+      "citation_key": "NARAclintonPLfoiaLogs2008-2020_p97"
+    },
+    {
+      "index": 6,
+      "doc_id": "ThesisRegDomIntelSurvAct2009",
+      "title": "ThesisRegDomIntelSurvAct2009.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 55,
+      "text_preview": "files in 1972. 131 However, the FBI was not alone. The Church Committee\n\nassembled ominous statistics that revealed the extent to which the govemment infringed\n\nupon the civil rights of American citiz...",
+      "text_length": 504,
+      "relevance_score": 0.7592544845941178,
+      "semantic_score": 0.7265664703516446,
+      "bm25_score": 0.8082865059578277,
+      "citation_key": "ThesisRegDomIntelSurvAct2009_p55"
+    },
+    {
+      "index": 7,
+      "doc_id": "OCDETFhistory_1984-1990",
+      "title": "OCDETFhistory_1984-1990.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 146,
+      "text_preview": "xperience\nfor the FBI in narcotics investigations. With greater\nexperience in narcotics investigations, the FBI has\ncontinued to press its attack against organized crime\ngroups and has begun to invest...",
+      "text_length": 511,
+      "relevance_score": 0.7523764012603751,
+      "semantic_score": 0.8463344886324515,
+      "bm25_score": 0.6114392702022605,
+      "citation_key": "OCDETFhistory_1984-1990_p146"
+    },
+    {
+      "index": 8,
+      "doc_id": "15DOE-OIGrpts_1994-2013",
+      "title": "15DOE-OIGrpts_1994-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 45,
+      "text_preview": "us that this is the only issue paperl--~=--\u00b7ftN?).(b)(?)\n\nthat cited the 19 FBI investigatio~e number of FBI investigations cited w~\n\n~~I(Sl,(b)j7C:;::~~;!=~~~~~J2 b~~; v~ notified anyone J:\\~~.:!~1ha...",
+      "text_length": 443,
+      "relevance_score": 0.751259122775147,
+      "semantic_score": 1.0,
+      "bm25_score": 0.3781478069378674,
+      "citation_key": "15DOE-OIGrpts_1994-2013_p45"
+    },
+    {
+      "index": 9,
+      "doc_id": "NMBtransBriefBiden_2020",
+      "title": "NMBtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 55,
+      "text_preview": "technology\nand computer networks eroding the U. S. Govemment\u2019s and the FBI\u2019s ability to conduct\nelectronic surveillance (data intercept), threatening the Bureau\u2019s effectiveness in each of its\ninvestig...",
+      "text_length": 429,
+      "relevance_score": 0.7387051033368068,
+      "semantic_score": 1.0,
+      "bm25_score": 0.346762758342017,
+      "citation_key": "NMBtransBriefBiden_2020_p55"
+    },
+    {
+      "index": 10,
+      "doc_id": "32DOE-IGinvsClosingDocs_2000-2017",
+      "title": "32DOE-IGinvsClosingDocs_2000-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 36,
+      "text_preview": "FBI,\nCONDUCTED SURVEILLANCE WHILE AN FBI AGENT ATTENDED A TRADE\nFAIR TO ATTEMPT TO CONTACT INDIVIDUALS ASSOCIATED WITH\nALLEGATIONS OF CORRUPT BUSINESS PRACTICES. THE FBI AGENT MET\nBRIEFLY WITH! CbJC6J...",
+      "text_length": 452,
+      "relevance_score": 0.7092156741107505,
+      "semantic_score": 0.5153594568512507,
+      "bm25_score": 1.0,
+      "citation_key": "32DOE-IGinvsClosingDocs_2000-2017_p36"
+    },
+    {
+      "index": 11,
+      "doc_id": "ThesisRegDomIntelSurvAct2009",
+      "title": "ThesisRegDomIntelSurvAct2009.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 122,
+      "text_preview": "s necessary\n\nfor identifying homegrown terrorists. For example, the only authorized surveillance\n\nmethods of electronic surveillance must conform to either the criminal code or the FISA\n\nstatute. In h...",
+      "text_length": 410,
+      "relevance_score": 0.7074624071478672,
+      "semantic_score": 0.5124373452464452,
+      "bm25_score": 1.0,
+      "citation_key": "ThesisRegDomIntelSurvAct2009_p122"
+    },
+    {
+      "index": 12,
+      "doc_id": "FBI-FOIA-PA-Ref-Manual",
+      "title": "FBI-FOIA-PA-Ref-Manual.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "tructions, such as reducing the image to 98%, etc.\n\nF o\n\np A\n\nMAN U A L\n\nMEMO 26\n\nTo:\nFrom:\nSubject:\nDate:\n\nAll FBI FOIPA Personnel\n1. Kevin O\"Brien\nElectronic Surveillance (ELSUR) Records\nMarch 31, 1...",
+      "text_length": 290,
+      "relevance_score": 0.7057855904271209,
+      "semantic_score": 0.6626900040619486,
+      "bm25_score": 0.7704289699748795,
+      "citation_key": "FBI-FOIA-PA-Ref-Manual_chunk12"
+    },
+    {
+      "index": 13,
+      "doc_id": "DIAintelLawHndbk_2004",
+      "title": "DIAintelLawHndbk_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 113,
+      "text_preview": "r with the contractors of that component, or\n\n(5) Members of the military services.\n\n\nIn addition, any physical surveillance of US persons that\noccurs outside a DoD installation in the United States m...",
+      "text_length": 460,
+      "relevance_score": 0.6982330570052733,
+      "semantic_score": 0.6709032881621336,
+      "bm25_score": 0.7392277102699827,
+      "citation_key": "DIAintelLawHndbk_2004_p113"
+    },
+    {
+      "index": 14,
+      "doc_id": "JMDpresidTransBriefs2000-2016",
+      "title": "JMDpresidTransBriefs2000-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 509,
+      "text_preview": "technology\nand computer networks eroding the U. S. Govemment\u2019s and the FBI\u2019s ability to conduct\nelectronic surveillance (data intercept), threatening the Bureau\u2019s effectiveness in each of its\ninvestig...",
+      "text_length": 441,
+      "relevance_score": 0.6822736812704915,
+      "semantic_score": 1.0,
+      "bm25_score": 0.20568420317622865,
+      "citation_key": "JMDpresidTransBriefs2000-2016_p509"
+    },
+    {
+      "index": 15,
+      "doc_id": "ThesisRegDomIntelSurvAct2009",
+      "title": "ThesisRegDomIntelSurvAct2009.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 120,
+      "text_preview": "S. Intelligence Activities,\" Executive Order, No. 12,333; \"National\nSecurity Act of 1947,\" 50 U. S. C. \u00a7 401, et seq.; \"Foreign Intelligence Surveillance Act,\" 50 U. S. C. \u00a7 1801,\net seq.\n\n312 U. S. D...",
+      "text_length": 290,
+      "relevance_score": 0.6644057963544239,
+      "semantic_score": 0.5809514161993873,
+      "bm25_score": 0.7895873665869788,
+      "citation_key": "ThesisRegDomIntelSurvAct2009_p120"
+    },
+    {
+      "index": 16,
+      "doc_id": "InterioreEmailBurningMan2019",
+      "title": "InterioreEmailBurningMan2019.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 358,
+      "text_preview": "UAS requires SECDEF approval for civilian support. There is significant advancement of\nlayered UAS surveillance within the WRP Region. This ability has the potential to be useful in\nmultiple settings,...",
+      "text_length": 510,
+      "relevance_score": 0.6512364424094665,
+      "semantic_score": 0.9052592361147873,
+      "bm25_score": 0.27020225185148533,
+      "citation_key": "InterioreEmailBurningMan2019_p358"
+    },
+    {
+      "index": 17,
+      "doc_id": "ThesisRegDomIntelSurvAct2009",
+      "title": "ThesisRegDomIntelSurvAct2009.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 56,
+      "text_preview": "that\n\nadministrations from Presidents Franklin D. Roosevelt through Nixon sometimes\n\nencouraged govemment agencies to conduct political intelligence. Such agencies\n\nconducted surveillance on members o...",
+      "text_length": 362,
+      "relevance_score": 0.6508842794938938,
+      "semantic_score": 0.5316602318252596,
+      "bm25_score": 0.829720350996845,
+      "citation_key": "ThesisRegDomIntelSurvAct2009_p56"
+    },
+    {
+      "index": 18,
+      "doc_id": "DIA_FileId_238597",
+      "title": "DIA_FileId_238597.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 110,
+      "text_preview": "mponent, or\n\n(5) Members of the military services.\n\n\nIn addition, any physical surveillance of US persons that\noccurs outside a DoD installation in the United States must be\ncoordinated with the FBI a...",
+      "text_length": 423,
+      "relevance_score": 0.6413074179475073,
+      "semantic_score": 0.5363767375383487,
+      "bm25_score": 0.7987034385612451,
+      "citation_key": "DIA_FileId_238597_p110"
+    },
+    {
+      "index": 19,
+      "doc_id": "FBI_Pretexts_and_Cover_Techniques_May-1956",
+      "title": "FBI_Pretexts_and_Cover_Techniques_May-1956.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 31,
+      "text_preview": "ere an ordinary surveillance\nwould be too obvious. It also allows Agents to maneuver with\nease to t\nent\nthe\n\nous observation osition since\n\n'I'luspretext makes it\n\n\nThe use of a female employee of the...",
+      "text_length": 488,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "FBI_Pretexts_and_Cover_Techniques_May-1956_p31"
+    },
+    {
+      "index": 20,
+      "doc_id": "DOJviewsLetters_2001-2005",
+      "title": "DOJviewsLetters_2001-2005.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 13,
+      "text_preview": "Select Committee on Intelligence observed: \"U. S. persons may\nbe authorized targets, and the surveillance is part of an\ninvestigative process often designed to protect against the\ncommission of seriou...",
+      "text_length": 395,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "DOJviewsLetters_2001-2005_p13"
+    },
+    {
+      "index": 21,
+      "doc_id": "FBItransBriefBiden_2020",
+      "title": "FBItransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 12,
+      "text_preview": "on of privacy\nand civil liberties ofU. S. persons. Under these authorities,\nthe FBI conducts activities using the least intrusive means,\nrequiring an authorized purpose to review records outside\nof an...",
+      "text_length": 351,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "FBItransBriefBiden_2020_p12"
+    },
+    {
+      "index": 22,
+      "doc_id": "USA-CID-Reg195-1ext",
+      "title": "USA-CID-Reg195-1ext.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 31,
+      "text_preview": "Electronic Surveillance\n\nCIDP 710-1\nUSACIDC Catalog of Investigative Equipment\n\nCIDM25-55\nCoordination of Freedom of Information and Privacy Act Requests which have Media Interest\n\nusc\nUnited States C...",
+      "text_length": 245,
+      "relevance_score": 0.597805015970631,
+      "semantic_score": 0.9963416932843849,
+      "bm25_score": 0,
+      "citation_key": "USA-CID-Reg195-1ext_p31"
+    },
+    {
+      "index": 23,
+      "doc_id": "FBI-AshReport_1977-1981",
+      "title": "FBI-AshReport_1977-1981.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 155,
+      "text_preview": "i<CW,.,.\u00b7-. -.-;... \u00b7\n\nE ' f? b, \u00b7..._. w~__,..._.,, ___ ~\u2022\u00b7\u00b7\u00b7\n\n~eports of investigative activities, including information\n\nfro~ confidential sources and other investigative\n\ntechniques, are reviewed ...",
+      "text_length": 341,
+      "relevance_score": 0.5907820768013818,
+      "semantic_score": 0.9846367946689697,
+      "bm25_score": 0,
+      "citation_key": "FBI-AshReport_1977-1981_p155"
+    },
+    {
+      "index": 24,
+      "doc_id": "FBI-NSC-SCTSC_1963-1964",
+      "title": "FBI-NSC-SCTSC_1963-1964.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "15 ~ Referral! Dit-ect\n\nPage 316- Referral! Drrect\nPage 317- Referral! Drrect\n\nFBI File No. 105-HQ-19581\nNational Security Council Special Committee on Technical\nSurveillance Countermeasures\n\nSection ...",
+      "text_length": 311,
+      "relevance_score": 0.5870340213748528,
+      "semantic_score": 0.7810797863413521,
+      "bm25_score": 0.29596537392510397,
+      "citation_key": "FBI-NSC-SCTSC_1963-1964_chunk24"
+    },
+    {
+      "index": 25,
+      "doc_id": "DIA_FileId_238597",
+      "title": "DIA_FileId_238597.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 93,
+      "text_preview": "etween overt and covert physical surveillance.\n\na. Where physical surveillance is carried out in a covert\nmanner (i. e., concealed from notice, but not necessarily from\nview}, coordination must be eff...",
+      "text_length": 508,
+      "relevance_score": 0.5751835603374532,
+      "semantic_score": 0.7616512388130415,
+      "bm25_score": 0.29548204262407085,
+      "citation_key": "DIA_FileId_238597_p93"
+    },
+    {
+      "index": 26,
+      "doc_id": "NGB-ANG-ERAA-FBIrecordsStorage_2013",
+      "title": "NGB-ANG-ERAA-FBIrecordsStorage_2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 10,
+      "text_preview": "ic visual checks by on-site security personnel.\n3. Access to specific FBI personnel to check trailers\n4. Access to specific FBI personnel to sort and access records.\n5. Access\n\nThe FBI will provide:\n1...",
+      "text_length": 351,
+      "relevance_score": 0.5721188369207145,
+      "semantic_score": 0.7414817696703878,
+      "bm25_score": 0.3180744377962045,
+      "citation_key": "NGB-ANG-ERAA-FBIrecordsStorage_2013_p10"
+    },
+    {
+      "index": 27,
+      "doc_id": "FBIcorresHJC_2012-2013",
+      "title": "FBIcorresHJC_2012-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 70,
+      "text_preview": "ons applicable to the use ofUAVs for surveillance. Specifically, the FBI's\u00b7 use of\nUAVs for surveillance is govemed by laws and policies including the Fourth Amendment\nof the United States Constitutio...",
+      "text_length": 512,
+      "relevance_score": 0.5715271092220839,
+      "semantic_score": 0.7918984448025814,
+      "bm25_score": 0.2409701058513377,
+      "citation_key": "FBIcorresHJC_2012-2013_p70"
+    },
+    {
+      "index": 28,
+      "doc_id": "CorresOLC-Kavanaugh_2001-2006",
+      "title": "CorresOLC-Kavanaugh_2001-2006.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 805,
+      "text_preview": "eption of communications inside the United\nStates. But this terrorist surveillance program involves\nintercepting the intemational communications of persons\nreasonably believed to be members or agents ...",
+      "text_length": 413,
+      "relevance_score": 0.559869144867836,
+      "semantic_score": 0.8464793446078764,
+      "bm25_score": 0.12995384525777523,
+      "citation_key": "CorresOLC-Kavanaugh_2001-2006_p805"
+    },
+    {
+      "index": 29,
+      "doc_id": "FBItransBriefBiden_2020",
+      "title": "FBItransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 12,
+      "text_preview": "surveillance,\nrequire an authorized investigation.\n\n(U,'A-~BI special agents work these investigations\nwith a team of FBI employees: intelligence analysts,\nlanguage analysts, forensic accountants, com...",
+      "text_length": 300,
+      "relevance_score": 0.551731870363022,
+      "semantic_score": 0.9195531172717033,
+      "bm25_score": 0,
+      "citation_key": "FBItransBriefBiden_2020_p12"
+    },
+    {
+      "index": 30,
+      "doc_id": "FBI_In_Our_Open_Society_1953",
+      "title": "FBI_In_Our_Open_Society_1953.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 17,
+      "text_preview": "wiretap illicitly and smuggle data into\n\nevidence. Such free-wheeling would obviously be the \"surest way\"\n\nfor the FBI to help criminals remain free from court sanction.\n\nCHAPTER NINE--The Eavesdroppi...",
+      "text_length": 402,
+      "relevance_score": 0.5458039886457304,
+      "semantic_score": 0.8158375222910002,
+      "bm25_score": 0.140753688177826,
+      "citation_key": "FBI_In_Our_Open_Society_1953_p17"
+    },
+    {
+      "index": 31,
+      "doc_id": "CBP-IA-Directives_1984-2009",
+      "title": "CBP-IA-Directives_1984-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 3,
+      "text_preview": "-~---\n8/9/2001 Technical Surveillance Countermeasures\n\u2022 - - - - - -\n\n\"---\u00b7\u00b7\n\u2022 - - - - -\n\n6/15/1993 Reporting Arrest/Misconduct of other Gov't Employees\n\n4/2/1999 Reporting Allegations of Employee Misc...",
+      "text_length": 512,
+      "relevance_score": 0.5396608026236217,
+      "semantic_score": 0.8695199903943638,
+      "bm25_score": 0.04487202096750848,
+      "citation_key": "CBP-IA-Directives_1984-2009_p3"
+    },
+    {
+      "index": 32,
+      "doc_id": "DOJinvestigationRpts_2007-2010",
+      "title": "DOJinvestigationRpts_2007-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 60,
+      "text_preview": "that surveillance cameras were in the parking lot. FBI SA\nand the UC officer did not make any references to a corrupt female DEA TFO during the two FBI monitored\nstated that the FBI involvement with t...",
+      "text_length": 416,
+      "relevance_score": 0.5384086689144528,
+      "semantic_score": 0.34428049527253557,
+      "bm25_score": 0.8296009293773287,
+      "citation_key": "DOJinvestigationRpts_2007-2010_p60"
+    },
+    {
+      "index": 33,
+      "doc_id": "DHS-OIGspecAgentHdbk_2007-2017",
+      "title": "DHS-OIGspecAgentHdbk_2007-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 566,
+      "text_preview": "unications\npursuant to 18 U. S. C. \u00a7 2510, et seq., and any other court-ordered electronic surveillance\nmust be conducted only after consulting with the FBI and appropriate USAO or Criminal\nDivision l...",
+      "text_length": 327,
+      "relevance_score": 0.5317797068952668,
+      "semantic_score": 0.5931190722338312,
+      "bm25_score": 0.43977065888742023,
+      "citation_key": "DHS-OIGspecAgentHdbk_2007-2017_p566"
+    },
+    {
+      "index": 34,
+      "doc_id": "FBI-AshReport_1977-1981",
+      "title": "FBI-AshReport_1977-1981.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 141,
+      "text_preview": "m, foreign counterintelligence, and\n\ncivil rights.\n\nThrough the cultivation and development of long\n\nterm informants and the employment of investigative techniques--including undercover operations, Ti...",
+      "text_length": 424,
+      "relevance_score": 0.5230862092918598,
+      "semantic_score": 0.8718103488197663,
+      "bm25_score": 0,
+      "citation_key": "FBI-AshReport_1977-1981_p141"
+    },
+    {
+      "index": 35,
+      "doc_id": "FBI-FOIA-PA-Ref-Manual",
+      "title": "FBI-FOIA-PA-Ref-Manual.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 586,
+      "text_preview": "Information pertaining to Martin Luther King, Jr. and\n\nthe Southem Christian Leadership Conference (SCLC);\n\nNew Haven Elsurs NH 605-R* and NH 687-R*;\nRecords in the Matter of David Dellinger, Et. AI.,...",
+      "text_length": 420,
+      "relevance_score": 0.5188190444683553,
+      "semantic_score": 0.8646984074472588,
+      "bm25_score": 0,
+      "citation_key": "FBI-FOIA-PA-Ref-Manual_p586"
+    },
+    {
+      "index": 36,
+      "doc_id": "DOJviewsLetters109-112Cong_2005-2007",
+      "title": "DOJviewsLetters109-112Cong_2005-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 4,
+      "text_preview": "poses, information\nderived from such transactions. The FBI has also moved to improve information-sharing on a\nneed-to-know basis with other law enforcement agencies in cases in which a person listed i...",
+      "text_length": 512,
+      "relevance_score": 0.5166486381225445,
+      "semantic_score": 0.8610810635375742,
+      "bm25_score": 0,
+      "citation_key": "DOJviewsLetters109-112Cong_2005-2007_p4"
+    },
+    {
+      "index": 37,
+      "doc_id": "DIA_FileId_238597",
+      "title": "DIA_FileId_238597.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 113,
+      "text_preview": "curity of DoD Personnel at U. S. Missions Abroad\".\nThis includes active duty US military personnel; active duty actions\nof retired military personnel, active or inactive reservists, or\nNational Guard ...",
+      "text_length": 500,
+      "relevance_score": 0.5108469280829125,
+      "semantic_score": 0.7118592545946136,
+      "bm25_score": 0.20932843831536085,
+      "citation_key": "DIA_FileId_238597_p113"
+    },
+    {
+      "index": 38,
+      "doc_id": "DIA_FileId_238597",
+      "title": "DIA_FileId_238597.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 114,
+      "text_preview": "or directed\nagainst United States persons abroad. Agencies are not authorized to use\nsuch techniques as electronic surveillance, unconsented physical search,\nmail surveillance, physical surveillance, ...",
+      "text_length": 485,
+      "relevance_score": 0.5006729887420933,
+      "semantic_score": 0.8344549812368222,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238597_p114"
+    },
+    {
+      "index": 39,
+      "doc_id": "FBI-FOIA-PA-Ref-Manual",
+      "title": "FBI-FOIA-PA-Ref-Manual.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 79,
+      "text_preview": "and\nPennvylvania Ave., NW.\u2022 Washington,\nDC W535.. Thl)1)C fteld offJccll which\nhave sought conducted electronic\nsurveillances also maintain an index..\nSee appendix to System 022.\n\nCATEGORIES Of INOIVI...",
+      "text_length": 463,
+      "relevance_score": 0.5003039522705413,
+      "semantic_score": 0.4943045125111683,
+      "bm25_score": 0.5093031119096006,
+      "citation_key": "FBI-FOIA-PA-Ref-Manual_p79"
+    }
+  ],
+  "context_length": 20617,
+  "style": "comprehensive",
+  "length_mode": "medium",
+  "max_chunks": 40,
+  "diversity_mode": "best",
+  "quality_iterations": 3,
+  "iteration_history": [
+    {
+      "iteration": 1,
+      "validation": {
+        "total_citations": 33,
+        "valid": 31,
+        "invalid": 2,
+        "citation_density": 2.3470839260312943,
+        "avg_relevance": 0.6612903225806451,
+        "issues": [
+          

@@ -1,0 +1,370 @@
+{
+  "topic": "Nuclear Weapons",
+  "generated_at": "2025-11-19T12:42:40.618925",
+  "model": "gpt-4o",
+  "num_sources": 60,
+  "source_documents": [
+    {
+      "doc_id": "ADA268219_CatAVProds_Vol3_AfandMiscProds_1984",
+      "title": "ADA268219_CatAVProds_Vol3_AfandMiscProds_1984.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.9206516712996993
+    },
+    {
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.9201220025635728
+    },
+    {
+      "doc_id": "DOEostiAsummaryHistory1977-1994",
+      "title": "DOEostiAsummaryHistory1977-1994.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.9076477884651905
+    },
+    {
+      "doc_id": "60NNSA-Lintgrams_2002-2017",
+      "title": "60NNSA-Lintgrams_2002-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.9022330344896
+    },
+    {
+      "doc_id": "DIA_FileId_238797",
+      "title": "DIA_FileId_238797.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.8779050255859882
+    },
+    {
+      "doc_id": "OSTP7Charters_2007-2017",
+      "title": "OSTP7Charters_2007-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.857758697807421
+    },
+    {
+      "doc_id": "DOE-CG-RER-1",
+      "title": "DOE-CG-RER-1.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8548806028891232
+    },
+    {
+      "doc_id": "DOEpresntHRDRC",
+      "title": "DOEpresntHRDRC.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8359063697700562
+    },
+    {
+      "doc_id": "NNSArespQFRs_2017-2020",
+      "title": "NNSArespQFRs_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8324011153016195
+    },
+    {
+      "doc_id": "CanPercepIncomingTrump2016",
+      "title": "CanPercepIncomingTrump2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8315090565604452
+    },
+    {
+      "doc_id": "DOEpresidentTransBriefing_2020",
+      "title": "DOEpresidentTransBriefing_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8191807744278482
+    },
+    {
+      "doc_id": "SafeSecurRussNukeFacilMilForces_2011",
+      "title": "SafeSecurRussNukeFacilMilForces_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8087572781743071
+    },
+    {
+      "doc_id": "DNFSBcongBudgetRequests_2000-2006",
+      "title": "DNFSBcongBudgetRequests_2000-2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8018978529524381
+    },
+    {
+      "doc_id": "NNSA_PerfEval_LLNL_2006",
+      "title": "NNSA_PerfEval_LLNL_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7961619549670833
+    },
+    {
+      "doc_id": "DIA-SABrecords_1966-2002",
+      "title": "DIA-SABrecords_1966-2002.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7903531286623411
+    },
+    {
+      "doc_id": "DIA_FileId_238095",
+      "title": "DIA_FileId_238095.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.7204191273958156
+    },
+    {
+      "doc_id": "ClassHistFilmDMA_2016",
+      "title": "ClassHistFilmDMA_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7172888685280576
+    },
+    {
+      "doc_id": "LANLFilmVideoCat",
+      "title": "LANLFilmVideoCat.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7050620094076515
+    },
+    {
+      "doc_id": "CoastGuardNonPublicCongRpts_2006-2009",
+      "title": "CoastGuardNonPublicCongRpts_2006-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7047147855558586
+    },
+    {
+      "doc_id": "DTICbiblioCSIS_2019",
+      "title": "DTICbiblioCSIS_2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "DTICbiblioOTA_2020",
+      "title": "DTICbiblioOTA_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "TheNewWorld1939-1946",
+      "title": "TheNewWorld1939-1946.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "DOE-QFR_2011-2012",
+      "title": "DOE-QFR_2011-2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.697369677267175
+    },
+    {
+      "doc_id": "DOE-Cong-Rpts_2005-2010",
+      "title": "DOE-Cong-Rpts_2005-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6965706546321075
+    },
+    {
+      "doc_id": "AWCindivRchRpts_AllDates",
+      "title": "AWCindivRchRpts_AllDates.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6869755391072216
+    },
+    {
+      "doc_id": "DTICtransmutation_2016",
+      "title": "DTICtransmutation_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6815546117784437
+    },
+    {
+      "doc_id": "32DNFSBdirsEtc_2000-2017",
+      "title": "32DNFSBdirsEtc_2000-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6742299375820344
+    },
+    {
+      "doc_id": "ODNIcongCorres_2009-2010",
+      "title": "ODNIcongCorres_2009-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6717487583144557
+    },
+    {
+      "doc_id": "DNSFBtransBriefBiden_2020",
+      "title": "DNSFBtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6504852616445234
+    },
+    {
+      "doc_id": "DOEsaikwlRDfrd2025",
+      "title": "DOEsaikwlRDfrd2025.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6428344407277664
+    },
+    {
+      "doc_id": "15FHWAstudiesReports_1954-2008",
+      "title": "15FHWAstudiesReports_1954-2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6325411590380716
+    },
+    {
+      "doc_id": "ADB088349_CatAVProds_Vol2_NavyMarineProds_1984",
+      "title": "ADB088349_CatAVProds_Vol2_NavyMarineProds_1984.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6189867799798026
+    },
+    {
+      "doc_id": "NNSA_PerfEval_BWXT-Y-12_2005",
+      "title": "NNSA_PerfEval_BWXT-Y-12_2005.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.616413742642454
+    },
+    {
+      "doc_id": "DTRAlistFilmsVids2023",
+      "title": "DTRAlistFilmsVids2023.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6147148736510508
+    },
+    {
+      "doc_id": "ThesisAnthraxTerroristUse2005",
+      "title": "ThesisAnthraxTerroristUse2005.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5875010904978248
+    },
+    {
+      "doc_id": "DoDoigEvalPresEmergSatchel2022",
+      "title": "DoDoigEvalPresEmergSatchel2022.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5861924393301454
+    },
+    {
+      "doc_id": "DIA_FileId_238672",
+      "title": "DIA_FileId_238672.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5835014356793892
+    },
+    {
+      "doc_id": "ONRwarInNuclearAge1959",
+      "title": "ONRwarInNuclearAge1959.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5760927626022171
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5715035315533797
+    },
+    {
+      "doc_id": "CIA_SandTofcSciIntel1949-68_1972_All",
+      "title": "CIA_SandTofcSciIntel1949-68_1972_All.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.566093882466299
+    },
+    {
+      "doc_id": "ThesisIndiasSearchEnergySupplies2009",
+      "title": "ThesisIndiasSearchEnergySupplies2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5658862207034556
+    },
+    {
+      "doc_id": "DTIC-RAND-TRBiblio_1946-1963",
+      "title": "DTIC-RAND-TRBiblio_1946-1963.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5649730237688101
+    },
+    {
+      "doc_id": "DIA_FileId_238616",
+      "title": "DIA_FileId_238616.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5628768215121426
+    },
+    {
+      "doc_id": "HistoryUSAF-SMC_1998-2001",
+      "title": "HistoryUSAF-SMC_1998-2001.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5559849519303562
+    },
+    {
+      "doc_id": "StateDeclassGuide2019",
+      "title": "StateDeclassGuide2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5523967791556194
+    },
+    {
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5505839800462244
+    },
+    {
+      "doc_id": "CalOESHSecStrat2012-2015",
+      "title": "CalOESHSecStrat2012-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5474137713762849
+    },
+    {
+      "doc_id": "11DLA-OIGauditReports_2011-2014",
+      "title": "11DLA-OIGauditReports_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5432775482357712
+    },
+    {
+      "doc_id": "DOE-WeeklyReports_Jan-May-2009",
+      "title": "DOE-WeeklyReports_Jan-May-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5364097511713546
+    },
+    {
+      "doc_id": "ReptCongNWHPandP_2009",
+      "title": "ReptCongNWHPandP_2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5286370746220236
+    },
+    {
+      "doc_id": "NNSAfilmVideoList_2014",
+      "title": "NNSAfilmVideoList_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5277490564130853
+    },
+    {
+      "doc_id": "DOEhistRecsDeclassGuide_2012",
+      "title": "DOEhistRecsDeclassGuide_2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5277239089626427
+    },
+    {
+      "doc_id": "USAFandNSecSpacePgm1946-1988",
+      "title": "USAFandNSecSpacePgm1946-1988.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.527548996824825
+    },
+    {
+      "doc_id": "CIAandTofcSciIntel1949-68_1972",
+      "title": "CIAandTofcSciIntel1949-68_1972.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5275461447333709
+    },
+    {
+      "doc_id": "NNSA_PerfEval_LosAlamos_2005",
+      "title": "NNSA_PerfEval_LosAlamos_2005.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5197862338289467
+    },
+    {
+      "doc_id": "OSCcongBudJusts_2007-2009",
+      "title": "OSCcongBudJusts_2007-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5050539871697062
+    },
+    {
+      "doc_id": "StateDeclassGuideEAD_2012updt",
+      "title": "StateDeclassGuideEAD_2012updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4980854452879441
+    },
+    {
+      "doc_id": "NNSAfmdStratPlan_2000",
+      "title": "NNSAfmdStratPlan_2000.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4976106006793371
+    },
+    {
+      "doc_id": "ODNIcorresISB_2004-2011",
+      "title": "ODNIcorresISB_2004-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4951265139081693
+    },
+    {
+      "doc_id": "NARA-ClassifiedFilmsList_2013",
+      "title": "NARA-ClassifiedFilmsList_2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.49263360417712343
+    }
+  ],
+  "context_length": 30630,
+  "style": "comprehensive"
+}

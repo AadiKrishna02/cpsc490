@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+*.key
+
+# Large Data Files (uploaded to R2 separately)
+data/blob/
+data/lancedb_store/
+data/tantivy_store/
+data/search_indexes/
+data/retrieval_cache/
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/*.pkl
+data/*.tar.gz
+
+# Log Files
+*.log
+*.log.*
+
+# Temporary Files
+*.backup
+*.tmp
+scripts copy/
+
+# Keep wiki pages but ignore their backups
+data/wiki/*.backup
+data/wiki_pages/*.backup
+
+# OCR output
+data/ocr/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+

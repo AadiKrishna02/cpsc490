@@ -1,0 +1,787 @@
+{
+  "topic": "Cuban Missile Crisis",
+  "generated_at": "2025-11-26T20:30:16.506332",
+  "model": "gpt-5-nano",
+  "num_sources": 40,
+  "source_documents": [
+    {
+      "doc_id": "NSAohiMOMitchell1987-27_1987",
+      "title": "NSAohiMOMitchell1987-27_1987.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.9155138214344217
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8639858434285701
+    },
+    {
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8524614460129918
+    },
+    {
+      "doc_id": "CIAhistOSAincep-1969Final",
+      "title": "CIAhistOSAincep-1969Final.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8464869183784481
+    },
+    {
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8350247650515863
+    },
+    {
+      "doc_id": "DTICtrdBiblioCA-CIApre2000_2014",
+      "title": "DTICtrdBiblioCA-CIApre2000_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8211514391819063
+    },
+    {
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8133754957011545
+    },
+    {
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7693778271111514
+    },
+    {
+      "doc_id": "DTIC-RAND-TRBiblio_1946-1963",
+      "title": "DTIC-RAND-TRBiblio_1946-1963.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7516668534319131
+    },
+    {
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.7428846764919282
+    },
+    {
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7319462156591363
+    },
+    {
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7058449680807484
+    },
+    {
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6871040827473186
+    },
+    {
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6735017868742085
+    },
+    {
+      "doc_id": "DTICtrdBiblioCA-CIApre2000_2014",
+      "title": "DTICtrdBiblioCA-CIApre2000_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6599188962700568
+    },
+    {
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.657421801172883
+    },
+    {
+      "doc_id": "ADA268219_CatAVProds_Vol3_AfandMiscProds_1984",
+      "title": "ADA268219_CatAVProds_Vol3_AfandMiscProds_1984.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6461115498284213
+    },
+    {
+      "doc_id": "NSAohiMOMitchell1987-27_1987",
+      "title": "NSAohiMOMitchell1987-27_1987.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6357447146402855
+    },
+    {
+      "doc_id": "DOT-OIG-FAA9-11_2001-2006",
+      "title": "DOT-OIG-FAA9-11_2001-2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6285093310131952
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6146197795199219
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "Guide_USAF_Hist_Lit_1983",
+      "title": "Guide_USAF_Hist_Lit_1983.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "FOIAreqsJeffreyScudder_CY2012",
+      "title": "FOIAreqsJeffreyScudder_CY2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5721830292641564
+    },
+    {
+      "doc_id": "CIAhistOSAincep-1969Final",
+      "title": "CIAhistOSAincep-1969Final.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5438741118290487
+    },
+    {
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.543386132500472
+    },
+    {
+      "doc_id": "Guide_USAF_Hist_Lit_1983",
+      "title": "Guide_USAF_Hist_Lit_1983.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5375679546224895
+    },
+    {
+      "doc_id": "NARAjfkAssassinationRecordsCollWithheld_2016",
+      "title": "NARAjfkAssassinationRecordsCollWithheld_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5240067038695218
+    },
+    {
+      "doc_id": "CIAoverheadRecon_1992updt",
+      "title": "CIAoverheadRecon_1992updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5140605833275387
+    },
+    {
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5072274425616178
+    },
+    {
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5067878889873413
+    },
+    {
+      "doc_id": "NPSminAgendasACCWTS",
+      "title": "NPSminAgendasACCWTS.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5062216969997412
+    },
+    {
+      "doc_id": "Guide_USAF_Hist_Lit_1983",
+      "title": "Guide_USAF_Hist_Lit_1983.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5020767810791514
+    },
+    {
+      "doc_id": "DTICtrdBiblioCA-CIApre2000_2014",
+      "title": "DTICtrdBiblioCA-CIApre2000_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4992034191017778
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4980087736417901
+    },
+    {
+      "doc_id": "NORADhistSumms_1967-1974",
+      "title": "NORADhistSumms_1967-1974.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.494924687011495
+    },
+    {
+      "doc_id": "USAIDlpaFOIApgmRpts_2012-2016",
+      "title": "USAIDlpaFOIApgmRpts_2012-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4869287801531934
+    },
+    {
+      "doc_id": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u",
+      "title": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4845968052958342
+    },
+    {
+      "doc_id": "DIAjmicMstersTheses1973-97_2002",
+      "title": "DIAjmicMstersTheses1973-97_2002.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4794789646489871
+    },
+    {
+      "doc_id": "CIAandTofcSciIntel1949-68_1972",
+      "title": "CIAandTofcSciIntel1949-68_1972.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4718586737379122
+    }
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "doc_id": "NSAohiMOMitchell1987-27_1987",
+      "title": "NSAohiMOMitchell1987-27_1987.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 29,
+      "text_preview": "rdon me and infetrupt me if I am...\n\u2022 \u2022 \u2022 \u00b7=:.....\nYou have to go back and understand the environment under which all this \u2022 \u2022 \u00b7\u2022\u00b7::\nhappened. It was not very long after the Cuban Missile Crisis that ...",
+      "text_length": 417,
+      "relevance_score": 0.9155138214344217,
+      "semantic_score": 0.8591897023907028,
+      "bm25_score": 1.0,
+      "citation_key": "NSAohiMOMitchell1987-27_1987_p29"
+    },
+    {
+      "index": 1,
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 228,
+      "text_preview": "XI, Cuban Missile Crisis and Aftermath (1997)\nvol. XII, American Republics (1996)\nvol. XIII, Westem Europe and Canada (1994)\nvol. XIV, Berlin Crisis, 1961-1962 (1994)\nvol. XV, Berlin Crisis, 1962-1963...",
+      "text_length": 495,
+      "relevance_score": 0.8639858434285701,
+      "semantic_score": 0.9313938974075276,
+      "bm25_score": 0.7628737624601339,
+      "citation_key": "35StateDeptDocDeclass_1973-2009_p228"
+    },
+    {
+      "index": 2,
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "response to Cuban\n\n390\n\nUNCLASSIFIED\n\u2022 --.~\"\"111.. _\n\nmissile cr1s1s; difficulties with North Atlantic\nTreaty Organization {NATO) intelligence gathering\nmethods; US withdrawal from France; explanation...",
+      "text_length": 361,
+      "relevance_score": 0.8524614460129918,
+      "semantic_score": 1.0,
+      "bm25_score": 0.6311536150324797,
+      "citation_key": "USAFohCat_1982_chunk2"
+    },
+    {
+      "index": 3,
+      "doc_id": "CIAhistOSAincep-1969Final",
+      "title": "CIAhistOSAincep-1969Final.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 788,
+      "text_preview": "aircraft simultaneously and on very short notice. The\nCuban missile crisis could have become an outstanding example of such\na situation if escalation had proceeded several more steps. Although\nour inf...",
+      "text_length": 451,
+      "relevance_score": 0.8464869183784481,
+      "semantic_score": 0.7763557436616407,
+      "bm25_score": 0.9516836804536594,
+      "citation_key": "CIAhistOSAincep-1969Final_p788"
+    },
+    {
+      "index": 4,
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 39,
+      "text_preview": "an, Iran since 1/56\nLot File 65-D-438 Cuban Missile Crisis 10/1/62-1/31/63 Cuban\nWork Book Vol. 7 10/62-Vol. 10 12/62 Box 3\nLot File 65-O-438 Cuban Missile Crisis 10/1/62-1/31-63\nProclamation-Cuban AB...",
+      "text_length": 389,
+      "relevance_score": 0.8350247650515863,
+      "semantic_score": 0.7310894082600062,
+      "bm25_score": 0.9909278002389563,
+      "citation_key": "StateDeptRelDocsIndex_2010_p39"
+    },
+    {
+      "index": 5,
+      "doc_id": "DTICtrdBiblioCA-CIApre2000_2014",
+      "title": "DTICtrdBiblioCA-CIApre2000_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 86,
+      "text_preview": "rt Date: Jan 2002\n\nAbstract: ( U ) Moscow's surreptitious dispatch of nuclear-capable SS-4 and SS-5 surface-to-surface\nmissiles to Cuba in 1962 upset the strategic balance in an alarming way. The resu...",
+      "text_length": 450,
+      "relevance_score": 0.8211514391819063,
+      "semantic_score": 1.0,
+      "bm25_score": 0.5528785979547656,
+      "citation_key": "DTICtrdBiblioCA-CIApre2000_2014_p86"
+    },
+    {
+      "index": 6,
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "65-O-438 Cuban Missile Crisis 10/1/62-1/31-63 Vol.15,\nDod Papers Box 3\n\nUNCLASSIFIED\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n198702130\n\n198702132\n\n198702133\n\n198702134\n\n198702135\n\n198702137\n\n198702138\n\n198702139\n\n1987022...",
+      "text_length": 512,
+      "relevance_score": 0.8133754957011545,
+      "semantic_score": 0.8502107747189518,
+      "bm25_score": 0.7581225771744586,
+      "citation_key": "StateDeptRelDocsIndex_2010_chunk6"
+    },
+    {
+      "index": 7,
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 39,
+      "text_preview": "65-D-438 Cuban Missile Crisis 10/1/62-1/31-63 Vol. 17\nG/PM Papers Box 3\nLot File 65-D-438 Cuban Missile Crisis 10/1/62-1/31\u00b763 Draft\nContingency papers Box 3\nLot File 65-D-438 Cuban Missile Crisis 10/...",
+      "text_length": 310,
+      "relevance_score": 0.7693778271111514,
+      "semantic_score": 0.6156297118519191,
+      "bm25_score": 1.0,
+      "citation_key": "StateDeptRelDocsIndex_2010_p39"
+    },
+    {
+      "index": 8,
+      "doc_id": "DTIC-RAND-TRBiblio_1946-1963",
+      "title": "DTIC-RAND-TRBiblio_1946-1963.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 110,
+      "text_preview": "h intensified political controls and intimidation. The study\nstresses the effect of the Cuban crisis on this ongoing conflict of interests, which seems to have\nexacerbated. (Author)\nAbstract Classific...",
+      "text_length": 512,
+      "relevance_score": 0.7516668534319131,
+      "semantic_score": 1.0,
+      "bm25_score": 0.3791671335797826,
+      "citation_key": "DTIC-RAND-TRBiblio_1946-1963_p110"
+    },
+    {
+      "index": 9,
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 35,
+      "text_preview": "wed him a free hand to \"deal with\n\npolicymakers... \" 50 DCI McCone's self-confidence made him \"a strong and assertive\n\nfigure among policymakcrs.\"51\n\nTHE CUBAN MISSILE CRISIS-ENTERING THE POLICY DEBAT...",
+      "text_length": 393,
+      "relevance_score": 0.7428846764919282,
+      "semantic_score": 0.5714744608198804,
+      "bm25_score": 1.0,
+      "citation_key": "DIA_FileId_238567_p35"
+    },
+    {
+      "index": 10,
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 40,
+      "text_preview": "UNSC, Org for Cuban Affairs, JFK and Press Comments Box 2\nLot File 65-D-438 Cuban Missile Crisis 10/1/62-1/31-63 Vol. 13,\nCDA papers Vol. 14 DoD papers Box 3\nLot File 65-D-438 Cuban Missile Crisis 10/...",
+      "text_length": 512,
+      "relevance_score": 0.7319462156591363,
+      "semantic_score": 0.6241652450796799,
+      "bm25_score": 0.8936176715283212,
+      "citation_key": "StateDeptRelDocsIndex_2010_p40"
+    },
+    {
+      "index": 11,
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 39,
+      "text_preview": "1/31/63 Vol29\nMiscellaneous telegrams, Box 4\nLot File 65-D-438 Cuban Missile Crisis 10/1/62-1/31/63 Vol3033, Mise telegrams, Box 5\nLot File 65-D-438 Cuban Missile Crisis 10/1/62-1/31/63 Vol1923, Box4\n...",
+      "text_length": 512,
+      "relevance_score": 0.7058449680807484,
+      "semantic_score": 0.5629372082392542,
+      "bm25_score": 0.9202066078429895,
+      "citation_key": "StateDeptRelDocsIndex_2010_p39"
+    },
+    {
+      "index": 12,
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 397,
+      "text_preview": "force\ndeployment during crisis; relations between US and\nNationalist China; budgeting procedures; creation\nof single integrated operational plan; development\nof Moral Leadership Program; use of ad hoc...",
+      "text_length": 494,
+      "relevance_score": 0.6871040827473186,
+      "semantic_score": 0.814220521371528,
+      "bm25_score": 0.4964294248110045,
+      "citation_key": "USAFohCat_1982_p397"
+    },
+    {
+      "index": 13,
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 35,
+      "text_preview": "ets installing offensive nuclear missiles in Cuba. While the\n\nactual event, termed the Cuban Missile Crisis, occurred during the last t\\VO weeks of\n\nOctober 1962, a series of events in the summer of 1...",
+      "text_length": 358,
+      "relevance_score": 0.6735017868742085,
+      "semantic_score": 1.0,
+      "bm25_score": 0.18375446718552127,
+      "citation_key": "DIA_FileId_238567_p35"
+    },
+    {
+      "index": 14,
+      "doc_id": "DTICtrdBiblioCA-CIApre2000_2014",
+      "title": "DTICtrdBiblioCA-CIApre2000_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 85,
+      "text_preview": "ved for public release; distribution is unlimited.\n\nReport Classification: Unclassified\n\nCollection: Technical Reports\n\nTitle: ( U ) Soviet Deception in the Cuban Missile Crisis\n\nPDF URL: (pdf) - 576 ...",
+      "text_length": 512,
+      "relevance_score": 0.6599188962700568,
+      "semantic_score": 0.45801278829888536,
+      "bm25_score": 0.9627780582268138,
+      "citation_key": "DTICtrdBiblioCA-CIApre2000_2014_p85"
+    },
+    {
+      "index": 15,
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 398,
+      "text_preview": "t, 1958; problems in\nimplementation of Joint Strategic Plans Committee;\nProject FORECAST, cooperative effort of science,\nindustry and military to predict future need in\nweapons and technology; conflic...",
+      "text_length": 298,
+      "relevance_score": 0.657421801172883,
+      "semantic_score": 0.94300758172615,
+      "bm25_score": 0.22904313034298232,
+      "citation_key": "USAFohCat_1982_p398"
+    },
+    {
+      "index": 16,
+      "doc_id": "ADA268219_CatAVProds_Vol3_AfandMiscProds_1984",
+      "title": "ADA268219_CatAVProds_Vol3_AfandMiscProds_1984.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 293,
+      "text_preview": "REMARKS: ALSO DISTRIBUTED IN 3/4 INCH, VIDEO TAPE.\nCUBAN CRISIS\n\n26400-DF\n\nJ6MM, MOTION PICTURE, 014 MIN,\nNOT ~LEARED, HI STOR I oAL\n\n\n\nDOCUMENTS 1962 CUBAN CRISIS. DEPICTS SWIFT\nMOBILIZATION\nARMS\nQUA...",
+      "text_length": 383,
+      "relevance_score": 0.6461115498284213,
+      "semantic_score": 0.7050509228544245,
+      "bm25_score": 0.5577024902894167,
+      "citation_key": "ADA268219_CatAVProds_Vol3_AfandMiscProds_1984_p293"
+    },
+    {
+      "index": 17,
+      "doc_id": "NSAohiMOMitchell1987-27_1987",
+      "title": "NSAohiMOMitchell1987-27_1987.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 7,
+      "text_preview": "be the \u2022\u2022 \u2022\u2022\nSIGINT Center here. I soon found \u00b7ol. Jt 2tt~r getting here that tt}is was a\nvery, very fortunate assignment for me. It wcfs\u2022onvjously a very\u2022e, xpiting\nthing. You have to go back... you ...",
+      "text_length": 510,
+      "relevance_score": 0.6357447146402855,
+      "semantic_score": 0.7455160329154713,
+      "bm25_score": 0.4710877372275065,
+      "citation_key": "NSAohiMOMitchell1987-27_1987_p7"
+    },
+    {
+      "index": 18,
+      "doc_id": "DOT-OIG-FAA9-11_2001-2006",
+      "title": "DOT-OIG-FAA9-11_2001-2006.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 248,
+      "text_preview": "through\nthe growing pains was\nthe mission itself. Right\nduring the transition, a\nhighly publicized inc\nident reminded people\nwhy they were there in\nthe first place.\n\nAi\u00b7. i. -\" \u2022\nuruierll. -\n\nOn Feb. ...",
+      "text_length": 383,
+      "relevance_score": 0.6285093310131952,
+      "semantic_score": 0.904940703940512,
+      "bm25_score": 0.21386227162221993,
+      "citation_key": "DOT-OIG-FAA9-11_2001-2006_p248"
+    },
+    {
+      "index": 19,
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 228,
+      "text_preview": "IX, China (1996)\n\n1961-1963, John F. Kennedy\n\nvol. I, Vietnam, 1961 (1988)\nvol. II, Vietnam, 1962 (1990)\nvol. III, Vietnam, January-August 1963 (1991)\nvol. IV, Vietnam, August-December 1963 (1991)\nvol...",
+      "text_length": 505,
+      "relevance_score": 0.6146197795199219,
+      "semantic_score": 0.6266154259197916,
+      "bm25_score": 0.5966263099201172,
+      "citation_key": "35StateDeptDocDeclass_1973-2009_p228"
+    },
+    {
+      "index": 20,
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 76,
+      "text_preview": "T, THURSDAY, OCTOBER 24,\n10:30 AM,\nAFFAIRS ( 3 pp. )\n\nIN THE CABINET ROOM, ON EUROPEAN\n\nCOOPERATION WITH THE USSR ON OUTER SPACE MATTERS\n(3 pp.)\n\nSAFETY RULES FOR NUCLEAR WEAPON SYSTEMS\n( 1 p.)\n\nPRESI...",
+      "text_length": 487,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "35StateDeptDocDeclass_1973-2009_p76"
+    },
+    {
+      "index": 21,
+      "doc_id": "Guide_USAF_Hist_Lit_1983",
+      "title": "Guide_USAF_Hist_Lit_1983.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "Participation in the Cuban Crisis, Oct-Nov 1962. Staff. 1962. 9 pp.\n\nEl5.2 Phase-out Documentation, 1963. Staff. 1963. 7 pp.\n\n\nAIR FORCE LOGISTICS COMMAND\n\n2750TH AIR BASE WING\n\nE16.1 Aircraft Noise a...",
+      "text_length": 505,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "Guide_USAF_Hist_Lit_1983_chunk21"
+    },
+    {
+      "index": 22,
+      "doc_id": "FOIAreqsJeffreyScudder_CY2012",
+      "title": "FOIAreqsJeffreyScudder_CY2012.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "n\n\nIA pearheaded the ar\n\nThe \"Photo Gap\" that Delayed Discovery of Missiles in Cuba\n\nThe Castro Obsession\n\n~---\n\n62 of 66\n\nBook Review\n\n\"<I\"\n())\nC\"')\n\"<I\".-\n(.)\n\n\nO --O.---LO.-\n\n\n(/)\nC'C\nO::\n\n> e\n\n\n20...",
+      "text_length": 302,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "FOIAreqsJeffreyScudder_CY2012_chunk22"
+    },
+    {
+      "index": 23,
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 698,
+      "text_preview": "Jack E., Capt:\n\n044\n\n666,\n\n667\n\nCrowder, Robert T. II, Capt:\n\n239\n\nCruise Control Techniques:\n\n923\n\nCuba, 1906:\nCuba, WWII:\nCuban Missile Crisis:\n\n766\n812\n\n488,\n748,749,751,752,788,\n\n834, 837, 973, 97...",
+      "text_length": 475,
+      "relevance_score": 0.5721830292641564,
+      "semantic_score": 0.6378658007403267,
+      "bm25_score": 0.4736588720499009,
+      "citation_key": "USAFohCat_1982_p698"
+    },
+    {
+      "index": 24,
+      "doc_id": "CIAhistOSAincep-1969Final",
+      "title": "CIAhistOSAincep-1969Final.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 589,
+      "text_preview": "cd&is reconrtidssance of the USSR.\nThe 6 would c. over the 265 targets oil SAC\u2022s crisis indlcator list.\nThis latter requirement is open tQ serious question. In a major crisis\n\n\nTOP SECRE'F. '.. ':.:; ...",
+      "text_length": 507,
+      "relevance_score": 0.5438741118290487,
+      "semantic_score": 0.23979018638174784,
+      "bm25_score": 1.0,
+      "citation_key": "CIAhistOSAincep-1969Final_p589"
+    },
+    {
+      "index": 25,
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 39,
+      "text_preview": "RMIAC 1 of\nfile 65-438 in 1965\nWilliamsburg summit: Economic 1983\nInformation conceming the Egyptian American Transport and\nService Company (EATSCO)\nDeportation of Karl Linnas to the Soviet Union 4/27...",
+      "text_length": 512,
+      "relevance_score": 0.543386132500472,
+      "semantic_score": 0.38730406732872935,
+      "bm25_score": 0.7775092302580858,
+      "citation_key": "StateDeptRelDocsIndex_2010_p39"
+    },
+    {
+      "index": 26,
+      "doc_id": "Guide_USAF_Hist_Lit_1983",
+      "title": "Guide_USAF_Hist_Lit_1983.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 206,
+      "text_preview": "sponse to the\n\nMedicine: 13.2\n\nMideast Crisis: Al.241\n\nChronology of the Vietnam War, 1966-1973:\n\nChronology of the Amold Engineering Devel\nopment Center, 10 Aug 1944-30 June\n1970: 110.2\n\nChronology o...",
+      "text_length": 500,
+      "relevance_score": 0.5375679546224895,
+      "semantic_score": 0.6718542503730277,
+      "bm25_score": 0.33613851099668224,
+      "citation_key": "Guide_USAF_Hist_Lit_1983_p206"
+    },
+    {
+      "index": 27,
+      "doc_id": "NARAjfkAssassinationRecordsCollWithheld_2016",
+      "title": "NARAjfkAssassinationRecordsCollWithheld_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 32,
+      "text_preview": "Y GUIDANCE\nON CUBA\nSUMMARY OF POINTS...\nLUNCHEON..\n\n176-10010-10041\n\nMILITARY, CONTINGENCY PLANNING\n\n176-10010-10031\n\nMESSAGE\n\n176-10010-10019\n\nFUTURE POLICY TOWARD CUBA\n\nCINCARIB,\nCINCLANT\n\nKENNEDY,\n...",
+      "text_length": 484,
+      "relevance_score": 0.5240067038695218,
+      "semantic_score": 0.8733445064492029,
+      "bm25_score": 0,
+      "citation_key": "NARAjfkAssassinationRecordsCollWithheld_2016_p32"
+    },
+    {
+      "index": 28,
+      "doc_id": "CIAoverheadRecon_1992updt",
+      "title": "CIAoverheadRecon_1992updt.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 376,
+      "text_preview": "198\n\nCuban Missile Crisis\n\n55, 199, 209-210. 299. 327\nCubi Point Naval Air Station. Philippines\n\n212, 216, 221\n\nCulbertson, Allman T.\n\n\nCunningham. James A.. Jr.\n\n40, 66. 69. 72. 78-79. 125. 247.\n288-...",
+      "text_length": 496,
+      "relevance_score": 0.5140605833275387,
+      "semantic_score": 0.5858853479565985,
+      "bm25_score": 0.40632343638394897,
+      "citation_key": "CIAoverheadRecon_1992updt_p376"
+    },
+    {
+      "index": 29,
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 134,
+      "text_preview": "tnam\n\nWar. New York: Simon & Schuster, Inc., 1999.\n\nLogcvall, Frcdrik. Choosing War The Lost Chance. for Peace and the Escalation ~{the\n\nWar in Vietnam. Berkley: Univcr!:>ity of Califomia Pres!:>, 199...",
+      "text_length": 494,
+      "relevance_score": 0.5072274425616178,
+      "semantic_score": 0.5524621507883786,
+      "bm25_score": 0.4393753802214765,
+      "citation_key": "DIA_FileId_238567_p134"
+    },
+    {
+      "index": 30,
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 11,
+      "text_preview": "e selected documents dealing with specific issues. Recent\nCIA declassification efforts have resulted in two archival boxes of material\nrelated to the Cuban Missile Crisis being placed in the National ...",
+      "text_length": 400,
+      "relevance_score": 0.5067878889873413,
+      "semantic_score": 0.30775102363546547,
+      "bm25_score": 0.8053431870151548,
+      "citation_key": "CIA-comments_1994-2005u_p11"
+    },
+    {
+      "index": 31,
+      "doc_id": "NPSminAgendasACCWTS",
+      "title": "NPSminAgendasACCWTS.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 35,
+      "text_preview": "the discussion of the 1983 Able Archer crisis (p.36) was\n\nnearly as important as the Cuban Missile Crisis, and that point should be noted. He\n\nrecommended a 2016 book by Nate Jones of the National Sec...",
+      "text_length": 482,
+      "relevance_score": 0.5062216969997412,
+      "semantic_score": 0.6492883265906506,
+      "bm25_score": 0.291621752613377,
+      "citation_key": "NPSminAgendasACCWTS_p35"
+    },
+    {
+      "index": 32,
+      "doc_id": "Guide_USAF_Hist_Lit_1983",
+      "title": "Guide_USAF_Hist_Lit_1983.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 167,
+      "text_preview": "n the Cuban Crisis. (TS) Staff.\n\n1962. 56 pp.\n\nQl.79 SAC Operations in the Cuban Crisis of 1962. (TS) Staff. 1963.\n\n142 pp.\n\nQl.80 Strategic Command Control Communications, 1959-1964. (S) Her\n\nman S. ...",
+      "text_length": 483,
+      "relevance_score": 0.5020767810791514,
+      "semantic_score": 0.709313579307304,
+      "bm25_score": 0.19122158373692258,
+      "citation_key": "Guide_USAF_Hist_Lit_1983_p167"
+    },
+    {
+      "index": 33,
+      "doc_id": "DTICtrdBiblioCA-CIApre2000_2014",
+      "title": "DTICtrdBiblioCA-CIApre2000_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 158,
+      "text_preview": ") The collection in this volume includes many of CIA's most important documents on the\nCuban missile crisis. It contains the honeymoon cables that Director of Central Intelligence (DCI) John A.\nMcCone...",
+      "text_length": 393,
+      "relevance_score": 0.4992034191017778,
+      "semantic_score": 0.3790320107798528,
+      "bm25_score": 0.6794605315846652,
+      "citation_key": "DTICtrdBiblioCA-CIApre2000_2014_p158"
+    },
+    {
+      "index": 34,
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "Department of State Case No. F-2012-28943 Doc No. C05641695 Date: 03/25/2015\n\n\n10/19/2009\n\n' )\n\n\nNSAM 45\n\nCOVERAGE OF CASTRO ACTIVITIES IN THE US\n\n\nNSAM 46\n\nATTITUDE OF VARIOUS GOVERNMENTS DURING THE ...",
+      "text_length": 355,
+      "relevance_score": 0.4980087736417901,
+      "semantic_score": 0.6062864358871314,
+      "bm25_score": 0.3355922802737781,
+      "citation_key": "35StateDeptDocDeclass_1973-2009_chunk34"
+    },
+    {
+      "index": 35,
+      "doc_id": "NORADhistSumms_1967-1974",
+      "title": "NORADhistSumms_1967-1974.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 1143,
+      "text_preview": "RAD, NHCR 042115Z November\n1971 (420); U. S. Cong., House of Reps, Report on\nCuban Plane Incident at New Orleans, 3 Ja nuary\n1972, Armed Services Investigating Subc, U. S.\nHouse of Reps, 92d Cong, 1st...",
+      "text_length": 393,
+      "relevance_score": 0.494924687011495,
+      "semantic_score": 0.6904309917544458,
+      "bm25_score": 0.20166522989706887,
+      "citation_key": "NORADhistSumms_1967-1974_p1143"
+    },
+    {
+      "index": 36,
+      "doc_id": "USAIDlpaFOIApgmRpts_2012-2016",
+      "title": "USAIDlpaFOIApgmRpts_2012-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "ng for\nor with USA ID on Cuba projects since 2006. and budget\nal loc: a1ions lor operations in Cuba\nFOIA Acqucst CFIM-20I200416F. Acquost rooords\nrelated to Atrocities Board\n\n4i1 $'2014\n\nF-00218-14\n\ns...",
+      "text_length": 423,
+      "relevance_score": 0.4869287801531934,
+      "semantic_score": 0.811547966921989,
+      "bm25_score": 0,
+      "citation_key": "USAIDlpaFOIApgmRpts_2012-2016_chunk36"
+    },
+    {
+      "index": 37,
+      "doc_id": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u",
+      "title": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "rease in Soviet merchant shipping docking in U. S. ports.! U)\n\u2022 \u00b7\u00b7\u00b7~\n\u2022 1 -\n\n\nCuban-Jwerican relations during the initial portion\nof 1980 have been greatly affected by two central elements--a\nstepped u...",
+      "text_length": 417,
+      "relevance_score": 0.4845968052958342,
+      "semantic_score": 0.5793582742710568,
+      "bm25_score": 0.3424546018330003,
+      "citation_key": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u_chunk37"
+    },
+    {
+      "index": 38,
+      "doc_id": "DIAjmicMstersTheses1973-97_2002",
+      "title": "DIAjmicMstersTheses1973-97_2002.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 22,
+      "text_preview": "ons And Waming: Korea, India,\n\nComparison Of U. S. And Soviet Nuclear Weapons Effects Models\n\nConflict Over The Westem Sahara\n\nConvenience And Conflict: The Basis For Soviet-Vietnamese Relations\n\nConv...",
+      "text_length": 512,
+      "relevance_score": 0.4794789646489871,
+      "semantic_score": 0.6392070946502615,
+      "bm25_score": 0.23988676964707553,
+      "citation_key": "DIAjmicMstersTheses1973-97_2002_p22"
+    },
+    {
+      "index": 39,
+      "doc_id": "CIAandTofcSciIntel1949-68_1972",
+      "title": "CIAandTofcSciIntel1949-68_1972.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 69,
+      "text_preview": "rry\n\nof remodeling the Cuban missile crisis broke. He,\n\nas the Chairman of GMAIC, and many members of the\n\nBallistic Missile and Space Division, spent long\n\nhours at the National Photographic Interpre...",
+      "text_length": 470,
+      "relevance_score": 0.4718586737379122,
+      "semantic_score": 0.11976445622985359,
+      "bm25_score": 1.0,
+      "citation_key": "CIAandTofcSciIntel1949-68_1972_p69"
+    }
+  ],
+  "context_length": 21422,
+  "style": "comprehensive",
+  "length_mode": "medium",
+  "max_chunks": 40,
+  "diversity_mode": "best",
+  "quality_iterations": 3,
+  "iteration_history": [
+    {
+      "iteration": 1,
+      "validation": {
+        "total_citations": 21,
+        "valid": 21,
+        "invalid": 0,
+        "citation_density": 1.2605042016806722,
+        "avg_relevance": 0.47619047619047616,
+        "issues": [],
+        "warnings": [
+          

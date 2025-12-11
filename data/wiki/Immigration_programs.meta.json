@@ -1,0 +1,787 @@
+{
+  "topic": "Immigration programs",
+  "generated_at": "2025-11-26T20:16:49.118813",
+  "model": "gpt-5-nano",
+  "num_sources": 40,
+  "source_documents": [
+    {
+      "doc_id": "CBP_Inspector_Manual_2006",
+      "title": "CBP_Inspector_Manual_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 1.0
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.913856355175724
+    },
+    {
+      "doc_id": "CPB-IFM_2006",
+      "title": "CPB-IFM_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8736683233153659
+    },
+    {
+      "doc_id": "JMDpresidTransBriefs2000-2016",
+      "title": "JMDpresidTransBriefs2000-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8259950385389336
+    },
+    {
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7489081818692478
+    },
+    {
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7189933065444409
+    },
+    {
+      "doc_id": "RespCongCmteesDHS_2012-2013updt",
+      "title": "RespCongCmteesDHS_2012-2013updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7042046988690188
+    },
+    {
+      "doc_id": "RespCongCmteesDHS_2012-2013updt",
+      "title": "RespCongCmteesDHS_2012-2013updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7031849931959535
+    },
+    {
+      "doc_id": "CBP_Inspector_Manual_2006",
+      "title": "CBP_Inspector_Manual_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6880311714749254
+    },
+    {
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6814404548227743
+    },
+    {
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6443092797278015
+    },
+    {
+      "doc_id": "DOJ-EOIR-FraudPrevNLs_2012-2017",
+      "title": "DOJ-EOIR-FraudPrevNLs_2012-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6012439629999298
+    },
+    {
+      "doc_id": "DHSweeklyFOIArpts_2009-2011",
+      "title": "DHSweeklyFOIArpts_2009-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "SrMgntOfcMemosDOJNet_2011",
+      "title": "SrMgntOfcMemosDOJNet_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "LSC-EwebhomepagePlus_2017",
+      "title": "LSC-EwebhomepagePlus_2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "CPB-IFM_2006",
+      "title": "CPB-IFM_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5983898998830514
+    },
+    {
+      "doc_id": "EDtransBriefBiden_2020",
+      "title": "EDtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5983510599609473
+    },
+    {
+      "doc_id": "PeaceCorpsProgressRptsSPApgm_FY14-FY16",
+      "title": "PeaceCorpsProgressRptsSPApgm_FY14-FY16.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5976015844508408
+    },
+    {
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5809559875286001
+    },
+    {
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.572063225837161
+    },
+    {
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.563582572859405
+    },
+    {
+      "doc_id": "CBP_Inspector_Manual_2006",
+      "title": "CBP_Inspector_Manual_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5530096985057448
+    },
+    {
+      "doc_id": "USMSannualRpts2015-2021",
+      "title": "USMSannualRpts2015-2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5458563280366322
+    },
+    {
+      "doc_id": "PeaceCorpsProgressRptsSPApgm_FY14-FY16",
+      "title": "PeaceCorpsProgressRptsSPApgm_FY14-FY16.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5441714489921933
+    },
+    {
+      "doc_id": "DOL-WHD-FOH_2016",
+      "title": "DOL-WHD-FOH_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5387126048351452
+    },
+    {
+      "doc_id": "TreasurySecMan_2011-2014",
+      "title": "TreasurySecMan_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5343746034587904
+    },
+    {
+      "doc_id": "CensusBureauQFRs_2017-2020",
+      "title": "CensusBureauQFRs_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5338962370395804
+    },
+    {
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5292369009070881
+    },
+    {
+      "doc_id": "CBP_Inspector_Manual_2006",
+      "title": "CBP_Inspector_Manual_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.524700021152626
+    },
+    {
+      "doc_id": "USCIS-CongRpts_2008-2010",
+      "title": "USCIS-CongRpts_2008-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5221281252237568
+    },
+    {
+      "doc_id": "ListDHS-OIGinvsClosedCY2015-16",
+      "title": "ListDHS-OIGinvsClosedCY2015-16.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5200712535506563
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5117388658751576
+    },
+    {
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5088038397383874
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5065603352481719
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.49783244043339747
+    },
+    {
+      "doc_id": "CensusBureauQFRs_2017-2020",
+      "title": "CensusBureauQFRs_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4971638542144007
+    },
+    {
+      "doc_id": "InterioreEmailBurningMan2019",
+      "title": "InterioreEmailBurningMan2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.49434568747828456
+    },
+    {
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4927002724402638
+    },
+    {
+      "doc_id": "RespCongCmteesDHS_2012-2013updt",
+      "title": "RespCongCmteesDHS_2012-2013updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4906019532559541
+    }
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "doc_id": "CBP_Inspector_Manual_2006",
+      "title": "CBP_Inspector_Manual_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 485,
+      "text_preview": "eation of special benefits or programs for aliens.\n\nimmigration quotas and preferences,\n\ntoward\n\n(C)\n\nCorruption:\n\nOfficial corruption which\n\nfacilitates\n\nimmigration fraud, smuggling,\n\ncounterfeiting...",
+      "text_length": 302,
+      "relevance_score": 1.0,
+      "semantic_score": 1.0,
+      "bm25_score": 1.0,
+      "citation_key": "CBP_Inspector_Manual_2006_p485"
+    },
+    {
+      "index": 1,
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 292,
+      "text_preview": "their dependents, see Lieutenant Colonel Pamela\nM. Stahl, The Legal Assistance Attomey\u2019s Guide to Immigration and Naturalization, 177 MIL. L. REV. 1\n(2003), available at https://www. jagcnet. army. mi...",
+      "text_length": 433,
+      "relevance_score": 0.913856355175724,
+      "semantic_score": 0.8564272586262067,
+      "bm25_score": 1.0,
+      "citation_key": "ForgedInTheFire_2008_p292"
+    },
+    {
+      "index": 2,
+      "doc_id": "CPB-IFM_2006",
+      "title": "CPB-IFM_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 486,
+      "text_preview": "eation of special benefits or programs for aliens.\n\nimmigration quotas and preferences,\n\ntoward\n\n(C)\n\nCorruption:\n\nOfficial corruption which facilitates immigration fraud, smuggling,\n\ncounterfeiting, ...",
+      "text_length": 300,
+      "relevance_score": 0.8736683233153659,
+      "semantic_score": 0.78944720552561,
+      "bm25_score": 1.0,
+      "citation_key": "CPB-IFM_2006_p486"
+    },
+    {
+      "index": 3,
+      "doc_id": "JMDpresidTransBriefs2000-2016",
+      "title": "JMDpresidTransBriefs2000-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "are \u201cgeneral\u201d--they could be career or non-career.\n\nIMMIGRATION\n\nTransition materials \u2013 not for unauthorized redisclosure\n\n100\n\nprograms for implementing an effective and viable equal employment oppor...",
+      "text_length": 348,
+      "relevance_score": 0.8259950385389336,
+      "semantic_score": 1.0,
+      "bm25_score": 0.5649875963473341,
+      "citation_key": "JMDpresidTransBriefs2000-2016_chunk3"
+    },
+    {
+      "index": 4,
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 552,
+      "text_preview": "o\n\nreauthorize agricultural programs through 2018.\n\nThe Senate is scheduled to begin consideration of the following legislation:\n\n\uf0b7 S. 744, the \u201cBorder Security Economic Opportunity and Immigration\n\nM...",
+      "text_length": 400,
+      "relevance_score": 0.7489081818692478,
+      "semantic_score": 0.6642285842379156,
+      "bm25_score": 0.8759275783162462,
+      "citation_key": "DOJ-OLAwklyRptsAG_2009-2013_p552"
+    },
+    {
+      "index": 5,
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 3220,
+      "text_preview": "FECTS\nMEXICAN AND OTHER IMMIGRATION INTO THE U. S.; THE\nIMPORTANCE OF IMMIGRATION AS A BILATERAL ISSUE WITHI\nTHE CONTEXT OF A FREE TRADE AGREEMENT; CURRENT AND\nPROJECTED IMMIGRATION LEVELS; THE DIVERS...",
+      "text_length": 450,
+      "relevance_score": 0.7189933065444409,
+      "semantic_score": 1.0,
+      "bm25_score": 0.2974832663611024,
+      "citation_key": "VOA-Legacy-Assets_2011_p3220"
+    },
+    {
+      "index": 6,
+      "doc_id": "RespCongCmteesDHS_2012-2013updt",
+      "title": "RespCongCmteesDHS_2012-2013updt.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 17,
+      "text_preview": "s and other intemational training programs.\n\nU. S. Immigration and Customs Enforcement (ICE): ICE protects our borders by conducting\nmulti-faceted, intemational law enforcement operations and partneri...",
+      "text_length": 472,
+      "relevance_score": 0.7042046988690188,
+      "semantic_score": 0.986121180893378,
+      "bm25_score": 0.2813299758324802,
+      "citation_key": "RespCongCmteesDHS_2012-2013updt_p17"
+    },
+    {
+      "index": 7,
+      "doc_id": "RespCongCmteesDHS_2012-2013updt",
+      "title": "RespCongCmteesDHS_2012-2013updt.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 17,
+      "text_preview": "r goods that would violate U. S. law or interests. CBP\nmaintains extensive operational, liaison and technical relationships to accomplish this goal,\nincluding the Immigration Advisory Program, Prcclca...",
+      "text_length": 401,
+      "relevance_score": 0.7031849931959535,
+      "semantic_score": 0.9115481767411739,
+      "bm25_score": 0.39064021787812286,
+      "citation_key": "RespCongCmteesDHS_2012-2013updt_p17"
+    },
+    {
+      "index": 8,
+      "doc_id": "CBP_Inspector_Manual_2006",
+      "title": "CBP_Inspector_Manual_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 485,
+      "text_preview": "n, illegal, or fraudulent entry to the United States, and\noverstays or violations of status by nonimmigrants.\n\n(B) Govemment policies: Attitudes and intentions of high level United States Federal, Sta...",
+      "text_length": 419,
+      "relevance_score": 0.6880311714749254,
+      "semantic_score": 0.8974401907640989,
+      "bm25_score": 0.3739176425411651,
+      "citation_key": "CBP_Inspector_Manual_2006_p485"
+    },
+    {
+      "index": 9,
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 4396,
+      "text_preview": "te and David\nHowell, associate commissioner, U. S. Immigration and Naturalization\nService, discuss the economic impact of immigration, compiling\nstatistics on illegal immigration, the social problems ...",
+      "text_length": 471,
+      "relevance_score": 0.6814404548227743,
+      "semantic_score": 0.8586245416483624,
+      "bm25_score": 0.41566432458439206,
+      "citation_key": "VOA-Legacy-Assets_2011_p4396"
+    },
+    {
+      "index": 10,
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 565,
+      "text_preview": "d\n\n1. Immigration Reform. The Senate has passed S. 744, the Border Security, Economic\nOpportunity, and Immigration Modemization Act, a bipartisan package of legislative\nproposals to provide for compre...",
+      "text_length": 493,
+      "relevance_score": 0.6443092797278015,
+      "semantic_score": 0.8793577975673045,
+      "bm25_score": 0.29173650296854703,
+      "citation_key": "DOJ-OLAwklyRptsAG_2009-2013_p565"
+    },
+    {
+      "index": 11,
+      "doc_id": "DOJ-EOIR-FraudPrevNLs_2012-2017",
+      "title": "DOJ-EOIR-FraudPrevNLs_2012-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 147,
+      "text_preview": "selves out as attomeys or immigration specialists.\n\n** The Fraud Prevention Program, Office of the General Counsel; Recognition and Accreditation Program, Board\nof Immigration Appeals; and, Office of ...",
+      "text_length": 264,
+      "relevance_score": 0.6012439629999298,
+      "semantic_score": 0.8895639865050102,
+      "bm25_score": 0.1687639277423093,
+      "citation_key": "DOJ-EOIR-FraudPrevNLs_2012-2017_p147"
+    },
+    {
+      "index": 12,
+      "doc_id": "DHSweeklyFOIArpts_2009-2011",
+      "title": "DHSweeklyFOIArpts_2009-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 578,
+      "text_preview": "Program, commonly referred to as\nthe EB-5 Program. The enhancements proposed would transform the intake and\nreview process for immigrant investors consistent with the Obama Administration's\ncontinued ...",
+      "text_length": 310,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "DHSweeklyFOIArpts_2009-2011_p578"
+    },
+    {
+      "index": 13,
+      "doc_id": "SrMgntOfcMemosDOJNet_2011",
+      "title": "SrMgntOfcMemosDOJNet_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 150,
+      "text_preview": "ion intemally, if new resources are not available.\n\nStrategic Goal #5: Fairly and Effectively Administer the Immigration and Naturalization\n\nLaws of the United States.\n\nGuidance pertaining to the obje...",
+      "text_length": 500,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "SrMgntOfcMemosDOJNet_2011_p150"
+    },
+    {
+      "index": 14,
+      "doc_id": "LSC-EwebhomepagePlus_2017",
+      "title": "LSC-EwebhomepagePlus_2017.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 39,
+      "text_preview": "1!1 2006\n'1!1 2005\n'1!1 2004\n'1!1 2003\n1!1 2002\n'1!1 2001\n'1!1 2000\n'1!1 1998-99\n\nLSC Grantee Funding Levels\n\n@!1 2013\n'1 2012\n~ 2011\nIf) 2010\n'1 2009\n~ 2008\n@!1 2007\n'1 2006\n~ 2005\n~ 2004\n~ 2003\n'1 2...",
+      "text_length": 473,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "LSC-EwebhomepagePlus_2017_p39"
+    },
+    {
+      "index": 15,
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 311,
+      "text_preview": "eliminate the diversity immigrant program.\n\u2022 H. R. 1550, the \u201cFederal Law Enforcement Recruitment and Retention Act of 2011\u201d\n\nwhich would establish Homeland Security Department and Justice Department ...",
+      "text_length": 384,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "DOJ-OLAwklyRptsAG_2009-2013_p311"
+    },
+    {
+      "index": 16,
+      "doc_id": "CPB-IFM_2006",
+      "title": "CPB-IFM_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 486,
+      "text_preview": "n, illegal, or fraudulent entry to the United States, and\noverstays or violations of status by nonimmigrants.\n\n(B) Govemment policies: Attitudes and intentions of high level United States Federal, Sta...",
+      "text_length": 419,
+      "relevance_score": 0.5983898998830514,
+      "semantic_score": 0.7207901001746523,
+      "bm25_score": 0.4147895994456501,
+      "citation_key": "CPB-IFM_2006_p486"
+    },
+    {
+      "index": 17,
+      "doc_id": "EDtransBriefBiden_2020",
+      "title": "EDtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 231,
+      "text_preview": "\u2022 Migrant Education Program (MEP) - Title I-C (84.011A)\n\u2022 MEP Consortium Incentive Grant Program (84.144F)\n\u2022 High School Equivalency Program (84.141A)\n\u2022 College Assistance Migrant Program (84.149A)\n\n*...",
+      "text_length": 512,
+      "relevance_score": 0.5983510599609473,
+      "semantic_score": 0.9972517666015789,
+      "bm25_score": 0,
+      "citation_key": "EDtransBriefBiden_2020_p231"
+    },
+    {
+      "index": 18,
+      "doc_id": "PeaceCorpsProgressRptsSPApgm_FY14-FY16",
+      "title": "PeaceCorpsProgressRptsSPApgm_FY14-FY16.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 147,
+      "text_preview": "jective\n\nProgram Element\n\nPeace and Security\n\n1.5.3, Trafficking-in-Persons and Migrant\nSmuggling\n\nGoveming Justly and Democratically\n\n2.2.3, Local Govemment and Decentralization\n2.2.4, Anti-Corruptio...",
+      "text_length": 511,
+      "relevance_score": 0.5976015844508408,
+      "semantic_score": 0.9960026407514013,
+      "bm25_score": 0,
+      "citation_key": "PeaceCorpsProgressRptsSPApgm_FY14-FY16_p147"
+    },
+    {
+      "index": 19,
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 3216,
+      "text_preview": ". VIDEOTAPES AVAILABLE FOR PURCHASE.\n\nCORNELIUS D. SCULLY III, DIRECTOR, LEGISLATION\nREGULATIONS AND ADVISORY ASSISTANCE, DEPARTMENT OF\nSTATE; AND LAWRENCE J. WEINIG, DEPUTY ASSISTANT\nCOMMISSIONER, IM...",
+      "text_length": 500,
+      "relevance_score": 0.5809559875286001,
+      "semantic_score": 0.9033542822818516,
+      "bm25_score": 0.09735854539872292,
+      "citation_key": "VOA-Legacy-Assets_2011_p3216"
+    },
+    {
+      "index": 20,
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 598,
+      "text_preview": "hose efforts move forward.\n\n2. Immigration Reform. Last June, the Senate passed S. 744, the Border Security,\n\nEconomic Opportunity, and Immigration Modemization Act, a bipartisan package of\nlegislativ...",
+      "text_length": 508,
+      "relevance_score": 0.572063225837161,
+      "semantic_score": 0.6281757911212998,
+      "bm25_score": 0.48789437791095264,
+      "citation_key": "DOJ-OLAwklyRptsAG_2009-2013_p598"
+    },
+    {
+      "index": 21,
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 569,
+      "text_preview": "ildren\u2019s schools, and for other purposes.\n\n\uf0b7 H. R. 2397, the \u201cDepartment of Defense Appropriations Act,\u201d a bill to making\n\nappropriations for the Department of Defense for the fiscal year ending\nSepte...",
+      "text_length": 472,
+      "relevance_score": 0.563582572859405,
+      "semantic_score": 0.744813286119977,
+      "bm25_score": 0.29173650296854703,
+      "citation_key": "DOJ-OLAwklyRptsAG_2009-2013_p569"
+    },
+    {
+      "index": 22,
+      "doc_id": "CBP_Inspector_Manual_2006",
+      "title": "CBP_Inspector_Manual_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 485,
+      "text_preview": "verstays or violations of\nstatus by nonimmigrants.\n\n(B) Govemment policies: Attitudes and intentions of high level foreign govemment officials and\nintemational organizations towards emigration, refuge...",
+      "text_length": 429,
+      "relevance_score": 0.5530096985057448,
+      "semantic_score": 0.6782487881788805,
+      "bm25_score": 0.36515106399604136,
+      "citation_key": "CBP_Inspector_Manual_2006_p485"
+    },
+    {
+      "index": 23,
+      "doc_id": "USMSannualRpts2015-2021",
+      "title": "USMSannualRpts2015-2021.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 186,
+      "text_preview": "Office of Enforcement\nOperations (OEO). the U. S. Citizenship and\nImmigration Services (USCIS), and the Department of\nHomeland Security (DHS) to ensure the protection\nof clients that are not U. S. cit...",
+      "text_length": 464,
+      "relevance_score": 0.5458563280366322,
+      "semantic_score": 0.7016143683606217,
+      "bm25_score": 0.31221926755064777,
+      "citation_key": "USMSannualRpts2015-2021_p186"
+    },
+    {
+      "index": 24,
+      "doc_id": "PeaceCorpsProgressRptsSPApgm_FY14-FY16",
+      "title": "PeaceCorpsProgressRptsSPApgm_FY14-FY16.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 158,
+      "text_preview": "r each Program element is contained\nin Appendix 3.\n\nObjective: Peace and Security\nProgram Area: Transnational Crime\nProgram Element: Trafficking-in-Persons and Migrant Smuggling, 1.5.34\nNumber of Acti...",
+      "text_length": 459,
+      "relevance_score": 0.5441714489921933,
+      "semantic_score": 0.9069524149869889,
+      "bm25_score": 0,
+      "citation_key": "PeaceCorpsProgressRptsSPApgm_FY14-FY16_p158"
+    },
+    {
+      "index": 25,
+      "doc_id": "DOL-WHD-FOH_2016",
+      "title": "DOL-WHD-FOH_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 1575,
+      "text_preview": "number of states have migratory labor committees. The programs of these committees\ncover all aspects of conditions affecting migratory workers and their families (e. g., housing,\nwages, transportation...",
+      "text_length": 337,
+      "relevance_score": 0.5387126048351452,
+      "semantic_score": 0.8978543413919086,
+      "bm25_score": 0,
+      "citation_key": "DOL-WHD-FOH_2016_p1575"
+    },
+    {
+      "index": 26,
+      "doc_id": "TreasurySecMan_2011-2014",
+      "title": "TreasurySecMan_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 443,
+      "text_preview": "imposed on the contractor, and in which the U. S. Govemment provides guidance to\nand conducts oversight of contractor implementation of those policies. See National Industrial\nSecurity Program (NISP)....",
+      "text_length": 320,
+      "relevance_score": 0.5343746034587904,
+      "semantic_score": 0.8906243390979841,
+      "bm25_score": 0,
+      "citation_key": "TreasurySecMan_2011-2014_p443"
+    },
+    {
+      "index": 27,
+      "doc_id": "CensusBureauQFRs_2017-2020",
+      "title": "CensusBureauQFRs_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "prove program outcomes, and engage citizens.\n\n\nMr. Abel has successfully managed large scale implementation programs worldwide, including\nNorth America, Africa, Asia, and Europe. Some of the programs ...",
+      "text_length": 492,
+      "relevance_score": 0.5338962370395804,
+      "semantic_score": 0.4634416368361951,
+      "bm25_score": 0.6395781373446585,
+      "citation_key": "CensusBureauQFRs_2017-2020_chunk27"
+    },
+    {
+      "index": 28,
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 561,
+      "text_preview": "expected to complete consideration this week\nof S. 744, the Border Security, Economic Opportunity, and Immigration Modemization\nAct, a bipartisan package of legislative proposals to provide for compre...",
+      "text_length": 279,
+      "relevance_score": 0.5292369009070881,
+      "semantic_score": 0.6880550816698098,
+      "bm25_score": 0.29100962976300576,
+      "citation_key": "DOJ-OLAwklyRptsAG_2009-2013_p561"
+    },
+    {
+      "index": 29,
+      "doc_id": "CBP_Inspector_Manual_2006",
+      "title": "CBP_Inspector_Manual_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "he Immigration and Naturalization Service (M-367). The yearbook is\nan annual compilation of workload data on all INS programs. The yearbook provides\n\nI-LINK\n\nInspector's Field Manual\n\nimmigration data...",
+      "text_length": 482,
+      "relevance_score": 0.524700021152626,
+      "semantic_score": 0.7767796179505889,
+      "bm25_score": 0.14658062595568172,
+      "citation_key": "CBP_Inspector_Manual_2006_chunk29"
+    },
+    {
+      "index": 30,
+      "doc_id": "USCIS-CongRpts_2008-2010",
+      "title": "USCIS-CongRpts_2008-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "D. US CIS Fee Funding Struc~\n\nvm. CONCLUSION\n\nIX. APPENDIX A: Acronyms And InitiaUs~-\n\n\nAPPENDIX B: Recommendation Charts. 17,--\n\n\nRESPONSE TO THE CITIZENSBIP AND IMMIGRATION SERVICES\nOMBUDSMAN'S 2009...",
+      "text_length": 481,
+      "relevance_score": 0.5221281252237568,
+      "semantic_score": 0.6691996664903488,
+      "bm25_score": 0.30152081332386893,
+      "citation_key": "USCIS-CongRpts_2008-2010_chunk30"
+    },
+    {
+      "index": 31,
+      "doc_id": "ListDHS-OIGinvsClosedCY2015-16",
+      "title": "ListDHS-OIGinvsClosedCY2015-16.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 39,
+      "text_preview": "ized\npractice of immigration law was taking place. The sub-awardee under the grant, Center for Legal\nImmigration Assistance (CLIA), apparently reported to the CNCS OIG that AmeriCorps volunteers at CF...",
+      "text_length": 420,
+      "relevance_score": 0.5200712535506563,
+      "semantic_score": 0.6840656744953066,
+      "bm25_score": 0.2740796221336808,
+      "citation_key": "ListDHS-OIGinvsClosedCY2015-16_p39"
+    },
+    {
+      "index": 32,
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "; the Immigration and Naturalization Service on admittance of\nforeign nationals into the United States; and the Department of Homeland Security on\nissues relating to U. S. border security.\n\n369\n\nFORGE...",
+      "text_length": 389,
+      "relevance_score": 0.5117388658751576,
+      "semantic_score": 0.6334304100601796,
+      "bm25_score": 0.3292015495976245,
+      "citation_key": "ForgedInTheFire_2008_chunk32"
+    },
+    {
+      "index": 33,
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 4220,
+      "text_preview": "DISCUSS THE ROLE OF CONGRESS IN DETERMINING\nU. S. IMMIGRATION POLICY, ANTI-IMMIGRATION SENTIMENT IN\nTHE U. S. PUBLIC AND CONGRESS, CALIFORNIA^S PROPOSTION\n187 AND SIMILAR INITIATIVES, THE SITUATIO OF ...",
+      "text_length": 388,
+      "relevance_score": 0.5088038397383874,
+      "semantic_score": 0.72036793645386,
+      "bm25_score": 0.19145769466517842,
+      "citation_key": "VOA-Legacy-Assets_2011_p4220"
+    },
+    {
+      "index": 34,
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 292,
+      "text_preview": "ous forms and taking photographs and fingerprints.\nLegal assistance attomeys should be prepared to field immigration law questions relating to military\ndependents. In his after action review, CPT Hill...",
+      "text_length": 489,
+      "relevance_score": 0.5065603352481719,
+      "semantic_score": 0.37332555041398086,
+      "bm25_score": 0.7064125124994586,
+      "citation_key": "ForgedInTheFire_2008_p292"
+    },
+    {
+      "index": 35,
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 107,
+      "text_preview": "er (L/CA): Provided the legislative intent of Sec. 306 of\nthe Enhanced Border Security and Visa Entry Reform Act of 2002. The Library\nalso researched the status of a 1985 Department of State regulatio...",
+      "text_length": 414,
+      "relevance_score": 0.49783244043339747,
+      "semantic_score": 0.8297207340556625,
+      "bm25_score": 0,
+      "citation_key": "StateInfoPgmsRpts_2008_p107"
+    },
+    {
+      "index": 36,
+      "doc_id": "CensusBureauQFRs_2017-2020",
+      "title": "CensusBureauQFRs_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 92,
+      "text_preview": "improve program outcomes, and engage citizens.\nMr. Abel has successfully managed large scale implementation programs worldwide, including\nNorth America, Africa, Asia, and Europe. Some of the programs ...",
+      "text_length": 492,
+      "relevance_score": 0.4971638542144007,
+      "semantic_score": 0.40222099879422885,
+      "bm25_score": 0.6395781373446585,
+      "citation_key": "CensusBureauQFRs_2017-2020_p92"
+    },
+    {
+      "index": 37,
+      "doc_id": "InterioreEmailBurningMan2019",
+      "title": "InterioreEmailBurningMan2019.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 603,
+      "text_preview": "immigrants transfened to the U. S. Border Patrol. BLM Arizona also continues to be\nactive participants in the Borderland Management Task Forces and Alliance to Combat\nTransnational Threats, in order t...",
+      "text_length": 322,
+      "relevance_score": 0.49434568747828456,
+      "semantic_score": 0.8239094791304743,
+      "bm25_score": 0,
+      "citation_key": "InterioreEmailBurningMan2019_p603"
+    },
+    {
+      "index": 38,
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 4154,
+      "text_preview": "ERT BACH, EXECUTIVE ASSOCIATE COMMISSIONER,\nIMMIGRATION AND NATURALIZATION AND SANFORD UNGAR,\nJOURNALIST AND AUTHOR, ^FRESH BLOOD - THE NEW\nAMERICAN IMMIGRANTS^, COVERING HOW IMMIGRANTS HAVE\nCHANGED T...",
+      "text_length": 373,
+      "relevance_score": 0.4927002724402638,
+      "semantic_score": 0.6935286576236541,
+      "bm25_score": 0.19145769466517842,
+      "citation_key": "VOA-Legacy-Assets_2011_p4154"
+    },
+    {
+      "index": 39,
+      "doc_id": "RespCongCmteesDHS_2012-2013updt",
+      "title": "RespCongCmteesDHS_2012-2013updt.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 13,
+      "text_preview": "on exists since the initial checks were\nconducted. These pre-departure checks went into effect in late 2010, and no case is approved\nuntil results from all security checks have been received and analy...",
+      "text_length": 412,
+      "relevance_score": 0.4906019532559541,
+      "semantic_score": 0.817669922093257,
+      "bm25_score": 0,
+      "citation_key": "RespCongCmteesDHS_2012-2013updt_p13"
+    }
+  ],
+  "context_length": 20277,
+  "style": "comprehensive",
+  "length_mode": "medium",
+  "max_chunks": 40,
+  "diversity_mode": "best",
+  "quality_iterations": 3,
+  "iteration_history": [
+    {
+      "iteration": 1,
+      "validation": {
+        "total_citations": 24,
+        "valid": 24,
+        "invalid": 0,
+        "citation_density": 1.7977528089887642,
+        "avg_relevance": 0.5416666666666666,
+        "issues": [],
+        "warnings": [
+          

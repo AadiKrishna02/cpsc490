@@ -1,0 +1,1117 @@
+{
+  "topic": "CIA in Afghanistan",
+  "generated_at": "2025-11-25T15:49:50.183841",
+  "model": "gpt-5-nano",
+  "num_sources": 40,
+  "source_documents": [
+    {
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 1.0
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8272375622998847
+    },
+    {
+      "doc_id": "ArmyEntertainmentReports_2005-06",
+      "title": "ArmyEntertainmentReports_2005-06.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7883361669431778
+    },
+    {
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.7480740012201895
+    },
+    {
+      "doc_id": "GAOreportUSPgmsInAfghanistan_1971",
+      "title": "GAOreportUSPgmsInAfghanistan_1971.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7458813496103514
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7361223435824638
+    },
+    {
+      "doc_id": "DTICtrdBiblioCA-CIApre2000_2014",
+      "title": "DTICtrdBiblioCA-CIApre2000_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7344162292090806
+    },
+    {
+      "doc_id": "ODNIcovertOps1800s2007",
+      "title": "ODNIcovertOps1800s2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "CorresOLC-Kavanaugh_2001-2006",
+      "title": "CorresOLC-Kavanaugh_2001-2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "GAOreportUSPgmsInAfghanistan_1971",
+      "title": "GAOreportUSPgmsInAfghanistan_1971.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "USAIDlpaFOIApgmRpts_2012-2016",
+      "title": "USAIDlpaFOIApgmRpts_2012-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "ODNIcongCorres_2009-2010",
+      "title": "ODNIcongCorres_2009-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6763535751502541
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6733434579592483
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6499956186508243
+    },
+    {
+      "doc_id": "ArmyEntertainmentReports_2005-06",
+      "title": "ArmyEntertainmentReports_2005-06.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6399004492710392
+    },
+    {
+      "doc_id": "ODNIcovertOps1800s2007",
+      "title": "ODNIcovertOps1800s2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6370322412970786
+    },
+    {
+      "doc_id": "USAGMedFireWalTrainSlidesUndate",
+      "title": "USAGMedFireWalTrainSlidesUndate.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6302767674331705
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6212821207094191
+    },
+    {
+      "doc_id": "USAIDoigInvestsClosedCY2021-22u",
+      "title": "USAIDoigInvestsClosedCY2021-22u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6077608103402363
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6048315652097715
+    },
+    {
+      "doc_id": "ArmyEntertainmentReports_2005-06",
+      "title": "ArmyEntertainmentReports_2005-06.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.592059798154611
+    },
+    {
+      "doc_id": "USAIDigaWeeklyReports_CY2016-17",
+      "title": "USAIDigaWeeklyReports_CY2016-17.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5909670406743025
+    },
+    {
+      "doc_id": "USAIDpresidentTransDocs_2016",
+      "title": "USAIDpresidentTransDocs_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5877394243068172
+    },
+    {
+      "doc_id": "DIA_FileId_238215",
+      "title": "DIA_FileId_238215.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5824778712290305
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5819918322976915
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5686642509867522
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5641535985221976
+    },
+    {
+      "doc_id": "NGB-TalkingPoints_2007-2011",
+      "title": "NGB-TalkingPoints_2007-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5637912479745764
+    },
+    {
+      "doc_id": "USAID-OIGinvsClosed_CY2013",
+      "title": "USAID-OIGinvsClosed_CY2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5611385748584312
+    },
+    {
+      "doc_id": "USAIDrptsPIOETpgmRpts_2010-2013",
+      "title": "USAIDrptsPIOETpgmRpts_2010-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5590177313277112
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5528064459135007
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5454237129563694
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5434792639689385
+    },
+    {
+      "doc_id": "ArmyCIDannualHistReview",
+      "title": "ArmyCIDannualHistReview.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5284507284208967
+    },
+    {
+      "doc_id": "DEAlibraryCat2024",
+      "title": "DEAlibraryCat2024.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5223532351256126
+    },
+    {
+      "doc_id": "DIA_FileId_237732",
+      "title": "DIA_FileId_237732.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5136362145461393
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5127041394188524
+    },
+    {
+      "doc_id": "USAIDigaWeeklyReports_CY2016-17",
+      "title": "USAIDigaWeeklyReports_CY2016-17.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5097825263222617
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5097011193958266
+    }
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 105,
+      "text_preview": "igence professionals.\n\nDCI TENET Al\\'D OPERA TIO'.'! S IN AFGHANISTAN\n\nFollowing the terrorist attacks on September 11,200 I, the U. S. moved to strike at\n\nAl Qaida sanctuary bases in Afghanistan. It ...",
+      "text_length": 393,
+      "relevance_score": 1.0,
+      "semantic_score": 1.0,
+      "bm25_score": 1.0,
+      "citation_key": "DIA_FileId_238567_p105"
+    },
+    {
+      "index": 1,
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 147,
+      "text_preview": "imidation,\nas opposed to reliance on the evidence. Solutions may include housing judges and their\nfamilies in fortified compounds or holding investigative chamber hearings at intemment\nfacilities.519\n...",
+      "text_length": 463,
+      "relevance_score": 0.8272375622998847,
+      "semantic_score": 1.0,
+      "bm25_score": 0.4241252076662824,
+      "citation_key": "ForgedInTheFire_2008_p147"
+    },
+    {
+      "index": 2,
+      "doc_id": "ArmyEntertainmentReports_2005-06",
+      "title": "ArmyEntertainmentReports_2005-06.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 291,
+      "text_preview": "in episode\nabout the 10th\nMountain in\nAfghanistan.\n\n\"Special Forces in\nAfghanistan (wt)\"\nAlban Editions\n(France)\n\nA look a Special\nOperations in\nAfghanistan from\n2001-2005\n\nFootage of operations Await...",
+      "text_length": 462,
+      "relevance_score": 0.7883361669431778,
+      "semantic_score": 0.7826321936006723,
+      "bm25_score": 0.8016454380756906,
+      "citation_key": "ArmyEntertainmentReports_2005-06_p291"
+    },
+    {
+      "index": 3,
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 105,
+      "text_preview": "an \\vas the groundwork done prior to September 11.\n\nDespite the lack of interest policy makers showed to Afghanistan\nafter the Soviet withdrawal, the CIA remained active in the area,\nworking to increa...",
+      "text_length": 494,
+      "relevance_score": 0.7480740012201895,
+      "semantic_score": 0.7983496654520496,
+      "bm25_score": 0.6307641180125164,
+      "citation_key": "DIA_FileId_238567_p105"
+    },
+    {
+      "index": 4,
+      "doc_id": "GAOreportUSPgmsInAfghanistan_1971",
+      "title": "GAOreportUSPgmsInAfghanistan_1971.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "e\u00b7a\nInformation Agency. (UNCLASSIFIED)\n\nr A:' \u00b7(1.\n\nComptroller General\nof the United States\n\u2022 sscnra \u2022\n\u2022 - - - - - - - 50 TH ANIHVERSARY 1921-1971 - - - - - - -\n\nUNCLASSIFIED\n\nC o n t e n t s\n\nDIGEST...",
+      "text_length": 512,
+      "relevance_score": 0.7458813496103514,
+      "semantic_score": 0.96807897123183,
+      "bm25_score": 0.22742023249356827,
+      "citation_key": "GAOreportUSPgmsInAfghanistan_1971_chunk4"
+    },
+    {
+      "index": 5,
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 171,
+      "text_preview": "ed a request for cables originating\nfrom the U. S. Embassy in Kabul in February 2006 regarding the expected or\npredicted political and military conditions in Afghanistan for spring of that year.\n\nUNIT...",
+      "text_length": 398,
+      "relevance_score": 0.7361223435824638,
+      "semantic_score": 0.9091610640992248,
+      "bm25_score": 0.3323653290433548,
+      "citation_key": "StateInfoPgmsRpts_2008_p171"
+    },
+    {
+      "index": 6,
+      "doc_id": "DTICtrdBiblioCA-CIApre2000_2014",
+      "title": "DTICtrdBiblioCA-CIApre2000_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 24,
+      "text_preview": "fghanistan on the National Security Council staff. I was detailed from\nthe Central Intelligence Agency's Directorate for Intelligence (DI), where I served as a political analyst on\nthe Afghanistan Bra...",
+      "text_length": 401,
+      "relevance_score": 0.7344162292090806,
+      "semantic_score": 0.9684767514253175,
+      "bm25_score": 0.18827501070452757,
+      "citation_key": "DTICtrdBiblioCA-CIApre2000_2014_p24"
+    },
+    {
+      "index": 7,
+      "doc_id": "ODNIcovertOps1800s2007",
+      "title": "ODNIcovertOps1800s2007.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 15,
+      "text_preview": "nochet but denies direct Involvement to this day..\n\n\n\n\nSenate's Church\ncommittee holds\nlengthy hearings on\nthe agency's covert\noperations and\ndemands new\ncongressional\noversight. President\nGerald Ford...",
+      "text_length": 432,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "ODNIcovertOps1800s2007_p15"
+    },
+    {
+      "index": 8,
+      "doc_id": "CorresOLC-Kavanaugh_2001-2006",
+      "title": "CorresOLC-Kavanaugh_2001-2006.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 826,
+      "text_preview": "gainst Afghanistan or any other particular nation. I am not in a position to provide\ninformation here conceming any other intelligence activities beyond the Terrorist\nSurveillance Program. Consistent ...",
+      "text_length": 424,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "CorresOLC-Kavanaugh_2001-2006_p826"
+    },
+    {
+      "index": 9,
+      "doc_id": "GAOreportUSPgmsInAfghanistan_1971",
+      "title": "GAOreportUSPgmsInAfghanistan_1971.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 18,
+      "text_preview": "nd the United States\nInformation Agency. The U. S. Ambassador to Afghanistan,\ntmder the country-team concept, coordinates and supervises\nthe efforts of all U. S. agencies which operate in Afghani\nstan...",
+      "text_length": 485,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "GAOreportUSPgmsInAfghanistan_1971_p18"
+    },
+    {
+      "index": 10,
+      "doc_id": "USAIDlpaFOIApgmRpts_2012-2016",
+      "title": "USAIDlpaFOIApgmRpts_2012-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "N INFO database\ndescribed unde, hltp:/lwww. usaid. gov/afghanist\n1:!: I nilio ti. nrm:! llnl\": o. mn. ni tn. rin. n-nl:!:11\"1\n\n6/2412015\n\nF-00233-15\n\nVazqiiez. Maegan\n\nIJReview. oom\n\n6/2312015\n\nF-0023...",
+      "text_length": 393,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "USAIDlpaFOIApgmRpts_2012-2016_chunk10"
+    },
+    {
+      "index": 11,
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 151,
+      "text_preview": "tator of its own making,\u00b7\u00b7\nGeneral Manuel Noriega.\u00b7 Noriega had been on the. CIA's payroll since 1966, and had\nbeen transporting drugs with the CIA's knowledge since 1972... - \u2022980s: Afghanistan - The...",
+      "text_length": 469,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "CIA-comments_1994-2005u_p151"
+    },
+    {
+      "index": 12,
+      "doc_id": "ODNIcongCorres_2009-2010",
+      "title": "ODNIcongCorres_2009-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 190,
+      "text_preview": "ithout sufficient\naccurate, fa1: tual infonnation. I write to you, the Secretary of State, the Secretary of Defense, and\nthe Director of the CIA (copies enclosed) to obtain that information.\n\n\n\n\n\n\n\n\nH...",
+      "text_length": 281,
+      "relevance_score": 0.6763535751502541,
+      "semantic_score": 0.8579794020477975,
+      "bm25_score": 0.2525599790559861,
+      "citation_key": "ODNIcongCorres_2009-2010_p190"
+    },
+    {
+      "index": 13,
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 133,
+      "text_preview": "r\nISAF\u2019s presence in Afghanistan.450 In sum, U. S. forces carry out military operations in\nAfghanistan with the consent of the Afghan govemment, under the Article 51 right of\nindividual and collective...",
+      "text_length": 339,
+      "relevance_score": 0.6733434579592483,
+      "semantic_score": 0.7469457156886349,
+      "bm25_score": 0.5016048565906798,
+      "citation_key": "ForgedInTheFire_2008_p133"
+    },
+    {
+      "index": 14,
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 149,
+      "text_preview": ", to include any\nreplies and all records produced.\n\u2022 All Department of State cables originating from or sent to the U. S. Embassy\nin Islamabad with one or a combination of the following words or phras...",
+      "text_length": 446,
+      "relevance_score": 0.6499956186508243,
+      "semantic_score": 0.9285651695011777,
+      "bm25_score": 0,
+      "citation_key": "StateInfoPgmsRpts_2008_p149"
+    },
+    {
+      "index": 15,
+      "doc_id": "ArmyEntertainmentReports_2005-06",
+      "title": "ArmyEntertainmentReports_2005-06.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": ".\n\n\nNSTR\n\n5. Personnel Actions\n\n\n6. Team Specific.\n\nTOY to Fort Benning & Camp Navajo, AZ\n\n\"Special Forces in\nAfghanistan (wt)\"\nAlban Editions\n(France)\n\nA look a Special\nOperations in\nAfghanistan from...",
+      "text_length": 494,
+      "relevance_score": 0.6399004492710392,
+      "semantic_score": 0.6221790635803763,
+      "bm25_score": 0.6812503492159191,
+      "citation_key": "ArmyEntertainmentReports_2005-06_chunk15"
+    },
+    {
+      "index": 16,
+      "doc_id": "ODNIcovertOps1800s2007",
+      "title": "ODNIcovertOps1800s2007.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 15,
+      "text_preview": "n urgent campaign against al\nQaeda in Afghanistan. Agents rebuild contacts\nwith the \u25c4 NORTHERN ALLIANCE and hire\nanned tribesmen to gather intelligence and II)'\n\u2022 By Mitch Frank\nto capture Osama bin L...",
+      "text_length": 349,
+      "relevance_score": 0.6370322412970786,
+      "semantic_score": 0.9100460589958266,
+      "bm25_score": 0,
+      "citation_key": "ODNIcovertOps1800s2007_p15"
+    },
+    {
+      "index": 17,
+      "doc_id": "USAGMedFireWalTrainSlidesUndate",
+      "title": "USAGMedFireWalTrainSlidesUndate.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 25,
+      "text_preview": "about the US efforts in Afghanistan and Pakistan.\nThere are a number of documents currently available on the Intemet\nthat are classified as secret or higher. While this material has been\nleaked, it ha...",
+      "text_length": 506,
+      "relevance_score": 0.6302767674331705,
+      "semantic_score": 0.9003953820473866,
+      "bm25_score": 0,
+      "citation_key": "USAGMedFireWalTrainSlidesUndate_p25"
+    },
+    {
+      "index": 18,
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 172,
+      "text_preview": "enior\nAdvisor about the FOIA process within the Department. During the briefing, the\nAfghanistan Desk received guidance on how to respond to FOIA search/review\ntaskers. Also, IPS provided packets with...",
+      "text_length": 337,
+      "relevance_score": 0.6212821207094191,
+      "semantic_score": 0.5586102671516857,
+      "bm25_score": 0.7675164456774636,
+      "citation_key": "StateInfoPgmsRpts_2008_p172"
+    },
+    {
+      "index": 19,
+      "doc_id": "USAIDoigInvestsClosedCY2021-22u",
+      "title": "USAIDoigInvestsClosedCY2021-22u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 40,
+      "text_preview": "raud\n\nAfghanistan -- USAID/Kabul, Office of Afghanistan and Pakistan Affairs\n\n1/8/201 9\n\n4/20/2021\n\nBribery/Gratuity/Kickback, Conflict of Interest/Ethics, Program Fraud\n\nWest Bank/Gaza -- USAID/West ...",
+      "text_length": 512,
+      "relevance_score": 0.6077608103402363,
+      "semantic_score": 0.8682297290574805,
+      "bm25_score": 0,
+      "citation_key": "USAIDoigInvestsClosedCY2021-22u_p40"
+    },
+    {
+      "index": 20,
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "the Taliban, and the prison system in Afghanistan.\n\nUNCLASSIFIED\n\nUNCLASSIFIED\n\u2022 The State Department paper, \"Diplomatic Plan for the Day After,\" conceming Iraq,\nand likely created in 2002-2003. The p...",
+      "text_length": 280,
+      "relevance_score": 0.6048315652097715,
+      "semantic_score": 0.8640450931568165,
+      "bm25_score": 0,
+      "citation_key": "StateInfoPgmsRpts_2008_chunk20"
+    },
+    {
+      "index": 21,
+      "doc_id": "ArmyEntertainmentReports_2005-06",
+      "title": "ArmyEntertainmentReports_2005-06.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 217,
+      "text_preview": "ode on the operation\nin Fallujah in November\n2004. Looking for\nparticipants in episode\nabout the 10th Mountain\nin Afghanistan.\n\n\"Special Forces in\nAfghanistan (wt)\"\nAlban Editions\n(France)\n\nA look a S...",
+      "text_length": 413,
+      "relevance_score": 0.592059798154611,
+      "semantic_score": 0.4446106726209231,
+      "bm25_score": 0.9361077577332161,
+      "citation_key": "ArmyEntertainmentReports_2005-06_p217"
+    },
+    {
+      "index": 22,
+      "doc_id": "USAIDigaWeeklyReports_CY2016-17",
+      "title": "USAIDigaWeeklyReports_CY2016-17.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 99,
+      "text_preview": "limited availability of key people in Afghanistan.\n\n3, Hot Issues for IG/DIG/Counselor Awareness:\n\n(Include all job-related items that you wish to make the 10 aware of or want to discuss in the near f...",
+      "text_length": 512,
+      "relevance_score": 0.5909670406743025,
+      "semantic_score": 0.844238629534718,
+      "bm25_score": 0,
+      "citation_key": "USAIDigaWeeklyReports_CY2016-17_p99"
+    },
+    {
+      "index": 23,
+      "doc_id": "USAIDpresidentTransDocs_2016",
+      "title": "USAIDpresidentTransDocs_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 262,
+      "text_preview": "fghanistan\nand Pakistan (SRAP) is a high priority. SRAP\u2019s office of approximately 50 staff has the lead in diploma\ud7c7c\nand policy engagement with Afghanistan and Pakistan in Washington and coordinates i...",
+      "text_length": 505,
+      "relevance_score": 0.5877394243068172,
+      "semantic_score": 0.6863676805378927,
+      "bm25_score": 0.3576068264343082,
+      "citation_key": "USAIDpresidentTransDocs_2016_p262"
+    },
+    {
+      "index": 24,
+      "doc_id": "DIA_FileId_238215",
+      "title": "DIA_FileId_238215.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 1,
+      "text_preview": "COMEIDEIIII0I\n\nCDS\n\nI(b)(3) IO USC 424 (b)(3) 50 USC 3024(,)\n\nDTG\n111949ZAUG03\nFROM\nFM DIA WASHINGTON DC! I(b)(3) 10 USC 424\nCONTROLS\nCQNfJQi,~JTJ r) I\nSERIAL: (U) IIRl(b)(3):10 USC 424\nBODY\n\nCOUNTRY:...",
+      "text_length": 512,
+      "relevance_score": 0.5824778712290305,
+      "semantic_score": 0.8321112446129008,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238215_p1"
+    },
+    {
+      "index": 25,
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 144,
+      "text_preview": ".\n507 Major Sean M. Watts & Captain Christopher E. Martin, Nation Building in Afghanistan: Lessons\nIdentified in Military Justice Reform, ARMY LAW., May 2006, at 1 [hereinafter Nation Building in\nAfgh...",
+      "text_length": 404,
+      "relevance_score": 0.5819918322976915,
+      "semantic_score": 0.6457308462018542,
+      "bm25_score": 0.43326746652131176,
+      "citation_key": "ForgedInTheFire_2008_p144"
+    },
+    {
+      "index": 26,
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 172,
+      "text_preview": "human\nrights violations in Ecuador from 1984-1988. Since the ETC must complete its\nwork by the end of 2008, the Undersecretary for Political Affairs approved the\ncreation of a special project to facil...",
+      "text_length": 512,
+      "relevance_score": 0.5686642509867522,
+      "semantic_score": 0.6722788840228355,
+      "bm25_score": 0.326896773902558,
+      "citation_key": "StateInfoPgmsRpts_2008_p172"
+    },
+    {
+      "index": 27,
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 148,
+      "text_preview": "e added.\u201d 3ID 2008 OIF AAR, supra note 132, at 23.\n523 V Corps 2006 OIF AAR, supra note 150, at 23.\n524 There were also steps to increase USG coordination in Afghanistan, but the large number of playe...",
+      "text_length": 412,
+      "relevance_score": 0.5641535985221976,
+      "semantic_score": 0.8059337121745681,
+      "bm25_score": 0,
+      "citation_key": "ForgedInTheFire_2008_p148"
+    },
+    {
+      "index": 28,
+      "doc_id": "NGB-TalkingPoints_2007-2011",
+      "title": "NGB-TalkingPoints_2007-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 420,
+      "text_preview": "ention operations (other than the NATO 96-hour standard)\n\nAfghanistan Govemance\n\u2022 One of the biggest problems is human capital. There are few qualified in\nAfghanistan to be mayors, police chiefs, run ...",
+      "text_length": 489,
+      "relevance_score": 0.5637912479745764,
+      "semantic_score": 0.37684463996368056,
+      "bm25_score": 1.0,
+      "citation_key": "NGB-TalkingPoints_2007-2011_p420"
+    },
+    {
+      "index": 29,
+      "doc_id": "USAID-OIGinvsClosed_CY2013",
+      "title": "USAID-OIGinvsClosed_CY2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 14,
+      "text_preview": "/2011 8/30/2013\n\nBRANCH\nUSAID/LGCD, AFGHANISTAN\nCARE, NICARAGUA\nUS ARMY CORPS, AFGHANISTAN\n\nI (b)(6),(b)(7)(C)\n\n~. S. DEPARTMENT OF\n\nARMY\nKCI, AFGHAN ISTAN ET. Al\n\nTHE ASIA FOUNDATON (SELF DISCLOSURE)...",
+      "text_length": 512,
+      "relevance_score": 0.5611385748584312,
+      "semantic_score": 0.6496731682780538,
+      "bm25_score": 0.3545578568793119,
+      "citation_key": "USAID-OIGinvsClosed_CY2013_p14"
+    },
+    {
+      "index": 30,
+      "doc_id": "USAIDrptsPIOETpgmRpts_2010-2013",
+      "title": "USAIDrptsPIOETpgmRpts_2010-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 108,
+      "text_preview": "Afghanistan, on data\ncollectiun using the new. t\\.1-SIS developed within the project, \\Vith the participation of\n](I veterinarians. from border areas.\n\u2022 The Steering Con1mittee 1neeting \\Vas conducted...",
+      "text_length": 406,
+      "relevance_score": 0.5590177313277112,
+      "semantic_score": 0.7985967590395874,
+      "bm25_score": 0,
+      "citation_key": "USAIDrptsPIOETpgmRpts_2010-2013_p108"
+    },
+    {
+      "index": 31,
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 274,
+      "text_preview": "lowing\n\nsubjects:\n\u2022 Grants, payments, and/or funds transfers to Cuban citizens and other individuals in\n\nCuba.\n\u2022 The Govemment of Afghanistan request for the removal or deportation ofl\n\nccused of hold...",
+      "text_length": 474,
+      "relevance_score": 0.5528064459135007,
+      "semantic_score": 0.648906503391268,
+      "bm25_score": 0.3285729784653771,
+      "citation_key": "StateInfoPgmsRpts_2008_p274"
+    },
+    {
+      "index": 32,
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 147,
+      "text_preview": "tly from others. For example, some permitted U. S. CCCI prosecutors to ask questions of the\naccused whereas others limited direct questioning to the judge.\n519 Id.\n520 Previously the Office of Militar...",
+      "text_length": 484,
+      "relevance_score": 0.5454237129563694,
+      "semantic_score": 0.6994518906256239,
+      "bm25_score": 0.1860246317281089,
+      "citation_key": "ForgedInTheFire_2008_p147"
+    },
+    {
+      "index": 33,
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 133,
+      "text_preview": "efore the Senate Armed Services Comm.,\n107th Cong. 3, July 31, 2002, available at\nhttp://www. senate. gov/~armed_services/statemnt/2002/July/Rumsfeld2. pdf (statement of Donald H.\nRumsfeld, U. S. Secr...",
+      "text_length": 493,
+      "relevance_score": 0.5434792639689385,
+      "semantic_score": 0.7084251011383039,
+      "bm25_score": 0.15860564390708604,
+      "citation_key": "ForgedInTheFire_2008_p133"
+    },
+    {
+      "index": 34,
+      "doc_id": "ArmyCIDannualHistReview",
+      "title": "ArmyCIDannualHistReview.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 79,
+      "text_preview": "fghan forces on proper law enforcement techniques. CID contributes to courses on\n\nevidence gathering, investigative techniques, and interrogation methods, often in conjunction\n\nwith intemational train...",
+      "text_length": 449,
+      "relevance_score": 0.5284507284208967,
+      "semantic_score": 0.7549296120298525,
+      "bm25_score": 0,
+      "citation_key": "ArmyCIDannualHistReview_p79"
+    },
+    {
+      "index": 35,
+      "doc_id": "DEAlibraryCat2024",
+      "title": "DEAlibraryCat2024.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 169,
+      "text_preview": "Afghanistan /\nU. S. strategy in Afghanistan\nU. S. Customs and Border Protection: trade facilitation, enforcement,\nand security /\nCalifomia Department of Corrections methadone maintenance program: an e...",
+      "text_length": 510,
+      "relevance_score": 0.5223532351256126,
+      "semantic_score": 0.644794086693107,
+      "bm25_score": 0.23665791480145926,
+      "citation_key": "DEAlibraryCat2024_p169"
+    },
+    {
+      "index": 36,
+      "doc_id": "DIA_FileId_237732",
+      "title": "DIA_FileId_237732.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 1,
+      "text_preview": "SESREI\nDI0F0RN;\n\nDTG\n0907402 SEP 12\nFROM\n\nI(b)(3) 10 USC 424;(b)(3) 50 USC 3024(i)\n\nCONTROLS\n8 E O RE T IIHOPOIOI\nQQQQ\n\nDOCNQ\nI(b)(3) 10 USC 424\n\nBODY\nDATE OF PUBLICATION: 090740Z SEP 12.\n\nDEPARTMENT ...",
+      "text_length": 507,
+      "relevance_score": 0.5136362145461393,
+      "semantic_score": 0.7192076108854415,
+      "bm25_score": 0.03396962308776784,
+      "citation_key": "DIA_FileId_237732_p1"
+    },
+    {
+      "index": 37,
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 92,
+      "text_preview": "with the IFOR requirements.\n\nGFAP, supra note 21.\n278Agreement on Provisional Arrangements in Afghanistan Pending the Re-Establishment of Permanent\nGovemment Institutions, Dec. 5, 2001, 41 I. L. M. 10...",
+      "text_length": 483,
+      "relevance_score": 0.5127041394188524,
+      "semantic_score": 0.653179312634584,
+      "bm25_score": 0.18492873524881207,
+      "citation_key": "ForgedInTheFire_2008_p92"
+    },
+    {
+      "index": 38,
+      "doc_id": "USAIDigaWeeklyReports_CY2016-17",
+      "title": "USAIDigaWeeklyReports_CY2016-17.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 89,
+      "text_preview": "n, and Manila. Tom's first visit to these offices.\n\u2022 Afghanistan office~(b)(6)\n\nI departing post tomorrow. Safe travels! I~(b-)-(6-)--~I will be Acting\n\nDirector initially. Working on long-term transi...",
+      "text_length": 452,
+      "relevance_score": 0.5097825263222617,
+      "semantic_score": 0.5587105110381482,
+      "bm25_score": 0.3956172286518602,
+      "citation_key": "USAIDigaWeeklyReports_CY2016-17_p89"
+    },
+    {
+      "index": 39,
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "the Taliban, and the prison system in Afghanistan.\n\nUNITED STATES DEPARTMENT OF STATE\nREVIEW AUTHORITY: FRANK TUMMINIA\nDATE/CASE ID: 26 JUL 2010 200805526\n\n\nUNCLASSIFIED\n\u2022 The State Department paper, ...",
+      "text_length": 493,
+      "relevance_score": 0.5097011193958266,
+      "semantic_score": 0.7281444562797523,
+      "bm25_score": 0,
+      "citation_key": "StateInfoPgmsRpts_2008_chunk39"
+    }
+  ],
+  "context_length": 21324,
+  "style": "comprehensive",
+  "length_mode": "short",
+  "quality_iterations": 1,
+  "final_quality": {
+    "citation_density": 1.3108614232209739,
+    "avg_relevance": 0.21428571428571427,
+    "total_citations": 14,
+    "valid_citations": 14,
+    "invalid_citations": 0,
+    "passes_standards": false
+  },
+  "validation_cache": {
+    "total_citations": 14,
+    "valid": 14,
+    "invalid": 0,
+    "citation_density": 1.3108614232209739,
+    "total_words": 1068,
+    "avg_relevance_score": 0.21428571428571427,
+    "issues": [],
+    "warnings": [
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ODNIcovertOps1800s2007#page=15\" class=\"citation\" target=\"_blank\">(Doc #ODNIcovertOps1800s2007, p.15)</a>",
+          "document_id": "ODNIcovertOps1800s2007",
+          "page_no": 15
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The page documents CIA covert support to Afghan fighters (e.g., mujahideen, Northern Alliance) and intelligence gathering in Afghanistan, which aligns with covert assistance and intelligence-network building. However, it does not clearly address the post-9/11 counterterrorism era or explicit integration with international security efforts as described in the claim.",
+        "context": "iet\u2013Afghan War through the post-9/11 counterterrorism era, encompassing covert assistance to Afghan fighters, intelligence network building, and later integration with international security efforts. <a href=\"/pdf/ODNIcovertOps1800s2007page=15\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.15)</a> <a href=\"/pdf/CIA-comments1994-2005upage=151\" class=\"citation\" target=\"blank\">(Doc 1994-2005u, p.151)</a>\n- Following the September 11, 2001 attacks, U.S. operations targeted Al Qaeda sanctuaries",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIA-comments_1994-2005u#page=151\" class=\"citation\" target=\"_blank\">(Doc #1994-2005u, p.151)</a>",
+          "document_id": "CIA-comments_1994-2005u",
+          "page_no": 151
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited page 151 mentions various historical CIA activities and a brief note on 9/11, but it does not explicitly describe post-9/11 U.S. operations targeting Al Qaeda sanctuaries in Afghanistan or state that CIA covert activities were pivotal to a broader international security effort.",
+        "context": "nce network building, and later integration with international security efforts. <a href=\"/pdf/ODNIcovertOps1800s2007page=15\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.15)</a> <a href=\"/pdf/CIA-comments1994-2005upage=151\" class=\"citation\" target=\"blank\">(Doc 1994-2005u, p.151)</a>\n- Following the September 11, 2001 attacks, U.S. operations targeted Al Qaeda sanctuaries in Afghanistan, a campaign in which CIA covert activities were pivotal to the broader effort and helped raise",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/GAOreportUSPgmsInAfghanistan_1971#page=18\" class=\"citation\" target=\"_blank\">(Doc #1971, p.18)</a>",
+          "document_id": "GAOreportUSPgmsInAfghanistan_1971",
+          "page_no": 18
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The provided page excerpt covers general U.S. foreign assistance authority and coordination (State, DoD, AID, USIS) and does not mention CIA activity, HUMINT expansion, or support to Afghan mujahideen. There is no evidence in this page to back the claim about CIA involvement in Afghanistan in the 1980s or pre-9/11 context.",
+        "context": "storical Context\n- Pre-9/11, the CIA remained active in Afghanistan even after the Soviet withdrawal, working to expand its HUMINT footprint and maintain influence in a volatile security environment. <a href=\"/pdf/GAOreportUSPgmsInAfghanistan1971page=18\" class=\"citation\" target=\"blank\">(Doc 1971, p.18)</a> <a href=\"/documents/GAOreportUSPgmsInAfghanistan1971chunk4\" class=\"citation\" target=\"blank\">GAOreportUSPgmsInAfghanistan1971chunk4</a>\n- In the 1980s, the agency supported Afghan mujahideen as",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ForgedInTheFire_2008#page=147\" class=\"citation\" target=\"_blank\">(Doc #2008, p.147)</a>",
+          "document_id": "ForgedInTheFire_2008",
+          "page_no": 147
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The excerpt on page 147 explicitly documents the historical name change: OMC-A, then OSC-A, and later CSTC-A, showing the mandate expansion to include policing. However, it does not mention CIA operations or their coordination with ISAF and the Afghan government, so the second part of the claim is not supported by this page.",
+        "context": "m the Office of Military Cooperation \u2013 Afghanistan (OMC-A), with its mandate expanding to include policing and later transforming into the Combined Security Transition Command \u2013 Afghanistan (CSTC-A). <a href=\"/pdf/ForgedInTheFire2008page=147\" class=\"citation\" target=\"blank\">(Doc 2008, p.147)</a> <a href=\"/pdf/ForgedInTheFire2008page=133\" class=\"citation\" target=\"blank\">(Doc 2008, p.133)</a>\n- CIA operations in Afghanistan have operated in close conjunction with ISAF and Afghan government",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ForgedInTheFire_2008#page=133\" class=\"citation\" target=\"_blank\">(Doc #2008, p.133)</a>",
+          "document_id": "ForgedInTheFire_2008",
+          "page_no": 133
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The page 133 content discusses OEF operations with Afghan government consent, humanitarian aid, training the Afghan National Army, and ISAF presence, but it does not mention CIA operations, CSTC-A, or integration of intelligence with security sector reform and governance. Therefore, it does not substantiate the claim.",
+        "context": "icing and later transforming into the Combined Security Transition Command \u2013 Afghanistan (CSTC-A). <a href=\"/pdf/ForgedInTheFire2008page=147\" class=\"citation\" target=\"blank\">(Doc 2008, p.147)</a> <a href=\"/pdf/ForgedInTheFire2008page=133\" class=\"citation\" target=\"blank\">(Doc 2008, p.133)</a>\n- CIA operations in Afghanistan have operated in close conjunction with ISAF and Afghan government security institutions, integrating intelligence collection with security sector reform and governanc",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ForgedInTheFire_2008#page=148\" class=\"citation\" target=\"_blank\">(Doc #2008, p.148)</a>",
+          "document_id": "ForgedInTheFire_2008",
+          "page_no": 148
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The provided page 148 excerpt discusses interagency coordination for Rule of Law and governance-related reforms in Afghanistan/Iraq, not intelligence collection or HUMINT networks. It does not substantiate the claim about integrating intelligence collection with security sector reform and governance efforts. (Note: page 133 is not provided here, so the overall citation cannot be confirmed.)",
+        "context": "titutions, integrating intelligence collection with security sector reform and governance efforts. <a href=\"/pdf/ForgedInTheFire2008page=133\" class=\"citation\" target=\"blank\">(Doc 2008, p.133)</a> <a href=\"/pdf/ForgedInTheFire2008page=148\" class=\"citation\" target=\"blank\">(Doc 2008, p.148)</a>\n\n Core Operations and Capabilities\n- Intelligence collection in Afghanistan relied on an expansive HUMINT network, built in the years leading to and after 9/11, enabling the CIA to leverage local s",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ForgedInTheFire_2008#page=92\" class=\"citation\" target=\"_blank\">(Doc #2008, p.92)</a>",
+          "document_id": "ForgedInTheFire_2008",
+          "page_no": 92
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The page clearly documents international legal scaffolding for Afghanistan (the Bonn Agreement on provisional arrangements and UNSCR 1386 authorizing ISAF under Chapter VII, with ISAF\u2019s mandate to create a secure environment), which supports the claim about a UN-backed legal framework. However, it does not explicitly mention CIA/U.S. agency operations or directly frame the principles of self-defense in this context, so those elements are not directly evidenced.",
+        "context": "eement and U.N. Security Council resolutions provided the international legal scaffolding for provisional arrangements in Afghanistan, shaping the environment in which CIA and U.S. agencies operated. <a href=\"/pdf/ForgedInTheFire2008page=92\" class=\"citation\" target=\"blank\">(Doc 2008, p.92)</a>\n- The broader legal framework for operation and engagement included principles of self-defense and UN-mandated security arrangements under ISAF, as discussed in international-law-oriented sections of",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CorresOLC-Kavanaugh_2001-2006#page=826\" class=\"citation\" target=\"_blank\">(Doc #2001-2006, p.826)</a>",
+          "document_id": "CorresOLC-Kavanaugh_2001-2006",
+          "page_no": 826
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited page discusses oversight and classification of intelligence activities related to the Terrorist Surveillance Program, with incidental mentions of Afghanistan, but it does not provide evidence of correspondence and policy notes specifically addressing the classification and review process for Afghanistan-related materials. Therefore it does not substantiate the claim.",
+        "context": "nation were part of ongoing discussions in the 2000s, as exemplified by correspondence and policy notes that address the classification and review process for sensitive Afghanistan-related materials. <a href=\"/pdf/CorresOLC-Kavanaugh2001-2006page=826\" class=\"citation\" target=\"blank\">(Doc 2001-2006, p.826)</a> <a href=\"/pdf/StateInfoPgmsRpts2008page=172\" class=\"citation\" target=\"blank\">(Doc 2008, p.172)</a>\n\n Coordination with Allies and Partners\n- The U.S. embassy Afghanistan program architecture an",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/StateInfoPgmsRpts_2008#page=172\" class=\"citation\" target=\"_blank\">(Doc #2008, p.172)</a>",
+          "document_id": "StateInfoPgmsRpts_2008",
+          "page_no": 172
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited 2008 page discusses FOIA/declassification processes and Afghanistan Desk briefings, not the classification/review procedures for sensitive Afghanistan-related materials or the embassy program architecture and cross-agency coordination described in the claim.",
+        "context": "s the classification and review process for sensitive Afghanistan-related materials. <a href=\"/pdf/CorresOLC-Kavanaugh2001-2006page=826\" class=\"citation\" target=\"blank\">(Doc 2001-2006, p.826)</a> <a href=\"/pdf/StateInfoPgmsRpts2008page=172\" class=\"citation\" target=\"blank\">(Doc 2008, p.172)</a>\n\n Coordination with Allies and Partners\n- The U.S. embassy Afghanistan program architecture and country-team model underscore the role of the mission in coordinating across U.S. agencies operating",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/StateInfoPgmsRpts_2008#page=171\" class=\"citation\" target=\"_blank\">(Doc #2008, p.171)</a>",
+          "document_id": "StateInfoPgmsRpts_2008",
+          "page_no": 171
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The page only notes a FOIA request for cables from the U.S. Embassy in Kabul regarding Afghanistan in spring 2006; it does not show that the FOIA-released materials contain diplomatic-reporter cables or briefings that illuminate the interplay between U.S. diplomacy, counterterrorism, and regional security.",
+        "context": "rtment FOIA-released materials highlight related diplomatic-reporter cables and briefings that illuminate the interplay between U.S. diplomacy, counterterrorism, and regional security in Afghanistan. <a href=\"/pdf/StateInfoPgmsRpts2008page=171\" class=\"citation\" target=\"blank\">(Doc 2008, p.171)</a> <a href=\"/pdf/StateInfoPgmsRpts2008page=149\" class=\"citation\" target=\"blank\">(Doc 2008, p.149)</a>\n\n Incidents and Findings\n- In 2012, a notable incident involved the Green-on-Blue attack again",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/StateInfoPgmsRpts_2008#page=149\" class=\"citation\" target=\"_blank\">(Doc #2008, p.149)</a>",
+          "document_id": "StateInfoPgmsRpts_2008",
+          "page_no": 149
+        },
+        "issue": "LLM validation: UNSUPPORTED (HIGH): The provided page (Doc 2008, p.149) is an IPS Weekly Achievements Report focusing on privacy tools, FOIA requests, and internal memoranda, with no discussion of Afghanistan, U.S. diplomacy, counterterrorism, regional security, or Green-on-Blue incidents. Therefore it does not back the claim.",
+        "context": "te the interplay between U.S. diplomacy, counterterrorism, and regional security in Afghanistan. <a href=\"/pdf/StateInfoPgmsRpts2008page=171\" class=\"citation\" target=\"blank\">(Doc 2008, p.171)</a> <a href=\"/pdf/StateInfoPgmsRpts2008page=149\" class=\"citation\" target=\"blank\">(Doc 2008, p.149)</a>\n\n Incidents and Findings\n- In 2012, a notable incident involved the Green-on-Blue attack against Zabul Afghan Uniformed Police, illustrating the ongoing challenges of insider threat and trust withi",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_237732#page=1\" class=\"citation\" target=\"_blank\">(Doc #237732, p.1)</a>",
+          "document_id": "DIA_FileId_237732",
+          "page_no": 1
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The page clearly documents a Green-on-Blue attack involving Zabul Afghan Uniformed Police in September 2012, supporting the first bullet\u2019s incident. However, it does not explicitly discuss insider-threat implications or ongoing trust issues, nor does it address early-2000s Al Qaeda/Taliban statements or U.S./CIA involvement, so those portions are not supported by this page.",
+        "context": "s\n- In 2012, a notable incident involved the Green-on-Blue attack against Zabul Afghan Uniformed Police, illustrating the ongoing challenges of insider threat and trust within Afghan security forces. <a href=\"/pdf/DIAFileId237732page=1\" class=\"citation\" target=\"blank\">(Doc 237732, p.1)</a>\n- Public statements from the early 2000s framed the ongoing challenge of Al Qaeda and Taliban remnants in Afghanistan, reinforcing the rationale for continued U.S. and CIA involvement in the security",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ForgedInTheFire_2008#page=144\" class=\"citation\" target=\"_blank\">(Doc #2008, p.144)</a>",
+          "document_id": "ForgedInTheFire_2008",
+          "page_no": 144
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): Page 144 discusses Afghan military justice reform and building local legal relationships; it does not mention CIA involvement, Al Qaeda sanctuaries, or counterterrorism objectives to substantiate the claim.",
+        "context": "istan, reinforcing the rationale for continued U.S. and CIA involvement in the security landscape. <a href=\"/pdf/ForgedInTheFire2008page=133\" class=\"citation\" target=\"blank\">(Doc 2008, p.133)</a> <a href=\"/pdf/ForgedInTheFire2008page=144\" class=\"citation\" target=\"blank\">(Doc 2008, p.144)</a>\n\n Legacy and Impact\n- The CIA\u2019s Afghanistan operations contributed to dismantling Al Qaeda sanctuaries and to the broader U.S. counterterrorism objectives in the region, reinforced by sustained HUM",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "N/A",
+          "document_id": "",
+          "page_no": 0
+        },
+        "issue": "Low citation density (1.31 per 100 words). Aim for at least 2.0 citations per 100 words (1 per 50 words).",
+        "context": "Document has 14 citations in 1068 words",
+        "relevance_score": null,
+        "verdict": null
+      }
+    ],
+    "validated_citations": [
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ODNIcovertOps1800s2007#page=15\" class=\"citation\" target=\"_blank\">(Doc #ODNIcovertOps1800s2007, p.15)</a>",
+          "document_id": "ODNIcovertOps1800s2007",
+          "page_no": 15
+        },
+        "context": "iet\u2013Afghan War through the post-9/11 counterterrorism era, encompassing covert assistance to Afghan fighters, intelligence network building, and later integration with international security efforts. <a href=\"/pdf/ODNIcovertOps1800s2007page=15\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.15)</a> <a href=\"/pdf/CIA-comments1994-2005upage=151\" class=\"citation\" target=\"blank\">(Doc 1994-2005u, p.151)</a>\n- Following the September 11, 2001 attacks, U.S. operations targeted Al Qaeda sanctuaries",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The page documents CIA covert support to Afghan fighters (e.g., mujahideen, Northern Alliance) and intelligence gathering in Afghanistan, which aligns with covert assistance and intelligence-network building. However, it does not clearly address the post-9/11 counterterrorism era or explicit integration with international security efforts as described in the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIA-comments_1994-2005u#page=151\" class=\"citation\" target=\"_blank\">(Doc #1994-2005u, p.151)</a>",
+          "document_id": "CIA-comments_1994-2005u",
+          "page_no": 151
+        },
+        "context": "nce network building, and later integration with international security efforts. <a href=\"/pdf/ODNIcovertOps1800s2007page=15\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.15)</a> <a href=\"/pdf/CIA-comments1994-2005upage=151\" class=\"citation\" target=\"blank\">(Doc 1994-2005u, p.151)</a>\n- Following the September 11, 2001 attacks, U.S. operations targeted Al Qaeda sanctuaries in Afghanistan, a campaign in which CIA covert activities were pivotal to the broader effort and helped raise",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited page 151 mentions various historical CIA activities and a brief note on 9/11, but it does not explicitly describe post-9/11 U.S. operations targeting Al Qaeda sanctuaries in Afghanistan or state that CIA covert activities were pivotal to a broader international security effort."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238567#page=105\" class=\"citation\" target=\"_blank\">(Doc #238567, p.105)</a>",
+          "document_id": "DIA_FileId_238567",
+          "page_no": 105
+        },
+        "context": "Afghanistan, a campaign in which CIA covert activities were pivotal to the broader effort and helped raise the stature of Director of Central Intelligence George Tenet with President George W. Bush. <a href=\"/pdf/DIAFileId238567page=105\" class=\"citation\" target=\"blank\">(Doc 238567, p.105)</a>\n- The rapid U.S. shift after 9/11 relied on long-standing CIA groundwork in Afghanistan, including networks of human intelligence (HUMINT) sources and preexisting relationships with Afghan actors. By",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The cited page explicitly states that CIA operations in Afghanistan \u201craised the stature of DCI Tenet with President Bush,\u201d and describes the long-standing groundwork (HUMINT networks) that underpinned Afghanistan operations, supporting both the pivotal role and Tenet\u2019s increased standing with Bush."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/GAOreportUSPgmsInAfghanistan_1971#page=18\" class=\"citation\" target=\"_blank\">(Doc #1971, p.18)</a>",
+          "document_id": "GAOreportUSPgmsInAfghanistan_1971",
+          "page_no": 18
+        },
+        "context": "storical Context\n- Pre-9/11, the CIA remained active in Afghanistan even after the Soviet withdrawal, working to expand its HUMINT footprint and maintain influence in a volatile security environment. <a href=\"/pdf/GAOreportUSPgmsInAfghanistan1971page=18\" class=\"citation\" target=\"blank\">(Doc 1971, p.18)</a> <a href=\"/documents/GAOreportUSPgmsInAfghanistan1971chunk4\" class=\"citation\" target=\"blank\">GAOreportUSPgmsInAfghanistan1971chunk4</a>\n- In the 1980s, the agency supported Afghan mujahideen as",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The provided page excerpt covers general U.S. foreign assistance authority and coordination (State, DoD, AID, USIS) and does not mention CIA activity, HUMINT expansion, or support to Afghan mujahideen. There is no evidence in this page to back the claim about CIA involvement in Afghanistan in the 1980s or pre-9/11 context."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ForgedInTheFire_2008#page=147\" class=\"citation\" target=\"_blank\">(Doc #2008, p.147)</a>",
+          "document_id": "ForgedInTheFire_2008",
+          "page_no": 147
+        },
+        "context": "m the Office of Military Cooperation \u2013 Afghanistan (OMC-A), with its mandate expanding to include policing and later transforming into the Combined Security Transition Command \u2013 Afghanistan (CSTC-A). <a href=\"/pdf/ForgedInTheFire2008page=147\" class=\"citation\" target=\"blank\">(Doc 2008, p.147)</a> <a href=\"/pdf/ForgedInTheFire2008page=133\" class=\"citation\" target=\"blank\">(Doc 2008, p.133)</a>\n- CIA operations in Afghanistan have operated in close conjunction with ISAF and Afghan government",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The excerpt on page 147 explicitly documents the historical name change: OMC-A, then OSC-A, and later CSTC-A, showing the mandate expansion to include policing. However, it does not mention CIA operations or their coordination with ISAF and the Afghan government, so the second part of the claim is not supported by this page."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ForgedInTheFire_2008#page=133\" class=\"citation\" target=\"_blank\">(Doc #2008, p.133)</a>",
+          "document_id": "ForgedInTheFire_2008",
+          "page_no": 133
+        },
+        "context": "icing and later transforming into the Combined Security Transition Command \u2013 Afghanistan (CSTC-A). <a href=\"/pdf/ForgedInTheFire2008page=147\" class=\"citation\" target=\"blank\">(Doc 2008, p.147)</a> <a href=\"/pdf/ForgedInTheFire2008page=133\" class=\"citation\" target=\"blank\">(Doc 2008, p.133)</a>\n- CIA operations in Afghanistan have operated in close conjunction with ISAF and Afghan government security institutions, integrating intelligence collection with security sector reform and governanc",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The page 133 content discusses OEF operations with Afghan government consent, humanitarian aid, training the Afghan National Army, and ISAF presence, but it does not mention CIA operations, CSTC-A, or integration of intelligence with security sector reform and governance. Therefore, it does not substantiate the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ForgedInTheFire_2008#page=148\" class=\"citation\" target=\"_blank\">(Doc #2008, p.148)</a>",
+          "document_id": "ForgedInTheFire_2008",
+          "page_no": 148
+        },
+        "context": "titutions, integrating intelligence collection with security sector reform and governance efforts. <a href=\"/pdf/ForgedInTheFire2008page=133\" class=\"citation\" target=\"blank\">(Doc 2008, p.133)</a> <a href=\"/pdf/ForgedInTheFire2008page=148\" class=\"citation\" target=\"blank\">(Doc 2008, p.148)</a>\n\n Core Operations and Capabilities\n- Intelligence collection in Afghanistan relied on an expansive HUMINT network, built in the years leading to and after 9/11, enabling the CIA to leverage local s",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The provided page 148 excerpt discusses interagency coordination for Rule of Law and governance-related reforms in Afghanistan/Iraq, not intelligence collection or HUMINT networks. It does not substantiate the claim about integrating intelligence collection with security sector reform and governance efforts. (Note: page 133 is not provided here, so the overall citation cannot be confirmed.)"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ForgedInTheFire_2008#page=92\" class=\"citation\" target=\"_blank\">(Doc #2008, p.92)</a>",
+          "document_id": "ForgedInTheFire_2008",
+          "page_no": 92
+        },
+        "context": "eement and U.N. Security Council resolutions provided the international legal scaffolding for provisional arrangements in Afghanistan, shaping the environment in which CIA and U.S. agencies operated. <a href=\"/pdf/ForgedInTheFire2008page=92\" class=\"citation\" target=\"blank\">(Doc 2008, p.92)</a>\n- The broader legal framework for operation and engagement included principles of self-defense and UN-mandated security arrangements under ISAF, as discussed in international-law-oriented sections of",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The page clearly documents international legal scaffolding for Afghanistan (the Bonn Agreement on provisional arrangements and UNSCR 1386 authorizing ISAF under Chapter VII, with ISAF\u2019s mandate to create a secure environment), which supports the claim about a UN-backed legal framework. However, it does not explicitly mention CIA/U.S. agency operations or directly frame the principles of self-defense in this context, so those elements are not directly evidenced."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CorresOLC-Kavanaugh_2001-2006#page=826\" class=\"citation\" target=\"_blank\">(Doc #2001-2006, p.826)</a>",
+          "document_id": "CorresOLC-Kavanaugh_2001-2006",
+          "page_no": 826
+        },
+        "context": "nation were part of ongoing discussions in the 2000s, as exemplified by correspondence and policy notes that address the classification and review process for sensitive Afghanistan-related materials. <a href=\"/pdf/CorresOLC-Kavanaugh2001-2006page=826\" class=\"citation\" target=\"blank\">(Doc 2001-2006, p.826)</a> <a href=\"/pdf/StateInfoPgmsRpts2008page=172\" class=\"citation\" target=\"blank\">(Doc 2008, p.172)</a>\n\n Coordination with Allies and Partners\n- The U.S. embassy Afghanistan program architecture an",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited page discusses oversight and classification of intelligence activities related to the Terrorist Surveillance Program, with incidental mentions of Afghanistan, but it does not provide evidence of correspondence and policy notes specifically addressing the classification and review process for Afghanistan-related materials. Therefore it does not substantiate the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/StateInfoPgmsRpts_2008#page=172\" class=\"citation\" target=\"_blank\">(Doc #2008, p.172)</a>",
+          "document_id": "StateInfoPgmsRpts_2008",
+          "page_no": 172
+        },
+        "context": "s the classification and review process for sensitive Afghanistan-related materials. <a href=\"/pdf/CorresOLC-Kavanaugh2001-2006page=826\" class=\"citation\" target=\"blank\">(Doc 2001-2006, p.826)</a> <a href=\"/pdf/StateInfoPgmsRpts2008page=172\" class=\"citation\" target=\"blank\">(Doc 2008, p.172)</a>\n\n Coordination with Allies and Partners\n- The U.S. embassy Afghanistan program architecture and country-team model underscore the role of the mission in coordinating across U.S. agencies operating",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited 2008 page discusses FOIA/declassification processes and Afghanistan Desk briefings, not the classification/review procedures for sensitive Afghanistan-related materials or the embassy program architecture and cross-agency coordination described in the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/StateInfoPgmsRpts_2008#page=171\" class=\"citation\" target=\"_blank\">(Doc #2008, p.171)</a>",
+          "document_id": "StateInfoPgmsRpts_2008",
+          "page_no": 171
+        },
+        "context": "rtment FOIA-released materials highlight related diplomatic-reporter cables and briefings that illuminate the interplay between U.S. diplomacy, counterterrorism, and regional security in Afghanistan. <a href=\"/pdf/StateInfoPgmsRpts2008page=171\" class=\"citation\" target=\"blank\">(Doc 2008, p.171)</a> <a href=\"/pdf/StateInfoPgmsRpts2008page=149\" class=\"citation\" target=\"blank\">(Doc 2008, p.149)</a>\n\n Incidents and Findings\n- In 2012, a notable incident involved the Green-on-Blue attack again",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The page only notes a FOIA request for cables from the U.S. Embassy in Kabul regarding Afghanistan in spring 2006; it does not show that the FOIA-released materials contain diplomatic-reporter cables or briefings that illuminate the interplay between U.S. diplomacy, counterterrorism, and regional security."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/StateInfoPgmsRpts_2008#page=149\" class=\"citation\" target=\"_blank\">(Doc #2008, p.149)</a>",
+          "document_id": "StateInfoPgmsRpts_2008",
+          "page_no": 149
+        },
+        "context": "te the interplay between U.S. diplomacy, counterterrorism, and regional security in Afghanistan. <a href=\"/pdf/StateInfoPgmsRpts2008page=171\" class=\"citation\" target=\"blank\">(Doc 2008, p.171)</a> <a href=\"/pdf/StateInfoPgmsRpts2008page=149\" class=\"citation\" target=\"blank\">(Doc 2008, p.149)</a>\n\n Incidents and Findings\n- In 2012, a notable incident involved the Green-on-Blue attack against Zabul Afghan Uniformed Police, illustrating the ongoing challenges of insider threat and trust withi",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "UNSUPPORTED (HIGH): The provided page (Doc 2008, p.149) is an IPS Weekly Achievements Report focusing on privacy tools, FOIA requests, and internal memoranda, with no discussion of Afghanistan, U.S. diplomacy, counterterrorism, regional security, or Green-on-Blue incidents. Therefore it does not back the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_237732#page=1\" class=\"citation\" target=\"_blank\">(Doc #237732, p.1)</a>",
+          "document_id": "DIA_FileId_237732",
+          "page_no": 1
+        },
+        "context": "s\n- In 2012, a notable incident involved the Green-on-Blue attack against Zabul Afghan Uniformed Police, illustrating the ongoing challenges of insider threat and trust within Afghan security forces. <a href=\"/pdf/DIAFileId237732page=1\" class=\"citation\" target=\"blank\">(Doc 237732, p.1)</a>\n- Public statements from the early 2000s framed the ongoing challenge of Al Qaeda and Taliban remnants in Afghanistan, reinforcing the rationale for continued U.S. and CIA involvement in the security",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The page clearly documents a Green-on-Blue attack involving Zabul Afghan Uniformed Police in September 2012, supporting the first bullet\u2019s incident. However, it does not explicitly discuss insider-threat implications or ongoing trust issues, nor does it address early-2000s Al Qaeda/Taliban statements or U.S./CIA involvement, so those portions are not supported by this page."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ForgedInTheFire_2008#page=144\" class=\"citation\" target=\"_blank\">(Doc #2008, p.144)</a>",
+          "document_id": "ForgedInTheFire_2008",
+          "page_no": 144
+        },
+        "context": "istan, reinforcing the rationale for continued U.S. and CIA involvement in the security landscape. <a href=\"/pdf/ForgedInTheFire2008page=133\" class=\"citation\" target=\"blank\">(Doc 2008, p.133)</a> <a href=\"/pdf/ForgedInTheFire2008page=144\" class=\"citation\" target=\"blank\">(Doc 2008, p.144)</a>\n\n Legacy and Impact\n- The CIA\u2019s Afghanistan operations contributed to dismantling Al Qaeda sanctuaries and to the broader U.S. counterterrorism objectives in the region, reinforced by sustained HUM",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): Page 144 discusses Afghan military justice reform and building local legal relationships; it does not mention CIA involvement, Al Qaeda sanctuaries, or counterterrorism objectives to substantiate the claim."
+      }
+    ]
+  }
+}

@@ -1,0 +1,787 @@
+{
+  "topic": "Project MKULTRA",
+  "generated_at": "2025-11-26T19:39:36.011721",
+  "model": "gpt-5-nano",
+  "num_sources": 40,
+  "source_documents": [
+    {
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 1.0
+    },
+    {
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8886347024711517
+    },
+    {
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.82483094096808
+    },
+    {
+      "doc_id": "SAVABE_Madagascar_CMEP_2016-2020",
+      "title": "SAVABE_Madagascar_CMEP_2016-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6962851491524121
+    },
+    {
+      "doc_id": "USTDA-PublicReportsAllYears",
+      "title": "USTDA-PublicReportsAllYears.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "DCormEmailwords2020-2021",
+      "title": "DCormEmailwords2020-2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "NHTSAorgAssessOAM_2013",
+      "title": "NHTSAorgAssessOAM_2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "DPMO-ANSER_1998-2000u",
+      "title": "DPMO-ANSER_1998-2000u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "HistoryUSAF-SMC_1998-2001",
+      "title": "HistoryUSAF-SMC_1998-2001.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6
+    },
+    {
+      "doc_id": "NOAAemailJabinSCmm2022",
+      "title": "NOAAemailJabinSCmm2022.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5990841759228562
+    },
+    {
+      "doc_id": "NIHpolicyManual_2007",
+      "title": "NIHpolicyManual_2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5828829635280244
+    },
+    {
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5773529378215292
+    },
+    {
+      "doc_id": "SI_NMAHboardMinutes_2012-2017",
+      "title": "SI_NMAHboardMinutes_2012-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5607628612178366
+    },
+    {
+      "doc_id": "HistoryUSAF-SMC_1998-2001",
+      "title": "HistoryUSAF-SMC_1998-2001.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5597267791944872
+    },
+    {
+      "doc_id": "NASA10YrPlan_1959",
+      "title": "NASA10YrPlan_1959.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5575842256343702
+    },
+    {
+      "doc_id": "HistoryUSAF-SMC_1998-2001",
+      "title": "HistoryUSAF-SMC_1998-2001.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5543900725259017
+    },
+    {
+      "doc_id": "NSFopRevuVAO2014",
+      "title": "NSFopRevuVAO2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5419576854177554
+    },
+    {
+      "doc_id": "DOEalsThrustsSciCouncil_2017-2022",
+      "title": "DOEalsThrustsSciCouncil_2017-2022.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5390001141585091
+    },
+    {
+      "doc_id": "RespCongCmteesNSF_2012-2013",
+      "title": "RespCongCmteesNSF_2012-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5336723008647507
+    },
+    {
+      "doc_id": "CIAhistOSAincep-1969u",
+      "title": "CIAhistOSAincep-1969u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5146508176603213
+    },
+    {
+      "doc_id": "CIAhistOSAincep-1969u",
+      "title": "CIAhistOSAincep-1969u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5113024058905791
+    },
+    {
+      "doc_id": "USCIS-CongRpts_2008-2010",
+      "title": "USCIS-CongRpts_2008-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5103750654163716
+    },
+    {
+      "doc_id": "DPMO-ANSER_1998-2000u",
+      "title": "DPMO-ANSER_1998-2000u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5099446170268562
+    },
+    {
+      "doc_id": "USDA-REE-ARScurrentResearch_Jan2014",
+      "title": "USDA-REE-ARScurrentResearch_Jan2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5079389755023203
+    },
+    {
+      "doc_id": "NEHstusRtsNDNP_2019-2021",
+      "title": "NEHstusRtsNDNP_2019-2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5039982972074444
+    },
+    {
+      "doc_id": "CIAoverheadRecon_1992updt",
+      "title": "CIAoverheadRecon_1992updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5038441721377666
+    },
+    {
+      "doc_id": "NEHstusRtsNDNP_2019-2021",
+      "title": "NEHstusRtsNDNP_2019-2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5005397417028167
+    },
+    {
+      "doc_id": "USCivilDefense_NSRB_Doc.128_1950",
+      "title": "USCivilDefense_NSRB_Doc.128_1950.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4952714216233888
+    },
+    {
+      "doc_id": "NASA10YrPlan_1959",
+      "title": "NASA10YrPlan_1959.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4892305046833199
+    },
+    {
+      "doc_id": "AbandonedMineLandsInteriorOIG_2008",
+      "title": "AbandonedMineLandsInteriorOIG_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4886203587431148
+    },
+    {
+      "doc_id": "DIA_FileId_238543",
+      "title": "DIA_FileId_238543.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4825827249947724
+    },
+    {
+      "doc_id": "25NASA-Audits_1985-1996",
+      "title": "25NASA-Audits_1985-1996.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4785720112774594
+    },
+    {
+      "doc_id": "HistoryUSAF-SMC_1998-2001",
+      "title": "HistoryUSAF-SMC_1998-2001.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.46970299089223666
+    },
+    {
+      "doc_id": "ODNIdodNMMOest_2007",
+      "title": "ODNIdodNMMOest_2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.469686443553966
+    },
+    {
+      "doc_id": "BBG-BAM_2017",
+      "title": "BBG-BAM_2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.467564247186666
+    },
+    {
+      "doc_id": "ArmyEntertainmentReports_2005-06",
+      "title": "ArmyEntertainmentReports_2005-06.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4605759364256664
+    },
+    {
+      "doc_id": "CIAhistOSAincep-1969u",
+      "title": "CIAhistOSAincep-1969u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4563187110506029
+    },
+    {
+      "doc_id": "NIAID-GrantNextGenAnthraxVac_2008-2010",
+      "title": "NIAID-GrantNextGenAnthraxVac_2008-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.45296620677952826
+    },
+    {
+      "doc_id": "DTICtrdBiblioCA-CIApre2000_2014",
+      "title": "DTICtrdBiblioCA-CIApre2000_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4484526170838209
+    },
+    {
+      "doc_id": "USAF_Entertainment_Weekly_Reports_2006-06",
+      "title": "USAF_Entertainment_Weekly_Reports_2006-06.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.44704209415325363
+    }
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 741,
+      "text_preview": "s Evaluation Officer:\n\n745\n\n973\n\n705, 1120\nProject CLEAR:\n879\nProject CLEARWATER:\nProject COLD WAVE:\nProject DELTA:\nProject FORECAST (cooperative effort of science,\nindustry, and military to\npredi~~ f...",
+      "text_length": 497,
+      "relevance_score": 1.0,
+      "semantic_score": 1.0,
+      "bm25_score": 1.0,
+      "citation_key": "USAFohCat_1982_p741"
+    },
+    {
+      "index": 1,
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 120,
+      "text_preview": "or counterintelligence and\ncovert action purposes. The possibility that CIA itself engaged in human radiation experiments\nemanates from references in a 1963 CIA Inspector General's (IG) report on Proj...",
+      "text_length": 505,
+      "relevance_score": 0.8886347024711517,
+      "semantic_score": 0.8143911707852529,
+      "bm25_score": 1.0,
+      "citation_key": "CIA-comments_1994-2005u_p120"
+    },
+    {
+      "index": 2,
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 35,
+      "text_preview": "ble of employment in clandestine operations to control human\nbehavior.\"\n\nMKULTRA was the subject of extensive intemal. congressional. and outside\ninvestigations in the 1970s. In 1973, the CIA purposef...",
+      "text_length": 432,
+      "relevance_score": 0.82483094096808,
+      "semantic_score": 1.0,
+      "bm25_score": 0.5620773524202,
+      "citation_key": "CIA-comments_1994-2005u_p35"
+    },
+    {
+      "index": 3,
+      "doc_id": "SAVABE_Madagascar_CMEP_2016-2020",
+      "title": "SAVABE_Madagascar_CMEP_2016-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "ntribute to the sustainability\nof project actions. The project\u2019s local partners will be invited to organize community assessment of data\ncollection process, each semester, under project team.\n\n\nData s...",
+      "text_length": 510,
+      "relevance_score": 0.6962851491524121,
+      "semantic_score": 0.5774498550702928,
+      "bm25_score": 0.874538090275591,
+      "citation_key": "SAVABE_Madagascar_CMEP_2016-2020_chunk3"
+    },
+    {
+      "index": 4,
+      "doc_id": "USTDA-PublicReportsAllYears",
+      "title": "USTDA-PublicReportsAllYears.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 179,
+      "text_preview": "GIS Projects for Istanbul Metropolitan Municipality and DSI\n\nDefinitional Mission Report: Industrial and Hazardous Waste Environmental Projects in Poland and Rom\n\n1997732A05\n\n\n\n\nBosnia Emergency Recon...",
+      "text_length": 486,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "USTDA-PublicReportsAllYears_p179"
+    },
+    {
+      "index": 5,
+      "doc_id": "DCormEmailwords2020-2021",
+      "title": "DCormEmailwords2020-2021.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "ner, t he task creator, and all task participants.\nClick here to view the project\n\nWaters, Jane (EOM)\nMon, 28 Dec 2020 21:19:19 +0000\nHirani, Sanjay {OCTO)\nStakem, Michael {OCTO); Preston, Robert (EOM...",
+      "text_length": 416,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "DCormEmailwords2020-2021_chunk5"
+    },
+    {
+      "index": 6,
+      "doc_id": "NHTSAorgAssessOAM_2013",
+      "title": "NHTSAorgAssessOAM_2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 70,
+      "text_preview": "'rll\n\n\n\n\n\n\nNHTSA OAM Tools & Technology: MAPS\n\nn,. Prefefff! d Trusrll<i Pattner\n\u2022 MAPS\n\u2022 Tracks project starting from the concept through its procurement cycle, awarding cycle, post award, and projec...",
+      "text_length": 512,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "NHTSAorgAssessOAM_2013_p70"
+    },
+    {
+      "index": 7,
+      "doc_id": "DPMO-ANSER_1998-2000u",
+      "title": "DPMO-ANSER_1998-2000u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 723,
+      "text_preview": "atr; John Amold; N\n\nBUDGET\n\nIs excited about this. project and therefore, wants\n\nFirst, we need to re-8mphaslze that the budget allocated for this\n\n>Subject: Update on\n>As you all khow, DPM\n> to ensur...",
+      "text_length": 372,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "DPMO-ANSER_1998-2000u_p723"
+    },
+    {
+      "index": 8,
+      "doc_id": "HistoryUSAF-SMC_1998-2001",
+      "title": "HistoryUSAF-SMC_1998-2001.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 446,
+      "text_preview": "fice\nLaunch Programs\nNAVSTARGPS\nProaram Office\nMILSATCOM\nProaram Office\nSBIRS Program\nOffice\n\nSMC/PA\nDevelopmental\nPlanning\n\n\nArthur Welton\n\n\nPhyllis Mevers\n\n\nAlan Wall\n\n\nRoslvn Woods\n\n\nJackie J. Farl...",
+      "text_length": 258,
+      "relevance_score": 0.6,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "HistoryUSAF-SMC_1998-2001_p446"
+    },
+    {
+      "index": 9,
+      "doc_id": "NOAAemailJabinSCmm2022",
+      "title": "NOAAemailJabinSCmm2022.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 159,
+      "text_preview": "i I M eeti ngs 2022 fo I d e r on G oogle\nD rive.\n\nGeoCollaborate - Dave Jones and Ellen Prager, Storm Center\nFiona Horsta I I opens the m eeting with an i ntrod u ction to SBIR. Dave Jo nes from Stor...",
+      "text_length": 341,
+      "relevance_score": 0.5990841759228562,
+      "semantic_score": 0.9984736265380937,
+      "bm25_score": 0,
+      "citation_key": "NOAAemailJabinSCmm2022_p159"
+    },
+    {
+      "index": 10,
+      "doc_id": "NIHpolicyManual_2007",
+      "title": "NIHpolicyManual_2007.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 682,
+      "text_preview": "SBIR/STTR Project, Expected Outcomes, and Impact.\n\nDescribe, in layperson's terms, the proposed project and its key\n\ntechnology objectives. Clarify the need addressed, specifying weaknesses\n\nin the cu...",
+      "text_length": 452,
+      "relevance_score": 0.5828829635280244,
+      "semantic_score": 0.9714716058800407,
+      "bm25_score": 0,
+      "citation_key": "NIHpolicyManual_2007_p682"
+    },
+    {
+      "index": 11,
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 120,
+      "text_preview": "ssional, and outside\n\ninvestigations in the 1970s. In 1973, the CIA purposefully destroyed most of the MKUL1RA\nfiles conceming its research and testing on human behavior. In 1977, the agency uncovered...",
+      "text_length": 462,
+      "relevance_score": 0.5773529378215292,
+      "semantic_score": 0.9622548963692154,
+      "bm25_score": 0,
+      "citation_key": "CIA-comments_1994-2005u_p120"
+    },
+    {
+      "index": 12,
+      "doc_id": "SI_NMAHboardMinutes_2012-2017",
+      "title": "SI_NMAHboardMinutes_2012-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 23,
+      "text_preview": "le for Spark! Lab and Early Leaming\n\nGa llery\n\niv. We are now focusing on fundraising for the second and third floors; neectaJIII\neach for Democracy and Our American Joumey to keep design moving forw ...",
+      "text_length": 485,
+      "relevance_score": 0.5607628612178366,
+      "semantic_score": 0.9346047686963943,
+      "bm25_score": 0,
+      "citation_key": "SI_NMAHboardMinutes_2012-2017_p23"
+    },
+    {
+      "index": 13,
+      "doc_id": "HistoryUSAF-SMC_1998-2001",
+      "title": "HistoryUSAF-SMC_1998-2001.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 360,
+      "text_preview": "an\nCoonlng\nMs.\nChristine\n\n2001\n\n\nSystem Program M.\n\nAnderson\n\n1-Jan-01\n\n1-Jan-01\n\nSpace Based\nInfrared Systems\nProaram Office Proaram Director\n\nCol Daniel\nL. Burkett.\n\nSpace Based\nInfrared Systems\nPro...",
+      "text_length": 510,
+      "relevance_score": 0.5597267791944872,
+      "semantic_score": 0.9328779653241454,
+      "bm25_score": 0,
+      "citation_key": "HistoryUSAF-SMC_1998-2001_p360"
+    },
+    {
+      "index": 14,
+      "doc_id": "NASA10YrPlan_1959",
+      "title": "NASA10YrPlan_1959.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 30,
+      "text_preview": "ith\nthe? Junar, and planetary5exploration program. The desired; configuration and the aerodynamic, structural, guidance and _control characteristics of the re->ntry (or ferry) vehicle\"are\nbeing studie...",
+      "text_length": 499,
+      "relevance_score": 0.5575842256343702,
+      "semantic_score": 0.9293070427239504,
+      "bm25_score": 0,
+      "citation_key": "NASA10YrPlan_1959_p30"
+    },
+    {
+      "index": 15,
+      "doc_id": "HistoryUSAF-SMC_1998-2001",
+      "title": "HistoryUSAF-SMC_1998-2001.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 364,
+      "text_preview": "phy\nColW. N.\nMcCaslan\n\nCol I. Falto\nHeck\nCol R. S.\n\nmer\n\nSBIRS Program Weidenhei\n\nSBIRS Low\nProgram Office Manaaer\n00-ALC/LM\nICBM System\nProaram Office Director\n2nd Space C2\nSystem Program System Prog...",
+      "text_length": 264,
+      "relevance_score": 0.5543900725259017,
+      "semantic_score": 0.9239834542098361,
+      "bm25_score": 0,
+      "citation_key": "HistoryUSAF-SMC_1998-2001_p364"
+    },
+    {
+      "index": 16,
+      "doc_id": "NSFopRevuVAO2014",
+      "title": "NSFopRevuVAO2014.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 22,
+      "text_preview": "progress in the development of an operational service that supports\ndiscovery of, and access to, multidimensional data sets from the Jansky Very\nLarge Array (JVLA) and ALMA within their Common Astrono...",
+      "text_length": 509,
+      "relevance_score": 0.5419576854177554,
+      "semantic_score": 0.9032628090295923,
+      "bm25_score": 0,
+      "citation_key": "NSFopRevuVAO2014_p22"
+    },
+    {
+      "index": 17,
+      "doc_id": "DOEalsThrustsSciCouncil_2017-2022",
+      "title": "DOEalsThrustsSciCouncil_2017-2022.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "break-up or not and following that chair\nelection.\n\n\u2022 Discussions on future strategic beamlines by Thrust area\n\no Each ST A will generate a list of projects\no The project will need to meet certain cri...",
+      "text_length": 499,
+      "relevance_score": 0.5390001141585091,
+      "semantic_score": 0.8983335235975152,
+      "bm25_score": 0,
+      "citation_key": "DOEalsThrustsSciCouncil_2017-2022_chunk17"
+    },
+    {
+      "index": 18,
+      "doc_id": "RespCongCmteesNSF_2012-2013",
+      "title": "RespCongCmteesNSF_2012-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 30,
+      "text_preview": "I Aeronautic. s cinci space AcJrTlihistratib'n. \u00b7.\n\nConsolidations (Funding Redirected Outside of Agency)\n\nAeronautics Academy\n\nAeronautics Content - Smart Skies/Product Content Upgrade\n\nAeronautics S...",
+      "text_length": 505,
+      "relevance_score": 0.5336723008647507,
+      "semantic_score": 0.8894538347745845,
+      "bm25_score": 0,
+      "citation_key": "RespCongCmteesNSF_2012-2013_p30"
+    },
+    {
+      "index": 19,
+      "doc_id": "CIAhistOSAincep-1969u",
+      "title": "CIAhistOSAincep-1969u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 393,
+      "text_preview": "; development, design'.'requ'iroment of tho SGl\"I. SOl: S Will be given\n\u2022 \u00b7 \". priority in their: Ln. tegr4tion. within the. spA\u00b0cecrAft and xeai.1. try.. vehicles.\n\n'.-:..:: \".\n\n\no. Assisn operationa...",
+      "text_length": 491,
+      "relevance_score": 0.5146508176603213,
+      "semantic_score": 0.8577513627672022,
+      "bm25_score": 0,
+      "citation_key": "CIAhistOSAincep-1969u_p393"
+    },
+    {
+      "index": 20,
+      "doc_id": "CIAhistOSAincep-1969u",
+      "title": "CIAhistOSAincep-1969u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 370,
+      "text_preview": "of individual projects)~ and?. pproval of the. a. ctual missi9n target program \\.\\;\nand options which are progr\u00b7ammed into each flight vehicle. The staff will\n\u2022 also make ~ll on-orbit selection betvte...",
+      "text_length": 391,
+      "relevance_score": 0.5113024058905791,
+      "semantic_score": 0.8521706764842985,
+      "bm25_score": 0,
+      "citation_key": "CIAhistOSAincep-1969u_p370"
+    },
+    {
+      "index": 21,
+      "doc_id": "USCIS-CongRpts_2008-2010",
+      "title": "USCIS-CongRpts_2008-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 173,
+      "text_preview": "ing Projectlo\u2022\n(dollra In~)\n\nProa,. m\n\nFYOI Annu.. O~ln_g Plan Amount\n\nAdjudication Services\nPay and Benefls\nOperati1g Expenses\n\n\nDistrict Operatbna\nS. IVIce Center Operations\nAlylll'll, Refugee. and ...",
+      "text_length": 312,
+      "relevance_score": 0.5103750654163716,
+      "semantic_score": 0.8506251090272859,
+      "bm25_score": 0,
+      "citation_key": "USCIS-CongRpts_2008-2010_p173"
+    },
+    {
+      "index": 22,
+      "doc_id": "DPMO-ANSER_1998-2000u",
+      "title": "DPMO-ANSER_1998-2000u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 323,
+      "text_preview": "meeting ofNMJIC Balkans Task Foree to hei~~. ''\"..\nappreciation of current perspectives related to the exercise. 0t'!~\n\u2022 Met with DPMO (Geisler) to review and refine draft scenario and.\n\ncoordinate sc...",
+      "text_length": 474,
+      "relevance_score": 0.5099446170268562,
+      "semantic_score": 0.8499076950447604,
+      "bm25_score": 0,
+      "citation_key": "DPMO-ANSER_1998-2000u_p323"
+    },
+    {
+      "index": 23,
+      "doc_id": "USDA-REE-ARScurrentResearch_Jan2014",
+      "title": "USDA-REE-ARScurrentResearch_Jan2014.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "otify the sender and delete the email immediately.\n\nProject #\n\nProject Title\n\nFY2015 Active Appropriated Projects\n(as of 1-7-15)\n\nMINOR USE PESTICIDES UMBRELLA PROJECT\nCOCOA, COFFEE, AND ALTERNATIVE C...",
+      "text_length": 511,
+      "relevance_score": 0.5079389755023203,
+      "semantic_score": 0.5925850853474942,
+      "bm25_score": 0.3809698107345592,
+      "citation_key": "USDA-REE-ARScurrentResearch_Jan2014_chunk23"
+    },
+    {
+      "index": 24,
+      "doc_id": "NEHstusRtsNDNP_2019-2021",
+      "title": "NEHstusRtsNDNP_2019-2021.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 439,
+      "text_preview": "09\nProject Director: Kyle Rimkus (rimkus@illinois. edu)\nInstitution: University of Illinois, Urbana-Champaign\nReporting Period: 9/1/2019 - 2/29/2020\nReport Due: 3/31/2020\nSubmission Date: 3/26/2020 3:...",
+      "text_length": 491,
+      "relevance_score": 0.5039982972074444,
+      "semantic_score": 0.8399971620124074,
+      "bm25_score": 0,
+      "citation_key": "NEHstusRtsNDNP_2019-2021_p439"
+    },
+    {
+      "index": 25,
+      "doc_id": "CIAoverheadRecon_1992updt",
+      "title": "CIAoverheadRecon_1992updt.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "0\n\n~... /\n\n~...,..._.;;,. i.\nnt\"'\n'r \u2022)\n(\"''\\_)\n(.\n\nBlack\nSea\n\nTurkey\n\nMediterranean Sea\n\u2022 _, Malla\n(U. I<.);,\n\n\n~--\"--\u00b7 ~...._.,...\n\nApproved for Release: 2013/06/25\n\u2022 :\u00b7. -\n\nC00190094\n\nApproved for ...",
+      "text_length": 289,
+      "relevance_score": 0.5038441721377666,
+      "semantic_score": 0.8397402868962777,
+      "bm25_score": 0,
+      "citation_key": "CIAoverheadRecon_1992updt_chunk25"
+    },
+    {
+      "index": 26,
+      "doc_id": "NEHstusRtsNDNP_2019-2021",
+      "title": "NEHstusRtsNDNP_2019-2021.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 409,
+      "text_preview": "09\nProject Director: Kyle Rimkus (rimkus@illinois. edu)\nInstitution: University of Illinois\nReporting Period: 7/1/2009 - 8/31/2021\nReport Due: 11/30/2021\nSubmission Date: 9/1/2021 2:46:14 PM\n\nFinal Pe...",
+      "text_length": 467,
+      "relevance_score": 0.5005397417028167,
+      "semantic_score": 0.8342329028380279,
+      "bm25_score": 0,
+      "citation_key": "NEHstusRtsNDNP_2019-2021_p409"
+    },
+    {
+      "index": 27,
+      "doc_id": "USCivilDefense_NSRB_Doc.128_1950",
+      "title": "USCivilDefense_NSRB_Doc.128_1950.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 117,
+      "text_preview": "ns and suggestions for carrying\nout such projects. These recommendations and suggestions have been\nderived in large part from the experience of the three \"pilot\" cities in\nthe execution of such projec...",
+      "text_length": 486,
+      "relevance_score": 0.4952714216233888,
+      "semantic_score": 0.8254523693723147,
+      "bm25_score": 0,
+      "citation_key": "USCivilDefense_NSRB_Doc.128_1950_p117"
+    },
+    {
+      "index": 28,
+      "doc_id": "NASA10YrPlan_1959",
+      "title": "NASA10YrPlan_1959.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "program goaleL For example,: the: space; science. activities cover\n\nchemically fueled launching vehicle of several times the capacity,\nof Satumj (2) the solution of the problems of space rendezvous;\no...",
+      "text_length": 488,
+      "relevance_score": 0.4892305046833199,
+      "semantic_score": 0.8153841744721999,
+      "bm25_score": 0,
+      "citation_key": "NASA10YrPlan_1959_chunk28"
+    },
+    {
+      "index": 29,
+      "doc_id": "AbandonedMineLandsInteriorOIG_2008",
+      "title": "AbandonedMineLandsInteriorOIG_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 221,
+      "text_preview": "te\nOffice for project selection and proritization.\n\nSubmission:\n\nSubmitted\n\nStephanie Christian\n\n04/10/2007 10:44:47 AM\n\nLevel 1 Approval:\n\nApproved\n\nWilliam McMullen\n\n04/10/2007 11:03 25 AM\n\nLevel 2 ...",
+      "text_length": 493,
+      "relevance_score": 0.4886203587431148,
+      "semantic_score": 0.814367264571858,
+      "bm25_score": 0,
+      "citation_key": "AbandonedMineLandsInteriorOIG_2008_p221"
+    },
+    {
+      "index": 30,
+      "doc_id": "DIA_FileId_238543",
+      "title": "DIA_FileId_238543.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 18,
+      "text_preview": "f a project are technical dircc\u2022\ntoratc functions. The actual research, design, test, and\nproduction fall under the role of the deft\"nsc industrial\nministries.\n\n~ The main technical directorates of th...",
+      "text_length": 378,
+      "relevance_score": 0.4825827249947724,
+      "semantic_score": 0.8043045416579541,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238543_p18"
+    },
+    {
+      "index": 31,
+      "doc_id": "25NASA-Audits_1985-1996",
+      "title": "25NASA-Audits_1985-1996.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 326,
+      "text_preview": "t projects. re charqed to NASA a. ov. rhead costs.\nConsequently, only projects beneficial\nshould be\nFurthermore, since Orbi ter production acti vi ties\nauthori zed.\nf. cility. re essentially\nimproveme...",
+      "text_length": 501,
+      "relevance_score": 0.4785720112774594,
+      "semantic_score": 0.7976200187957657,
+      "bm25_score": 0,
+      "citation_key": "25NASA-Audits_1985-1996_p326"
+    },
+    {
+      "index": 32,
+      "doc_id": "HistoryUSAF-SMC_1998-2001",
+      "title": "HistoryUSAF-SMC_1998-2001.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 367,
+      "text_preview": "IZA TlONS\nSystems Acauisition\nComptroller\nContractino\n\n\nTBXM Matrix\n\n\nDevelopmental Planning\nSMC FUNCTIONAL ORGANIZATIONS TOTAL\n\nPROGRAM OFFICES*\nAdvanced Systems Directorate\nDefense Meteoroloaical Sa...",
+      "text_length": 394,
+      "relevance_score": 0.46970299089223666,
+      "semantic_score": 0.7828383181537278,
+      "bm25_score": 0,
+      "citation_key": "HistoryUSAF-SMC_1998-2001_p367"
+    },
+    {
+      "index": 33,
+      "doc_id": "ODNIdodNMMOest_2007",
+      "title": "ODNIdodNMMOest_2007.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 3,
+      "text_preview": "rtium\nfor MASINT Research will be assigned lo DIA. The continued effective performance of the\nMASINT SoCC is essential and we request your assistance 10 ensure continuity of operations,\nMid as necc: a...",
+      "text_length": 446,
+      "relevance_score": 0.469686443553966,
+      "semantic_score": 0.78281073925661,
+      "bm25_score": 0,
+      "citation_key": "ODNIdodNMMOest_2007_p3"
+    },
+    {
+      "index": 34,
+      "doc_id": "BBG-BAM_2017",
+      "title": "BBG-BAM_2017.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 2243,
+      "text_preview": "will contribute to the project GOAL listed below.\n\nThis project will be accountable for achieving the project objectives listed below.\n\nThe project will report against the performance indicators liste...",
+      "text_length": 418,
+      "relevance_score": 0.467564247186666,
+      "semantic_score": 0.18143624450158588,
+      "bm25_score": 0.896756251214286,
+      "citation_key": "BBG-BAM_2017_p2243"
+    },
+    {
+      "index": 35,
+      "doc_id": "ArmyEntertainmentReports_2005-06",
+      "title": "ArmyEntertainmentReports_2005-06.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 66,
+      "text_preview": "aks to GLAC AUSA.\n\n3. Projects and Current Status.\n\nENTERTAINMENT\n\nNOTICE: This report contains information on the development and progress of TV\nprograms, feature films, and other entertainment-orien...",
+      "text_length": 487,
+      "relevance_score": 0.4605759364256664,
+      "semantic_score": 0.767626560709444,
+      "bm25_score": 0,
+      "citation_key": "ArmyEntertainmentReports_2005-06_p66"
+    },
+    {
+      "index": 36,
+      "doc_id": "CIAhistOSAincep-1969u",
+      "title": "CIAhistOSAincep-1969u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 443,
+      "text_preview": "lt of recommendations made\nby the Land Panel, the. Director of Central Intelligence was\nauthorized and directed t: o proceed with a covert project\nhaving to do with the gathering of intelligence data ...",
+      "text_length": 506,
+      "relevance_score": 0.4563187110506029,
+      "semantic_score": 0.7274361544754893,
+      "bm25_score": 0.049642545913273314,
+      "citation_key": "CIAhistOSAincep-1969u_p443"
+    },
+    {
+      "index": 37,
+      "doc_id": "NIAID-GrantNextGenAnthraxVac_2008-2010",
+      "title": "NIAID-GrantNextGenAnthraxVac_2008-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 70,
+      "text_preview": "tor (Last, First, Middle): Park, Sukjoon\n\nproject. Immediately after grant award, the team will refine the product development plan, following\ninteractions with NIAID. This project implementation plan...",
+      "text_length": 491,
+      "relevance_score": 0.45296620677952826,
+      "semantic_score": 0.7549436779658805,
+      "bm25_score": 0,
+      "citation_key": "NIAID-GrantNextGenAnthraxVac_2008-2010_p70"
+    },
+    {
+      "index": 38,
+      "doc_id": "DTICtrdBiblioCA-CIApre2000_2014",
+      "title": "DTICtrdBiblioCA-CIApre2000_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 177,
+      "text_preview": "of the completed project are given when available. Tables\nof contents of joumals translated cover-to-cover are reproduced from the current publications. Projects\nin process, i. e., not completed as of...",
+      "text_length": 481,
+      "relevance_score": 0.4484526170838209,
+      "semantic_score": 0.7474210284730348,
+      "bm25_score": 0,
+      "citation_key": "DTICtrdBiblioCA-CIApre2000_2014_p177"
+    },
+    {
+      "index": 39,
+      "doc_id": "USAF_Entertainment_Weekly_Reports_2006-06",
+      "title": "USAF_Entertainment_Weekly_Reports_2006-06.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 18,
+      "text_preview": "a pilot and developing\nan aviation-based project. Working with P ANC on 2006 JCOC nominations.\n\nD. Closed Projects:\n\n6. PERSONNEL ISSUES (leave, TDY)\n(PAY-E\nf (e,, Leave:\nTDY:\n\nOPR/EPR/Awards & Dees S...",
+      "text_length": 433,
+      "relevance_score": 0.44704209415325363,
+      "semantic_score": 0.7450701569220894,
+      "bm25_score": 0,
+      "citation_key": "USAF_Entertainment_Weekly_Reports_2006-06_p18"
+    }
+  ],
+  "context_length": 21390,
+  "style": "comprehensive",
+  "length_mode": "medium",
+  "max_chunks": 40,
+  "diversity_mode": "best",
+  "quality_iterations": 3,
+  "iteration_history": [
+    {
+      "iteration": 1,
+      "validation": {
+        "total_citations": 14,
+        "valid": 14,
+        "invalid": 0,
+        "citation_density": 0.853658536585366,
+        "avg_relevance": 0.2857142857142857,
+        "issues": [],
+        "warnings": [
+          

@@ -1,0 +1,108 @@
+{
+  "generated_at": "2025-11-20T15:46:23",
+  "method": "content_analysis",
+  "description": "Topics discovered by searching actual document content",
+  "elapsed_seconds": 804.7,
+  "topics": [
+    {
+      "name": "Elections & Political Affairs",
+      "count": 2074
+    },
+    {
+      "name": "Arms & Weapons",
+      "count": 1627
+    },
+    {
+      "name": "Coups & Regime Change",
+      "count": 1523
+    },
+    {
+      "name": "China",
+      "count": 1092
+    },
+    {
+      "name": "Surveillance",
+      "count": 1072
+    },
+    {
+      "name": "Mexico",
+      "count": 1042
+    },
+    {
+      "name": "Terrorist Activities",
+      "count": 987
+    },
+    {
+      "name": "Terrorism",
+      "count": 971
+    },
+    {
+      "name": "Iran",
+      "count": 842
+    },
+    {
+      "name": "Russia",
+      "count": 816
+    },
+    {
+      "name": "Iraq",
+      "count": 675
+    },
+    {
+      "name": "Missile Systems",
+      "count": 669
+    },
+    {
+      "name": "Cuba",
+      "count": 636
+    },
+    {
+      "name": "Vietnam",
+      "count": 632
+    },
+    {
+      "name": "Revolutionary Movements",
+      "count": 585
+    },
+    {
+      "name": "Afghanistan",
+      "count": 486
+    },
+    {
+      "name": "Reconnaissance",
+      "count": 479
+    },
+    {
+      "name": "Pakistan",
+      "count": 444
+    },
+    {
+      "name": "Human Rights",
+      "count": 442
+    },
+    {
+      "name": "Counterintelligence",
+      "count": 407
+    },
+    {
+      "name": "Narcotics",
+      "count": 406
+    },
+    {
+      "name": "Espionage",
+      "count": 365
+    },
+    {
+      "name": "Soviet Union",
+      "count": 360
+    },
+    {
+      "name": "Colombia",
+      "count": 332
+    },
+    {
+      "name": "Propaganda",
+      "count": 297
+    }
+  ]
+}

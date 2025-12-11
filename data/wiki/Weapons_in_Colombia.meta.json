@@ -1,0 +1,250 @@
+{
+  "topic": "Weapons in Colombia",
+  "generated_at": "2025-10-17T21:49:39.963371",
+  "model": "gpt-4o",
+  "num_sources": 40,
+  "source_documents": [
+    {
+      "doc_id": "9DEAintellRpts_2007-2015",
+      "title": "9DEAintellRpts_2007-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7769229016320373
+    },
+    {
+      "doc_id": "IAFminutes_2009-2010",
+      "title": "IAFminutes_2009-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7503234854668495
+    },
+    {
+      "doc_id": "IAFminutes_2009-2010",
+      "title": "IAFminutes_2009-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6339492497256216
+    },
+    {
+      "doc_id": "NApetRenaissanceStudy_2014",
+      "title": "NApetRenaissanceStudy_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5922833724066856
+    },
+    {
+      "doc_id": "EOP_ONDCP_StrategyAnnex1997",
+      "title": "EOP_ONDCP_StrategyAnnex1997.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5579849361240511
+    },
+    {
+      "doc_id": "EOP_ONDCP_StrategyAnnex1997",
+      "title": "EOP_ONDCP_StrategyAnnex1997.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5215091704295653
+    },
+    {
+      "doc_id": "9DEAintellRpts_2007-2015",
+      "title": "9DEAintellRpts_2007-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5163036954796224
+    },
+    {
+      "doc_id": "NApetRenaissanceStudy_2014",
+      "title": "NApetRenaissanceStudy_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.45509297294275086
+    },
+    {
+      "doc_id": "USTDAperfAcctbltyRpts2017-2019",
+      "title": "USTDAperfAcctbltyRpts2017-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4312244611182917
+    },
+    {
+      "doc_id": "41NCISinvRptsNPS_2004-2015",
+      "title": "41NCISinvRptsNPS_2004-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.38302457146507757
+    },
+    {
+      "doc_id": "ATFfoiaLog2014-2015",
+      "title": "ATFfoiaLog2014-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3829011929564493
+    },
+    {
+      "doc_id": "FBI_Monograph_Fedayeen_Terrorist_June-1970",
+      "title": "FBI_Monograph_Fedayeen_Terrorist_June-1970.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3256105636970992
+    },
+    {
+      "doc_id": "3ArmySciBdRpts_1988-1998",
+      "title": "3ArmySciBdRpts_1988-1998.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3216957891202654
+    },
+    {
+      "doc_id": "NEHtransBriefBiden_2020",
+      "title": "NEHtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.30910252774985847
+    },
+    {
+      "doc_id": "ATFfoiaLog2014-2015",
+      "title": "ATFfoiaLog2014-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3040305553564062
+    },
+    {
+      "doc_id": "AWCindivRchRpts_AllDates",
+      "title": "AWCindivRchRpts_AllDates.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.28304871895312955
+    },
+    {
+      "doc_id": "E4Y_Project_Ethiopia_CMEP_2016",
+      "title": "E4Y_Project_Ethiopia_CMEP_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2598432637015622
+    },
+    {
+      "doc_id": "AWCindivRchRpts_AllDates",
+      "title": "AWCindivRchRpts_AllDates.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2482163990790653
+    },
+    {
+      "doc_id": "USTDAperfAcctbltyRpts2017-2019",
+      "title": "USTDAperfAcctbltyRpts2017-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2438267881203202
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.22217972964238938
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.21942811718536148
+    },
+    {
+      "doc_id": "NNSA_PerfEval_LosAlamos_2006",
+      "title": "NNSA_PerfEval_LosAlamos_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.20519155233382488
+    },
+    {
+      "doc_id": "11DLA-OIGauditReports_2011-2014",
+      "title": "11DLA-OIGauditReports_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.20007388839713092
+    },
+    {
+      "doc_id": "FBI_Monograph_Fedayeen_Terrorist_June-1970",
+      "title": "FBI_Monograph_Fedayeen_Terrorist_June-1970.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.1823176925697048
+    },
+    {
+      "doc_id": "NARA-ClassifiedFilmsList_2013",
+      "title": "NARA-ClassifiedFilmsList_2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.1693949239370779
+    },
+    {
+      "doc_id": "NEHtransBriefBiden_2020",
+      "title": "NEHtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.16781364535442952
+    },
+    {
+      "doc_id": "60NNSA-Lintgrams_2002-2017",
+      "title": "60NNSA-Lintgrams_2002-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.16690089139853378
+    },
+    {
+      "doc_id": "60NNSA-Lintgrams_2002-2017",
+      "title": "60NNSA-Lintgrams_2002-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.1640408708854811
+    },
+    {
+      "doc_id": "NNSA_PerfEval_LosAlamos_2006",
+      "title": "NNSA_PerfEval_LosAlamos_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.15265787810767661
+    },
+    {
+      "doc_id": "18DCIDsISCAP_1976-2003",
+      "title": "18DCIDsISCAP_1976-2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.14713856714120155
+    },
+    {
+      "doc_id": "11DLA-OIGauditReports_2011-2014",
+      "title": "11DLA-OIGauditReports_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.14446177472686345
+    },
+    {
+      "doc_id": "34DOE-OIG-ClosingMemos_2007-2008Updt",
+      "title": "34DOE-OIG-ClosingMemos_2007-2008Updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.13416814422174567
+    },
+    {
+      "doc_id": "4DHS-OIG_Reports_2005-2007",
+      "title": "4DHS-OIG_Reports_2005-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.13342015902503862
+    },
+    {
+      "doc_id": "4DHS-OIG_Reports_2005-2007",
+      "title": "4DHS-OIG_Reports_2005-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.1311724446664682
+    },
+    {
+      "doc_id": "34GSA-OIGinvsClosingDocs_2008-2015",
+      "title": "34GSA-OIGinvsClosingDocs_2008-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.13034271610639353
+    },
+    {
+      "doc_id": "18DCIDsISCAP_1976-2003",
+      "title": "18DCIDsISCAP_1976-2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.1286760589067823
+    },
+    {
+      "doc_id": "ODNIcovertOps1800s2007",
+      "title": "ODNIcovertOps1800s2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.12810789741253092
+    },
+    {
+      "doc_id": "DTIC-Biblio-Gyrojet_1962-1978",
+      "title": "DTIC-Biblio-Gyrojet_1962-1978.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.12773456791923996
+    },
+    {
+      "doc_id": "MerckReport_1945",
+      "title": "MerckReport_1945.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.12722467802015494
+    },
+    {
+      "doc_id": "NNSA_PerfEval_Pantex_2005",
+      "title": "NNSA_PerfEval_Pantex_2005.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.1263146494543986
+    }
+  ],
+  "context_length": 20755,
+  "style": "comprehensive"
+}

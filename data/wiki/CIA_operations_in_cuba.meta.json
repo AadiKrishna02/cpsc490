@@ -1,0 +1,250 @@
+{
+  "topic": "CIA operations in cuba",
+  "generated_at": "2025-10-12T14:19:06.688880",
+  "model": "gpt-4o",
+  "num_sources": 40,
+  "source_documents": [
+    {
+      "doc_id": "ODNIcovertOps1800s2007",
+      "title": "ODNIcovertOps1800s2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8249977864335665
+    },
+    {
+      "doc_id": "ODNIcovertOps1800s2007",
+      "title": "ODNIcovertOps1800s2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "IAFminutes_2009-2010",
+      "title": "IAFminutes_2009-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.674580660154095
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6541049112238301
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6064180842160095
+    },
+    {
+      "doc_id": "OFAC-CubaTravelLics_2001-2007",
+      "title": "OFAC-CubaTravelLics_2001-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5694925050650247
+    },
+    {
+      "doc_id": "IAFminutes_2009-2010",
+      "title": "IAFminutes_2009-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5531892470572827
+    },
+    {
+      "doc_id": "16USAIGcloseDocsOIGinvests_2009-2019",
+      "title": "16USAIGcloseDocsOIGinvests_2009-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5444455833377737
+    },
+    {
+      "doc_id": "16USAIGcloseDocsOIGinvests_2009-2019",
+      "title": "16USAIGcloseDocsOIGinvests_2009-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5085453878141939
+    },
+    {
+      "doc_id": "OFAC-CubaTravelLics_2001-2007",
+      "title": "OFAC-CubaTravelLics_2001-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.438863338359378
+    },
+    {
+      "doc_id": "AIA-OHIcolRobtWork_1999",
+      "title": "AIA-OHIcolRobtWork_1999.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.39761762621717
+    },
+    {
+      "doc_id": "21-NSA-Tech-Journal-Articles_1957-1965",
+      "title": "21-NSA-Tech-Journal-Articles_1957-1965.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3592615085925773
+    },
+    {
+      "doc_id": "SpecHistStudyGrowthUSAFSS-ACRP_1966",
+      "title": "SpecHistStudyGrowthUSAFSS-ACRP_1966.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3541167672078986
+    },
+    {
+      "doc_id": "NARA-CIA-MOU_2008",
+      "title": "NARA-CIA-MOU_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.27932680508234997
+    },
+    {
+      "doc_id": "NARA-CIA-MOU_2008",
+      "title": "NARA-CIA-MOU_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.27588570709542765
+    },
+    {
+      "doc_id": "19-OGE-EthicsReviews_2005-2009",
+      "title": "19-OGE-EthicsReviews_2005-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.27466965653282094
+    },
+    {
+      "doc_id": "21-NSA-Tech-Journal-Articles_1957-1965",
+      "title": "21-NSA-Tech-Journal-Articles_1957-1965.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2592672631484896
+    },
+    {
+      "doc_id": "18DCIDsISCAP_1976-2003",
+      "title": "18DCIDsISCAP_1976-2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2459479056632962
+    },
+    {
+      "doc_id": "CIA-OIGreptReducingOver-classification,_2013",
+      "title": "CIA-OIGreptReducingOver-classification,_2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.23816628327951758
+    },
+    {
+      "doc_id": "CIA-OIGreptReducingOver-classification,_2013",
+      "title": "CIA-OIGreptReducingOver-classification,_2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2321928560722826
+    },
+    {
+      "doc_id": "AIA-OHIcolRobtWork_1999",
+      "title": "AIA-OHIcolRobtWork_1999.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.23158171539299752
+    },
+    {
+      "doc_id": "24NRCsecyPapers_1975-1977",
+      "title": "24NRCsecyPapers_1975-1977.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.21892396002430178
+    },
+    {
+      "doc_id": "AFCBminutes_2003-2012u",
+      "title": "AFCBminutes_2003-2012u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.21429635170436062
+    },
+    {
+      "doc_id": "20NARAdir-Policies_1998-2015",
+      "title": "20NARAdir-Policies_1998-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.20627577472754718
+    },
+    {
+      "doc_id": "StateDeptRedBookINR_2008",
+      "title": "StateDeptRedBookINR_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.18631997938122857
+    },
+    {
+      "doc_id": "19-OGE-EthicsReviews_2005-2009",
+      "title": "19-OGE-EthicsReviews_2005-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.18625789061064899
+    },
+    {
+      "doc_id": "34DOE-OIG-ClosingMemos_2007-2008Updt",
+      "title": "34DOE-OIG-ClosingMemos_2007-2008Updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.181743704467348
+    },
+    {
+      "doc_id": "1stPgClassGAOrptsPre1972",
+      "title": "1stPgClassGAOrptsPre1972.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.17763044023243726
+    },
+    {
+      "doc_id": "8TreasuryOIGauditRpts_2009-2014",
+      "title": "8TreasuryOIGauditRpts_2009-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.1749633970247368
+    },
+    {
+      "doc_id": "8TreasuryOIGauditRpts_2009-2014",
+      "title": "8TreasuryOIGauditRpts_2009-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.1641142418004726
+    },
+    {
+      "doc_id": "NSA_Tracking_Psychics-Remote-Viewing",
+      "title": "NSA_Tracking_Psychics-Remote-Viewing.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.1619955101585938
+    },
+    {
+      "doc_id": "18DCIDsISCAP_1976-2003",
+      "title": "18DCIDsISCAP_1976-2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.16158552047105634
+    },
+    {
+      "doc_id": "StateDeptRedBookINR_2008",
+      "title": "StateDeptRedBookINR_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.15715630218200968
+    },
+    {
+      "doc_id": "FBI100-HQ-343044SovietWarPlans_1945-1948",
+      "title": "FBI100-HQ-343044SovietWarPlans_1945-1948.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.14943134649324574
+    },
+    {
+      "doc_id": "3-NSA-HistRecords_2002-2010",
+      "title": "3-NSA-HistRecords_2002-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.14636763692868832
+    },
+    {
+      "doc_id": "NEHtransBriefBiden_2020",
+      "title": "NEHtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.13740305000974878
+    },
+    {
+      "doc_id": "FBI100-HQ-343044SovietWarPlans_1945-1948",
+      "title": "FBI100-HQ-343044SovietWarPlans_1945-1948.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.13440013742646173
+    },
+    {
+      "doc_id": "2ArmyCounterintelDocs_1962-1963",
+      "title": "2ArmyCounterintelDocs_1962-1963.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.12849649403891028
+    },
+    {
+      "doc_id": "2ArmyCounterintelDocs_1962-1963",
+      "title": "2ArmyCounterintelDocs_1962-1963.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.11520959501359959
+    },
+    {
+      "doc_id": "NSA_Tracking_Psychics-Remote-Viewing",
+      "title": "NSA_Tracking_Psychics-Remote-Viewing.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.11232566487617114
+    }
+  ],
+  "context_length": 20118,
+  "style": "comprehensive"
+}

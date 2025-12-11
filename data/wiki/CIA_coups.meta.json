@@ -1,0 +1,2252 @@
+{
+  "topic": "CIA coups",
+  "generated_at": "2025-11-24T12:55:18.042482",
+  "model": "gpt-4o-mini",
+  "num_sources": 341,
+  "source_documents": [
+    {
+      "doc_id": "DTICbiblioCSIS_2019",
+      "title": "DTICbiblioCSIS_2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.9789997274990792
+    },
+    {
+      "doc_id": "NARAjfkAssassinationRecordsCollWithheld_2016",
+      "title": "NARAjfkAssassinationRecordsCollWithheld_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8688797825512439
+    },
+    {
+      "doc_id": "USTDA-Plan_Appropriations_2005-2011",
+      "title": "USTDA-Plan_Appropriations_2005-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8506226189249045
+    },
+    {
+      "doc_id": "ODNIcovertOps1800s2007",
+      "title": "ODNIcovertOps1800s2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8054458736946183
+    },
+    {
+      "doc_id": "NSA_AmerCryptColdWarBk1",
+      "title": "NSA_AmerCryptColdWarBk1.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7973816363875489
+    },
+    {
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7949711191082098
+    },
+    {
+      "doc_id": "NPIChistoryVol1-NPIC-2_1972",
+      "title": "NPIChistoryVol1-NPIC-2_1972.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.784210487910969
+    },
+    {
+      "doc_id": "ThesisRenditionsCounterterr2009",
+      "title": "ThesisRenditionsCounterterr2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7691386391144096
+    },
+    {
+      "doc_id": "HistCIAopc1973",
+      "title": "HistCIAopc1973.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7673541583767186
+    },
+    {
+      "doc_id": "RespCongCmteesODNI_2012-2013",
+      "title": "RespCongCmteesODNI_2012-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.763794292380522
+    },
+    {
+      "doc_id": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u",
+      "title": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7476686133201277
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7343180779727837
+    },
+    {
+      "doc_id": "DIA_FileId_238464",
+      "title": "DIA_FileId_238464.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.721364094670446
+    },
+    {
+      "doc_id": "DTICtrdBiblioCA-CIApre2000_2014",
+      "title": "DTICtrdBiblioCA-CIApre2000_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7130773005306004
+    },
+    {
+      "doc_id": "TreasuryDO-FOIAbacklogEmail_2012-14",
+      "title": "TreasuryDO-FOIAbacklogEmail_2012-14.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7089857141016143
+    },
+    {
+      "doc_id": "CIAhistOSAincep-1969u",
+      "title": "CIAhistOSAincep-1969u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7087249428003928
+    },
+    {
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.7086558609550452
+    },
+    {
+      "doc_id": "DIA_FileId_238597",
+      "title": "DIA_FileId_238597.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.7061481128238969
+    },
+    {
+      "doc_id": "FBI-SexPerverts_1950-1966",
+      "title": "FBI-SexPerverts_1950-1966.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7042707003583347
+    },
+    {
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7005454620248126
+    },
+    {
+      "doc_id": "DIA_FileId_239120",
+      "title": "DIA_FileId_239120.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "DIA_FileId_238419",
+      "title": "DIA_FileId_238419.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "FBI-DangerousAliens_1951-1955",
+      "title": "FBI-DangerousAliens_1951-1955.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "NSA-SelHistDocs_1931-1985",
+      "title": "NSA-SelHistDocs_1931-1985.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.695787372173813
+    },
+    {
+      "doc_id": "DIAintelLawHndbk_2004",
+      "title": "DIAintelLawHndbk_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.69086417749619
+    },
+    {
+      "doc_id": "FOIAreqsJeffreyScudder_CY2012",
+      "title": "FOIAreqsJeffreyScudder_CY2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6771717092002665
+    },
+    {
+      "doc_id": "PerryHistSatRecon-IIIA_New-Jan1974",
+      "title": "PerryHistSatRecon-IIIA_New-Jan1974.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6748852881463588
+    },
+    {
+      "doc_id": "DIA_FileId_238426",
+      "title": "DIA_FileId_238426.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6684229924224451
+    },
+    {
+      "doc_id": "FBI-FOIA-PA-Ref-Manual",
+      "title": "FBI-FOIA-PA-Ref-Manual.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6532160680625215
+    },
+    {
+      "doc_id": "CIA-OIGinvsClosed_2007-2011",
+      "title": "CIA-OIGinvsClosed_2007-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6518399110668109
+    },
+    {
+      "doc_id": "NSA_AmerCryptColdWarBk4_1999",
+      "title": "NSA_AmerCryptColdWarBk4_1999.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6360919302294055
+    },
+    {
+      "doc_id": "31AmtrakOIGcloseDocs_2016-2019",
+      "title": "31AmtrakOIGcloseDocs_2016-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6253319726185951
+    },
+    {
+      "doc_id": "NRO-SIGINTsatStory_1994u",
+      "title": "NRO-SIGINTsatStory_1994u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6232490320205116
+    },
+    {
+      "doc_id": "NSA354-01STINFOcollFA",
+      "title": "NSA354-01STINFOcollFA.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6220686398465622
+    },
+    {
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6157899774311035
+    },
+    {
+      "doc_id": "DIA_FileId_239088",
+      "title": "DIA_FileId_239088.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6145385437897043
+    },
+    {
+      "doc_id": "NARAclintonPLfoiaLogs2008-2020",
+      "title": "NARAclintonPLfoiaLogs2008-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6093834213480004
+    },
+    {
+      "doc_id": "FBI-RampartsMagazine_1964-1975",
+      "title": "FBI-RampartsMagazine_1964-1975.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.605581970589222
+    },
+    {
+      "doc_id": "USSSDirectorsUpdate_2001-2007",
+      "title": "USSSDirectorsUpdate_2001-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6045758527586257
+    },
+    {
+      "doc_id": "PerryHistSatRecon-IIIB_New-Nov1973",
+      "title": "PerryHistSatRecon-IIIB_New-Nov1973.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6034673268493774
+    },
+    {
+      "doc_id": "DoD-CIAjointInspecNRO_1996",
+      "title": "DoD-CIAjointInspecNRO_1996.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6008966189078979
+    },
+    {
+      "doc_id": "DIA_FileId_239264",
+      "title": "DIA_FileId_239264.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5855796934328961
+    },
+    {
+      "doc_id": "NLRBfoiaManual_2008",
+      "title": "NLRBfoiaManual_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5852044850214648
+    },
+    {
+      "doc_id": "SIGIR_ClosedInvMemos_05-07",
+      "title": "SIGIR_ClosedInvMemos_05-07.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.581147297588748
+    },
+    {
+      "doc_id": "CIAoverheadRecon_1992updt",
+      "title": "CIAoverheadRecon_1992updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5806630178244176
+    },
+    {
+      "doc_id": "USPBmeetingMinutes_2005-2016",
+      "title": "USPBmeetingMinutes_2005-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.568989453811186
+    },
+    {
+      "doc_id": "GAO_Cocaine_Heroin_S_America_1975",
+      "title": "GAO_Cocaine_Heroin_S_America_1975.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5682150247619765
+    },
+    {
+      "doc_id": "DIA_FileId_239258",
+      "title": "DIA_FileId_239258.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.567364016159271
+    },
+    {
+      "doc_id": "NSAohiREDACTED_OH 1988-11",
+      "title": "NSAohiREDACTED_OH 1988-11.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5649813528599417
+    },
+    {
+      "doc_id": "NRO_History-of-Satellite-Recon-Vol3A_Robert-Perry_1974",
+      "title": "NRO_History-of-Satellite-Recon-Vol3A_Robert-Perry_1974.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.564870935608399
+    },
+    {
+      "doc_id": "CIA-NARA_Corres_1996-2007",
+      "title": "CIA-NARA_Corres_1996-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5617858942668525
+    },
+    {
+      "doc_id": "ODNIgamesTheyPlayThesis2008",
+      "title": "ODNIgamesTheyPlayThesis2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5529459356465151
+    },
+    {
+      "doc_id": "FBI-BellaAbzug_1950-1990",
+      "title": "FBI-BellaAbzug_1950-1990.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5523831227288557
+    },
+    {
+      "doc_id": "ThesisClassifiedInfoLeaks2007",
+      "title": "ThesisClassifiedInfoLeaks2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5523659186091593
+    },
+    {
+      "doc_id": "LtrAotusPotusKARCA_2018",
+      "title": "LtrAotusPotusKARCA_2018.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5512806321577097
+    },
+    {
+      "doc_id": "ThesisUnlawDisclInfoSharing2004",
+      "title": "ThesisUnlawDisclInfoSharing2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5509904065361683
+    },
+    {
+      "doc_id": "DIA_FileId_239149",
+      "title": "DIA_FileId_239149.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5476365071014498
+    },
+    {
+      "doc_id": "Fostering-Rev-Innovation-CSBA_2001",
+      "title": "Fostering-Rev-Innovation-CSBA_2001.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.535542788166318
+    },
+    {
+      "doc_id": "FBI_UnificationChurch_1967-1988updt",
+      "title": "FBI_UnificationChurch_1967-1988updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.534753594600746
+    },
+    {
+      "doc_id": "ListCIA-OIGFinalAuditRpts_1999-2013",
+      "title": "ListCIA-OIGFinalAuditRpts_1999-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5339815994879911
+    },
+    {
+      "doc_id": "StateDeclassGuideEAD_2012updt",
+      "title": "StateDeclassGuideEAD_2012updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5276257414687247
+    },
+    {
+      "doc_id": "CIG-NIA_1945-1948",
+      "title": "CIG-NIA_1945-1948.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5247958241391808
+    },
+    {
+      "doc_id": "CIAbudgetSequestration_2013",
+      "title": "CIAbudgetSequestration_2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.523928281078395
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.521659086664284
+    },
+    {
+      "doc_id": "DHS-TOPOFF2-4_2003-2007",
+      "title": "DHS-TOPOFF2-4_2003-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5166469904082288
+    },
+    {
+      "doc_id": "NSA2001PresidTransition_2004",
+      "title": "NSA2001PresidTransition_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.51565112077293
+    },
+    {
+      "doc_id": "FBI-RIDS-FOIA-Buzz_2009-2010",
+      "title": "FBI-RIDS-FOIA-Buzz_2009-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5128237741956365
+    },
+    {
+      "doc_id": "CIA-IG_Report-to-DCI_2000",
+      "title": "CIA-IG_Report-to-DCI_2000.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5117908123047524
+    },
+    {
+      "doc_id": "CIA-FOIAmanual_2010",
+      "title": "CIA-FOIAmanual_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5080929079193993
+    },
+    {
+      "doc_id": "CBP-IA-Directives_1984-2009",
+      "title": "CBP-IA-Directives_1984-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5079765687125778
+    },
+    {
+      "doc_id": "DIA_FileId_239234",
+      "title": "DIA_FileId_239234.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5074343239953698
+    },
+    {
+      "doc_id": "ElevenCIA-OIGauditReports_1995-2003",
+      "title": "ElevenCIA-OIGauditReports_1995-2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5073005894222252
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5062356941615173
+    },
+    {
+      "doc_id": "CIAhistOSAincep-1969Final",
+      "title": "CIAhistOSAincep-1969Final.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5040708538026155
+    },
+    {
+      "doc_id": "DIA_FileId_239036",
+      "title": "DIA_FileId_239036.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5036932442020725
+    },
+    {
+      "doc_id": "DOJ-OIP-INSLAW_1993",
+      "title": "DOJ-OIP-INSLAW_1993.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5026382060952648
+    },
+    {
+      "doc_id": "NSAohList_1971-2010",
+      "title": "NSAohList_1971-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5023042774535759
+    },
+    {
+      "doc_id": "NARAxferFBImonog2000-2009U",
+      "title": "NARAxferFBImonog2000-2009U.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.496343524922788
+    },
+    {
+      "doc_id": "NSAclassGuideSHAMROCK",
+      "title": "NSAclassGuideSHAMROCK.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.49578414596869236
+    },
+    {
+      "doc_id": "DOJ-OPA-DailyNewsWrap_Mar-Jun2012",
+      "title": "DOJ-OPA-DailyNewsWrap_Mar-Jun2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.49534204575073537
+    },
+    {
+      "doc_id": "NRO-DCI-Hayden_2006",
+      "title": "NRO-DCI-Hayden_2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4944413801734144
+    },
+    {
+      "doc_id": "USSSadminHistSheafeUnpub_1983",
+      "title": "USSSadminHistSheafeUnpub_1983.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4922199486138217
+    },
+    {
+      "doc_id": "DIA_FileId_238871",
+      "title": "DIA_FileId_238871.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.49175705037027057
+    },
+    {
+      "doc_id": "ODNIqfr_2017-2020",
+      "title": "ODNIqfr_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4908934883493514
+    },
+    {
+      "doc_id": "TIGTAinvesClosed_2015-2016",
+      "title": "TIGTAinvesClosed_2015-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4887952695548145
+    },
+    {
+      "doc_id": "DCI-BriefReleasability_2007",
+      "title": "DCI-BriefReleasability_2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4878430475813212
+    },
+    {
+      "doc_id": "FOIA_NRO_Ltrs-Resp_2003",
+      "title": "FOIA_NRO_Ltrs-Resp_2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4827386999417138
+    },
+    {
+      "doc_id": "AIA-OHIcolRobtWork_1999",
+      "title": "AIA-OHIcolRobtWork_1999.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.48205515312336944
+    },
+    {
+      "doc_id": "FBI1338181-cigieCIA%20Buckley_2012_2014",
+      "title": "FBI1338181-cigieCIA%20Buckley_2012_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4819597181603317
+    },
+    {
+      "doc_id": "CIA-RptPubRelInfoPgms_1992",
+      "title": "CIA-RptPubRelInfoPgms_1992.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.481631499772493
+    },
+    {
+      "doc_id": "DTICtechRptsPOW_2016",
+      "title": "DTICtechRptsPOW_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.48112215719986373
+    },
+    {
+      "doc_id": "DIA_FileId_239093",
+      "title": "DIA_FileId_239093.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4766988807464779
+    },
+    {
+      "doc_id": "NSAoriginsOfNSA1940-1952_1990",
+      "title": "NSAoriginsOfNSA1940-1952_1990.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.476446153647614
+    },
+    {
+      "doc_id": "DIA_FileId_238862",
+      "title": "DIA_FileId_238862.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4756908573881436
+    },
+    {
+      "doc_id": "DIA_FileId_237685",
+      "title": "DIA_FileId_237685.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.47309623279742696
+    },
+    {
+      "doc_id": "FEMAtopoffAARs2003-2007",
+      "title": "FEMAtopoffAARs2003-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.47265383590896526
+    },
+    {
+      "doc_id": "BBGmoRpts_2012-2015",
+      "title": "BBGmoRpts_2012-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4715937389948671
+    },
+    {
+      "doc_id": "CIAoigInvestsClosed2018-2019",
+      "title": "CIAoigInvestsClosed2018-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4708547907620627
+    },
+    {
+      "doc_id": "DEAlibraryCat2024",
+      "title": "DEAlibraryCat2024.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.46789497855209544
+    },
+    {
+      "doc_id": "DIA-SABrecords_1966-2002",
+      "title": "DIA-SABrecords_1966-2002.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4673108133948223
+    },
+    {
+      "doc_id": "HistoryUSAF-SMC_1998-2001",
+      "title": "HistoryUSAF-SMC_1998-2001.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4658341616261334
+    },
+    {
+      "doc_id": "ThirteenCommerceOIGrpts_1997-2007",
+      "title": "ThirteenCommerceOIGrpts_1997-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.46574627714411176
+    },
+    {
+      "doc_id": "FBICheneyPlame_2004",
+      "title": "FBICheneyPlame_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4642912456837596
+    },
+    {
+      "doc_id": "CloseDocs17NROoigInvests_2010-2012",
+      "title": "CloseDocs17NROoigInvests_2010-2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4625218802596056
+    },
+    {
+      "doc_id": "LOC_semiannual_Report_01-Oct-2005_31-Mar-2006",
+      "title": "LOC_semiannual_Report_01-Oct-2005_31-Mar-2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4608550219326081
+    },
+    {
+      "doc_id": "InventoryClassRecsMCC_2016",
+      "title": "InventoryClassRecsMCC_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.45746084169589896
+    },
+    {
+      "doc_id": "21-NSA-Tech-Journal-Articles_1957-1965",
+      "title": "21-NSA-Tech-Journal-Articles_1957-1965.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.456879440362597
+    },
+    {
+      "doc_id": "DIA_FileId_239255",
+      "title": "DIA_FileId_239255.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.45073184475639555
+    },
+    {
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4500955470391215
+    },
+    {
+      "doc_id": "VeteransAffairsOIG-Investigations_1998-2005",
+      "title": "VeteransAffairsOIG-Investigations_1998-2005.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4481746318679708
+    },
+    {
+      "doc_id": "FBI-FileOverthrowCastro_1960-1965",
+      "title": "FBI-FileOverthrowCastro_1960-1965.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4466276360406281
+    },
+    {
+      "doc_id": "DIA_FileId_238307",
+      "title": "DIA_FileId_238307.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4442196729524215
+    },
+    {
+      "doc_id": "DHS-OIGinvsClosed_CY2014",
+      "title": "DHS-OIGinvsClosed_CY2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.44419831738990234
+    },
+    {
+      "doc_id": "NSA-EXECmessages_2006-2008",
+      "title": "NSA-EXECmessages_2006-2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4431183705027072
+    },
+    {
+      "doc_id": "Closed_DOI-OIG_Invest_2003-2007",
+      "title": "Closed_DOI-OIG_Invest_2003-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4426243643450227
+    },
+    {
+      "doc_id": "USSSprotIntelBriefsQOPT2021",
+      "title": "USSSprotIntelBriefsQOPT2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4412261552961574
+    },
+    {
+      "doc_id": "CIA-NPIC-3_HTAUTOMAT1956-58_1974",
+      "title": "CIA-NPIC-3_HTAUTOMAT1956-58_1974.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4391352754730808
+    },
+    {
+      "doc_id": "ODNIoigCloseDocsOtherAgencies_2010-2020",
+      "title": "ODNIoigCloseDocsOtherAgencies_2010-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4387133358727885
+    },
+    {
+      "doc_id": "FBI-DeadList-Update_2011",
+      "title": "FBI-DeadList-Update_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.43862195674887133
+    },
+    {
+      "doc_id": "USAINSCOMhistoryFY_1989",
+      "title": "USAINSCOMhistoryFY_1989.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4384696144298805
+    },
+    {
+      "doc_id": "DEA-IntelTopDnReptSAIC-ICF_2004",
+      "title": "DEA-IntelTopDnReptSAIC-ICF_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.43838184807118813
+    },
+    {
+      "doc_id": "DIA_FileId_238806",
+      "title": "DIA_FileId_238806.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.43437194130843304
+    },
+    {
+      "doc_id": "FBI-FgnCounterintelRevExt_1976-1979",
+      "title": "FBI-FgnCounterintelRevExt_1976-1979.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4330637769808776
+    },
+    {
+      "doc_id": "DIA_FileId_239013",
+      "title": "DIA_FileId_239013.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4290033773586579
+    },
+    {
+      "doc_id": "ProjMoondust1967-1972",
+      "title": "ProjMoondust1967-1972.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4277872354058426
+    },
+    {
+      "doc_id": "GSA-OIG-OIweeklyRpts_2012-2013updt",
+      "title": "GSA-OIG-OIweeklyRpts_2012-2013updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4276525716088079
+    },
+    {
+      "doc_id": "NSA-Cryptologic-History-Series_In-the-Shadow-of-War_1969",
+      "title": "NSA-Cryptologic-History-Series_In-the-Shadow-of-War_1969.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.42570368265055636
+    },
+    {
+      "doc_id": "JMDpresidTransBriefs2000-2016",
+      "title": "JMDpresidTransBriefs2000-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4236294149729598
+    },
+    {
+      "doc_id": "NSAkryptosSocNwsltrs1994-2003u",
+      "title": "NSAkryptosSocNwsltrs1994-2003u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4209040846675678
+    },
+    {
+      "doc_id": "DIA_FileId_238875",
+      "title": "DIA_FileId_238875.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.42023682755683167
+    },
+    {
+      "doc_id": "CIA-OIGreptReducingOver-classification,_2013",
+      "title": "CIA-OIGreptReducingOver-classification,_2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4199263369613597
+    },
+    {
+      "doc_id": "DIA_FileId_239067",
+      "title": "DIA_FileId_239067.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4188854583113098
+    },
+    {
+      "doc_id": "CIA_FOIA_Records_2007",
+      "title": "CIA_FOIA_Records_2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.41829644649185654
+    },
+    {
+      "doc_id": "RSrptJSC_1994",
+      "title": "RSrptJSC_1994.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.41723493482086116
+    },
+    {
+      "doc_id": "CIAcompliancePlanAutoDeclass25yrRecords",
+      "title": "CIAcompliancePlanAutoDeclass25yrRecords.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.41574023861787235
+    },
+    {
+      "doc_id": "ThesisWorldLTA-Hale2009",
+      "title": "ThesisWorldLTA-Hale2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.41329141013891346
+    },
+    {
+      "doc_id": "StatePArapidResponse2013",
+      "title": "StatePArapidResponse2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.41263494154510283
+    },
+    {
+      "doc_id": "NARAdestFBIfieldOfcFiles_1977-1991",
+      "title": "NARAdestFBIfieldOfcFiles_1977-1991.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.411215462775431
+    },
+    {
+      "doc_id": "NSA2ohiFrank_Rowlett1983_1985u",
+      "title": "NSA2ohiFrank_Rowlett1983_1985u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.41029469986136974
+    },
+    {
+      "doc_id": "FBIfile80-HQ-760UltrasonicListenDev_1945-1969",
+      "title": "FBIfile80-HQ-760UltrasonicListenDev_1945-1969.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.40995425184484263
+    },
+    {
+      "doc_id": "ThesisRegDomIntelSurvAct2009",
+      "title": "ThesisRegDomIntelSurvAct2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.40596390993081466
+    },
+    {
+      "doc_id": "ThesisAnomalousHumanCognition2023",
+      "title": "ThesisAnomalousHumanCognition2023.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4057461572808191
+    },
+    {
+      "doc_id": "NARA-DHS-Corres_2001-2008Updt",
+      "title": "NARA-DHS-Corres_2001-2008Updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4051300548756189
+    },
+    {
+      "doc_id": "DOJ_Leak_Investigations_2001-2006",
+      "title": "DOJ_Leak_Investigations_2001-2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4034994112366188
+    },
+    {
+      "doc_id": "CIA8progRptsRMPkurtz_2001-2006",
+      "title": "CIA8progRptsRMPkurtz_2001-2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4031793497909986
+    },
+    {
+      "doc_id": "DIA_FileId_238917",
+      "title": "DIA_FileId_238917.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4017229916500134
+    },
+    {
+      "doc_id": "CIA-IG_Report-to-DCI_2004",
+      "title": "CIA-IG_Report-to-DCI_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4010680722495029
+    },
+    {
+      "doc_id": "DIA_FileId_239064",
+      "title": "DIA_FileId_239064.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.39931242544654827
+    },
+    {
+      "doc_id": "OGE-Audits_2005-2010",
+      "title": "OGE-Audits_2005-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.39862377080101874
+    },
+    {
+      "doc_id": "DCItaskFhRPdeclassGuideLns_1992",
+      "title": "DCItaskFhRPdeclassGuideLns_1992.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.39837381221468193
+    },
+    {
+      "doc_id": "DIAstyleManualIntelProd_2016",
+      "title": "DIAstyleManualIntelProd_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.39822928918702644
+    },
+    {
+      "doc_id": "WarRptOSSvolI_1947_1976",
+      "title": "WarRptOSSvolI_1947_1976.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.39676921717351826
+    },
+    {
+      "doc_id": "FBI-Kerley_1940sU",
+      "title": "FBI-Kerley_1940sU.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.39622278733876104
+    },
+    {
+      "doc_id": "DIA_FileId_238805",
+      "title": "DIA_FileId_238805.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.39579013693006954
+    },
+    {
+      "doc_id": "34DOE-OIG-ClosingMemos_2007-2008Updt",
+      "title": "34DOE-OIG-ClosingMemos_2007-2008Updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.39337843392241345
+    },
+    {
+      "doc_id": "KHRUVIS_1957-1959",
+      "title": "KHRUVIS_1957-1959.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.39336024865127706
+    },
+    {
+      "doc_id": "DIA_FileId_239132",
+      "title": "DIA_FileId_239132.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.39177754739696036
+    },
+    {
+      "doc_id": "NARA-CIA-MOU_2008",
+      "title": "NARA-CIA-MOU_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3917561950221544
+    },
+    {
+      "doc_id": "TIGTAweeklyRepts_2011-2014",
+      "title": "TIGTAweeklyRepts_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3908285503145282
+    },
+    {
+      "doc_id": "NSAdefsmacCommAsset1964-1989_1993",
+      "title": "NSAdefsmacCommAsset1964-1989_1993.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.39061190771368565
+    },
+    {
+      "doc_id": "NRO-Origins-Creation-EarlyYears_1997",
+      "title": "NRO-Origins-Creation-EarlyYears_1997.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3890360688396519
+    },
+    {
+      "doc_id": "NatnlCryptoSchoolTVctrCat_1991",
+      "title": "NatnlCryptoSchoolTVctrCat_1991.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3879447881376027
+    },
+    {
+      "doc_id": "FBI-AshReport_1977-1981",
+      "title": "FBI-AshReport_1977-1981.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.38682722578950796
+    },
+    {
+      "doc_id": "DIA_FileId_239285",
+      "title": "DIA_FileId_239285.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.38672257377727837
+    },
+    {
+      "doc_id": "VA-OIGinvsClosedCY2014",
+      "title": "VA-OIGinvsClosedCY2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.38441895232604717
+    },
+    {
+      "doc_id": "DIA_FileId_239183",
+      "title": "DIA_FileId_239183.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.38338024936301973
+    },
+    {
+      "doc_id": "USAINSCOMhistoryFY_1979",
+      "title": "USAINSCOMhistoryFY_1979.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.38272057590825115
+    },
+    {
+      "doc_id": "24NRCsecyPapers_1975-1977",
+      "title": "24NRCsecyPapers_1975-1977.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3825734251814863
+    },
+    {
+      "doc_id": "NSA_TV_Center_Catalog_1991-Update",
+      "title": "NSA_TV_Center_Catalog_1991-Update.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3818312357680703
+    },
+    {
+      "doc_id": "DOJ-OPR-WlliamSessions_1992-1993",
+      "title": "DOJ-OPR-WlliamSessions_1992-1993.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.38132995227052435
+    },
+    {
+      "doc_id": "CIAmgraphsHistsDDS&THPC2009",
+      "title": "CIAmgraphsHistsDDS&THPC2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3811377295480356
+    },
+    {
+      "doc_id": "DIA_FileId_239168",
+      "title": "DIA_FileId_239168.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.3806938447713739
+    },
+    {
+      "doc_id": "CIAsummitConf1960",
+      "title": "CIAsummitConf1960.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.38036217438101444
+    },
+    {
+      "doc_id": "ArmyEntertainmentReports_2005-06",
+      "title": "ArmyEntertainmentReports_2005-06.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.38018791578813627
+    },
+    {
+      "doc_id": "DIA_FileId_238986",
+      "title": "DIA_FileId_238986.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.37822600578882376
+    },
+    {
+      "doc_id": "USAINSCOMhistoryFY_2001-2003",
+      "title": "USAINSCOMhistoryFY_2001-2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3778258359182921
+    },
+    {
+      "doc_id": "DallasFedResBkUponAStrongFoundation1992",
+      "title": "DallasFedResBkUponAStrongFoundation1992.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3762573466972083
+    },
+    {
+      "doc_id": "USDAoigSelInvestRpts2015-2016",
+      "title": "USDAoigSelInvestRpts2015-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.37568732064506544
+    },
+    {
+      "doc_id": "DIA_3_oldest_classified_2008",
+      "title": "DIA_3_oldest_classified_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.37398442461965387
+    },
+    {
+      "doc_id": "DIA_FileId_238918",
+      "title": "DIA_FileId_238918.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.3724972661435465
+    },
+    {
+      "doc_id": "FBI-hi-visMemos_2010-2013",
+      "title": "FBI-hi-visMemos_2010-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3718817482729307
+    },
+    {
+      "doc_id": "CIAchracMinsAgendas1996-1997",
+      "title": "CIAchracMinsAgendas1996-1997.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3713215788257873
+    },
+    {
+      "doc_id": "USAINSCOMhistoryFY_1990",
+      "title": "USAINSCOMhistoryFY_1990.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.37093019008764905
+    },
+    {
+      "doc_id": "CIA-IG_Report-to-DCI_2003",
+      "title": "CIA-IG_Report-to-DCI_2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3706302542402405
+    },
+    {
+      "doc_id": "NSAoigSemiannualRptsCongress_1997-2003",
+      "title": "NSAoigSemiannualRptsCongress_1997-2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3705493423473765
+    },
+    {
+      "doc_id": "USAINSCOMhistoryFY_1986",
+      "title": "USAINSCOMhistoryFY_1986.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.37047046027379715
+    },
+    {
+      "doc_id": "DIA_FileId_238545",
+      "title": "DIA_FileId_238545.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.3698488699708016
+    },
+    {
+      "doc_id": "CIAoigSemiannualRpts_2011-2012",
+      "title": "CIAoigSemiannualRpts_2011-2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3698066601795623
+    },
+    {
+      "doc_id": "FEMAacquisitionManual_2021",
+      "title": "FEMAacquisitionManual_2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.36817042116894455
+    },
+    {
+      "doc_id": "ODNIcongCorres_2009-2010",
+      "title": "ODNIcongCorres_2009-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.36753353709158976
+    },
+    {
+      "doc_id": "DIA_FileId_239161",
+      "title": "DIA_FileId_239161.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.36750388146925334
+    },
+    {
+      "doc_id": "CIAmia-PandP1948-1973V1and2_1974",
+      "title": "CIAmia-PandP1948-1973V1and2_1974.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.36740477674685107
+    },
+    {
+      "doc_id": "USNORTHCOM-CONPLANpandemicFlu_2009",
+      "title": "USNORTHCOM-CONPLANpandemicFlu_2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3668813180752714
+    },
+    {
+      "doc_id": "DOJ-OIG-InvsClosed_2011-2012",
+      "title": "DOJ-OIG-InvsClosed_2011-2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3662962058217136
+    },
+    {
+      "doc_id": "CIAandTofcSciIntel1949-68_1972",
+      "title": "CIAandTofcSciIntel1949-68_1972.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3657386019404044
+    },
+    {
+      "doc_id": "DIAfoiaBacklog_2017-2020",
+      "title": "DIAfoiaBacklog_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.365667877996279
+    },
+    {
+      "doc_id": "ODNI-OIG-Rpts-Invs_2005-2010",
+      "title": "ODNI-OIG-Rpts-Invs_2005-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.36526332514203896
+    },
+    {
+      "doc_id": "DoD-OIGreptGuatemalaActivities_1995",
+      "title": "DoD-OIGreptGuatemalaActivities_1995.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3640492080397885
+    },
+    {
+      "doc_id": "Purple-Dragon_Origin-US-OPSEC_NSA-Ctr-Cryptologic-History_1993",
+      "title": "Purple-Dragon_Origin-US-OPSEC_NSA-Ctr-Cryptologic-History_1993.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3630523446126186
+    },
+    {
+      "doc_id": "ODNImgmtRefQL-INITIATEpgms_2012",
+      "title": "ODNImgmtRefQL-INITIATEpgms_2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3612146473483915
+    },
+    {
+      "doc_id": "DIA_FileId_239134",
+      "title": "DIA_FileId_239134.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.35994776154812963
+    },
+    {
+      "doc_id": "DIA_FileId_238825",
+      "title": "DIA_FileId_238825.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.35933696118751435
+    },
+    {
+      "doc_id": "FBI-65-HQ-59264-IIC_1950-1951",
+      "title": "FBI-65-HQ-59264-IIC_1950-1951.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35906479783941486
+    },
+    {
+      "doc_id": "USSSpubAffairsGuid_2017-2020",
+      "title": "USSSpubAffairsGuid_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3582102398578771
+    },
+    {
+      "doc_id": "CIAwrapUpSummsRDP_1996-2016",
+      "title": "CIAwrapUpSummsRDP_1996-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35749032273771564
+    },
+    {
+      "doc_id": "ThesisIntelSuptSOFTWARops2010",
+      "title": "ThesisIntelSuptSOFTWARops2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35744875689510336
+    },
+    {
+      "doc_id": "DIA_FileId_238942",
+      "title": "DIA_FileId_238942.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.35723575387677947
+    },
+    {
+      "doc_id": "FBItransBriefBiden_2020",
+      "title": "FBItransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35679421142648815
+    },
+    {
+      "doc_id": "CIA-IG_Report-to-DCI_1999",
+      "title": "CIA-IG_Report-to-DCI_1999.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35648199054383756
+    },
+    {
+      "doc_id": "NRCbriefOnSECY77-268_1977",
+      "title": "NRCbriefOnSECY77-268_1977.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35549701013761414
+    },
+    {
+      "doc_id": "USAIDcounterViolExtreme_2018-2019",
+      "title": "USAIDcounterViolExtreme_2018-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3552946394865456
+    },
+    {
+      "doc_id": "FBIov9-11InvSlideShow_2014",
+      "title": "FBIov9-11InvSlideShow_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35513930408986877
+    },
+    {
+      "doc_id": "USAINSCOMhistoryFY_1988",
+      "title": "USAINSCOMhistoryFY_1988.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3548094291165143
+    },
+    {
+      "doc_id": "CIA-IG_Report-to-DCI_2005",
+      "title": "CIA-IG_Report-to-DCI_2005.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35458755302813066
+    },
+    {
+      "doc_id": "FBI-Atom-BombNY_1951-1964",
+      "title": "FBI-Atom-BombNY_1951-1964.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35391998599685326
+    },
+    {
+      "doc_id": "USAGMteosMrpts_2014-2019",
+      "title": "USAGMteosMrpts_2014-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3534032221445217
+    },
+    {
+      "doc_id": "DIA_FileId_238865",
+      "title": "DIA_FileId_238865.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.3533492638174236
+    },
+    {
+      "doc_id": "CIA_BellaAbzug_1971-1975",
+      "title": "CIA_BellaAbzug_1971-1975.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35230570015633267
+    },
+    {
+      "doc_id": "DTIC-RAND-TRBiblio_1946-1963",
+      "title": "DTIC-RAND-TRBiblio_1946-1963.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35132832613795417
+    },
+    {
+      "doc_id": "StateDeptRedBookINR_2008",
+      "title": "StateDeptRedBookINR_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35125881366718836
+    },
+    {
+      "doc_id": "DOJviewsLetters_1996-2005",
+      "title": "DOJviewsLetters_1996-2005.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3510931535028779
+    },
+    {
+      "doc_id": "State_Dept_Video_Library_1991",
+      "title": "State_Dept_Video_Library_1991.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3504770373053461
+    },
+    {
+      "doc_id": "FBI-File_TheBerrigans_1970-1989",
+      "title": "FBI-File_TheBerrigans_1970-1989.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.348847017696033
+    },
+    {
+      "doc_id": "NSA-Cryptologic-History-Series_Focus-on-Cambodia_Pts-1-2_1974",
+      "title": "NSA-Cryptologic-History-Series_Focus-on-Cambodia_Pts-1-2_1974.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.34820455392106575
+    },
+    {
+      "doc_id": "StateDeclassGuideAppeal_2012",
+      "title": "StateDeclassGuideAppeal_2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.34804065293528663
+    },
+    {
+      "doc_id": "USAFandNSecSpacePgm1946-1988",
+      "title": "USAFandNSecSpacePgm1946-1988.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.34745483605709715
+    },
+    {
+      "doc_id": "NMBtransBriefBiden_2020",
+      "title": "NMBtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3470560650471054
+    },
+    {
+      "doc_id": "SIGARinvsClosedCY2014u",
+      "title": "SIGARinvsClosedCY2014u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.34591273209405865
+    },
+    {
+      "doc_id": "CIAoigInvestsClosed2015-2020",
+      "title": "CIAoigInvestsClosed2015-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.34564683379026306
+    },
+    {
+      "doc_id": "30NSA-DIRgrams_1999-2004",
+      "title": "30NSA-DIRgrams_1999-2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.34557425606551984
+    },
+    {
+      "doc_id": "RespCongCmteesDHS_2012-2013updt",
+      "title": "RespCongCmteesDHS_2012-2013updt.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3454229609076581
+    },
+    {
+      "doc_id": "NASA_ReleasePlan-Database",
+      "title": "NASA_ReleasePlan-Database.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.34485360985305774
+    },
+    {
+      "doc_id": "FBI-HighVisibilityMemos_1979-1982",
+      "title": "FBI-HighVisibilityMemos_1979-1982.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.34459328921628485
+    },
+    {
+      "doc_id": "ListDHS-OIGinvsClosedCY2012",
+      "title": "ListDHS-OIGinvsClosedCY2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.34377993748026897
+    },
+    {
+      "doc_id": "DIA_FileId_239083",
+      "title": "DIA_FileId_239083.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.34369386766479554
+    },
+    {
+      "doc_id": "ODNIfoiaLogs_2017-2020",
+      "title": "ODNIfoiaLogs_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3435983969320984
+    },
+    {
+      "doc_id": "DIA_FileId_239143",
+      "title": "DIA_FileId_239143.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.34320867227267926
+    },
+    {
+      "doc_id": "FBI100-HQ-343044SovietWarPlans_1945-1948",
+      "title": "FBI100-HQ-343044SovietWarPlans_1945-1948.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3395674941243625
+    },
+    {
+      "doc_id": "FBI_RIDS_DeadList_2009",
+      "title": "FBI_RIDS_DeadList_2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3389501186087619
+    },
+    {
+      "doc_id": "GSA-OIG-OIweeklyRpts_Jan-Jun2014",
+      "title": "GSA-OIG-OIweeklyRpts_Jan-Jun2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.33874312347934843
+    },
+    {
+      "doc_id": "NSA_Tracking_Psychics-Remote-Viewing",
+      "title": "NSA_Tracking_Psychics-Remote-Viewing.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3384727819861709
+    },
+    {
+      "doc_id": "USGSminCAC975-1980",
+      "title": "USGSminCAC975-1980.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3383430765265717
+    },
+    {
+      "doc_id": "DOJviewsLetters_2001-2005",
+      "title": "DOJviewsLetters_2001-2005.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3366791413021174
+    },
+    {
+      "doc_id": "ThesisControversialInterrogationTech2009",
+      "title": "ThesisControversialInterrogationTech2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3361480008406135
+    },
+    {
+      "doc_id": "NSA-EC121shootsownHist_1989",
+      "title": "NSA-EC121shootsownHist_1989.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3348576057858456
+    },
+    {
+      "doc_id": "DIA_FileId_238884",
+      "title": "DIA_FileId_238884.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.33202116959399885
+    },
+    {
+      "doc_id": "FBI-Declass-Manual_2007",
+      "title": "FBI-Declass-Manual_2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3318807935661435
+    },
+    {
+      "doc_id": "NSA-MDRprocedures_2003-2011",
+      "title": "NSA-MDRprocedures_2003-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3300899748099354
+    },
+    {
+      "doc_id": "NSAohiTevis_OH 1988-05",
+      "title": "NSAohiTevis_OH 1988-05.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3299268670885986
+    },
+    {
+      "doc_id": "DIA_FileId_239014",
+      "title": "DIA_FileId_239014.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.3296189210580315
+    },
+    {
+      "doc_id": "EACstdsBdMinutes_2017-2019",
+      "title": "EACstdsBdMinutes_2017-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3286341186275797
+    },
+    {
+      "doc_id": "DoDwklyUpdtSignificantFOIA_2010-2013",
+      "title": "DoDwklyUpdtSignificantFOIA_2010-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.32764738797071974
+    },
+    {
+      "doc_id": "FDA-InfoDiscManual_1999",
+      "title": "FDA-InfoDiscManual_1999.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3267908870238204
+    },
+    {
+      "doc_id": "DIA_FileId_239225",
+      "title": "DIA_FileId_239225.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.32638348033444087
+    },
+    {
+      "doc_id": "CIA-IG_Report-to-DCI_2002",
+      "title": "CIA-IG_Report-to-DCI_2002.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3261549210101554
+    },
+    {
+      "doc_id": "UpdatePDB_2020",
+      "title": "UpdatePDB_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3259930736437865
+    },
+    {
+      "doc_id": "DIAacl_Jan21-Apr11_2022",
+      "title": "DIAacl_Jan21-Apr11_2022.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3256488601831133
+    },
+    {
+      "doc_id": "NSA-WARgrams_1998_2004",
+      "title": "NSA-WARgrams_1998_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3250697179038704
+    },
+    {
+      "doc_id": "DIA_FileId_238670",
+      "title": "DIA_FileId_238670.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.32430814948539494
+    },
+    {
+      "doc_id": "DIA_FileId_238922",
+      "title": "DIA_FileId_238922.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.3236115126529828
+    },
+    {
+      "doc_id": "DIA_FileId_238832",
+      "title": "DIA_FileId_238832.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.32314621911238767
+    },
+    {
+      "doc_id": "DIA_FileId_237817",
+      "title": "DIA_FileId_237817.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.32043575630442195
+    },
+    {
+      "doc_id": "DIA_FileId_239146",
+      "title": "DIA_FileId_239146.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.32042988921658244
+    },
+    {
+      "doc_id": "USSSemailSpecifiedWords_2021",
+      "title": "USSSemailSpecifiedWords_2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.32030845567853455
+    },
+    {
+      "doc_id": "BOPnotoriousOffenderFiles_1999",
+      "title": "BOPnotoriousOffenderFiles_1999.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.31886862893287193
+    },
+    {
+      "doc_id": "MonthlyRptsToBBG_2010",
+      "title": "MonthlyRptsToBBG_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3182192520748319
+    },
+    {
+      "doc_id": "GSAoasEmailFOIAcompliance_2018-2019",
+      "title": "GSAoasEmailFOIAcompliance_2018-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.31750142829059635
+    },
+    {
+      "doc_id": "NSA-SuezCrisisBriefComintHistory_1988",
+      "title": "NSA-SuezCrisisBriefComintHistory_1988.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3154888629194276
+    },
+    {
+      "doc_id": "9IC-IGclosDocsInvests_2012-2013",
+      "title": "9IC-IGclosDocsInvests_2012-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3154328944582756
+    },
+    {
+      "doc_id": "DIA_FileId_238864",
+      "title": "DIA_FileId_238864.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.3152067108978806
+    },
+    {
+      "doc_id": "CorresOLC-Kavanaugh_2001-2006",
+      "title": "CorresOLC-Kavanaugh_2001-2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.31494396185302076
+    },
+    {
+      "doc_id": "UnconWeapons1970Battle_1964",
+      "title": "UnconWeapons1970Battle_1964.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3148704240345378
+    },
+    {
+      "doc_id": "DIAjmicMstersTheses1973-97_2002",
+      "title": "DIAjmicMstersTheses1973-97_2002.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.31442014817354164
+    },
+    {
+      "doc_id": "DIA_FileId_238910",
+      "title": "DIA_FileId_238910.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.31418282520201846
+    },
+    {
+      "doc_id": "DHSrealPropCapPlan2021-25_2020",
+      "title": "DHSrealPropCapPlan2021-25_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.31298883145562384
+    },
+    {
+      "doc_id": "CIA_SandTofcSciIntel1949-68_1972_All",
+      "title": "CIA_SandTofcSciIntel1949-68_1972_All.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.31293008742483297
+    },
+    {
+      "doc_id": "DIA_FileId_238869",
+      "title": "DIA_FileId_238869.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.31092847392877515
+    },
+    {
+      "doc_id": "2ArmyCounterintelDocs_1962-1963",
+      "title": "2ArmyCounterintelDocs_1962-1963.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3102655493352557
+    },
+    {
+      "doc_id": "DIA_FileId_238856",
+      "title": "DIA_FileId_238856.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.3097768052516411
+    },
+    {
+      "doc_id": "ArmyBDISA1971",
+      "title": "ArmyBDISA1971.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3092832392248714
+    },
+    {
+      "doc_id": "NSA50YrsMathCrypt1988",
+      "title": "NSA50YrsMathCrypt1988.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3091306391651558
+    },
+    {
+      "doc_id": "DIA_FileId_238751",
+      "title": "DIA_FileId_238751.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.3068676074149028
+    },
+    {
+      "doc_id": "19-OGE-EthicsReviews_2005-2009",
+      "title": "19-OGE-EthicsReviews_2005-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3063840882596129
+    },
+    {
+      "doc_id": "CIA-CIB-PDB_7-17-Jun-1971",
+      "title": "CIA-CIB-PDB_7-17-Jun-1971.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3060965936041978
+    },
+    {
+      "doc_id": "18DCIDsISCAP_1976-2003",
+      "title": "18DCIDsISCAP_1976-2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.30571229877449074
+    },
+    {
+      "doc_id": "DIA_FileId_238816",
+      "title": "DIA_FileId_238816.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.3054833652032777
+    },
+    {
+      "doc_id": "StateRahmanVisa_1994-1995",
+      "title": "StateRahmanVisa_1994-1995.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.30381603485323394
+    },
+    {
+      "doc_id": "FBI-FileMEDBURG_1971-1972",
+      "title": "FBI-FileMEDBURG_1971-1972.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3029035293499188
+    },
+    {
+      "doc_id": "Lazar-FBI-FeeDispute_2004-2009",
+      "title": "Lazar-FBI-FeeDispute_2004-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3026976429383431
+    },
+    {
+      "doc_id": "FBI-FileOverthrowCastro_1960-1965U",
+      "title": "FBI-FileOverthrowCastro_1960-1965U.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3025141114856651
+    },
+    {
+      "doc_id": "DIA_FileId_238956",
+      "title": "DIA_FileId_238956.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.30181667657954003
+    },
+    {
+      "doc_id": "DOJ-FBI_NoFlyLists",
+      "title": "DOJ-FBI_NoFlyLists.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.30160171199623664
+    },
+    {
+      "doc_id": "FBI-Monograph-Index_1947-1955",
+      "title": "FBI-Monograph-Index_1947-1955.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.30027570555051464
+    },
+    {
+      "doc_id": "NPS_CMReports_FY2007",
+      "title": "NPS_CMReports_FY2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.30000000000000004
+    },
+    {
+      "doc_id": "DIA_FileId_238563",
+      "title": "DIA_FileId_238563.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.30000000000000004
+    },
+    {
+      "doc_id": "DIA_FileId_239284",
+      "title": "DIA_FileId_239284.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.29921811981298324
+    },
+    {
+      "doc_id": "DIA_FileId_239254",
+      "title": "DIA_FileId_239254.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.29845070892677233
+    },
+    {
+      "doc_id": "NPRC_VIP_List_2009",
+      "title": "NPRC_VIP_List_2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2982258515100328
+    },
+    {
+      "doc_id": "DoD9-11ConfCallRequests_2006-2010",
+      "title": "DoD9-11ConfCallRequests_2006-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2981846183667568
+    },
+    {
+      "doc_id": "DIA_FileId_238120",
+      "title": "DIA_FileId_238120.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.2980404511442472
+    },
+    {
+      "doc_id": "NCISinvesGuantanamo_2000-2016",
+      "title": "NCISinvesGuantanamo_2000-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.29515808808172517
+    },
+    {
+      "doc_id": "NIE-2006-02R",
+      "title": "NIE-2006-02R.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2946937200144614
+    },
+    {
+      "doc_id": "FBI-CFR-With-Appx",
+      "title": "FBI-CFR-With-Appx.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.29430091798581953
+    },
+    {
+      "doc_id": "USAINSCOMhistoryFY_1985",
+      "title": "USAINSCOMhistoryFY_1985.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2940084401464055
+    },
+    {
+      "doc_id": "DIA_FileId_238868",
+      "title": "DIA_FileId_238868.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.2939165348934982
+    },
+    {
+      "doc_id": "DIA_FileId_239028",
+      "title": "DIA_FileId_239028.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.2925753119473134
+    },
+    {
+      "doc_id": "OCC-CongRpts_2007-2009",
+      "title": "OCC-CongRpts_2007-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2924754113779545
+    },
+    {
+      "doc_id": "FBI-EdithHelm_1940-1956",
+      "title": "FBI-EdithHelm_1940-1956.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2919047433670464
+    },
+    {
+      "doc_id": "CIAcovertBookPublishing1970",
+      "title": "CIAcovertBookPublishing1970.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2907645966378222
+    },
+    {
+      "doc_id": "MWAA-ScreeningComplaints_2010-2011",
+      "title": "MWAA-ScreeningComplaints_2010-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.28975474150145103
+    },
+    {
+      "doc_id": "FBI-62-HQ-97308-PhoneSecurity_1952-1995",
+      "title": "FBI-62-HQ-97308-PhoneSecurity_1952-1995.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.289390554668454
+    },
+    {
+      "doc_id": "CIA-RCS-PDB_2012",
+      "title": "CIA-RCS-PDB_2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.28938980034769457
+    },
+    {
+      "doc_id": "DIA_FileId_238968",
+      "title": "DIA_FileId_238968.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.28864980595412415
+    },
+    {
+      "doc_id": "DIA_FileId_239226",
+      "title": "DIA_FileId_239226.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.2883053014193984
+    },
+    {
+      "doc_id": "DIA_FileId_238797",
+      "title": "DIA_FileId_238797.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.2874185497811442
+    },
+    {
+      "doc_id": "DIA_FileId_238943",
+      "title": "DIA_FileId_238943.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.2872509321595314
+    },
+    {
+      "doc_id": "FCCcomplaintsSNL2019-21_Chappelle2020",
+      "title": "FCCcomplaintsSNL2019-21_Chappelle2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.28700837470597107
+    },
+    {
+      "doc_id": "DIA_FileId_238946",
+      "title": "DIA_FileId_238946.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.28688663406269277
+    },
+    {
+      "doc_id": "CSO_Contract_5th-Judicial-Circuit_2008",
+      "title": "CSO_Contract_5th-Judicial-Circuit_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.28678707065453574
+    },
+    {
+      "doc_id": "10OldestClassDocsCMA_1947-1989",
+      "title": "10OldestClassDocsCMA_1947-1989.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2864298903125008
+    },
+    {
+      "doc_id": "DTICtransmutation_2016",
+      "title": "DTICtransmutation_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.28550845095045446
+    },
+    {
+      "doc_id": "ArmySFreviewIndochina_1976",
+      "title": "ArmySFreviewIndochina_1976.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.28494764853906324
+    },
+    {
+      "doc_id": "DHS-OIG_USSS-OIGinvsClosed_2011-2014",
+      "title": "DHS-OIG_USSS-OIGinvsClosed_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2846948925650521
+    },
+    {
+      "doc_id": "USAIDlpaFOIApgmRpts_2012-2016",
+      "title": "USAIDlpaFOIApgmRpts_2012-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2842397145504366
+    },
+    {
+      "doc_id": "CoastGuardNonPublicCongRpts_2006-2009",
+      "title": "CoastGuardNonPublicCongRpts_2006-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2837122951700687
+    },
+    {
+      "doc_id": "USAINSCOMhistoryFY_1982",
+      "title": "USAINSCOMhistoryFY_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2835871111293477
+    },
+    {
+      "doc_id": "DIA_FileId_238905",
+      "title": "DIA_FileId_238905.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.2829833436140313
+    },
+    {
+      "doc_id": "DIAintelSumms_1963-64u",
+      "title": "DIAintelSumms_1963-64u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.28279414236929973
+    },
+    {
+      "doc_id": "IseaelRptSR-61_1950",
+      "title": "IseaelRptSR-61_1950.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.28236092258231893
+    },
+    {
+      "doc_id": "DIA_FileId_239056",
+      "title": "DIA_FileId_239056.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.28205768078487886
+    },
+    {
+      "doc_id": "NROtownHallWebPages_2002-2008U",
+      "title": "NROtownHallWebPages_2002-2008U.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.28124245805049997
+    },
+    {
+      "doc_id": "CorresNARA-FBI_2000-2007",
+      "title": "CorresNARA-FBI_2000-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.28101855561309735
+    },
+    {
+      "doc_id": "FBI_Monographs_Stool-Pigeon-Loyal-Citizen_1952-55",
+      "title": "FBI_Monographs_Stool-Pigeon-Loyal-Citizen_1952-55.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2800030684629011
+    },
+    {
+      "doc_id": "NRCupdtPEADS_2004",
+      "title": "NRCupdtPEADS_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.279927160854453
+    },
+    {
+      "doc_id": "ONRwarInNuclearAge1959",
+      "title": "ONRwarInNuclearAge1959.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.27959140194857524
+    },
+    {
+      "doc_id": "GEMINI-VphotographyNRO_1965",
+      "title": "GEMINI-VphotographyNRO_1965.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2794931214736406
+    },
+    {
+      "doc_id": "InterioreEmailBurningMan2019",
+      "title": "InterioreEmailBurningMan2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.27929274942228516
+    },
+    {
+      "doc_id": "19DCAApublications_1996-2013",
+      "title": "19DCAApublications_1996-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.27873354902937664
+    },
+    {
+      "doc_id": "NSAcaptPuebloSIGINT1992U2024",
+      "title": "NSAcaptPuebloSIGINT1992U2024.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.27738971356476827
+    },
+    {
+      "doc_id": "DIA_FileId_239235",
+      "title": "DIA_FileId_239235.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.27730857763324723
+    },
+    {
+      "doc_id": "CIAhistoryNISpgm1948-1968_1969",
+      "title": "CIAhistoryNISpgm1948-1968_1969.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.2762696868824162
+    }
+  ],
+  "context_length": 179784,
+  "style": "comprehensive",
+  "length_mode": "exhaustive",
+  "quality_iterations": 3,
+  "final_quality": {
+    "citation_density": 0.5547850208044383,
+    "avg_relevance": 0.14285714285714285,
+    "total_citations": 8,
+    "valid_citations": 7,
+    "invalid_citations": 1,
+    "passes_standards": false
+  },
+  "validation_cache": {
+    "total_citations": 8,
+    "valid": 7,
+    "invalid": 1,
+    "citation_density": 0.5547850208044383,
+    "total_words": 1442,
+    "avg_relevance_score": 0.14285714285714285,
+    "issues": [
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSA-AmerCryptColdWarBk1#page=105\" class=\"citation\" target=\"_blank\">(Doc #NSA-AmerCryptColdWarBk1, p.105)</a>",
+          "document_id": "NSA-AmerCryptColdWarBk1",
+          "page_no": 105
+        },
+        "issue": "Document not found in DB",
+        "context": "FileId239234page=3\" class=\"citation\" target=\"blank\">(Doc 239234, p.3)</a>()\n- <a href=\"/pdf/CIA-OIGinvsClosed2007-2011page=16\" class=\"citation\" target=\"blank\">(Doc 2007-2011, p.16)</a>()\n- <a href=\"/pdf/NSA-AmerCryptColdWarBk1page=105\" class=\"citation\" target=\"blank\">(Doc NSA-AmerCryptColdWarBk1, p.105)</a>()\n\nThis article aims to provide an exhaustive overview of CIA coups, detailing their historical contexts, key facts, and the implications of these covert operations. The references cited offer direc",
+        "relevance_score": null,
+        "verdict": null
+      }
+    ],
+    "warnings": [
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIA-comments_1994-2005u#page=162\" class=\"citation\" target=\"_blank\">(Doc #1994-2005u, p.162)</a>",
+          "document_id": "CIA-comments_1994-2005u",
+          "page_no": 162
+        },
+        "issue": "LLM validation: UNSUPPORTED (HIGH): The cited page discusses the CIA's historical covert operations and their declassification but does not mention the legacy of interventions, including destabilization, human rights abuses, or anti-American sentiments, as claimed in the wiki article. Therefore, it does not provide sufficient support for the claim.",
+        "context": "1980s) (DIAintelLawHndbk2004p118).\n- The legacy of these interventions includes destabilization, human rights abuses, and enduring anti-American sentiments (DIAFileId239146p9).\n\n References\n\n- <a href=\"/pdf/CIA-comments1994-2005upage=162\" class=\"citation\" target=\"blank\">(Doc 1994-2005u, p.162)</a>()\n- <a href=\"/pdf/ODNIcovertOps1800s2007page=14\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.14)</a>()\n- <a href=\"/pdf/CIAhistOSAincep-1969upage=897\" class=\"citation\" target=",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ODNIcovertOps1800s2007#page=14\" class=\"citation\" target=\"_blank\">(Doc #ODNIcovertOps1800s2007, p.14)</a>",
+          "document_id": "ODNIcovertOps1800s2007",
+          "page_no": 14
+        },
+        "issue": "LLM validation: UNSUPPORTED (HIGH): The cited page from ODNIcovertOps1800s2007, page 14, discusses historical covert operations conducted by the CIA but does not mention anti-American sentiments or any related themes that would support the claim regarding enduring anti-American sentiments.",
+        "context": "ses, and enduring anti-American sentiments (DIAFileId239146p9).\n\n References\n\n- <a href=\"/pdf/CIA-comments1994-2005upage=162\" class=\"citation\" target=\"blank\">(Doc 1994-2005u, p.162)</a>()\n- <a href=\"/pdf/ODNIcovertOps1800s2007page=14\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.14)</a>()\n- <a href=\"/pdf/CIAhistOSAincep-1969upage=897\" class=\"citation\" target=\"blank\">(Doc CIAhistOSAincep-1969u, p.897)</a>()\n- <a href=\"/pdf/DIAintelLawHndbk2004page=118\" class=\"citation\" target=",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIAhistOSAincep-1969u#page=897\" class=\"citation\" target=\"_blank\">(Doc #CIAhistOSAincep-1969u, p.897)</a>",
+          "document_id": "CIAhistOSAincep-1969u",
+          "page_no": 897
+        },
+        "issue": "LLM validation: UNSUPPORTED (HIGH): The cited page from \"CIAhistOSAincep-1969u, p.897\" discusses the operational details and coordination of U-2 flights and does not provide any evidence or context that supports the claim made in the wiki article. The content is focused on specific historical events and personnel rather than the broader claims referenced.",
+        "context": "age=162\" class=\"citation\" target=\"blank\">(Doc 1994-2005u, p.162)</a>()\n- <a href=\"/pdf/ODNIcovertOps1800s2007page=14\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.14)</a>()\n- <a href=\"/pdf/CIAhistOSAincep-1969upage=897\" class=\"citation\" target=\"blank\">(Doc CIAhistOSAincep-1969u, p.897)</a>()\n- <a href=\"/pdf/DIAintelLawHndbk2004page=118\" class=\"citation\" target=\"blank\">(Doc 2004, p.118)</a>()\n- <a href=\"/documents/DIAFileId238464chunk12\" class=\"citation\" target=\"blank\">DIAFi",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239146#page=9\" class=\"citation\" target=\"_blank\">(Doc #239146, p.9)</a>",
+          "document_id": "DIA_FileId_239146",
+          "page_no": 9
+        },
+        "issue": "LLM validation: UNSUPPORTED (HIGH): The cited page discusses Argentina's relationship with the Soviet Union and its reluctance to cooperate with the U.S., but it does not provide evidence that directly supports the claim made in the wiki article. The content primarily focuses on Argentina's actions and sentiments regarding U.S. leadership and its dealings with the Soviets, without confirming the specific assertions made in the claim.",
+        "context": "wHndbk2004page=118\" class=\"citation\" target=\"blank\">(Doc 2004, p.118)</a>()\n- <a href=\"/documents/DIAFileId238464chunk12\" class=\"citation\" target=\"blank\">DIAFileId238464chunk12</a>()\n- <a href=\"/pdf/DIAFileId239146page=9\" class=\"citation\" target=\"blank\">(Doc 239146, p.9)</a>()\n- <a href=\"/documents/DIAFileId238864chunk12\" class=\"citation\" target=\"blank\">DIAFileId238864chunk12</a>()\n- <a href=\"/pdf/DIAFileId239234page=3\" class=\"citation\" target=\"blank\">(Doc",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239234#page=3\" class=\"citation\" target=\"_blank\">(Doc #239234, p.3)</a>",
+          "document_id": "DIA_FileId_239234",
+          "page_no": 3
+        },
+        "issue": "LLM validation: UNSUPPORTED (HIGH): The cited page from DIA_FileId_239234, page 3, discusses the identification of weapons used in a terrorist attack and mentions the targeting of an individual due to a controversial sale involving the Argentine government. However, it does not provide any direct support for the claim made in the wiki article, which appears to be unrelated to the content presented on that page.",
+        "context": "FileId239146page=9\" class=\"citation\" target=\"blank\">(Doc 239146, p.9)</a>()\n- <a href=\"/documents/DIAFileId238864chunk12\" class=\"citation\" target=\"blank\">DIAFileId238864chunk12</a>()\n- <a href=\"/pdf/DIAFileId239234page=3\" class=\"citation\" target=\"blank\">(Doc 239234, p.3)</a>()\n- <a href=\"/pdf/CIA-OIGinvsClosed2007-2011page=16\" class=\"citation\" target=\"blank\">(Doc 2007-2011, p.16)</a>()\n- <a href=\"/pdf/NSA-AmerCryptColdWarBk1page=105\" class=\"citation\" target=\"blan",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIA-OIGinvsClosed_2007-2011#page=16\" class=\"citation\" target=\"_blank\">(Doc #2007-2011, p.16)</a>",
+          "document_id": "CIA-OIGinvsClosed_2007-2011",
+          "page_no": 16
+        },
+        "issue": "LLM validation: UNSUPPORTED (HIGH): The cited page from the CIA-OIG document lists various allegations and issues related to CIA operations, but it does not provide any information or context that directly supports the claim regarding CIA coups. The content appears to focus on internal issues and allegations rather than historical accounts of coups.",
+        "context": "s/DIAFileId238864chunk12\" class=\"citation\" target=\"blank\">DIAFileId238864chunk12</a>()\n- <a href=\"/pdf/DIAFileId239234page=3\" class=\"citation\" target=\"blank\">(Doc 239234, p.3)</a>()\n- <a href=\"/pdf/CIA-OIGinvsClosed2007-2011page=16\" class=\"citation\" target=\"blank\">(Doc 2007-2011, p.16)</a>()\n- <a href=\"/pdf/NSA-AmerCryptColdWarBk1page=105\" class=\"citation\" target=\"blank\">(Doc NSA-AmerCryptColdWarBk1, p.105)</a>()\n\nThis article aims to provide an exhaustive overview of CIA coups, d",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "N/A",
+          "document_id": "",
+          "page_no": 0
+        },
+        "issue": "Low citation density (0.55 per 100 words). Aim for at least 2.0 citations per 100 words (1 per 50 words).",
+        "context": "Document has 8 citations in 1442 words",
+        "relevance_score": null,
+        "verdict": null
+      }
+    ],
+    "validated_citations": [
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIA-comments_1994-2005u#page=162\" class=\"citation\" target=\"_blank\">(Doc #1994-2005u, p.162)</a>",
+          "document_id": "CIA-comments_1994-2005u",
+          "page_no": 162
+        },
+        "context": "1980s) (DIAintelLawHndbk2004p118).\n- The legacy of these interventions includes destabilization, human rights abuses, and enduring anti-American sentiments (DIAFileId239146p9).\n\n References\n\n- <a href=\"/pdf/CIA-comments1994-2005upage=162\" class=\"citation\" target=\"blank\">(Doc 1994-2005u, p.162)</a>()\n- <a href=\"/pdf/ODNIcovertOps1800s2007page=14\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.14)</a>()\n- <a href=\"/pdf/CIAhistOSAincep-1969upage=897\" class=\"citation\" target=",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "UNSUPPORTED (HIGH): The cited page discusses the CIA's historical covert operations and their declassification but does not mention the legacy of interventions, including destabilization, human rights abuses, or anti-American sentiments, as claimed in the wiki article. Therefore, it does not provide sufficient support for the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ODNIcovertOps1800s2007#page=14\" class=\"citation\" target=\"_blank\">(Doc #ODNIcovertOps1800s2007, p.14)</a>",
+          "document_id": "ODNIcovertOps1800s2007",
+          "page_no": 14
+        },
+        "context": "ses, and enduring anti-American sentiments (DIAFileId239146p9).\n\n References\n\n- <a href=\"/pdf/CIA-comments1994-2005upage=162\" class=\"citation\" target=\"blank\">(Doc 1994-2005u, p.162)</a>()\n- <a href=\"/pdf/ODNIcovertOps1800s2007page=14\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.14)</a>()\n- <a href=\"/pdf/CIAhistOSAincep-1969upage=897\" class=\"citation\" target=\"blank\">(Doc CIAhistOSAincep-1969u, p.897)</a>()\n- <a href=\"/pdf/DIAintelLawHndbk2004page=118\" class=\"citation\" target=",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "UNSUPPORTED (HIGH): The cited page from ODNIcovertOps1800s2007, page 14, discusses historical covert operations conducted by the CIA but does not mention anti-American sentiments or any related themes that would support the claim regarding enduring anti-American sentiments."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIAhistOSAincep-1969u#page=897\" class=\"citation\" target=\"_blank\">(Doc #CIAhistOSAincep-1969u, p.897)</a>",
+          "document_id": "CIAhistOSAincep-1969u",
+          "page_no": 897
+        },
+        "context": "age=162\" class=\"citation\" target=\"blank\">(Doc 1994-2005u, p.162)</a>()\n- <a href=\"/pdf/ODNIcovertOps1800s2007page=14\" class=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.14)</a>()\n- <a href=\"/pdf/CIAhistOSAincep-1969upage=897\" class=\"citation\" target=\"blank\">(Doc CIAhistOSAincep-1969u, p.897)</a>()\n- <a href=\"/pdf/DIAintelLawHndbk2004page=118\" class=\"citation\" target=\"blank\">(Doc 2004, p.118)</a>()\n- <a href=\"/documents/DIAFileId238464chunk12\" class=\"citation\" target=\"blank\">DIAFi",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "UNSUPPORTED (HIGH): The cited page from \"CIAhistOSAincep-1969u, p.897\" discusses the operational details and coordination of U-2 flights and does not provide any evidence or context that supports the claim made in the wiki article. The content is focused on specific historical events and personnel rather than the broader claims referenced."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIAintelLawHndbk_2004#page=118\" class=\"citation\" target=\"_blank\">(Doc #2004, p.118)</a>",
+          "document_id": "DIAintelLawHndbk_2004",
+          "page_no": 118
+        },
+        "context": "ass=\"citation\" target=\"blank\">(Doc ODNIcovertOps1800s2007, p.14)</a>()\n- <a href=\"/pdf/CIAhistOSAincep-1969upage=897\" class=\"citation\" target=\"blank\">(Doc CIAhistOSAincep-1969u, p.897)</a>()\n- <a href=\"/pdf/DIAintelLawHndbk2004page=118\" class=\"citation\" target=\"blank\">(Doc 2004, p.118)</a>()\n- <a href=\"/documents/DIAFileId238464chunk12\" class=\"citation\" target=\"blank\">DIAFileId238464chunk12</a>()\n- <a href=\"/pdf/DIAFileId239146page=9\" class=\"citation\" target=\"blank\">(Doc",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The cited page discusses the clandestine nature of DoD intelligence activities and the necessity for intelligence personnel to assume cover identities, which aligns with the claim regarding the covert operations of intelligence organizations. The content clearly supports the assertion made in the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239146#page=9\" class=\"citation\" target=\"_blank\">(Doc #239146, p.9)</a>",
+          "document_id": "DIA_FileId_239146",
+          "page_no": 9
+        },
+        "context": "wHndbk2004page=118\" class=\"citation\" target=\"blank\">(Doc 2004, p.118)</a>()\n- <a href=\"/documents/DIAFileId238464chunk12\" class=\"citation\" target=\"blank\">DIAFileId238464chunk12</a>()\n- <a href=\"/pdf/DIAFileId239146page=9\" class=\"citation\" target=\"blank\">(Doc 239146, p.9)</a>()\n- <a href=\"/documents/DIAFileId238864chunk12\" class=\"citation\" target=\"blank\">DIAFileId238864chunk12</a>()\n- <a href=\"/pdf/DIAFileId239234page=3\" class=\"citation\" target=\"blank\">(Doc",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "UNSUPPORTED (HIGH): The cited page discusses Argentina's relationship with the Soviet Union and its reluctance to cooperate with the U.S., but it does not provide evidence that directly supports the claim made in the wiki article. The content primarily focuses on Argentina's actions and sentiments regarding U.S. leadership and its dealings with the Soviets, without confirming the specific assertions made in the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239234#page=3\" class=\"citation\" target=\"_blank\">(Doc #239234, p.3)</a>",
+          "document_id": "DIA_FileId_239234",
+          "page_no": 3
+        },
+        "context": "FileId239146page=9\" class=\"citation\" target=\"blank\">(Doc 239146, p.9)</a>()\n- <a href=\"/documents/DIAFileId238864chunk12\" class=\"citation\" target=\"blank\">DIAFileId238864chunk12</a>()\n- <a href=\"/pdf/DIAFileId239234page=3\" class=\"citation\" target=\"blank\">(Doc 239234, p.3)</a>()\n- <a href=\"/pdf/CIA-OIGinvsClosed2007-2011page=16\" class=\"citation\" target=\"blank\">(Doc 2007-2011, p.16)</a>()\n- <a href=\"/pdf/NSA-AmerCryptColdWarBk1page=105\" class=\"citation\" target=\"blan",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "UNSUPPORTED (HIGH): The cited page from DIA_FileId_239234, page 3, discusses the identification of weapons used in a terrorist attack and mentions the targeting of an individual due to a controversial sale involving the Argentine government. However, it does not provide any direct support for the claim made in the wiki article, which appears to be unrelated to the content presented on that page."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIA-OIGinvsClosed_2007-2011#page=16\" class=\"citation\" target=\"_blank\">(Doc #2007-2011, p.16)</a>",
+          "document_id": "CIA-OIGinvsClosed_2007-2011",
+          "page_no": 16
+        },
+        "context": "s/DIAFileId238864chunk12\" class=\"citation\" target=\"blank\">DIAFileId238864chunk12</a>()\n- <a href=\"/pdf/DIAFileId239234page=3\" class=\"citation\" target=\"blank\">(Doc 239234, p.3)</a>()\n- <a href=\"/pdf/CIA-OIGinvsClosed2007-2011page=16\" class=\"citation\" target=\"blank\">(Doc 2007-2011, p.16)</a>()\n- <a href=\"/pdf/NSA-AmerCryptColdWarBk1page=105\" class=\"citation\" target=\"blank\">(Doc NSA-AmerCryptColdWarBk1, p.105)</a>()\n\nThis article aims to provide an exhaustive overview of CIA coups, d",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "UNSUPPORTED (HIGH): The cited page from the CIA-OIG document lists various allegations and issues related to CIA operations, but it does not provide any information or context that directly supports the claim regarding CIA coups. The content appears to focus on internal issues and allegations rather than historical accounts of coups."
+      }
+    ]
+  }
+}

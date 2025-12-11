@@ -1,0 +1,452 @@
+{
+  "topic": "Elections & Political Affairs",
+  "generated_at": "2025-11-20T22:51:46.768511",
+  "model": "gpt-4o",
+  "num_sources": 72,
+  "source_documents": [
+    {
+      "doc_id": "CNCS-VISTAmanual_2016",
+      "title": "CNCS-VISTAmanual_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.905147458759368
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8731084120000943
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8213284145727892
+    },
+    {
+      "doc_id": "FBI-AutoDeclassManual_2007",
+      "title": "FBI-AutoDeclassManual_2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8007195491092206
+    },
+    {
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7762077645510921
+    },
+    {
+      "doc_id": "FAA-FAPMltrs_2007-2017",
+      "title": "FAA-FAPMltrs_2007-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7746043588924064
+    },
+    {
+      "doc_id": "TSA-SCPAtalkingPoints_2000-2010",
+      "title": "TSA-SCPAtalkingPoints_2000-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7606866564374835
+    },
+    {
+      "doc_id": "DOJ-OPA-DailyNewsWrap_Mar-Jun2012",
+      "title": "DOJ-OPA-DailyNewsWrap_Mar-Jun2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7539778057372694
+    },
+    {
+      "doc_id": "TVAprinPracManual_1994",
+      "title": "TVAprinPracManual_1994.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.732009504797785
+    },
+    {
+      "doc_id": "EACtransBriefBiden_2020",
+      "title": "EACtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7287656351302005
+    },
+    {
+      "doc_id": "OSCadvOpinHatchAct_2017-2019",
+      "title": "OSCadvOpinHatchAct_2017-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7246139713759799
+    },
+    {
+      "doc_id": "BBGimpactSatJamming_2015-2016",
+      "title": "BBGimpactSatJamming_2015-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7180753903940975
+    },
+    {
+      "doc_id": "BBG-CongressRpts_2005-2008",
+      "title": "BBG-CongressRpts_2005-2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7068896111284955
+    },
+    {
+      "doc_id": "CISAminAgendasGFS-EIS_2019-2020",
+      "title": "CISAminAgendasGFS-EIS_2019-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "FECcongCorres_2012-2013",
+      "title": "FECcongCorres_2012-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "SrMgntOfcMemosDOJNet_2011",
+      "title": "SrMgntOfcMemosDOJNet_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "USAGMbriefsPresentsOMBwhtHse_2018-19",
+      "title": "USAGMbriefsPresentsOMBwhtHse_2018-19.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.68674453033976
+    },
+    {
+      "doc_id": "NSFawardsVoting_2011-2015",
+      "title": "NSFawardsVoting_2011-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6864929262475294
+    },
+    {
+      "doc_id": "OSChathActWarningLrtrs_2018-2020",
+      "title": "OSChathActWarningLrtrs_2018-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6818331633001129
+    },
+    {
+      "doc_id": "CPBtrainingMisconduct_2016-2017",
+      "title": "CPBtrainingMisconduct_2016-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6780423548486101
+    },
+    {
+      "doc_id": "DEAstdsConductDisciplinOffPen2020",
+      "title": "DEAstdsConductDisciplinOffPen2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6721947574690881
+    },
+    {
+      "doc_id": "MonthlyRptsToBBG_2010",
+      "title": "MonthlyRptsToBBG_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6690230421424135
+    },
+    {
+      "doc_id": "CFTCpredictitMarketplace2018-2022",
+      "title": "CFTCpredictitMarketplace2018-2022.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6653960995762439
+    },
+    {
+      "doc_id": "HitGroundRunning2011",
+      "title": "HitGroundRunning2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.659112994534039
+    },
+    {
+      "doc_id": "EXIMemailTerryMatthews_Jan-Oct-2019",
+      "title": "EXIMemailTerryMatthews_Jan-Oct-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6487377143087009
+    },
+    {
+      "doc_id": "StateDeclassGuide2019",
+      "title": "StateDeclassGuide2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.643720985243072
+    },
+    {
+      "doc_id": "EACcorresGA2018-2000",
+      "title": "EACcorresGA2018-2000.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6436558681944343
+    },
+    {
+      "doc_id": "FECtransBriefBiden_2020",
+      "title": "FECtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6299803164756244
+    },
+    {
+      "doc_id": "USAGMteosMrpts_2014-2019",
+      "title": "USAGMteosMrpts_2014-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6231771807520788
+    },
+    {
+      "doc_id": "CPSC-QFR_2009-2014",
+      "title": "CPSC-QFR_2009-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6085098288635306
+    },
+    {
+      "doc_id": "USDAfsaHomePg1Dn_2017",
+      "title": "USDAfsaHomePg1Dn_2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6081377693820826
+    },
+    {
+      "doc_id": "TipOfTheSpear_2009",
+      "title": "TipOfTheSpear_2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.607776273182724
+    },
+    {
+      "doc_id": "BBGmoRpts_2012-2015",
+      "title": "BBGmoRpts_2012-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5955163703133156
+    },
+    {
+      "doc_id": "DOJ-OIP-FOIA-PostponeElections_2004-2008",
+      "title": "DOJ-OIP-FOIA-PostponeElections_2004-2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5955004685245473
+    },
+    {
+      "doc_id": "LSC-EwebhomepagePlus_2017",
+      "title": "LSC-EwebhomepagePlus_2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5952857199746016
+    },
+    {
+      "doc_id": "DOIemailsChoctaw_2014-2015",
+      "title": "DOIemailsChoctaw_2014-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5809571396000003
+    },
+    {
+      "doc_id": "USAGMtsiBusDevelopHilts2019-2021",
+      "title": "USAGMtsiBusDevelopHilts2019-2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5796782243344132
+    },
+    {
+      "doc_id": "EACstdsBdMinutes_2017-2019",
+      "title": "EACstdsBdMinutes_2017-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5723713669918302
+    },
+    {
+      "doc_id": "BBGpresidentTransBriefMatls_2016-2017",
+      "title": "BBGpresidentTransBriefMatls_2016-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5613504367728818
+    },
+    {
+      "doc_id": "EACrespQFRs_2017-2020",
+      "title": "EACrespQFRs_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5469310944442224
+    },
+    {
+      "doc_id": "BBGemailsVictorHAshe_2012",
+      "title": "BBGemailsVictorHAshe_2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5405850132280312
+    },
+    {
+      "doc_id": "FECcongBudgetJusts_FY2005-2009",
+      "title": "FECcongBudgetJusts_FY2005-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5353628455378139
+    },
+    {
+      "doc_id": "FourNGAinstPolicies_2011-2016",
+      "title": "FourNGAinstPolicies_2011-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5335010436518929
+    },
+    {
+      "doc_id": "BLMemailWPPendleyJul15-28_2019",
+      "title": "BLMemailWPPendleyJul15-28_2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5258163254131364
+    },
+    {
+      "doc_id": "FBI-DangerousAliens_1951-1955",
+      "title": "FBI-DangerousAliens_1951-1955.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5157253857900749
+    },
+    {
+      "doc_id": "USMSleadershipGuide2021",
+      "title": "USMSleadershipGuide2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5126319150535036
+    },
+    {
+      "doc_id": "USTDAhandbook1998",
+      "title": "USTDAhandbook1998.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5123096928652028
+    },
+    {
+      "doc_id": "OCSformalHatchActAOWL_Jan-Jun2021",
+      "title": "OCSformalHatchActAOWL_Jan-Jun2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5121505842452138
+    },
+    {
+      "doc_id": "USCCR-EthicsOpinions_2004-2010",
+      "title": "USCCR-EthicsOpinions_2004-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5117735863280904
+    },
+    {
+      "doc_id": "ClosDocs15FECoigInvs_2008-2015u",
+      "title": "ClosDocs15FECoigInvs_2008-2015u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5106667458013305
+    },
+    {
+      "doc_id": "EDsrEmailPrinceton2020-2023",
+      "title": "EDsrEmailPrinceton2020-2023.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.49897835668699486
+    },
+    {
+      "doc_id": "InteriorMemoEthicsDiscussZinke2018",
+      "title": "InteriorMemoEthicsDiscussZinke2018.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4912458057085871
+    },
+    {
+      "doc_id": "OSCrptsHatchActAdvWarn_2021",
+      "title": "OSCrptsHatchActAdvWarn_2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4826207740950197
+    },
+    {
+      "doc_id": "DallasFedResBkUponAStrongFoundation1992",
+      "title": "DallasFedResBkUponAStrongFoundation1992.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.47904896968713373
+    },
+    {
+      "doc_id": "NASAemailOfcAdminUAP_May-Jul2021",
+      "title": "NASAemailOfcAdminUAP_May-Jul2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.47768043610530986
+    },
+    {
+      "doc_id": "EXIMtransBriefBiden_2020",
+      "title": "EXIMtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4776268072081137
+    },
+    {
+      "doc_id": "DOJdeoCounselLogs_2008-2010",
+      "title": "DOJdeoCounselLogs_2008-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.47713468780319357
+    },
+    {
+      "doc_id": "DA-CivilDisturbPlanGardenPlot_1968",
+      "title": "DA-CivilDisturbPlanGardenPlot_1968.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4754731908915939
+    },
+    {
+      "doc_id": "ODNIfoiaLogs_2017-2020",
+      "title": "ODNIfoiaLogs_2017-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4730094711359573
+    },
+    {
+      "doc_id": "EPAemailWheeler5-6Jul2018",
+      "title": "EPAemailWheeler5-6Jul2018.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4715569377804597
+    },
+    {
+      "doc_id": "DOEalsThrustsSciCouncil_2017-2022",
+      "title": "DOEalsThrustsSciCouncil_2017-2022.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4707967241859839
+    },
+    {
+      "doc_id": "DIA_FileId_238493",
+      "title": "DIA_FileId_238493.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.46849601504598376
+    },
+    {
+      "doc_id": "DOJ_Orientation_Manual",
+      "title": "DOJ_Orientation_Manual.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.46368808751256274
+    },
+    {
+      "doc_id": "DIA_FileId_239168",
+      "title": "DIA_FileId_239168.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.46314962148192806
+    },
+    {
+      "doc_id": "DOJ_Criminal-Div_BAVII_2007",
+      "title": "DOJ_Criminal-Div_BAVII_2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4560801413443041
+    },
+    {
+      "doc_id": "DIA_FileId_238099",
+      "title": "DIA_FileId_238099.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4517835405034439
+    },
+    {
+      "doc_id": "LinkPgsNLRBInsiderSite_2016",
+      "title": "LinkPgsNLRBInsiderSite_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4514803037279439
+    },
+    {
+      "doc_id": "SSS-PPPM_2016",
+      "title": "SSS-PPPM_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4493764668058641
+    },
+    {
+      "doc_id": "USAIDcounterViolExtreme_2018-2019",
+      "title": "USAIDcounterViolExtreme_2018-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4479489519588716
+    },
+    {
+      "doc_id": "CanPercepIncomingTrump2016",
+      "title": "CanPercepIncomingTrump2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4423492737137294
+    },
+    {
+      "doc_id": "InterioreEmailBurningMan2019",
+      "title": "InterioreEmailBurningMan2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.44191442076671894
+    },
+    {
+      "doc_id": "SupremeCourtMaxims_1993-1998",
+      "title": "SupremeCourtMaxims_1993-1998.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4414700371990341
+    }
+  ],
+  "context_length": 36145,
+  "style": "comprehensive",
+  "length_mode": "exhaustive",
+  "quality_iterations": 3,
+  "final_quality": {
+    "citation_density": 1.8867924528301887,
+    "avg_relevance": 0.2601211801334954,
+    "total_citations": 14,
+    "valid_citations": 14,
+    "invalid_citations": 0,
+    "passes_standards": false
+  }
+}

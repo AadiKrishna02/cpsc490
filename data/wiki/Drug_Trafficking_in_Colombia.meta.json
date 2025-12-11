@@ -1,0 +1,407 @@
+{
+  "topic": "Drug Trafficking in Colombia",
+  "generated_at": "2025-11-19T22:50:46.473016",
+  "model": "gpt-4o",
+  "num_sources": 66,
+  "source_documents": [
+    {
+      "doc_id": "DTICbiblioPandemic_2020",
+      "title": "DTICbiblioPandemic_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 1.0
+    },
+    {
+      "doc_id": "NARAclintonPLfoiaLogs2008-2020",
+      "title": "NARAclintonPLfoiaLogs2008-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 1.0
+    },
+    {
+      "doc_id": "DIAjmicMstersTheses1973-97_2002",
+      "title": "DIAjmicMstersTheses1973-97_2002.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.9625190698407495
+    },
+    {
+      "doc_id": "DEAlibraryCat2024",
+      "title": "DEAlibraryCat2024.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.903539042085651
+    },
+    {
+      "doc_id": "SAVABE_Madagascar_CMEP_2016-2020",
+      "title": "SAVABE_Madagascar_CMEP_2016-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8286782314840972
+    },
+    {
+      "doc_id": "DIA_FileId_238981",
+      "title": "DIA_FileId_238981.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.8199837791991796
+    },
+    {
+      "doc_id": "OCDETFfy2014CongBudgetSub",
+      "title": "OCDETFfy2014CongBudgetSub.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8115132925632758
+    },
+    {
+      "doc_id": "DIA_FileId_239083",
+      "title": "DIA_FileId_239083.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.804898616398831
+    },
+    {
+      "doc_id": "GAO_Cocaine_Heroin_S_America_1975",
+      "title": "GAO_Cocaine_Heroin_S_America_1975.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.788546966092548
+    },
+    {
+      "doc_id": "EOP_ONDCP_StrategyAnnex1997",
+      "title": "EOP_ONDCP_StrategyAnnex1997.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7880362474602561
+    },
+    {
+      "doc_id": "OCDETFhistory_1984-1990",
+      "title": "OCDETFhistory_1984-1990.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7594032062770336
+    },
+    {
+      "doc_id": "IAFminutes_2009-2010",
+      "title": "IAFminutes_2009-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7279651130057766
+    },
+    {
+      "doc_id": "9DEAintellRpts_2007-2015",
+      "title": "9DEAintellRpts_2007-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7203455788005779
+    },
+    {
+      "doc_id": "DEAintelRpts1997-2015",
+      "title": "DEAintelRpts1997-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6876390227117752
+    },
+    {
+      "doc_id": "DEAheroinSignatureRept_2011",
+      "title": "DEAheroinSignatureRept_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6851804353380088
+    },
+    {
+      "doc_id": "FBI-AshReport_1977-1981",
+      "title": "FBI-AshReport_1977-1981.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6714020392953793
+    },
+    {
+      "doc_id": "PeaceCorpsProgressRptsSPApgm_FY14-FY16",
+      "title": "PeaceCorpsProgressRptsSPApgm_FY14-FY16.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6506750264391645
+    },
+    {
+      "doc_id": "Corres_OFAC-FinCEN_2005-2007",
+      "title": "Corres_OFAC-FinCEN_2005-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.64934013310229
+    },
+    {
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.635607131476433
+    },
+    {
+      "doc_id": "DEAintelPubs2015-2023",
+      "title": "DEAintelPubs2015-2023.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6346942235201147
+    },
+    {
+      "doc_id": "18DCIDsISCAP_1976-2003",
+      "title": "18DCIDsISCAP_1976-2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6316983036884294
+    },
+    {
+      "doc_id": "LtrsWH-SI_2017-2021",
+      "title": "LtrsWH-SI_2017-2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6316233048510672
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6261897277841301
+    },
+    {
+      "doc_id": "NMBtransBriefBiden_2020",
+      "title": "NMBtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6131906661352915
+    },
+    {
+      "doc_id": "DIA_FileId_238685",
+      "title": "DIA_FileId_238685.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6095526860616921
+    },
+    {
+      "doc_id": "DIA_FileId_238885",
+      "title": "DIA_FileId_238885.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5641754585848179
+    },
+    {
+      "doc_id": "ThesisBrazilDefPolicy2007",
+      "title": "ThesisBrazilDefPolicy2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5537646002384444
+    },
+    {
+      "doc_id": "DOJcrdRaceByFLE_2003",
+      "title": "DOJcrdRaceByFLE_2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5349557540668424
+    },
+    {
+      "doc_id": "USAIDcounterViolExtreme_2018-2019",
+      "title": "USAIDcounterViolExtreme_2018-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.534098716698769
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5309553817008694
+    },
+    {
+      "doc_id": "JMDpresidTransBriefs2000-2016",
+      "title": "JMDpresidTransBriefs2000-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.525850217276942
+    },
+    {
+      "doc_id": "USAIDpresidentTransDocs_2016",
+      "title": "USAIDpresidentTransDocs_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5197896157667354
+    },
+    {
+      "doc_id": "DIA_FileId_238797",
+      "title": "DIA_FileId_238797.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5159246726773644
+    },
+    {
+      "doc_id": "DOJ-OPA-DailyNewsWrap_Mar-Jun2012",
+      "title": "DOJ-OPA-DailyNewsWrap_Mar-Jun2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5137375571501384
+    },
+    {
+      "doc_id": "InterioreEmailBurningMan2019",
+      "title": "InterioreEmailBurningMan2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5065218193961651
+    },
+    {
+      "doc_id": "NCISinvesClosed_CY2014-2015",
+      "title": "NCISinvesClosed_CY2014-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.48898215868385897
+    },
+    {
+      "doc_id": "DIA_FileId_238684",
+      "title": "DIA_FileId_238684.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4833929469234936
+    },
+    {
+      "doc_id": "CBPtrustBetrayedIntranet_2006-2017",
+      "title": "CBPtrustBetrayedIntranet_2006-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.48313926364107707
+    },
+    {
+      "doc_id": "DHSwklyCabinetRpts_Jan-Apr-2009",
+      "title": "DHSwklyCabinetRpts_Jan-Apr-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4772518658652489
+    },
+    {
+      "doc_id": "13DHS-OIGinvsCloseDocs_2003-2012",
+      "title": "13DHS-OIGinvsCloseDocs_2003-2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.46424973955921606
+    },
+    {
+      "doc_id": "2FinCEN-Reports_Hawala_2002",
+      "title": "2FinCEN-Reports_Hawala_2002.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4538019797654297
+    },
+    {
+      "doc_id": "CDCtransBriefBiden_2020",
+      "title": "CDCtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.44818300896469454
+    },
+    {
+      "doc_id": "TIGTAinvesClosed_2015-2016",
+      "title": "TIGTAinvesClosed_2015-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.44200580220198316
+    },
+    {
+      "doc_id": "ListDHS-OIGinvs_2010-2012",
+      "title": "ListDHS-OIGinvs_2010-2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4317964938456142
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.43177890230402527
+    },
+    {
+      "doc_id": "ClosDocs29DHS-OIGinvs_2011-2014",
+      "title": "ClosDocs29DHS-OIGinvs_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.41986496036240706
+    },
+    {
+      "doc_id": "DIA_FileId_238808",
+      "title": "DIA_FileId_238808.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.41915567561673794
+    },
+    {
+      "doc_id": "DHS-FLETCtrainingVideos_2012",
+      "title": "DHS-FLETCtrainingVideos_2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.40550177721601166
+    },
+    {
+      "doc_id": "BuildCA2P_Philippines_CMEP_2019",
+      "title": "BuildCA2P_Philippines_CMEP_2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.40494485206481906
+    },
+    {
+      "doc_id": "SummOPMrecentOIGinvs_2011-2014",
+      "title": "SummOPMrecentOIGinvs_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4030186766534889
+    },
+    {
+      "doc_id": "DHSemailHateGorka_2017",
+      "title": "DHSemailHateGorka_2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.40133989797342023
+    },
+    {
+      "doc_id": "DOJ-OLAwklyRptsAG_2009-2013",
+      "title": "DOJ-OLAwklyRptsAG_2009-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3987997023570814
+    },
+    {
+      "doc_id": "TreasuryOTA-Advisor_2010-2014",
+      "title": "TreasuryOTA-Advisor_2010-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.398131642710034
+    },
+    {
+      "doc_id": "FAA-FAPMltrs_2007-2017",
+      "title": "FAA-FAPMltrs_2007-2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.38648229615009627
+    },
+    {
+      "doc_id": "E4Y_Project_Ethiopia_CMEP_2016",
+      "title": "E4Y_Project_Ethiopia_CMEP_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.38245945446267904
+    },
+    {
+      "doc_id": "COTECCO_RepublicOfCongo_CMEP_2021",
+      "title": "COTECCO_RepublicOfCongo_CMEP_2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.38245945446267904
+    },
+    {
+      "doc_id": "FBI_Monograph_StruggleAgainstLawlesness_May-1970",
+      "title": "FBI_Monograph_StruggleAgainstLawlesness_May-1970.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3802959581080254
+    },
+    {
+      "doc_id": "DIA_FileId_238616",
+      "title": "DIA_FileId_238616.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.3798067177032399
+    },
+    {
+      "doc_id": "ListDHS-OIGinvsClosedCY2012",
+      "title": "ListDHS-OIGinvsClosedCY2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3778002098589124
+    },
+    {
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.37608270499569224
+    },
+    {
+      "doc_id": "DIA_FileId_238101",
+      "title": "DIA_FileId_238101.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.36744795941216524
+    },
+    {
+      "doc_id": "USSSfoiaLogsOct-Dec2020",
+      "title": "USSSfoiaLogsOct-Dec2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35909090966091284
+    },
+    {
+      "doc_id": "NCISmanual3_2008",
+      "title": "NCISmanual3_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35843780380566487
+    },
+    {
+      "doc_id": "DOJojpBudgetPerfPlans2014-2019",
+      "title": "DOJojpBudgetPerfPlans2014-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35471581765807947
+    },
+    {
+      "doc_id": "NApetRenaissanceStudy_2014",
+      "title": "NApetRenaissanceStudy_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3539380355413446
+    },
+    {
+      "doc_id": "DIA_FileId_238807",
+      "title": "DIA_FileId_238807.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.3502323751250875
+    }
+  ],
+  "context_length": 35417,
+  "style": "comprehensive",
+  "length_mode": "exhaustive"
+}

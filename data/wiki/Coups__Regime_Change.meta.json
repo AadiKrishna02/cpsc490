@@ -1,0 +1,2356 @@
+{
+  "topic": "Coups & Regime Change",
+  "generated_at": "2025-11-24T16:06:58.422956",
+  "model": "gpt-5-nano",
+  "num_sources": 87,
+  "source_documents": [
+    {
+      "doc_id": "DTICbiblioCSIS_2019",
+      "title": "DTICbiblioCSIS_2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.9733192398671493
+    },
+    {
+      "doc_id": "FBI-RampartsMagazine_1964-1975",
+      "title": "FBI-RampartsMagazine_1964-1975.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.9138685056688347
+    },
+    {
+      "doc_id": "USTDA-Plan_Appropriations_2005-2011",
+      "title": "USTDA-Plan_Appropriations_2005-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8725741702964689
+    },
+    {
+      "doc_id": "ICA2003-03",
+      "title": "ICA2003-03.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7842202214695211
+    },
+    {
+      "doc_id": "NSA-SIGINT-style-manual_2010",
+      "title": "NSA-SIGINT-style-manual_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7758083538848576
+    },
+    {
+      "doc_id": "DTICtechRptsPOW_2016",
+      "title": "DTICtechRptsPOW_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7727676271046006
+    },
+    {
+      "doc_id": "DOJ-OIP-FOIA-PostponeElections_2004-2008",
+      "title": "DOJ-OIP-FOIA-PostponeElections_2004-2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7522390270076115
+    },
+    {
+      "doc_id": "BBGmoRpts_2012-2015",
+      "title": "BBGmoRpts_2012-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7458549122633515
+    },
+    {
+      "doc_id": "NSA-Cryptologic-History-Series_In-the-Shadow-of-War_1969",
+      "title": "NSA-Cryptologic-History-Series_In-the-Shadow-of-War_1969.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7399759908245995
+    },
+    {
+      "doc_id": "NARAclintonPLfoiaLogs2008-2020",
+      "title": "NARAclintonPLfoiaLogs2008-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7235389757456894
+    },
+    {
+      "doc_id": "DIA_FileId_238856",
+      "title": "DIA_FileId_238856.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "DIA_FileId_239264",
+      "title": "DIA_FileId_239264.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "DIA_FileId_238005",
+      "title": "DIA_FileId_238005.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6928931447329014
+    },
+    {
+      "doc_id": "CIAhistOSAincep-1969u",
+      "title": "CIAhistOSAincep-1969u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6917348946978071
+    },
+    {
+      "doc_id": "DIA_FileId_238464",
+      "title": "DIA_FileId_238464.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6838746631337517
+    },
+    {
+      "doc_id": "DIA_FileId_238419",
+      "title": "DIA_FileId_238419.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6785417783344235
+    },
+    {
+      "doc_id": "DIA_FileId_239234",
+      "title": "DIA_FileId_239234.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6670284285039811
+    },
+    {
+      "doc_id": "ODNIcorresISB_2004-2011",
+      "title": "ODNIcorresISB_2004-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6495140207312691
+    },
+    {
+      "doc_id": "DIA_FileId_238616",
+      "title": "DIA_FileId_238616.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6259956422148686
+    },
+    {
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6240545292699363
+    },
+    {
+      "doc_id": "DIA_FileId_239258",
+      "title": "DIA_FileId_239258.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6238793365458162
+    },
+    {
+      "doc_id": "DIA_FileId_238426",
+      "title": "DIA_FileId_238426.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6231405598677648
+    },
+    {
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6081383834632998
+    },
+    {
+      "doc_id": "DIA_FileId_238120",
+      "title": "DIA_FileId_238120.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6056121717367154
+    },
+    {
+      "doc_id": "Fostering-Rev-Innovation-CSBA_2001",
+      "title": "Fostering-Rev-Innovation-CSBA_2001.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.603691542592244
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5947842342528874
+    },
+    {
+      "doc_id": "DIA_FileId_238871",
+      "title": "DIA_FileId_238871.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.590283773080107
+    },
+    {
+      "doc_id": "DIA_FileId_238816",
+      "title": "DIA_FileId_238816.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5567057568548188
+    },
+    {
+      "doc_id": "DIA_FileId_238751",
+      "title": "DIA_FileId_238751.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5542325943345258
+    },
+    {
+      "doc_id": "PerryHistSatRecon-IIIA_New-Jan1974",
+      "title": "PerryHistSatRecon-IIIA_New-Jan1974.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5504997974013955
+    },
+    {
+      "doc_id": "DIA_FileId_239014",
+      "title": "DIA_FileId_239014.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5401355366518307
+    },
+    {
+      "doc_id": "DIApub_PrimerOnTheFutureThreat_1999",
+      "title": "DIApub_PrimerOnTheFutureThreat_1999.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.535505464300661
+    },
+    {
+      "doc_id": "DIA-SABrecords_1966-2002",
+      "title": "DIA-SABrecords_1966-2002.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.535094848541424
+    },
+    {
+      "doc_id": "DIA_FileId_238805",
+      "title": "DIA_FileId_238805.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5337459526814367
+    },
+    {
+      "doc_id": "ArmyOIGincsSeniorOfficials_2011-2013",
+      "title": "ArmyOIGincsSeniorOfficials_2011-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5281180151357481
+    },
+    {
+      "doc_id": "NSA-Cryptologic-History-Series_Focus-on-Cambodia_Pts-1-2_1974",
+      "title": "NSA-Cryptologic-History-Series_Focus-on-Cambodia_Pts-1-2_1974.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5269977804794096
+    },
+    {
+      "doc_id": "DIA_FileId_239130",
+      "title": "DIA_FileId_239130.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5244115413051381
+    },
+    {
+      "doc_id": "DIA_FileId_239192",
+      "title": "DIA_FileId_239192.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5194095213052765
+    },
+    {
+      "doc_id": "DIA_FileId_239036",
+      "title": "DIA_FileId_239036.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5185468882154964
+    },
+    {
+      "doc_id": "DIA_FileId_239028",
+      "title": "DIA_FileId_239028.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5177945777602622
+    },
+    {
+      "doc_id": "DTIC-RAND-TRBiblio_1946-1963",
+      "title": "DTIC-RAND-TRBiblio_1946-1963.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5170956028749025
+    },
+    {
+      "doc_id": "USAFSScapabilitySEasia_1963-1964-1969",
+      "title": "USAFSScapabilitySEasia_1963-1964-1969.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5126937139889537
+    },
+    {
+      "doc_id": "DIA_FileId_238403",
+      "title": "DIA_FileId_238403.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5115772747052318
+    },
+    {
+      "doc_id": "DIA_FileId_239285",
+      "title": "DIA_FileId_239285.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5042415310440659
+    },
+    {
+      "doc_id": "BOPlitigationRecsOver1K_2005-2016",
+      "title": "BOPlitigationRecsOver1K_2005-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5036637741250015
+    },
+    {
+      "doc_id": "ArmyRptAdHocGpAPOsap1967",
+      "title": "ArmyRptAdHocGpAPOsap1967.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4901863599791089
+    },
+    {
+      "doc_id": "HistCIAopc1973",
+      "title": "HistCIAopc1973.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.48733822000891874
+    },
+    {
+      "doc_id": "USAIDcounterViolExtreme_2018-2019",
+      "title": "USAIDcounterViolExtreme_2018-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.48716451981869435
+    },
+    {
+      "doc_id": "FBI-DangerousAliens_1951-1955",
+      "title": "FBI-DangerousAliens_1951-1955.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.48322672939143957
+    },
+    {
+      "doc_id": "DIA_FileId_239283",
+      "title": "DIA_FileId_239283.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4803677730446321
+    },
+    {
+      "doc_id": "GAOreportUSPgmsInAfghanistan_1971",
+      "title": "GAOreportUSPgmsInAfghanistan_1971.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4775106101223025
+    },
+    {
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.47733693225096113
+    },
+    {
+      "doc_id": "IAFminutes_2013-2015",
+      "title": "IAFminutes_2013-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4715010851212461
+    },
+    {
+      "doc_id": "CIG-NIA_1945-1948",
+      "title": "CIG-NIA_1945-1948.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.46877624593212663
+    },
+    {
+      "doc_id": "DIAstyleManualIntelProd_2016",
+      "title": "DIAstyleManualIntelProd_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.46597182154719874
+    },
+    {
+      "doc_id": "DIA_FileId_238416",
+      "title": "DIA_FileId_238416.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4613701216217165
+    },
+    {
+      "doc_id": "DEAlibraryCat2024",
+      "title": "DEAlibraryCat2024.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.45852281179238263
+    },
+    {
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.45730921634972854
+    },
+    {
+      "doc_id": "DHS-TOPOFF2-4_2003-2007",
+      "title": "DHS-TOPOFF2-4_2003-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.45728398665574443
+    },
+    {
+      "doc_id": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u",
+      "title": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.45076638920748757
+    },
+    {
+      "doc_id": "DallasFedResBkUponAStrongFoundation1992",
+      "title": "DallasFedResBkUponAStrongFoundation1992.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.45024062382562413
+    },
+    {
+      "doc_id": "DIA_FileId_238415",
+      "title": "DIA_FileId_238415.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.44973726912492556
+    },
+    {
+      "doc_id": "StatePArapidResponse2013",
+      "title": "StatePArapidResponse2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.44763604154744285
+    },
+    {
+      "doc_id": "DIA_FileId_238823",
+      "title": "DIA_FileId_238823.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4465338714443813
+    },
+    {
+      "doc_id": "USAGMteosMrpts_2014-2019",
+      "title": "USAGMteosMrpts_2014-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.44475360608511494
+    },
+    {
+      "doc_id": "DIA_FileId_239088",
+      "title": "DIA_FileId_239088.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.443874801526364
+    },
+    {
+      "doc_id": "DOJcrmGenocMA2008-2015",
+      "title": "DOJcrmGenocMA2008-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4430472542546463
+    },
+    {
+      "doc_id": "DIA_FileId_238915",
+      "title": "DIA_FileId_238915.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4416295063469213
+    },
+    {
+      "doc_id": "DIA_FileId_239228",
+      "title": "DIA_FileId_239228.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4397220607845824
+    },
+    {
+      "doc_id": "USAIDpresidentTransDocs_2016",
+      "title": "USAIDpresidentTransDocs_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.43878083528082473
+    },
+    {
+      "doc_id": "DIA_FileId_239120",
+      "title": "DIA_FileId_239120.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.43547166400826925
+    },
+    {
+      "doc_id": "DIA_FileId_239290",
+      "title": "DIA_FileId_239290.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.43351836070756944
+    },
+    {
+      "doc_id": "DHSActionInfoMemosSecry_2018",
+      "title": "DHSActionInfoMemosSecry_2018.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4327605558615698
+    },
+    {
+      "doc_id": "DIA_FileId_239287",
+      "title": "DIA_FileId_239287.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4283967408467903
+    },
+    {
+      "doc_id": "NIAIDcrewsFTPCRC2019-2020",
+      "title": "NIAIDcrewsFTPCRC2019-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.42804700839484067
+    },
+    {
+      "doc_id": "DIA_FileId_239046",
+      "title": "DIA_FileId_239046.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.42197706621500997
+    },
+    {
+      "doc_id": "ArmySFreviewIndochina_1976",
+      "title": "ArmySFreviewIndochina_1976.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.41786983738544264
+    },
+    {
+      "doc_id": "StateRahmanVisa_1994-1995",
+      "title": "StateRahmanVisa_1994-1995.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4175840579405015
+    },
+    {
+      "doc_id": "NSAohiREDACTED_OH 1988-11",
+      "title": "NSAohiREDACTED_OH 1988-11.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.41004464474953667
+    },
+    {
+      "doc_id": "TreasuryDO-FOIAbacklogEmail_2012-14",
+      "title": "TreasuryDO-FOIAbacklogEmail_2012-14.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.40908461470296303
+    },
+    {
+      "doc_id": "DIA_FileId_238011",
+      "title": "DIA_FileId_238011.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.40452639114049305
+    },
+    {
+      "doc_id": "DIA_FileId_238382",
+      "title": "DIA_FileId_238382.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.40452639114049305
+    },
+    {
+      "doc_id": "TIGTAweeklyRepts_2011-2014",
+      "title": "TIGTAweeklyRepts_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.40337059913361
+    },
+    {
+      "doc_id": "DIA_AnalysisKwameNkrumahOfGhana1966",
+      "title": "DIA_AnalysisKwameNkrumahOfGhana1966.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.403287839903953
+    },
+    {
+      "doc_id": "DIA_FileId_238563",
+      "title": "DIA_FileId_238563.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.40310858702296537
+    }
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "doc_id": "DTICbiblioCSIS_2019",
+      "title": "DTICbiblioCSIS_2019.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 9,
+      "text_preview": "world, where most immediate military\nmissions lie.\n(U) More Third World countries have tumed towards the Soviet Union or\nrealigned to the West as a result of coups d'etat than any other factor. The\npr...",
+      "text_length": 409,
+      "relevance_score": 0.9733192398671493,
+      "semantic_score": 1.0,
+      "bm25_score": 0.9110641328904977,
+      "citation_key": "DTICbiblioCSIS_2019_p9"
+    },
+    {
+      "index": 1,
+      "doc_id": "FBI-RampartsMagazine_1964-1975",
+      "title": "FBI-RampartsMagazine_1964-1975.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 894,
+      "text_preview": "d. In' both countrieS important reforms did\noccur. But these were the results of military coups d' etia which,\nin a quite accidental process, placed n; en in power\u00b7who were\nwilling-for a h9st of often...",
+      "text_length": 434,
+      "relevance_score": 0.9138685056688347,
+      "semantic_score": 0.9254194719508477,
+      "bm25_score": 0.8869162510108042,
+      "citation_key": "FBI-RampartsMagazine_1964-1975_p894"
+    },
+    {
+      "index": 2,
+      "doc_id": "USTDA-Plan_Appropriations_2005-2011",
+      "title": "USTDA-Plan_Appropriations_2005-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 87,
+      "text_preview": "Korea, Iran, or Syria.\n\nMILITARY COUPS\n\nSEC. 7008. None of the funds appropriated or otherwise made available pursuant to titles III\nthrough VI of this Act shall be obligated or expended to finance di...",
+      "text_length": 361,
+      "relevance_score": 0.8725741702964689,
+      "semantic_score": 1.0,
+      "bm25_score": 0.5752472343215631,
+      "citation_key": "USTDA-Plan_Appropriations_2005-2011_p87"
+    },
+    {
+      "index": 3,
+      "doc_id": "ICA2003-03",
+      "title": "ICA2003-03.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 3,
+      "text_preview": "~\u00b7~1ir~\"'... f..>.,\n\nlnlelligPncr\u2022 Community Assf.\\, snJPnl\n\n(b )(1)\n(b)(3)\n(b)(6)\n\nof Regime Change in Iraq\n\nI Regional Consequences\n\nICA 2003-03\nJanuary 2003\n\n~PPROVED FOR\nRELEASE D DATE:\n~3-Sep-200...",
+      "text_length": 422,
+      "relevance_score": 0.7842202214695211,
+      "semantic_score": 0.7065792785202939,
+      "bm25_score": 0.9653824216843844,
+      "citation_key": "ICA2003-03_p3"
+    },
+    {
+      "index": 4,
+      "doc_id": "NSA-SIGINT-style-manual_2010",
+      "title": "NSA-SIGINT-style-manual_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 191,
+      "text_preview": "t.\n\n(U) See the entry for irregarqless.\n\nregime...\n\n(U) Regime is a synonym for a political system, not an administrative system: a fascist regime.\n\n(U) Regime is often used in a pejorative sense to d...",
+      "text_length": 506,
+      "relevance_score": 0.7758083538848576,
+      "semantic_score": 0.8606923218346034,
+      "bm25_score": 0.5777457620021174,
+      "citation_key": "NSA-SIGINT-style-manual_2010_p191"
+    },
+    {
+      "index": 5,
+      "doc_id": "DTICtechRptsPOW_2016",
+      "title": "DTICtechRptsPOW_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 72,
+      "text_preview": "ct: ( U ) Thailand has experienced numerous coups. The\n\nlast two Thai coups (1991 and 2006) were against popularly\nelected prime ministers. This thesis proposes and tests six\nhypotheses as the basis f...",
+      "text_length": 417,
+      "relevance_score": 0.7727676271046006,
+      "semantic_score": 0.8883558092613092,
+      "bm25_score": 0.5030618687389472,
+      "citation_key": "DTICtechRptsPOW_2016_p72"
+    },
+    {
+      "index": 6,
+      "doc_id": "DOJ-OIP-FOIA-PostponeElections_2004-2008",
+      "title": "DOJ-OIP-FOIA-PostponeElections_2004-2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 15,
+      "text_preview": "step support to whatever the regime\nsays and does. It's also a given that those likely to lead the resistance will immediately land in those new\nprisons being built by Halliburton et. al.\n\nSo how do w...",
+      "text_length": 503,
+      "relevance_score": 0.7522390270076115,
+      "semantic_score": 1.0,
+      "bm25_score": 0.17413009002537164,
+      "citation_key": "DOJ-OIP-FOIA-PostponeElections_2004-2008_p15"
+    },
+    {
+      "index": 7,
+      "doc_id": "BBGmoRpts_2012-2015",
+      "title": "BBGmoRpts_2012-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "ry than embracing \u201cso-called\u201d tenets of democracy.\n\n\nCoups in Mali and Guinea-Bissau\nThe English to Africa radio team had its hands full dealing with political turmoil in West Africa.\nFirst there was ...",
+      "text_length": 290,
+      "relevance_score": 0.7458549122633515,
+      "semantic_score": 0.7922934538546106,
+      "bm25_score": 0.6374983152170806,
+      "citation_key": "BBGmoRpts_2012-2015_chunk7"
+    },
+    {
+      "index": 8,
+      "doc_id": "NSA-Cryptologic-History-Series_In-the-Shadow-of-War_1969",
+      "title": "NSA-Cryptologic-History-Series_In-the-Shadow-of-War_1969.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 18,
+      "text_preview": "n 1 November\n1963, and to his death on 2 November. The victors in the coup\nannounced the formation of a civilian-military junta on 4 November,\nand on 7 November the United States recognized the new Vi...",
+      "text_length": 357,
+      "relevance_score": 0.7399759908245995,
+      "semantic_score": 0.8264253098966114,
+      "bm25_score": 0.5382609129899051,
+      "citation_key": "NSA-Cryptologic-History-Series_In-the-Shadow-of-War_1969_p18"
+    },
+    {
+      "index": 9,
+      "doc_id": "NARAclintonPLfoiaLogs2008-2020",
+      "title": "NARAclintonPLfoiaLogs2008-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 77,
+      "text_preview": "trol Regime (MTCR), and missile non-proliferation.\n\n2/7/2019 Records of Bob Einhom relating to meetings between US officials and South African delegations between 1992-1995, regarding the\n\nMissile Tec...",
+      "text_length": 394,
+      "relevance_score": 0.7235389757456894,
+      "semantic_score": 0.605055679636699,
+      "bm25_score": 1.0,
+      "citation_key": "NARAclintonPLfoiaLogs2008-2020_p77"
+    },
+    {
+      "index": 10,
+      "doc_id": "DIA_FileId_238856",
+      "title": "DIA_FileId_238856.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 3,
+      "text_preview": "stages of\nhis mil itary adJainistration go badly.\n\n(:!)'MOPe! ffl, Although a coup may not be inevitable\n\nit is significont that many politicians believe it\nto be. Military preparations are already un...",
+      "text_length": 352,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238856_p3"
+    },
+    {
+      "index": 11,
+      "doc_id": "DIA_FileId_239264",
+      "title": "DIA_FileId_239264.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 3,
+      "text_preview": "UNDULY ANTAGONIZING OR EMBARRASSING THE\nMILITARY. MEANWHILE, THE COUP HAS PERSUADED GOVERNMENTS IN THE\nREGION TO REVIEW MILITARY DISSATISFACTION IN THEIR OWN NATIONS AND\nTO CONSIDER THE SOCIAL COSTS A...",
+      "text_length": 335,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239264_p3"
+    },
+    {
+      "index": 12,
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 62,
+      "text_preview": "d a repressive, right wing junta in his. place....\n\u2022 Eeuador-:- AOA\u2022baek~ inilitary coup o-verthrows )? resident Arose~a, whose.\n\u2022 .. \u00b7! ndependent (not \u00b7socialist. ) poli. cies h. ve become ~naccqJta...",
+      "text_length": 509,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "CIA-comments_1994-2005u_p62"
+    },
+    {
+      "index": 13,
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 122,
+      "text_preview": "s since suffered from intemal\n\ntension and strain. After a series of successive coups, a presidential election occured on\n16 December 1990. This election, which considered to have been free and fair, ...",
+      "text_length": 380,
+      "relevance_score": 0.7,
+      "semantic_score": 1.0,
+      "bm25_score": 0,
+      "citation_key": "ForgedInTheFire_2008_p122"
+    },
+    {
+      "index": 14,
+      "doc_id": "DIA_FileId_238005",
+      "title": "DIA_FileId_238005.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 1,
+      "text_preview": "reign pressures for reform, the extensi\n\n(b)(1) 1.4(a)re trictions on outside assistanc\n\u2022 ter Last week's 1-year anniversary of the\nckdown on monk-led protests has refocused attention on the Isolated ...",
+      "text_length": 408,
+      "relevance_score": 0.6928931447329014,
+      "semantic_score": 0.8987952121286858,
+      "bm25_score": 0.21245498747607142,
+      "citation_key": "DIA_FileId_238005_p1"
+    },
+    {
+      "index": 15,
+      "doc_id": "CIAhistOSAincep-1969u",
+      "title": "CIAhistOSAincep-1969u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 893,
+      "text_preview": "litary coup on the night of Z7 May 1960--a long.:. simmering\n\nrevolt against its dictatorial and oppr, essive measu~es--and Menderes\n\nand. most of the members of his govemment were imprisoned. No offi...",
+      "text_length": 402,
+      "relevance_score": 0.6917348946978071,
+      "semantic_score": 0.9881927067111531,
+      "bm25_score": 0,
+      "citation_key": "CIAhistOSAincep-1969u_p893"
+    },
+    {
+      "index": 16,
+      "doc_id": "DIA_FileId_238464",
+      "title": "DIA_FileId_238464.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 115,
+      "text_preview": "s coup attempt appears to be an isolated\nincident.\nThe stability of Equatorial Guinea will probably continue to depend\nmore on economic success and political development of institutions than on remote...",
+      "text_length": 455,
+      "relevance_score": 0.6838746631337517,
+      "semantic_score": 0.9769638044767881,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238464_p115"
+    },
+    {
+      "index": 17,
+      "doc_id": "DIA_FileId_238419",
+      "title": "DIA_FileId_238419.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 50,
+      "text_preview": ".\nThere are no knowri prospects for a coup d'etat. The GPRM for a time was threatened\nwith a possible coup in 1986. Senior officer veterans of the \"armed struggle,\u2022 who blamed\nPresident Samora Machel ...",
+      "text_length": 498,
+      "relevance_score": 0.6785417783344235,
+      "semantic_score": 0.9693453976206051,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238419_p50"
+    },
+    {
+      "index": 18,
+      "doc_id": "DIA_FileId_239234",
+      "title": "DIA_FileId_239234.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 27,
+      "text_preview": "coup was supported by Cuba.\n\n\nI~ZAMBIQUE\n\nThe Oi. ief of the Department HIRSCHLER and MABEL FERNANDEZ are. headquartered\n\nin this country.. From TANZANIA they took the necessary steps to have a meetin...",
+      "text_length": 500,
+      "relevance_score": 0.6670284285039811,
+      "semantic_score": 0.9528977550056874,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239234_p27"
+    },
+    {
+      "index": 19,
+      "doc_id": "ODNIcorresISB_2004-2011",
+      "title": "ODNIcorresISB_2004-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 123,
+      "text_preview": "e to wait, who feel they must make their move now. These\nleaders personally manufacture a bit of chaos in hopes of creating just enough instability\nto give change a chance.\n\nPolitical revolutionaries ...",
+      "text_length": 448,
+      "relevance_score": 0.6495140207312691,
+      "semantic_score": 0.6896239619484227,
+      "bm25_score": 0.5559241578912439,
+      "citation_key": "ODNIcorresISB_2004-2011_p123"
+    },
+    {
+      "index": 20,
+      "doc_id": "DIA_FileId_238616",
+      "title": "DIA_FileId_238616.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 23,
+      "text_preview": "ance increasingly\nare being challenged and eroded. resulting\nin more frequent instance', of political di~\nsolution and failed stales.\n\n\u25a0 A failed state is one where the g()\\,\nemment is unahle to fundi...",
+      "text_length": 472,
+      "relevance_score": 0.6259956422148686,
+      "semantic_score": 0.6375297172174006,
+      "bm25_score": 0.5990828005422939,
+      "citation_key": "DIA_FileId_238616_p23"
+    },
+    {
+      "index": 21,
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 65,
+      "text_preview": "dent Kennedy throughout the month of October 1963. As the\n\ndate for the coup approach, DCI McCone \"wamed President Kennedy personally that\n\nremoval of Diem would result in not one coup, but several co...",
+      "text_length": 480,
+      "relevance_score": 0.6240545292699363,
+      "semantic_score": 0.6913688253607656,
+      "bm25_score": 0.46698783839133456,
+      "citation_key": "DIA_FileId_238567_p65"
+    },
+    {
+      "index": 22,
+      "doc_id": "DIA_FileId_239258",
+      "title": "DIA_FileId_239258.pdf",
+      "source": "DIA Reading Room",
+      "page_no": null,
+      "text_preview": "COUP ATTEMPT WAS LED BY ARMY LIEUTENANT\n\n(b)(1),1.4 (c)\n\n\nRDENA\n\nSEQ5U! fF\n\npage 4\n\nPages 6,7 redacted in full lAW FOIA b1\nexemption. Pages not included.\n\n(b)(1),(b)(3):10 USC 424,1.4 (c)\n\nfUlliHH, Ll...",
+      "text_length": 503,
+      "relevance_score": 0.6238793365458162,
+      "semantic_score": 0.8912561950654517,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239258_chunk22"
+    },
+    {
+      "index": 23,
+      "doc_id": "DIA_FileId_238426",
+      "title": "DIA_FileId_238426.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 106,
+      "text_preview": "ent clans and aubclans wfthin controllable limits. Using\nthis political strategy he has succeeded in maintaining his rule but has been left with\nlittle time for effective administration. Though the Si...",
+      "text_length": 493,
+      "relevance_score": 0.6231405598677648,
+      "semantic_score": 0.8237518982409767,
+      "bm25_score": 0.1550474369969371,
+      "citation_key": "DIA_FileId_238426_p106"
+    },
+    {
+      "index": 24,
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 64,
+      "text_preview": "1979\nThe July 17, 1973 coup in Afghanistan replacing King\nMohammed Zahir Shah with Mohammed Daud\nAll documents RE: Hans Finbinger, B 9/15/13 in Mannheim;\nAribert Heim, B 6/28/14 in Radkersburg\nDOS inv...",
+      "text_length": 512,
+      "relevance_score": 0.6081383834632998,
+      "semantic_score": 0.8687691192332856,
+      "bm25_score": 0,
+      "citation_key": "StateDeptRelDocsIndex_2010_p64"
+    },
+    {
+      "index": 25,
+      "doc_id": "DIA_FileId_238120",
+      "title": "DIA_FileId_238120.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 1,
+      "text_preview": "coup through a delicate coalition of rival clans. However,\nthe outbreak of a northem insurgent offensive in late May and Siad 1 s inab111ty\nto control it have severely weakened his ruling coalition an...",
+      "text_length": 408,
+      "relevance_score": 0.6056121717367154,
+      "semantic_score": 0.865160245338165,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238120_p1"
+    },
+    {
+      "index": 26,
+      "doc_id": "Fostering-Rev-Innovation-CSBA_2001",
+      "title": "Fostering-Rev-Innovation-CSBA_2001.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 32,
+      "text_preview": "dimly foreseen circumstances, and perhaps\neven more important, which methods do not. As Clausewitz also observed, however, intellect is\nnot enough. Transformation decision makers must have \"the courag...",
+      "text_length": 494,
+      "relevance_score": 0.603691542592244,
+      "semantic_score": 0.8624164894174915,
+      "bm25_score": 0,
+      "citation_key": "Fostering-Rev-Innovation-CSBA_2001_p32"
+    },
+    {
+      "index": 27,
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 62,
+      "text_preview": "ce analysis.\n\u2022 Burma/Myanmar: after the crackdown.\n\u2022 Byting back: regaining information superiority against 21 sf-century\n\ninsurgents.\n\u2022 Counterinsurgency in Iraq (2003-2006).\n\u2022 Cracks in the foundati...",
+      "text_length": 456,
+      "relevance_score": 0.5947842342528874,
+      "semantic_score": 0.8496917632184107,
+      "bm25_score": 0,
+      "citation_key": "StateInfoPgmsRpts_2008_p62"
+    },
+    {
+      "index": 28,
+      "doc_id": "DIA_FileId_238871",
+      "title": "DIA_FileId_238871.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 16,
+      "text_preview": "A& Declassification Services Offices\nDate: Oct 18. 2018\n\nDIADIN 298-l0A\nAS OF 2049 EDT\n24 OCT 80\n\nBOLIVIA: COUP PLOTTING.\n\n(U)\n\nTHE COURSE OF EVENTS IS ONCE AGAIN LEADING\n(C/NOFORN)\nTO COUP RUMORS.\nSE...",
+      "text_length": 420,
+      "relevance_score": 0.590283773080107,
+      "semantic_score": 0.7592413529900522,
+      "bm25_score": 0.19604941995690173,
+      "citation_key": "DIA_FileId_238871_p16"
+    },
+    {
+      "index": 29,
+      "doc_id": "DIA_FileId_238816",
+      "title": "DIA_FileId_238816.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 3,
+      "text_preview": "* BEGINNING OF SECTION 004 ******/\nIRREGULARITIES. UNDER NORMAL CONDITIONS, MILITARY AUTHORITIES\nMAINTAIN JURISDICTION OVER ACTIVE DUTY PERSONNEL. RESOLVING THIS\nCASE, HOWEVER, COULD TAKE MONTHS, AND ...",
+      "text_length": 349,
+      "relevance_score": 0.5567057568548188,
+      "semantic_score": 0.795293938364027,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238816_p3"
+    },
+    {
+      "index": 30,
+      "doc_id": "DIA_FileId_238751",
+      "title": "DIA_FileId_238751.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 5,
+      "text_preview": "RE MORE THAN\nWILLING TO PARTICIPATE IN A COUP.\n2..{\u20ac', OFFICERS ARE CONCERNED BECAUSE UNLESS THE\nSUPREME COURT UPHOLDS THE AMNESTY LAWS, ALMOST EVERY\nOFFICER COMMISSIONED BEFORE 1982 COULD EVENTUALLY ...",
+      "text_length": 436,
+      "relevance_score": 0.5542325943345258,
+      "semantic_score": 0.7917608490493226,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238751_p5"
+    },
+    {
+      "index": 31,
+      "doc_id": "PerryHistSatRecon-IIIA_New-Jan1974",
+      "title": "PerryHistSatRecon-IIIA_New-Jan1974.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "ControlS Only\n\n... --.. ---~---~==--~~\n\n\"SP. Be...\n\nFor two weeks followi. na Charyk's 2.4 A\"Iut. elecision, both\n\nthe n. w and the olel approaches to recovery were kept in beins.\n\n\nthat int. rval. th...",
+      "text_length": 484,
+      "relevance_score": 0.5504997974013955,
+      "semantic_score": 0.7864282820019937,
+      "bm25_score": 0,
+      "citation_key": "PerryHistSatRecon-IIIA_New-Jan1974_chunk31"
+    },
+    {
+      "index": 32,
+      "doc_id": "DIA_FileId_239014",
+      "title": "DIA_FileId_239014.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 1,
+      "text_preview": ",,, ii...,... gEC\nSU t3 J t T rt I 3\nTHIS IS AN\n1. (U) COUNTRY: ARGENTINA\n2. CU) REPORT NU/-19ERJ\n~. CU) TITLE: HILITARY A A\nCOUP 6Y MENENDEZ\n4 \u2022 CU) PROJECT ~JU MB ER I N / A\n~. (U) DATE OF INF \u25a1 RM~...",
+      "text_length": 374,
+      "relevance_score": 0.5401355366518307,
+      "semantic_score": 0.771622195216901,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239014_p1"
+    },
+    {
+      "index": 33,
+      "doc_id": "DIApub_PrimerOnTheFutureThreat_1999",
+      "title": "DIApub_PrimerOnTheFutureThreat_1999.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 26,
+      "text_preview": "ance inc1-easingly\narc being chalknged and eroded. resulting\nin more frequent insram: e~ of political dii.\nsolution and failed stales.\n\u2022 A foiled state is one where the go\\\n\nemment is unabk to funl~ti...",
+      "text_length": 489,
+      "relevance_score": 0.535505464300661,
+      "semantic_score": 0.522529404821032,
+      "bm25_score": 0.5657829364197954,
+      "citation_key": "DIApub_PrimerOnTheFutureThreat_1999_p26"
+    },
+    {
+      "index": 34,
+      "doc_id": "DIA-SABrecords_1966-2002",
+      "title": "DIA-SABrecords_1966-2002.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 97,
+      "text_preview": "important shift in domestic or foreign policy?\n\n5. Will concem for its nation's security produce a change\n\nin alliances or foreign policy?\n\n(U) Although\n\nthere are of course exceptions, the general vi...",
+      "text_length": 361,
+      "relevance_score": 0.535094848541424,
+      "semantic_score": 0.4954306109121572,
+      "bm25_score": 0.6276447363430464,
+      "citation_key": "DIA-SABrecords_1966-2002_p97"
+    },
+    {
+      "index": 35,
+      "doc_id": "DIA_FileId_238805",
+      "title": "DIA_FileId_238805.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 4,
+      "text_preview": "E NOVEMBER COUP ATTEMPT HAS WORSENED\nCONSIDERABLY. NOT OF THE UNDERLYING CAUSES OF THE COUP ATTEMPT HAS\nBEEN ADDRESSED. IN ADDITION, MONTESINOS AND SIN HAVE ALIENATED\nEVEN MORE PREVIOUSLY LOYAL ARMY O...",
+      "text_length": 362,
+      "relevance_score": 0.5337459526814367,
+      "semantic_score": 0.7624942181163381,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238805_p4"
+    },
+    {
+      "index": 36,
+      "doc_id": "ArmyOIGincsSeniorOfficials_2011-2013",
+      "title": "ArmyOIGincsSeniorOfficials_2011-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 9,
+      "text_preview": "d like a coup attempt... MG Temple reprimanded Mr. Constantaras; He told\nMr. Constantaras\u00b7 he was disloyal and Mr. Constantaras.. apologized profusely...\n\nh. He testified that after moving L Tcl<bl<7J...",
+      "text_length": 468,
+      "relevance_score": 0.5281180151357481,
+      "semantic_score": 0.7544543073367831,
+      "bm25_score": 0,
+      "citation_key": "ArmyOIGincsSeniorOfficials_2011-2013_p9"
+    },
+    {
+      "index": 37,
+      "doc_id": "NSA-Cryptologic-History-Series_Focus-on-Cambodia_Pts-1-2_1974",
+      "title": "NSA-Cryptologic-History-Series_Focus-on-Cambodia_Pts-1-2_1974.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 42,
+      "text_preview": "S PRECEDING THE ALLIED INCURSION\n\n\nforeign policy. Sihanouk accepted, and the cabinet took office on 12\nAugust 1969.\n\nAcceptance by Sihanouk of a govemment with powers not dependent\nupon his whims, so...",
+      "text_length": 389,
+      "relevance_score": 0.5269977804794096,
+      "semantic_score": 0.7528539721134424,
+      "bm25_score": 0,
+      "citation_key": "NSA-Cryptologic-History-Series_Focus-on-Cambodia_Pts-1-2_1974_p42"
+    },
+    {
+      "index": 38,
+      "doc_id": "DIA_FileId_239130",
+      "title": "DIA_FileId_239130.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 5,
+      "text_preview": "C 1'1 _ ME NF-'. MD E Z \u2022 S r.1 (, I L Y PP (I BI. F t,,: HI Y H I S R E ~PF r, 'I'\n'(HE ~tV HJ WHTCH HE\nQFFTrFR~ A~RFE WITH THE REA, \u25a1 N~ FO~ MENENnEZ'~ ACTION,\nTHEY nu ~OT A~RFE AND ~ILL NOT GO AtnN...",
+      "text_length": 501,
+      "relevance_score": 0.5244115413051381,
+      "semantic_score": 0.7491593447216259,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239130_p5"
+    },
+    {
+      "index": 39,
+      "doc_id": "DIA_FileId_239192",
+      "title": "DIA_FileId_239192.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 2,
+      "text_preview": "DC/J~(b-)(3-):-5o-u-sc_3_02-4(~i) - - - - - -~\n\n\nRUETIAQ/MPC FT GEORGE G MEADE MD\nRUEALGX/SAFE\n\n\nR 0921252 OCT 87\n\n\nTO RUEKJCS/DIA WASHDC\nRUEOEHA/USCINCSO QUARRY HEIGHTS PN/. (b)(3): so usc\nINFO RUEAD...",
+      "text_length": 491,
+      "relevance_score": 0.5194095213052765,
+      "semantic_score": 0.7420136018646808,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239192_p2"
+    },
+    {
+      "index": 40,
+      "doc_id": "DIA_FileId_239036",
+      "title": "DIA_FileId_239036.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 7,
+      "text_preview": "os could decide to target U. S. personnel or U. S. ships if\n\nthey see a significant improvement in relations between the United\n\nStates and Argentina.\n\n\n(U) Host Govemment Att itudes and Political Cli...",
+      "text_length": 433,
+      "relevance_score": 0.5185468882154964,
+      "semantic_score": 0.7407812688792806,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239036_p7"
+    },
+    {
+      "index": 41,
+      "doc_id": "DIA_FileId_239028",
+      "title": "DIA_FileId_239028.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 2,
+      "text_preview": "NO\nPnsr-COUP CONTINGENCY PLANS FOR THE GOVERNMENT. HE LAUGHED\nAND STATED THAT A COMPLICATED PLAN ~AS NOT REQUIRED, SUGGESTED\nTHAT ARHY WAS ~ORKING ON THE PROBLEM, ANO ALLUDED TO TME\nFACT THAT BG AZPIT...",
+      "text_length": 450,
+      "relevance_score": 0.5177945777602622,
+      "semantic_score": 0.7397065396575174,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239028_p2"
+    },
+    {
+      "index": 42,
+      "doc_id": "DTIC-RAND-TRBiblio_1946-1963",
+      "title": "DTIC-RAND-TRBiblio_1946-1963.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 703,
+      "text_preview": "ng the West and achieving a communist world order.\nMoreover, while economic and social progress poses a serious problem for the regime and is certain to\nhave important political consequences, it canno...",
+      "text_length": 342,
+      "relevance_score": 0.5170956028749025,
+      "semantic_score": 0.4007382922430189,
+      "bm25_score": 0.7885959943492976,
+      "citation_key": "DTIC-RAND-TRBiblio_1946-1963_p703"
+    },
+    {
+      "index": 43,
+      "doc_id": "USAFSScapabilitySEasia_1963-1964-1969",
+      "title": "USAFSScapabilitySEasia_1963-1964-1969.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 276,
+      "text_preview": "\u03bc ip. t~nts and. p~: ryosei;, a leaderless nation.\n\nTrue, G; ln. Duong Van Mj. nh. (Big Minh), the coup le~der, still led.\n\nthe _military govemment, but it was a gov~~~ent.. of committees.-~\n\nand comm...",
+      "text_length": 489,
+      "relevance_score": 0.5126937139889537,
+      "semantic_score": 0.732419591412791,
+      "bm25_score": 0,
+      "citation_key": "USAFSScapabilitySEasia_1963-1964-1969_p276"
+    },
+    {
+      "index": 44,
+      "doc_id": "DIA_FileId_238403",
+      "title": "DIA_FileId_238403.pdf",
+      "source": "DIA Reading Room",
+      "page_no": null,
+      "text_preview": "regime.\n\n(b)(1),1.4 (c)! nfefflla/ion Ottef/Dalt. 26 Feb, tttt1 y 2003\n\nDerived/mm\u00b7 ~, tuple S0Urr: tJ\nDeG/assify ent X!, X6\n\nD1-1516-12-03\n\n8E0AEfllme, eftltfX I\n\nAssumed Scenario: Coalition Victory\n...",
+      "text_length": 503,
+      "relevance_score": 0.5115772747052318,
+      "semantic_score": 0.6680143268290579,
+      "bm25_score": 0.14655748641630448,
+      "citation_key": "DIA_FileId_238403_chunk44"
+    },
+    {
+      "index": 45,
+      "doc_id": "DIA_FileId_239285",
+      "title": "DIA_FileId_239285.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 1,
+      "text_preview": "Et JiflK.:.\n\nI(b)~~~~ USC 424\n\nI(b)(3):10 USC 424.___ ___ ___.\n\n\nCOUNTRY: U VENEZUELA (VE).\nSUBJ: (b)(3):10 USC 424\n21 (U)\nWARNING: (U) THIS IS AN INFO REPORT, NOT FINALLY\nEVALUATED INTEL. REPORT CLAS...",
+      "text_length": 430,
+      "relevance_score": 0.5042415310440659,
+      "semantic_score": 0.7203450443486656,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239285_p1"
+    },
+    {
+      "index": 46,
+      "doc_id": "BOPlitigationRecsOver1K_2005-2016",
+      "title": "BOPlitigationRecsOver1K_2005-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "ry regime seeks to accomplish.\" Id.\n\nat 325 & n.7.\n\n\nIf the discretionary function exception applies, the United States retains its\n\n\nCase 2:11-cv-00094-JPB-JES Document 200 Filed 04/07/14 Page 25 of ...",
+      "text_length": 311,
+      "relevance_score": 0.5036637741250015,
+      "semantic_score": 0.413636236290752,
+      "bm25_score": 0.7137280290715837,
+      "citation_key": "BOPlitigationRecsOver1K_2005-2016_chunk46"
+    },
+    {
+      "index": 47,
+      "doc_id": "ArmyRptAdHocGpAPOsap1967",
+      "title": "ArmyRptAdHocGpAPOsap1967.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 89,
+      "text_preview": "s, radicals, and\ncommunists versus the old regime.\n\nThe problem for the power which intervenes against the\ninsurgency is to induce conversion from a conflict of\nold regime against populists, to progre...",
+      "text_length": 435,
+      "relevance_score": 0.4901863599791089,
+      "semantic_score": 0.4737623134986686,
+      "bm25_score": 0.5285091351001363,
+      "citation_key": "ArmyRptAdHocGpAPOsap1967_p89"
+    },
+    {
+      "index": 48,
+      "doc_id": "HistCIAopc1973",
+      "title": "HistCIAopc1973.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 9,
+      "text_preview": "l election and\n\nthe threat of a Communist victory. Greece was\n\nfighting the Communist guerrillas in its northem\n\nprovinces.\n\nThe Communist coup in Czechoslovakia in Feb\u00ad\n\nruary 1948 was followed by a ...",
+      "text_length": 463,
+      "relevance_score": 0.48733822000891874,
+      "semantic_score": 0.6961974571555982,
+      "bm25_score": 0,
+      "citation_key": "HistCIAopc1973_p9"
+    },
+    {
+      "index": 49,
+      "doc_id": "USAIDcounterViolExtreme_2018-2019",
+      "title": "USAIDcounterViolExtreme_2018-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 104,
+      "text_preview": "domestic affairs, citing the Ii m ita tions\non the military's role in civil affairs after the downfall of the dictatorship of former President Suharto in 1998 as\none of Indonesia's key democratic vict...",
+      "text_length": 346,
+      "relevance_score": 0.48716451981869435,
+      "semantic_score": 0.6959493140267062,
+      "bm25_score": 0,
+      "citation_key": "USAIDcounterViolExtreme_2018-2019_p104"
+    },
+    {
+      "index": 50,
+      "doc_id": "FBI-DangerousAliens_1951-1955",
+      "title": "FBI-DangerousAliens_1951-1955.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 237,
+      "text_preview": ": O:'d Rational1t,'\nssued Vis~ # _ -__ and ind.1c.\"ted.\nAct. He was\nthat the purpose ot his st\n\u2022 he was a Dl8Ilber ot the Delegation ot Syria to the\nUnited R'ations. When sub3ect was adm1tted. t~\nUS o...",
+      "text_length": 505,
+      "relevance_score": 0.48322672939143957,
+      "semantic_score": 0.690323899130628,
+      "bm25_score": 0,
+      "citation_key": "FBI-DangerousAliens_1951-1955_p237"
+    },
+    {
+      "index": 51,
+      "doc_id": "DIA_FileId_239283",
+      "title": "DIA_FileId_239283.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 2,
+      "text_preview": "ND ABROAD THAT VENEZUELA IS INCREASINGLY UNSTABLE. ALTHOUGH\nTHE STRENGTH OF MBR-200 IS UNCLEAR, SECURITY OFFICIALS PRIVATELY\nFEAR ITS POTENTIAL FOR SUBVERSION. ANOTHER MAJOR COUP ATTEMPT IS\nCONSIDERED...",
+      "text_length": 479,
+      "relevance_score": 0.4803677730446321,
+      "semantic_score": 0.6862396757780459,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239283_p2"
+    },
+    {
+      "index": 52,
+      "doc_id": "GAOreportUSPgmsInAfghanistan_1971",
+      "title": "GAOreportUSPgmsInAfghanistan_1971.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 26,
+      "text_preview": "democratic in\nstitutions; i. e., nation building. '1lllllilllllli\n\nAfghanistan ~ontinued its steps toward a more democra\n\ntic govemment in 1964 and 1965 under the King's guidance in\npolitical reform, ...",
+      "text_length": 439,
+      "relevance_score": 0.4775106101223025,
+      "semantic_score": 0.6821580144604322,
+      "bm25_score": 0,
+      "citation_key": "GAOreportUSPgmsInAfghanistan_1971_p26"
+    },
+    {
+      "index": 53,
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 8425,
+      "text_preview": "TIL THHERE ARE SOME CHANGES IN THAT REGIME.\"\n\nREP. STEVEN SOLARZ SAYS \"EVEN DEPOSED DICTATORS ARE ACCOUNTABLE\nTO THE SAME STANDARD OF LAW AS EVERY OTHER AMERICAN.\"\n\nRENEE SABATIER SAYS \"THE AMOUNT IS ...",
+      "text_length": 342,
+      "relevance_score": 0.47733693225096113,
+      "semantic_score": 0.6819099032156588,
+      "bm25_score": 0,
+      "citation_key": "VOA-Legacy-Assets_2011_p8425"
+    },
+    {
+      "index": 54,
+      "doc_id": "IAFminutes_2013-2015",
+      "title": "IAFminutes_2013-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 55,
+      "text_preview": "as \u201centrepreneurship\u201d and \u201ccommunity organization.\u201d\n\nWith respect to the United States\u2019 legal framework for working in Cuba, Zimmerman summarized\nthe change in the Administration\u2019s approach as \u201cmoving...",
+      "text_length": 400,
+      "relevance_score": 0.4715010851212461,
+      "semantic_score": 0.24500155017320865,
+      "bm25_score": 1.0,
+      "citation_key": "IAFminutes_2013-2015_p55"
+    },
+    {
+      "index": 55,
+      "doc_id": "CIG-NIA_1945-1948",
+      "title": "CIG-NIA_1945-1948.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 486,
+      "text_preview": "ched off-another bloody Paraguayan\n~\u00b7\u00b7ciVll'; w~r. \u00b7 \u00b7\n'tfianks to timely \u00b7and abundant arms ship\u00b7\n\u2022 , ments!~; om.. Peron, dictator ~forinlgo\u00b7 managel: I\u00b7 to\n~\"cruslt the'\u00b7 latest: revolt against his...",
+      "text_length": 446,
+      "relevance_score": 0.46877624593212663,
+      "semantic_score": 0.5776447986473531,
+      "bm25_score": 0.2147496229299318,
+      "citation_key": "CIG-NIA_1945-1948_p486"
+    },
+    {
+      "index": 56,
+      "doc_id": "DIAstyleManualIntelProd_2016",
+      "title": "DIAstyleManualIntelProd_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 183,
+      "text_preview": "ures\ncounterintelligence\ncounter-off\ncountemarcotics\n\nbut counter-narcotics\u00b7\ntrafficking efforts\ncounterpropaganda\ncounterrebel\ncounterregime\ncounter septum\ncounterterrorism\n\nbut counter\nterrorism-fin...",
+      "text_length": 512,
+      "relevance_score": 0.46597182154719874,
+      "semantic_score": 0.23710260221028387,
+      "bm25_score": 1.0,
+      "citation_key": "DIAstyleManualIntelProd_2016_p183"
+    },
+    {
+      "index": 57,
+      "doc_id": "DIA_FileId_238416",
+      "title": "DIA_FileId_238416.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 3,
+      "text_preview": "SECRATES A REAL COUP D'ETAT AGAINST THE\nAGREEMENT.\n\u2022 -AS A MATTER OF FACT, ARTICLE I POINT 2, B OF THE\nPREAMBLE PROVIDES THAT ANY PROVISION OF THE AGREEMENT OR\nTHE PROTOCOLS MAY BE AMENDED PROVIDED FO...",
+      "text_length": 488,
+      "relevance_score": 0.4613701216217165,
+      "semantic_score": 0.6591001737453093,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238416_p3"
+    },
+    {
+      "index": 58,
+      "doc_id": "DEAlibraryCat2024",
+      "title": "DEAlibraryCat2024.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 175,
+      "text_preview": "ege,\n\n\n\n\nPejama Press,\nPejama Press,\nO'Reilly & Associates,\nPantheon Books,\nCongressional Research Service, Library of\nCongressional Research Service, Library of\nCongressional Research Service, Librar...",
+      "text_length": 508,
+      "relevance_score": 0.45852281179238263,
+      "semantic_score": 0.6550325882748324,
+      "bm25_score": 0,
+      "citation_key": "DEAlibraryCat2024_p175"
+    },
+    {
+      "index": 59,
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 128,
+      "text_preview": "onality of Ngo Dinh Diem and his overthrow;\ndevelopment of counterinsurgency (COIN) program;\nthe Agroville Program of fortified villages;\ncountry team organization and effectiveness; MAAG\nemphasis, mi...",
+      "text_length": 512,
+      "relevance_score": 0.45730921634972854,
+      "semantic_score": 0.6532988804996123,
+      "bm25_score": 0,
+      "citation_key": "USAFohCat_1982_p128"
+    },
+    {
+      "index": 60,
+      "doc_id": "DHS-TOPOFF2-4_2003-2007",
+      "title": "DHS-TOPOFF2-4_2003-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 514,
+      "text_preview": "d the brothers for future wars and confrontations.\n\u2022 Winning sympathizers and increasing the popularity of the Mujahidin with every\n\nsuccessful operation.\n\u2022 Forcing the regime to change their policies...",
+      "text_length": 411,
+      "relevance_score": 0.45728398665574443,
+      "semantic_score": 0.3514690072910851,
+      "bm25_score": 0.7041856051732829,
+      "citation_key": "DHS-TOPOFF2-4_2003-2007_p514"
+    },
+    {
+      "index": 61,
+      "doc_id": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u",
+      "title": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 766,
+      "text_preview": "it\nplace further strain on U. S.-Soviet relations. Therefore, the\ndecision to arrest the Soviets was by no means a cut-and-dried\naffair, but involved the consideration of highly complex issu~s..\n\n{U) ...",
+      "text_length": 457,
+      "relevance_score": 0.45076638920748757,
+      "semantic_score": 0.35214354390302344,
+      "bm25_score": 0.6808863615845706,
+      "citation_key": "FBI-HQ-74480-ForeignIntelAnal_1972-1988u_p766"
+    },
+    {
+      "index": 62,
+      "doc_id": "DallasFedResBkUponAStrongFoundation1992",
+      "title": "DallasFedResBkUponAStrongFoundation1992.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 16,
+      "text_preview": "N U N ION TELEGRAPH COM PANY\n\nCABLE SERVICE TO AU.\n\nR ECEIVED AT\n\u2022 11M\n\nWoodrow Wilson\nThe presidential election or 1912\nmarked the culmination of more\nthan 20 year of revolt again I a\nstate of affair...",
+      "text_length": 348,
+      "relevance_score": 0.45024062382562413,
+      "semantic_score": 0.6432008911794631,
+      "bm25_score": 0,
+      "citation_key": "DallasFedResBkUponAStrongFoundation1992_p16"
+    },
+    {
+      "index": 63,
+      "doc_id": "DIA_FileId_238415",
+      "title": "DIA_FileId_238415.pdf",
+      "source": "DIA Reading Room",
+      "page_no": null,
+      "text_preview": "1 AND 940802, AND AT\nANGOCHE ON 940726 AND 940802.\n\n\n(b)(3):10 USC\n424\n\n\n4/22/2014\n\nSearch Display\n\n'---j~\n\n(b)(1 ); 14 (c)\n\nThe last page is\nithheld in full.\n\nPage 4 of5\n\nb)(3):10 USC\n\nRENAMO GENERAL...",
+      "text_length": 504,
+      "relevance_score": 0.44973726912492556,
+      "semantic_score": 0.642481813035608,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238415_chunk63"
+    },
+    {
+      "index": 64,
+      "doc_id": "StatePArapidResponse2013",
+      "title": "StatePArapidResponse2013.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 14,
+      "text_preview": "d sees good prospects for a\n\"successful Geneva II.\" France's Les Echos stresses that \"while the players in the Syrian crisis\nremain at an impasse, there has been change with regard to the major powers...",
+      "text_length": 383,
+      "relevance_score": 0.44763604154744285,
+      "semantic_score": 0.22199081525900421,
+      "bm25_score": 0.9741415695537996,
+      "citation_key": "StatePArapidResponse2013_p14"
+    },
+    {
+      "index": 65,
+      "doc_id": "DIA_FileId_238823",
+      "title": "DIA_FileId_238823.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 2,
+      "text_preview": "TO DO, o AF~.\u00a3k THev \" HA'lE\n8!! N')\\JLLV EXPLoJT. EDg THERE HAV! B~EN TWO E~PCANAtlONS roR\nT~IS ~ FIRSTt ARcENTJNE o~, ICERS WOULD RATHER NJ'K.\nTHE EFFECTS OF GUERRILLA PROPAGANOA CAHPAIGNs\u00b7I~AN FACE...",
+      "text_length": 499,
+      "relevance_score": 0.4465338714443813,
+      "semantic_score": 0.6379055306348305,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238823_p2"
+    },
+    {
+      "index": 66,
+      "doc_id": "USAGMteosMrpts_2014-2019",
+      "title": "USAGMteosMrpts_2014-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 17,
+      "text_preview": "ystems with contemporary control-by- wire systems.\n\nThe Station Manager traveled to the Embassy to meet with Mission Management and discuss security\nconcems amid the current political situation in cou...",
+      "text_length": 471,
+      "relevance_score": 0.44475360608511494,
+      "semantic_score": 0.6353622944073071,
+      "bm25_score": 0,
+      "citation_key": "USAGMteosMrpts_2014-2019_p17"
+    },
+    {
+      "index": 67,
+      "doc_id": "DIA_FileId_239088",
+      "title": "DIA_FileId_239088.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 2,
+      "text_preview": "FICIALLY SPOKE\nOUT ABOUT THE COUP, EXPRESSING DELIGHT OVER PRESIDENT\nCHAVEZ'S OUSTER AND LATER BY NOT ACKNOWLEDGING THIS\nDIPLOMATIC BLUNDER.\n2. (U) SOURCE A INDICATED THAT RECENTLY THERE HAS BEEN A\nGR...",
+      "text_length": 429,
+      "relevance_score": 0.443874801526364,
+      "semantic_score": 0.6341068593233772,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239088_p2"
+    },
+    {
+      "index": 68,
+      "doc_id": "DOJcrmGenocMA2008-2015",
+      "title": "DOJcrmGenocMA2008-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 170,
+      "text_preview": "(ICITAP)\n\n(cid:131) Follow-up on filed complaints in a\n\ntimely manner\n\nPolitical Instability\n\n(cid:131) Abrupt and frequent govemment\n\n(cid:131) Provide support and protection to attransitions and cha...",
+      "text_length": 512,
+      "relevance_score": 0.4430472542546463,
+      "semantic_score": 0.632924648935209,
+      "bm25_score": 0,
+      "citation_key": "DOJcrmGenocMA2008-2015_p170"
+    },
+    {
+      "index": 69,
+      "doc_id": "DIA_FileId_238915",
+      "title": "DIA_FileId_238915.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 73,
+      "text_preview": "ics and the disappearance of secretary\ndirection). Before each new blow, the tightening was sharper and the increase\nof rear guards having to support the withdrawals increased the organizational\ncrisi...",
+      "text_length": 325,
+      "relevance_score": 0.4416295063469213,
+      "semantic_score": 0.6308992947813161,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238915_p73"
+    },
+    {
+      "index": 70,
+      "doc_id": "DIA_FileId_239228",
+      "title": "DIA_FileId_239228.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 3,
+      "text_preview": "the\nchange scheduled in the Junta later this year.\n\ncc:\n\nPOL\nPOL/R\n\n\n\nDECLASSIFIED IN FULL\nAuthority: EO 13526\nDIA FOIA & Declassification Services Offices\nDate: Oct 19, 201s\n\nSQN\u00a5IDEWTIJ. I.\n\n(b)(3):...",
+      "text_length": 210,
+      "relevance_score": 0.4397220607845824,
+      "semantic_score": 0.37883487259629334,
+      "bm25_score": 0.581792166557257,
+      "citation_key": "DIA_FileId_239228_p3"
+    },
+    {
+      "index": 71,
+      "doc_id": "USAIDpresidentTransDocs_2016",
+      "title": "USAIDpresidentTransDocs_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 104,
+      "text_preview": "forts to open up authoritarian and hybrid regimes. In countries that\nhave experienced political transitions, the persistence of corruption, rising income inequality and\nfailed democratic reforms enabl...",
+      "text_length": 291,
+      "relevance_score": 0.43878083528082473,
+      "semantic_score": 0.6268297646868926,
+      "bm25_score": 0,
+      "citation_key": "USAIDpresidentTransDocs_2016_p104"
+    },
+    {
+      "index": 72,
+      "doc_id": "DIA_FileId_239120",
+      "title": "DIA_FileId_239120.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 3,
+      "text_preview": "t,\nalong with accompanying geopolitical influence.\n\n(Leave Blank)\n\nDECLASSIFIED IN FULL\nAuthority: EO 13526\nDIA FOIA& Declassification Services Offices\nDate: Oct 19, 2018\n\n1111\n\nFOR M\nt S EP 76 U%C\n\n1...",
+      "text_length": 460,
+      "relevance_score": 0.43547166400826925,
+      "semantic_score": 0.6221023771546704,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239120_p3"
+    },
+    {
+      "index": 73,
+      "doc_id": "DIA_FileId_239290",
+      "title": "DIA_FileId_239290.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 2,
+      "text_preview": "L~(c)\n\n(b)(I),1.4 (c)\n\n(b)(I),1.4 (<::)\n\n2. ~I\nP,. BOUT A RECENT RADIO REPORT\nTHAT CLAIMED FOREIGN MINISTER, RETIRED GENERAL FERNANDO\n((OCHOA)) ANTICH, HAD STATED THAT IT WAS NOT IN THE\nNATIONAL INTER...",
+      "text_length": 508,
+      "relevance_score": 0.43351836070756944,
+      "semantic_score": 0.6193119438679564,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239290_p2"
+    },
+    {
+      "index": 74,
+      "doc_id": "DHSActionInfoMemosSecry_2018",
+      "title": "DHSActionInfoMemosSecry_2018.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 63,
+      "text_preview": "RY\n\n\"\"(b\"\"\")(6\"\"'\") - - -- - - -,\n\nFROM:\n\nJames W. McCam\nDeputy Under Secre my\nOffice of Strategy, Policy, and Plans\n\n\nSUBJECT:\n\nRecalcitrant Country Engagement Update\n\n(b)(5)\n\nP-R:- DECISIONAL'D[LiBE...",
+      "text_length": 511,
+      "relevance_score": 0.4327605558615698,
+      "semantic_score": 0.6182293655165283,
+      "bm25_score": 0,
+      "citation_key": "DHSActionInfoMemosSecry_2018_p63"
+    },
+    {
+      "index": 75,
+      "doc_id": "DIA_FileId_239287",
+      "title": "DIA_FileId_239287.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 2,
+      "text_preview": "NDER AND A\nCHAPLAIN IN EXCHANGE FOR THEIR FREEDOM. AFTER A TENSE FIVE HOURS,\nTHE IMPRISONED OFFICERS RELEASED THEIR HOSTAGES AND SURRENDERED.\nTHERE WERE REPORTEDLY NO CASUAL TIES. LAST FEBRUARY'S COUP...",
+      "text_length": 357,
+      "relevance_score": 0.4283967408467903,
+      "semantic_score": 0.6119953440668433,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239287_p2"
+    },
+    {
+      "index": 76,
+      "doc_id": "NIAIDcrewsFTPCRC2019-2020",
+      "title": "NIAIDcrewsFTPCRC2019-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 40,
+      "text_preview": "o an anti-Trump coup within the federal govemment. Do you think\nNIAID/NIH/Fauci are part of or complicit in that?\n\nDo you think your writings on the coronavirus in particular have held up? I'm thinkin...",
+      "text_length": 496,
+      "relevance_score": 0.42804700839484067,
+      "semantic_score": 0.6114957262783438,
+      "bm25_score": 0,
+      "citation_key": "NIAIDcrewsFTPCRC2019-2020_p40"
+    },
+    {
+      "index": 77,
+      "doc_id": "DIA_FileId_239046",
+      "title": "DIA_FileId_239046.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 2,
+      "text_preview": "DEPARTMENT OF DEFENSE\n\nJOINT CHl(F~ OF STAFF\n\n\n~,._SSAGE CENTER\n\n' Q ~ F I O E N I I \u2022 L\n\n97343\n\n\nI'fHO\n\nlllAS APPARENTLY\n\nlME AOMINISlRATJON'5 ILLS WAS k0RSE THAN T~E -\n\nGOVT OF PRES ID ENT ISABEL PE...",
+      "text_length": 439,
+      "relevance_score": 0.42197706621500997,
+      "semantic_score": 0.6028243803071571,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_239046_p2"
+    },
+    {
+      "index": 78,
+      "doc_id": "ArmySFreviewIndochina_1976",
+      "title": "ArmySFreviewIndochina_1976.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 99,
+      "text_preview": "d it expedient to intervene in Africa.\"'1\na~fairs. Into the next decade, the African states in general will con\ntinue to expouse nonaligrunent, but will receive assistance from third\nparties in an att...",
+      "text_length": 425,
+      "relevance_score": 0.41786983738544264,
+      "semantic_score": 0.37869196662384264,
+      "bm25_score": 0.5092848691625094,
+      "citation_key": "ArmySFreviewIndochina_1976_p99"
+    },
+    {
+      "index": 79,
+      "doc_id": "StateRahmanVisa_1994-1995",
+      "title": "StateRahmanVisa_1994-1995.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": null,
+      "text_preview": "cludability to\n\nCOUP: IDEHTIAL\n\n\nUNCLASSIFIED\n\u2022 _.\n\nUNCLASSIFIED\n\ng>lfrlDENTIA~\n\nmeet the intent'of the INA in preyenting such individuals\nfrom obtaining NIVs.\n\n('12) BggoMendation 1: We recommend tha...",
+      "text_length": 498,
+      "relevance_score": 0.4175840579405015,
+      "semantic_score": 0.5965486542007165,
+      "bm25_score": 0,
+      "citation_key": "StateRahmanVisa_1994-1995_chunk79"
+    },
+    {
+      "index": 80,
+      "doc_id": "NSAohiREDACTED_OH 1988-11",
+      "title": "NSAohiREDACTED_OH 1988-11.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 36,
+      "text_preview": "to phrase it?\n\nWell, I tb i n k... And th is is... I hate to say it's a ll of a DEFSMAC coup but it\n\n'- if8P 8E8REifN88MIHiJJ'fltfRFFli! sltRF028284128 Page 33\nPL 8 6 - 3 6 / 5 O USC 3 6 O 5 r Release...",
+      "text_length": 366,
+      "relevance_score": 0.41004464474953667,
+      "semantic_score": 0.5857780639279095,
+      "bm25_score": 0,
+      "citation_key": "NSAohiREDACTED_OH 1988-11_p36"
+    },
+    {
+      "index": 81,
+      "doc_id": "TreasuryDO-FOIAbacklogEmail_2012-14",
+      "title": "TreasuryDO-FOIAbacklogEmail_2012-14.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 64,
+      "text_preview": "ith Reuters, for Treasury Secretary Geithner's\n\ncalendar for Oct. 1, 2012 to December 31, 2012.\n\u2022 Request from\n\na private citizen, for any e-mails and attachments sent\n\nto CIA from Treasury for time p...",
+      "text_length": 262,
+      "relevance_score": 0.40908461470296303,
+      "semantic_score": 0.5844065924328044,
+      "bm25_score": 0,
+      "citation_key": "TreasuryDO-FOIAbacklogEmail_2012-14_p64"
+    },
+    {
+      "index": 82,
+      "doc_id": "DIA_FileId_238011",
+      "title": "DIA_FileId_238011.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 10,
+      "text_preview": "TEMPTS AT CONFLICT RESOLUTION\nAND DEMOCRATIZATION. IN THE POLITICAL AND ECONOMIC ARENAS, NEITHER\nOF THESE COUNTRIES HAS THE KIND OF EXPERIENCE OR EXPERTISE THAT\nWILL BE REQUIRED TO NURTURE COMPLEX REF...",
+      "text_length": 449,
+      "relevance_score": 0.40452639114049305,
+      "semantic_score": 0.5778948444864187,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238011_p10"
+    },
+    {
+      "index": 83,
+      "doc_id": "DIA_FileId_238382",
+      "title": "DIA_FileId_238382.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 10,
+      "text_preview": "TEMPTS AT CONFLICT RESOLUTION\nAND DEMOCRATIZATION. IN THE POLITICAL AND ECONOMIC ARENAS, NEITHER\nOF THESE COUNTRIES HAS THE KIND OF EXPERIENCE OR EXPERTISE THAT\nWILL BE REQUIRED TO NURTURE COMPLEX REF...",
+      "text_length": 449,
+      "relevance_score": 0.40452639114049305,
+      "semantic_score": 0.5778948444864187,
+      "bm25_score": 0,
+      "citation_key": "DIA_FileId_238382_p10"
+    },
+    {
+      "index": 84,
+      "doc_id": "TIGTAweeklyRepts_2011-2014",
+      "title": "TIGTAweeklyRepts_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 141,
+      "text_preview": "13; E. D. N. Y. Superseding Indictment fi led Aug. 7, 20 13.\n2 E. D. N. Y. Superseding Indictment filed Aug. 7, 2013.\n3 Id.\n4 E. D. N. Y. AUSA Letter Requesting Detention filed Aug. 13, 2013.\n5 E. D. ...",
+      "text_length": 431,
+      "relevance_score": 0.40337059913361,
+      "semantic_score": 0.5762437130480144,
+      "bm25_score": 0,
+      "citation_key": "TIGTAweeklyRepts_2011-2014_p141"
+    },
+    {
+      "index": 85,
+      "doc_id": "DIA_AnalysisKwameNkrumahOfGhana1966",
+      "title": "DIA_AnalysisKwameNkrumahOfGhana1966.pdf",
+      "source": "GovernmentAttic.org",
+      "page_no": 9,
+      "text_preview": "on likely to have\nthe capability to overthrow him. There is some re\nsentment of Nkrumah's pro-Communist policies within\nthe military and several coup plots have been under\n\n12 Jan 66\n\nDIA Intelligence...",
+      "text_length": 388,
+      "relevance_score": 0.403287839903953,
+      "semantic_score": 0.5761254855770758,
+      "bm25_score": 0,
+      "citation_key": "DIA_AnalysisKwameNkrumahOfGhana1966_p9"
+    },
+    {
+      "index": 86,
+      "doc_id": "DIA_FileId_238563",
+      "title": "DIA_FileId_238563.pdf",
+      "source": "DIA Reading Room",
+      "page_no": 6,
+      "text_preview": "kept the military weak by\nrestricting its funding.\n\nespecially\n\u2022 - ~ With the armed forces occupied with\npeacekeeping\nits\ncommitments,\ncontribution to ECOMIL, and intemal security\nmissions, such as th...",
+      "text_length": 348,
+      "relevance_score": 0.40310858702296537,
+      "semantic_score": 0.31610756938393464,
+      "bm25_score": 0.606110961514037,
+      "citation_key": "DIA_FileId_238563_p6"
+    }
+  ],
+  "context_length": 44592,
+  "style": "comprehensive",
+  "length_mode": "exhaustive",
+  "quality_iterations": 3,
+  "final_quality": {
+    "citation_density": 0.8055736991073372,
+    "avg_relevance": 0.5,
+    "total_citations": 37,
+    "valid_citations": 29,
+    "invalid_citations": 8,
+    "passes_standards": false
+  },
+  "validation_cache": {
+    "total_citations": 37,
+    "valid": 29,
+    "invalid": 8,
+    "citation_density": 0.8055736991073372,
+    "total_words": 4593,
+    "avg_relevance_score": 0.5,
+    "issues": [
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_fileId_239046#page=2\" class=\"citation\" target=\"_blank\">(Doc #239046, p.2)</a>",
+          "document_id": "DIA_fileId_239046",
+          "page_no": 2
+        },
+        "issue": "Document not found in DB",
+        "context": "pdf, <a href=\"/pdf/DIAFileId238120page=1\" class=\"citation\" target=\"blank\">(Doc 238120, p.1)</a>, <a href=\"/pdf/DIAFileId239014page=1\" class=\"citation\" target=\"blank\">(Doc 239014, p.1)</a>, <a href=\"/pdf/DIAfileId239046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>, DIAFileId239258.pdf, <a href=\"/pdf/StateDeptRelDocsIndex2010page=64\" class=\"citation\" target=\"blank\">(Doc 2010, p.64)</a>, <a href=\"/pdf/NSA-Cryptologic-History-SeriesIn-the-Shadow-of-War1",
+        "relevance_score": null,
+        "verdict": null
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIAhistOSAincep-1969u#page=893\" class=\"citation\" target=\"_blank\">(Doc #DIAhistOSAincep-1969u, p.893)</a>",
+          "document_id": "DIAhistOSAincep-1969u",
+          "page_no": 893
+        },
+        "issue": "Document not found in DB",
+        "context": "ry-SeriesIn-the-Shadow-of-War1969page=18\" class=\"citation\" target=\"blank\">(Doc 1969, p.18)</a>, <a href=\"/pdf/DIAFileId238567page=65\" class=\"citation\" target=\"blank\">(Doc 238567, p.65)</a>, <a href=\"/pdf/DIAhistOSAincep-1969upage=893\" class=\"citation\" target=\"blank\">(Doc DIAhistOSAincep-1969u, p.893)</a>.\n  - Afghanistan: the 1973 coup that replaced King Zahir Shah with Mohammed Daud is presented in policy documents that discuss modernization aims, reform trajectories, and Western alignment, highligh",
+        "relevance_score": null,
+        "verdict": null
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA.FileId_238811#page=10\" class=\"citation\" target=\"_blank\">(Doc #238811, p.10)</a>",
+          "document_id": "DIA.FileId_238811",
+          "page_no": 10
+        },
+        "issue": "Document not found in DB",
+        "context": "nts <a href=\"/pdf/DTICbiblioCSIS2019page=9\" class=\"citation\" target=\"blank\">(Doc 2019, p.9)</a>, <a href=\"/pdf/DIAFileId238616page=23\" class=\"citation\" target=\"blank\">(Doc 238616, p.23)</a>, <a href=\"/pdf/DIA.FileId238811page=10\" class=\"citation\" target=\"blank\">(Doc 238811, p.10)</a>.\n\n6) Consequences for domestic policy, governance, and reform\n\nDomestic policy shifts after coups\n- Coup episodes correlate with a spectrum of domestic policy outcomes, from immediate consolidation o",
+        "relevance_score": null,
+        "verdict": null
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/USAFScapabilitySEasia_1963-1964-1969#page=276\" class=\"citation\" target=\"_blank\">(Doc #1963-1964-1969, p.276)</a>",
+          "document_id": "USAFScapabilitySEasia_1963-1964-1969",
+          "page_no": 276
+        },
+        "issue": "Document not found in DB",
+        "context": "tories. The corpus includes references to stabilization and reconstruction frameworks within coup-affected environments, as part of broader U.S. strategic planning and international security analyses <a href=\"/pdf/USAFScapabilitySEasia1963-1964-1969page=276\" class=\"citation\" target=\"blank\">(Doc 1963-1964-1969, p.276)</a>, <a href=\"/pdf/DIAFileId238382page=10\" class=\"citation\" target=\"blank\">(Doc 238382, p.10)</a>.\n\n8) Declassification, information gaps, and methodological notes\n\nDeclassification status and cover",
+        "relevance_score": null,
+        "verdict": null
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238005#page=4\" class=\"citation\" target=\"_blank\">(Doc #238005, p.4)</a>",
+          "document_id": "DIA_FileId_238005",
+          "page_no": 4
+        },
+        "issue": "Page not found for document",
+        "context": "precise names, dates, and organizational roles, while others are discussed more generally. Readers should treat the depth of coverage per case as contingent on source availability and release status <a href=\"/pdf/DIAFileId238005page=4\" class=\"citation\" target=\"blank\">(Doc 238005, p.4)</a>, <a href=\"/pdf/DIAFileId239046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>.\n\nCross-document triangulation\n- The synthesis adheres to triangulation across dozens of sources to co",
+        "relevance_score": null,
+        "verdict": null
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FILE_Id_238423#page=2\" class=\"citation\" target=\"_blank\">(Doc #238423, p.2)</a>",
+          "document_id": "DIA_FILE_Id_238423",
+          "page_no": 2
+        },
+        "issue": "Document not found in DB",
+        "context": ">\n- <a href=\"/pdf/DIAFileId239192page=2\" class=\"citation\" target=\"blank\">(Doc 239192, p.2)</a>\n- <a href=\"/pdf/DIAFileId239120page=3\" class=\"citation\" target=\"blank\">(Doc 239120, p.3)</a>\n- <a href=\"/pdf/DIAFILEId238423page=2\" class=\"citation\" target=\"blank\">(Doc 238423, p.2)</a> (if present in context; otherwise omit)\n- <a href=\"/pdf/DIAFileId239210page=5\" class=\"citation\" target=\"blank\">(Doc 239210, p.5)</a>\n- <a href=\"/pdf/DIAFileId238823page=2\" class=\"citation\" ta",
+        "relevance_score": null,
+        "verdict": null
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239210#page=5\" class=\"citation\" target=\"_blank\">(Doc #239210, p.5)</a>",
+          "document_id": "DIA_FileId_239210",
+          "page_no": 5
+        },
+        "issue": "Page not found for document",
+        "context": "3\" class=\"citation\" target=\"blank\">(Doc 239120, p.3)</a>\n- <a href=\"/pdf/DIAFILEId238423page=2\" class=\"citation\" target=\"blank\">(Doc 238423, p.2)</a> (if present in context; otherwise omit)\n- <a href=\"/pdf/DIAFileId239210page=5\" class=\"citation\" target=\"blank\">(Doc 239210, p.5)</a>\n- <a href=\"/pdf/DIAFileId238823page=2\" class=\"citation\" target=\"blank\">(Doc 238823, p.2)</a>\n- <a href=\"/pdf/DIAFileId239264page=3\" class=\"citation\" target=\"blank\">(Doc 239264, p.3)</a>\n- <",
+        "relevance_score": null,
+        "verdict": null
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238811#page=10\" class=\"citation\" target=\"_blank\">(Doc #238811, p.10)</a>",
+          "document_id": "DIA_FileId_238811",
+          "page_no": 10
+        },
+        "issue": "Page not found for document",
+        "context": ">\n- <a href=\"/pdf/DIAFileId238823page=2\" class=\"citation\" target=\"blank\">(Doc 238823, p.2)</a>\n- <a href=\"/pdf/DIAFileId239264page=3\" class=\"citation\" target=\"blank\">(Doc 239264, p.3)</a>\n- <a href=\"/pdf/DIAFileId238811page=10\" class=\"citation\" target=\"blank\">(Doc 238811, p.10)</a>\n\nNotes on structure and future enhancements\n\n- This wiki page is designed as a living synthesis. Additional declassified documents can be appended to expand regional case studies, fill gaps in specif",
+        "relevance_score": null,
+        "verdict": null
+      }
+    ],
+    "warnings": [
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238616#page=23\" class=\"citation\" target=\"_blank\">(Doc #238616, p.23)</a>",
+          "document_id": "DIA_FileId_238616",
+          "page_no": 23
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The page discusses regime change and state failure and notes that such events could be destabilizing for regions and the world, which tangentially supports the idea that coups have governance/foreign-policy consequences. However, it does not explicitly mention coups, nor does it clearly cite global-pattern syntheses or region-specific analyses linking coups to those consequences.",
+        "context": "cross different silos of intelligence and policy records. See, for example, global-pattern syntheses and region-specific analyses that link coups to broader governance and foreign-policy consequences <a href=\"/pdf/DIAFileId238616page=23\" class=\"citation\" target=\"blank\">(Doc 238616, p.23)</a>, <a href=\"/pdf/DTICbiblioCSIS2019page=9\" class=\"citation\" target=\"blank\">(Doc 2019, p.9)</a>.\n\nThe article follows a structured progression: from definitions and framing to global patterns, regio",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/HistCIAopc1973#page=9\" class=\"citation\" target=\"_blank\">(Doc #HistCIAopc1973, p.9)</a>",
+          "document_id": "HistCIAopc1973",
+          "page_no": 9
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The page describes 1948 coup-related events in Europe (Czechoslovakia) and Asia (China, Philippines), showing some geographic/time scope, but it does not mention Africa or the Americas, nor does it cover late 20th/early 21st century. Therefore it only partially supports the geography/temporal breadth claim.",
+        "context": "alignments, domestic governance, and reform pathways\u2014beyond simply removing a single chief executive <a href=\"/pdf/DIAFileId238616page=23\" class=\"citation\" target=\"blank\">(Doc 238616, p.23)</a>, <a href=\"/pdf/HistCIAopc1973page=9\" class=\"citation\" target=\"blank\">(Doc HistCIAopc1973, p.9)</a>.\n\nGeography and temporal breadth\n- Declassified materials cover coups from Africa, the Americas, Asia, and Europe across the Cold War, late 20th century, and into the early 21st century. Africa\u2019s pos",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_AnalysisKwameNkrumahOfGhana1966#page=9\" class=\"citation\" target=\"_blank\">(Doc #AnalysisKwameNkrumahOfGhana1966, p.9)</a>",
+          "document_id": "DIA_AnalysisKwameNkrumahOfGhana1966",
+          "page_no": 9
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited page only discusses Nkrumah\u2019s subversion in Africa and briefly mentions the \u201cVietnamese situation.\u201d It does not reference RENAMO, Somalia, Afghanistan (1973), Vietnam coups in the 1960s, Venezuela (2002), Greece, or other European examples, so it does not substantiate the listed claim.",
+        "context": "RENAMO, Somalia (Siad Barre era), Argentina\u2019s mid-20th-century coups, Afghanistan (1973), Vietnam-related coups in the 1960s, Venezuela (2002), Greece and other European examples in broader syntheses <a href=\"/pdf/DIAAnalysisKwameNkrumahOfGhana1966page=9\" class=\"citation\" target=\"blank\">(Doc AnalysisKwameNkrumahOfGhana1966, p.9)</a>, <a href=\"/pdf/DIAFileId238464page=115\" class=\"citation\" target=\"blank\">(Doc 238464, p.115)</a>, DIAFileId238415.pdf, <a href=\"/pdf/DIAFileId238120page=1\" class=\"citation\" target=\"blank\"",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238464#page=115\" class=\"citation\" target=\"_blank\">(Doc #238464, p.115)</a>",
+          "document_id": "DIA_FileId_238464",
+          "page_no": 115
+        },
+        "issue": "LLM validation: UNSUPPORTED (HIGH): The cited page (DIA_FileId_238464, p.115) exclusively discusses Equatorial Guinea, its economy, military aid, and political context, with no mention of Greece or other European examples. Therefore it does not support the claim about Greece in broader syntheses.",
+        "context": "2), Greece and other European examples in broader syntheses <a href=\"/pdf/DIAAnalysisKwameNkrumahOfGhana1966page=9\" class=\"citation\" target=\"blank\">(Doc AnalysisKwameNkrumahOfGhana1966, p.9)</a>, <a href=\"/pdf/DIAFileId238464page=115\" class=\"citation\" target=\"blank\">(Doc 238464, p.115)</a>, DIAFileId238415.pdf, <a href=\"/pdf/DIAFileId238120page=1\" class=\"citation\" target=\"blank\">(Doc 238120, p.1)</a>, <a href=\"/pdf/DIAFileId239014page=1\" class=\"citation\" target=\"blank\">(Do",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238120#page=1\" class=\"citation\" target=\"_blank\">(Doc #238120, p.1)</a>",
+          "document_id": "DIA_FileId_238120",
+          "page_no": 1
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The cited DIA page (238120, p.1) explicitly states that the SNM has not attacked Berbera and that the United States enjoys military access rights there. This supports those specific elements of the claim, but without the exact wording of the wiki claim, other components referenced by the full citation set may not be covered by this page alone.",
+        "context": "itation\" target=\"blank\">(Doc AnalysisKwameNkrumahOfGhana1966, p.9)</a>, <a href=\"/pdf/DIAFileId238464page=115\" class=\"citation\" target=\"blank\">(Doc 238464, p.115)</a>, DIAFileId238415.pdf, <a href=\"/pdf/DIAFileId238120page=1\" class=\"citation\" target=\"blank\">(Doc 238120, p.1)</a>, <a href=\"/pdf/DIAFileId239014page=1\" class=\"citation\" target=\"blank\">(Doc 239014, p.1)</a>, <a href=\"/pdf/DIAfileId239046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>, DIA",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/StateDeptRelDocsIndex_2010#page=64\" class=\"citation\" target=\"_blank\">(Doc #2010, p.64)</a>",
+          "document_id": "StateDeptRelDocsIndex_2010",
+          "page_no": 64
+        },
+        "issue": "LLM validation: UNSUPPORTED (HIGH): The cited StateDeptRelDocsIndex_2010 page 64 content shows a list of numeric cable identifiers (e.g., 198803844, 198803869, etc.) and topics, but it does not contain or reference the specific documents mentioned in the claim (Doc 239014, Doc 239046, Doc 239258, Doc 2010 p.64, Doc 1969 p.18, Doc 1973 p.9). Therefore, the page does not clearly back up the claim.",
+        "context": "ileId239014page=1\" class=\"citation\" target=\"blank\">(Doc 239014, p.1)</a>, <a href=\"/pdf/DIAfileId239046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>, DIAFileId239258.pdf, <a href=\"/pdf/StateDeptRelDocsIndex2010page=64\" class=\"citation\" target=\"blank\">(Doc 2010, p.64)</a>, <a href=\"/pdf/NSA-Cryptologic-History-SeriesIn-the-Shadow-of-War1969page=18\" class=\"citation\" target=\"blank\">(Doc 1969, p.18)</a>, <a href=\"/pdf/HistCIAopc1973page=9\" class=\"citation\" target=\"",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSA-Cryptologic-History-Series_In-the-Shadow-of-War_1969#page=18\" class=\"citation\" target=\"_blank\">(Doc #1969, p.18)</a>",
+          "document_id": "NSA-Cryptologic-History-Series_In-the-Shadow-of-War_1969",
+          "page_no": 18
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited NSA document page discusses Vietnam and Laos, including coups and U.S. involvement, but it does not contain an explicit cross-regional framing or claim that coups are tied to broader geopolitical rivalries. Therefore it does not clearly back the claim.",
+        "context": "046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>, DIAFileId239258.pdf, <a href=\"/pdf/StateDeptRelDocsIndex2010page=64\" class=\"citation\" target=\"blank\">(Doc 2010, p.64)</a>, <a href=\"/pdf/NSA-Cryptologic-History-SeriesIn-the-Shadow-of-War1969page=18\" class=\"citation\" target=\"blank\">(Doc 1969, p.18)</a>, <a href=\"/pdf/HistCIAopc1973page=9\" class=\"citation\" target=\"blank\">(Doc HistCIAopc1973, p.9)</a>.\n- The introduction cites a cross-regional framing that coups are tied to broader geopolitical ri",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238751#page=5\" class=\"citation\" target=\"_blank\">(Doc #238751, p.5)</a>",
+          "document_id": "DIA_FileId_238751",
+          "page_no": 5
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The cited page notes that the Argentine army views the reforms since 1983 as the right course and expresses a desire not to return to coup-era politics, which touches on stabilizing reforms and regime survival. However, it does not explicitly discuss co-option or strategic moves to preserve a regime\u2019s survival in the sense described by the claim, nor does it clearly connect to \u201cmilitary reform dynamics\u201d or \u201cregime dissolution theories\u201d beyond general reform context.",
+        "context": "isfaction, or strategic moves to preserve a regime\u2019s survival, sometimes with the aim of stabilizing or redirecting reforms. See references to military reform dynamics and regime dissolution theories <a href=\"/pdf/DIAFileId238751page=5\" class=\"citation\" target=\"blank\">(Doc 238751, p.5)</a>, <a href=\"/pdf/DIAFileId238616page=23\" class=\"citation\" target=\"blank\">(Doc 238616, p.23)</a>, <a href=\"/pdf/DIAAnalysisKwameNkrumahOfGhana1966page=9\" class=\"citation\" target=\"blank\">(Doc An",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238856#page=3\" class=\"citation\" target=\"_blank\">(Doc #238856, p.3)</a>",
+          "document_id": "DIA_FileId_238856",
+          "page_no": 3
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The cited page documents contingency planning and political actors\u2019 cooperation with the military as preconditions for a coup (supporting preconditions and coup plotting). It does not mention military commissions or post-coup legitimacy frameworks (amnesty/prosecutions), so it only partially supports the claim.",
+        "context": "quences. Many sources discuss the preconditions for coups, coup plotting, military commissions, and post-coup legitimacy frameworks (including amnesty or prosecutions) that shape post-coup governance <a href=\"/pdf/DIAFileId238856page=3\" class=\"citation\" target=\"blank\">(Doc 238856, p.3)</a>, <a href=\"/pdf/DIAFileId239028page=2\" class=\"citation\" target=\"blank\">(Doc 239028, p.2)</a>, <a href=\"/pdf/DIAFileId239046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>.\n\n2)",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239028#page=2\" class=\"citation\" target=\"_blank\">(Doc #239028, p.2)</a>",
+          "document_id": "DIA_FileId_239028",
+          "page_no": 2
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The page discusses potential post-coup leadership and military involvement but does not mention or substantiate any post-coup legitimacy frameworks (such as amnesty or prosecutions) that would shape governance.",
+        "context": "nd post-coup legitimacy frameworks (including amnesty or prosecutions) that shape post-coup governance <a href=\"/pdf/DIAFileId238856page=3\" class=\"citation\" target=\"blank\">(Doc 238856, p.3)</a>, <a href=\"/pdf/DIAFileId239028page=2\" class=\"citation\" target=\"blank\">(Doc 239028, p.2)</a>, <a href=\"/pdf/DIAFileId239046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>.\n\n2) Theoretical frameworks and historical context\n\nPolitical science and intelligence framing\n- A num",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239046#page=2\" class=\"citation\" target=\"_blank\">(Doc #239046, p.2)</a>",
+          "document_id": "DIA_FileId_239046",
+          "page_no": 2
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The DIA page 239046, p.2 discusses coup dynamics with military-political framing and provides historical context (Peron era, Argentina), showing political-military interplays. However, it does not explicitly present theoretical frameworks or reference multiple sources as the claim wording implies, so it only partially supports the claim.",
+        "context": "nance <a href=\"/pdf/DIAFileId238856page=3\" class=\"citation\" target=\"blank\">(Doc 238856, p.3)</a>, <a href=\"/pdf/DIAFileId239028page=2\" class=\"citation\" target=\"blank\">(Doc 239028, p.2)</a>, <a href=\"/pdf/DIAFileId239046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>.\n\n2) Theoretical frameworks and historical context\n\nPolitical science and intelligence framing\n- A number of sources discuss coup dynamics through lenses of political-military interfaces, organizatio",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239036#page=7\" class=\"citation\" target=\"_blank\">(Doc #239036, p.7)</a>",
+          "document_id": "DIA_FileId_239036",
+          "page_no": 7
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The page discusses external alignments (pro-US stance) and domestic political dynamics (military frustration, HR-related US aid cuts) and their relation to US/Argentina interactions, which aligns with the claim\u2019s theme of intersections between domestic politics and international responses. However, it does not explicitly frame this as the Argentine FOIA literature \u201cemphasizing\u201d the point, making the support partial.",
+        "context": "gime and U.S. security assistance. The Argentine literature in the FOIA corpus emphasizes how external alignments and domestic political calculations intersected with U.S. and international responses <a href=\"/pdf/DIAFileId239036page=7\" class=\"citation\" target=\"blank\">(Doc 239036, p.7)</a>, <a href=\"/pdf/DIAFileId239028page=2\" class=\"citation\" target=\"blank\">(Doc 239028, p.2)</a>, <a href=\"/pdf/DIAFileId239014page=1\" class=\"citation\" target=\"blank\">(Doc 239014, p.1)</a>, <a h",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239290#page=2\" class=\"citation\" target=\"_blank\">(Doc #239290, p.2)</a>",
+          "document_id": "DIA_FileId_239290",
+          "page_no": 2
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The DIA 239290 page discusses a radio claim about pardoning a jailed coup leader (Hugo Ch\u00e1vez), touching on post-coup legitimacy. However, it does not mention the 2002 Venezuelan coup attempts, rebel leadership dynamics, or regional stability implications, so it does not fully support the claim and only partially aligns with the post-coup legitimacy aspect.",
+        "context": "</a>, <a href=\"/pdf/DIAFileId239028page=2\" class=\"citation\" target=\"blank\">(Doc 239028, p.2)</a>, <a href=\"/pdf/DIAFileId239014page=1\" class=\"citation\" target=\"blank\">(Doc 239014, p.1)</a>, <a href=\"/pdf/DIAFileId239290page=2\" class=\"citation\" target=\"blank\">(Doc 239290, p.2)</a>.\n  - Venezuela: 2002 coup attempts and follow-on political reconfigurations are documented with notes about rebel leadership dynamics, post-coup legitimacy, and regional implications for stability an",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239088#page=2\" class=\"citation\" target=\"_blank\">(Doc #239088, p.2)</a>",
+          "document_id": "DIA_FileId_239088",
+          "page_no": 2
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The page discusses regional implications of the Chavez coup and US policy reactions, which aligns with the \"regional implications for stability and U.S.\u2013Latin America policy\" aspect. However, it does not clearly document rebel leadership dynamics or post-coup legitimacy, aside from tangential references to leadership in Nicaragua and the overall political commentary, so it only partially supports the claim.",
+        "context": "itical reconfigurations are documented with notes about rebel leadership dynamics, post-coup legitimacy, and regional implications for stability and U.S.\u2013Latin America policy DIAFileId239258.pdf, <a href=\"/pdf/DIAFileId239088page=2\" class=\"citation\" target=\"blank\">(Doc 239088, p.2)</a>, <a href=\"/pdf/DIAFileId239290page=2\" class=\"citation\" target=\"blank\">(Doc 239290, p.2)</a>.\n- Multiple Latin American snapshots emphasize the domestic political climate, the risk of pardons or",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238567#page=65\" class=\"citation\" target=\"_blank\">(Doc #238567, p.65)</a>",
+          "document_id": "DIA_FileId_238567",
+          "page_no": 65
+        },
+        "issue": "LLM validation: UNSUPPORTED (HIGH): The cited page content discusses the 1963 coup against South Vietnamese President Diem and U.S. reaction, not Afghanistan or the 1973 coup replacing Zahir Shah with Daud; thus it does not support the Afghanistan claim.",
+        "context": "ship, and how these events shaped U.S. engagement in the region <a href=\"/pdf/NSA-Cryptologic-History-SeriesIn-the-Shadow-of-War1969page=18\" class=\"citation\" target=\"blank\">(Doc 1969, p.18)</a>, <a href=\"/pdf/DIAFileId238567page=65\" class=\"citation\" target=\"blank\">(Doc 238567, p.65)</a>, <a href=\"/pdf/DIAhistOSAincep-1969upage=893\" class=\"citation\" target=\"blank\">(Doc DIAhistOSAincep-1969u, p.893)</a>.\n  - Afghanistan: the 1973 coup that replaced King Zahir Shah with Mohammed Dau",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIAhistOSAincep-1969u#page=893\" class=\"citation\" target=\"_blank\">(Doc #CIAhistOSAincep-1969u, p.893)</a>",
+          "document_id": "CIAhistOSAincep-1969u",
+          "page_no": 893
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited excerpt from CIAhistOSAincep-1969u p.893 discusses a Turkish coup in 1960 and related U-2/Cold War context, with no reference to Kwame Nkrumah, Ghana (1966) or Africa case studies. Therefore it does not substantiate the Ghana-specific claim or the implied synthesis about coup-driven changes in Africa/Europe within the cited wiki claim.",
+        "context": "syntheses that provide context for coup-driven changes in Europe and the Western alliance system <a href=\"/pdf/HistCIAopc1973page=9\" class=\"citation\" target=\"blank\">(Doc HistCIAopc1973, p.9)</a>, <a href=\"/pdf/CIAhistOSAincep-1969upage=893\" class=\"citation\" target=\"blank\">(Doc CIAhistOSAincep-1969u, p.893)</a>.\n\n4) Representative case studies (detailed segments)\n\n4.1 Africa: Kwame Nkrumah, Ghana (1966) and post-colonial coup dynamics\n- This Ghanaian case is used to analyze how the military can engage in go",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238382#page=10\" class=\"citation\" target=\"_blank\">(Doc #238382, p.10)</a>",
+          "document_id": "DIA_FileId_238382",
+          "page_no": 10
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The cited page explicitly references Western guidance on electoral codes and constitutional interpretations and notes donor support for economic reforms, which aligns with parts of the claim. However, it does not explicitly address \u201cpost-coup stabilization,\u201d so the claim is not fully supported by this page alone.",
+        "context": "odes and constitutional interpretations, and donor involvement in post-coup stabilization and reform <a href=\"/pdf/DIAFileId238011page=10\" class=\"citation\" target=\"blank\">(Doc 238011, p.10)</a>, <a href=\"/pdf/DIAFileId238382page=10\" class=\"citation\" target=\"blank\">(Doc 238382, p.10)</a>, <a href=\"/pdf/StateDeptRelDocsIndex2010page=64\" class=\"citation\" target=\"blank\">(Doc 2010, p.64)</a>.\n\nEconomic consequences and reform agendas\n- Coup contexts are often accompanied by reform pr",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239120#page=3\" class=\"citation\" target=\"_blank\">(Doc #239120, p.3)</a>",
+          "document_id": "DIA_FileId_239120",
+          "page_no": 3
+        },
+        "issue": "LLM validation: UNSUPPORTED (MEDIUM): The cited page contains a declassified DIA report with unrelated content (Soviet technicians, trade, etc.) and only shows declassification status and a release date. It does not discuss coups, the evolving information landscape around coups, or how declassified materials should be interpreted within their release contexts, so it does not substantiate the claim.",
+        "context": "flecting shifts in public availability over time. These notes underscore the evolving information landscape around coups and the need to interpret declassified materials within their release contexts <a href=\"/pdf/DIAFileId239120page=3\" class=\"citation\" target=\"blank\">(Doc 239120, p.3)</a>, DIAFileId239290pdf (in context).\n\nVariability in coverage and detail\n- Source material varies from high-level syntheses to operational recollections and leadership rosters. This heterogeneity r",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238816#page=3\" class=\"citation\" target=\"_blank\">(Doc #238816, p.3)</a>",
+          "document_id": "DIA_FileId_238816",
+          "page_no": 3
+        },
+        "issue": "LLM validation: PARTIAL (MEDIUM): The cited DIA 238816 page 3 notes ongoing civil-military tension and a February coup attempt in Venezuela, which supports the notion that coups are a relevant feature in these contexts. However, as a single page, it does not clearly demonstrate that coups/regime-change are enduring features across the entire FOIA corpus, so the support is partial rather than full.",
+        "context": "hese biases and derive a more balanced interpretation of events <a href=\"/pdf/NSA-Cryptologic-History-SeriesIn-the-Shadow-of-War1969page=18\" class=\"citation\" target=\"blank\">(Doc 1969, p.18)</a>, <a href=\"/pdf/DIAFileId238816page=3\" class=\"citation\" target=\"blank\">(Doc 238816, p.3)</a>.\n\n12) Summary: Coups & regime change in the FOIA corpus\n\nThe declassified FOIA material portrays coups and regime-change events as enduring features of domestic politics and international security, s",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL"
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSA-SIGINT-style-manual_2010#page=191\" class=\"citation\" target=\"_blank\">(Doc #2010, p.191)</a>",
+          "document_id": "NSA-SIGINT-style-manual_2010",
+          "page_no": 191
+        },
+        "issue": "LLM validation: UNSUPPORTED (HIGH): The cited NSA-SIGINT-style-manual page 191 excerpt shows general glossary/style entries (e.g., definitions for \"regardless,\" \"regime,\" \"releasability statement\") but it does not substantiate any claim about the wiki article\u2019s use of \u201cselected source citations\u201d or cross-referencing. There is no explicit link or evidence on cross-referencing citations in this page.",
+        "context": "Selected source citations (illustrative cross-referencing; many more are used throughout the text)\n\n- <a href=\"/pdf/DTICbiblioCSIS2019page=9\" class=\"citation\" target=\"blank\">(Doc 2019, p.9)</a>\n- <a href=\"/pdf/NSA-SIGINT-style-manual2010page=191\" class=\"citation\" target=\"blank\">(Doc 2010, p.191)</a>\n- <a href=\"/pdf/DIAFileId238567page=65\" class=\"citation\" target=\"blank\">(Doc 238567, p.65)</a>\n- <a href=\"/pdf/DIAFileId238464page=115\" class=\"citation\" target=\"blank\">(Doc 238464, p.115)</",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED"
+      },
+      {
+        "citation": {
+          "raw": "N/A",
+          "document_id": "",
+          "page_no": 0
+        },
+        "issue": "Low citation density (0.81 per 100 words). Aim for at least 2.0 citations per 100 words (1 per 50 words).",
+        "context": "Document has 37 citations in 4593 words",
+        "relevance_score": null,
+        "verdict": null
+      }
+    ],
+    "validated_citations": [
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238616#page=23\" class=\"citation\" target=\"_blank\">(Doc #238616, p.23)</a>",
+          "document_id": "DIA_FileId_238616",
+          "page_no": 23
+        },
+        "context": "cross different silos of intelligence and policy records. See, for example, global-pattern syntheses and region-specific analyses that link coups to broader governance and foreign-policy consequences <a href=\"/pdf/DIAFileId238616page=23\" class=\"citation\" target=\"blank\">(Doc 238616, p.23)</a>, <a href=\"/pdf/DTICbiblioCSIS2019page=9\" class=\"citation\" target=\"blank\">(Doc 2019, p.9)</a>.\n\nThe article follows a structured progression: from definitions and framing to global patterns, regio",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The page discusses regime change and state failure and notes that such events could be destabilizing for regions and the world, which tangentially supports the idea that coups have governance/foreign-policy consequences. However, it does not explicitly mention coups, nor does it clearly cite global-pattern syntheses or region-specific analyses linking coups to those consequences."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DTICbiblioCSIS_2019#page=9\" class=\"citation\" target=\"_blank\">(Doc #2019, p.9)</a>",
+          "document_id": "DTICbiblioCSIS_2019",
+          "page_no": 9
+        },
+        "context": "s and region-specific analyses that link coups to broader governance and foreign-policy consequences <a href=\"/pdf/DIAFileId238616page=23\" class=\"citation\" target=\"blank\">(Doc 238616, p.23)</a>, <a href=\"/pdf/DTICbiblioCSIS2019page=9\" class=\"citation\" target=\"blank\">(Doc 2019, p.9)</a>.\n\nThe article follows a structured progression: from definitions and framing to global patterns, regional case studies, and synthesis plus methodological notes. Each major assertion is anchored with",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "SUPPORTED (MEDIUM): The DTIC/CSIS page 9 excerpt describes coups having foreign dimensions and internal effects, including implications for U.S. policy and Third World regimes, which directly supports the claim that coups are linked to governance and foreign-policy consequences and indicates region-focused analysis."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIApub_PrimerOnTheFutureThreat_1999#page=26\" class=\"citation\" target=\"_blank\">(Doc #1999, p.26)</a>",
+          "document_id": "DIApub_PrimerOnTheFutureThreat_1999",
+          "page_no": 26
+        },
+        "context": "alter the governing order (including implications for post-coup reforms and governance trajectories) <a href=\"/pdf/DIAFileId238616page=23\" class=\"citation\" target=\"blank\">(Doc 238616, p.23)</a>, <a href=\"/pdf/DIApubPrimerOnTheFutureThreat1999page=26\" class=\"citation\" target=\"blank\">(Doc 1999, p.26)</a>.\n- The terminology around regime change is repeatedly tied to shifts in the political system, not only the substitution of leaders. The corpus emphasizes that coups can produce systemic changes\u2014alter",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The page notes that \u201cPolitical dissolution or revolution may come about through a regime change, a change in the system of government,\u201d indicating that coups/regime changes can alter the governing order rather than merely substituting leaders, which aligns with the claim of systemic changes and implications for governance trajectories."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/HistCIAopc1973#page=9\" class=\"citation\" target=\"_blank\">(Doc #HistCIAopc1973, p.9)</a>",
+          "document_id": "HistCIAopc1973",
+          "page_no": 9
+        },
+        "context": "alignments, domestic governance, and reform pathways\u2014beyond simply removing a single chief executive <a href=\"/pdf/DIAFileId238616page=23\" class=\"citation\" target=\"blank\">(Doc 238616, p.23)</a>, <a href=\"/pdf/HistCIAopc1973page=9\" class=\"citation\" target=\"blank\">(Doc HistCIAopc1973, p.9)</a>.\n\nGeography and temporal breadth\n- Declassified materials cover coups from Africa, the Americas, Asia, and Europe across the Cold War, late 20th century, and into the early 21st century. Africa\u2019s pos",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The page describes 1948 coup-related events in Europe (Czechoslovakia) and Asia (China, Philippines), showing some geographic/time scope, but it does not mention Africa or the Americas, nor does it cover late 20th/early 21st century. Therefore it only partially supports the geography/temporal breadth claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_AnalysisKwameNkrumahOfGhana1966#page=9\" class=\"citation\" target=\"_blank\">(Doc #AnalysisKwameNkrumahOfGhana1966, p.9)</a>",
+          "document_id": "DIA_AnalysisKwameNkrumahOfGhana1966",
+          "page_no": 9
+        },
+        "context": "RENAMO, Somalia (Siad Barre era), Argentina\u2019s mid-20th-century coups, Afghanistan (1973), Vietnam-related coups in the 1960s, Venezuela (2002), Greece and other European examples in broader syntheses <a href=\"/pdf/DIAAnalysisKwameNkrumahOfGhana1966page=9\" class=\"citation\" target=\"blank\">(Doc AnalysisKwameNkrumahOfGhana1966, p.9)</a>, <a href=\"/pdf/DIAFileId238464page=115\" class=\"citation\" target=\"blank\">(Doc 238464, p.115)</a>, DIAFileId238415.pdf, <a href=\"/pdf/DIAFileId238120page=1\" class=\"citation\" target=\"blank\"",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited page only discusses Nkrumah\u2019s subversion in Africa and briefly mentions the \u201cVietnamese situation.\u201d It does not reference RENAMO, Somalia, Afghanistan (1973), Vietnam coups in the 1960s, Venezuela (2002), Greece, or other European examples, so it does not substantiate the listed claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238464#page=115\" class=\"citation\" target=\"_blank\">(Doc #238464, p.115)</a>",
+          "document_id": "DIA_FileId_238464",
+          "page_no": 115
+        },
+        "context": "2), Greece and other European examples in broader syntheses <a href=\"/pdf/DIAAnalysisKwameNkrumahOfGhana1966page=9\" class=\"citation\" target=\"blank\">(Doc AnalysisKwameNkrumahOfGhana1966, p.9)</a>, <a href=\"/pdf/DIAFileId238464page=115\" class=\"citation\" target=\"blank\">(Doc 238464, p.115)</a>, DIAFileId238415.pdf, <a href=\"/pdf/DIAFileId238120page=1\" class=\"citation\" target=\"blank\">(Doc 238120, p.1)</a>, <a href=\"/pdf/DIAFileId239014page=1\" class=\"citation\" target=\"blank\">(Do",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "UNSUPPORTED (HIGH): The cited page (DIA_FileId_238464, p.115) exclusively discusses Equatorial Guinea, its economy, military aid, and political context, with no mention of Greece or other European examples. Therefore it does not support the claim about Greece in broader syntheses."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238120#page=1\" class=\"citation\" target=\"_blank\">(Doc #238120, p.1)</a>",
+          "document_id": "DIA_FileId_238120",
+          "page_no": 1
+        },
+        "context": "itation\" target=\"blank\">(Doc AnalysisKwameNkrumahOfGhana1966, p.9)</a>, <a href=\"/pdf/DIAFileId238464page=115\" class=\"citation\" target=\"blank\">(Doc 238464, p.115)</a>, DIAFileId238415.pdf, <a href=\"/pdf/DIAFileId238120page=1\" class=\"citation\" target=\"blank\">(Doc 238120, p.1)</a>, <a href=\"/pdf/DIAFileId239014page=1\" class=\"citation\" target=\"blank\">(Doc 239014, p.1)</a>, <a href=\"/pdf/DIAfileId239046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>, DIA",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The cited DIA page (238120, p.1) explicitly states that the SNM has not attacked Berbera and that the United States enjoys military access rights there. This supports those specific elements of the claim, but without the exact wording of the wiki claim, other components referenced by the full citation set may not be covered by this page alone."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239014#page=1\" class=\"citation\" target=\"_blank\">(Doc #239014, p.1)</a>",
+          "document_id": "DIA_FileId_239014",
+          "page_no": 1
+        },
+        "context": "d238464page=115\" class=\"citation\" target=\"blank\">(Doc 238464, p.115)</a>, DIAFileId238415.pdf, <a href=\"/pdf/DIAFileId238120page=1\" class=\"citation\" target=\"blank\">(Doc 238120, p.1)</a>, <a href=\"/pdf/DIAFileId239014page=1\" class=\"citation\" target=\"blank\">(Doc 239014, p.1)</a>, <a href=\"/pdf/DIAfileId239046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>, DIAFileId239258.pdf, <a href=\"/pdf/StateDeptRelDocsIndex2010page=64\" class=\"citation\" target=\"",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The cited page explicitly identifies the country as Argentina and the title as \u201cMILITARY COUP BY MENENDEZ,\u201d directly supporting the claim that there was a military coup by Men\u00e9ndez in Argentina."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/StateDeptRelDocsIndex_2010#page=64\" class=\"citation\" target=\"_blank\">(Doc #2010, p.64)</a>",
+          "document_id": "StateDeptRelDocsIndex_2010",
+          "page_no": 64
+        },
+        "context": "ileId239014page=1\" class=\"citation\" target=\"blank\">(Doc 239014, p.1)</a>, <a href=\"/pdf/DIAfileId239046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>, DIAFileId239258.pdf, <a href=\"/pdf/StateDeptRelDocsIndex2010page=64\" class=\"citation\" target=\"blank\">(Doc 2010, p.64)</a>, <a href=\"/pdf/NSA-Cryptologic-History-SeriesIn-the-Shadow-of-War1969page=18\" class=\"citation\" target=\"blank\">(Doc 1969, p.18)</a>, <a href=\"/pdf/HistCIAopc1973page=9\" class=\"citation\" target=\"",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "UNSUPPORTED (HIGH): The cited StateDeptRelDocsIndex_2010 page 64 content shows a list of numeric cable identifiers (e.g., 198803844, 198803869, etc.) and topics, but it does not contain or reference the specific documents mentioned in the claim (Doc 239014, Doc 239046, Doc 239258, Doc 2010 p.64, Doc 1969 p.18, Doc 1973 p.9). Therefore, the page does not clearly back up the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSA-Cryptologic-History-Series_In-the-Shadow-of-War_1969#page=18\" class=\"citation\" target=\"_blank\">(Doc #1969, p.18)</a>",
+          "document_id": "NSA-Cryptologic-History-Series_In-the-Shadow-of-War_1969",
+          "page_no": 18
+        },
+        "context": "046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>, DIAFileId239258.pdf, <a href=\"/pdf/StateDeptRelDocsIndex2010page=64\" class=\"citation\" target=\"blank\">(Doc 2010, p.64)</a>, <a href=\"/pdf/NSA-Cryptologic-History-SeriesIn-the-Shadow-of-War1969page=18\" class=\"citation\" target=\"blank\">(Doc 1969, p.18)</a>, <a href=\"/pdf/HistCIAopc1973page=9\" class=\"citation\" target=\"blank\">(Doc HistCIAopc1973, p.9)</a>.\n- The introduction cites a cross-regional framing that coups are tied to broader geopolitical ri",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited NSA document page discusses Vietnam and Laos, including coups and U.S. involvement, but it does not contain an explicit cross-regional framing or claim that coups are tied to broader geopolitical rivalries. Therefore it does not clearly back the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238751#page=5\" class=\"citation\" target=\"_blank\">(Doc #238751, p.5)</a>",
+          "document_id": "DIA_FileId_238751",
+          "page_no": 5
+        },
+        "context": "isfaction, or strategic moves to preserve a regime\u2019s survival, sometimes with the aim of stabilizing or redirecting reforms. See references to military reform dynamics and regime dissolution theories <a href=\"/pdf/DIAFileId238751page=5\" class=\"citation\" target=\"blank\">(Doc 238751, p.5)</a>, <a href=\"/pdf/DIAFileId238616page=23\" class=\"citation\" target=\"blank\">(Doc 238616, p.23)</a>, <a href=\"/pdf/DIAAnalysisKwameNkrumahOfGhana1966page=9\" class=\"citation\" target=\"blank\">(Doc An",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The cited page notes that the Argentine army views the reforms since 1983 as the right course and expresses a desire not to return to coup-era politics, which touches on stabilizing reforms and regime survival. However, it does not explicitly discuss co-option or strategic moves to preserve a regime\u2019s survival in the sense described by the claim, nor does it clearly connect to \u201cmilitary reform dynamics\u201d or \u201cregime dissolution theories\u201d beyond general reform context."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238856#page=3\" class=\"citation\" target=\"_blank\">(Doc #238856, p.3)</a>",
+          "document_id": "DIA_FileId_238856",
+          "page_no": 3
+        },
+        "context": "quences. Many sources discuss the preconditions for coups, coup plotting, military commissions, and post-coup legitimacy frameworks (including amnesty or prosecutions) that shape post-coup governance <a href=\"/pdf/DIAFileId238856page=3\" class=\"citation\" target=\"blank\">(Doc 238856, p.3)</a>, <a href=\"/pdf/DIAFileId239028page=2\" class=\"citation\" target=\"blank\">(Doc 239028, p.2)</a>, <a href=\"/pdf/DIAFileId239046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>.\n\n2)",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The cited page documents contingency planning and political actors\u2019 cooperation with the military as preconditions for a coup (supporting preconditions and coup plotting). It does not mention military commissions or post-coup legitimacy frameworks (amnesty/prosecutions), so it only partially supports the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239028#page=2\" class=\"citation\" target=\"_blank\">(Doc #239028, p.2)</a>",
+          "document_id": "DIA_FileId_239028",
+          "page_no": 2
+        },
+        "context": "nd post-coup legitimacy frameworks (including amnesty or prosecutions) that shape post-coup governance <a href=\"/pdf/DIAFileId238856page=3\" class=\"citation\" target=\"blank\">(Doc 238856, p.3)</a>, <a href=\"/pdf/DIAFileId239028page=2\" class=\"citation\" target=\"blank\">(Doc 239028, p.2)</a>, <a href=\"/pdf/DIAFileId239046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>.\n\n2) Theoretical frameworks and historical context\n\nPolitical science and intelligence framing\n- A num",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The page discusses potential post-coup leadership and military involvement but does not mention or substantiate any post-coup legitimacy frameworks (such as amnesty or prosecutions) that would shape governance."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239046#page=2\" class=\"citation\" target=\"_blank\">(Doc #239046, p.2)</a>",
+          "document_id": "DIA_FileId_239046",
+          "page_no": 2
+        },
+        "context": "nance <a href=\"/pdf/DIAFileId238856page=3\" class=\"citation\" target=\"blank\">(Doc 238856, p.3)</a>, <a href=\"/pdf/DIAFileId239028page=2\" class=\"citation\" target=\"blank\">(Doc 239028, p.2)</a>, <a href=\"/pdf/DIAFileId239046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>.\n\n2) Theoretical frameworks and historical context\n\nPolitical science and intelligence framing\n- A number of sources discuss coup dynamics through lenses of political-military interfaces, organizatio",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The DIA page 239046, p.2 discusses coup dynamics with military-political framing and provides historical context (Peron era, Argentina), showing political-military interplays. However, it does not explicitly present theoretical frameworks or reference multiple sources as the claim wording implies, so it only partially supports the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/ArmySFreviewIndochina_1976#page=99\" class=\"citation\" target=\"_blank\">(Doc #1976, p.99)</a>",
+          "document_id": "ArmySFreviewIndochina_1976",
+          "page_no": 99
+        },
+        "context": "ocused patterns are echoed in regional syntheses that connect coup activity to the broader regional vulnerability and external influence, including concerns about Cuban and Soviet influence in Africa <a href=\"/pdf/ArmySFreviewIndochina1976page=99\" class=\"citation\" target=\"blank\">(Doc 1976, p.99)</a>.\n\nAmericas\n- Latin America features Argentine coups (1955\u20131976) and Venezuela\u2019s 2002 episode as central case studies:\n  - Argentina: multiple documents discuss coup contingency planning, junta behavi",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The page discusses Africa\u2019s anticipated instability and coups and explicitly notes potential Cuban and Soviet influence penetrating the region, thereby linking regional vulnerability and external influence in a way that aligns with the claimed connection."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239036#page=7\" class=\"citation\" target=\"_blank\">(Doc #239036, p.7)</a>",
+          "document_id": "DIA_FileId_239036",
+          "page_no": 7
+        },
+        "context": "gime and U.S. security assistance. The Argentine literature in the FOIA corpus emphasizes how external alignments and domestic political calculations intersected with U.S. and international responses <a href=\"/pdf/DIAFileId239036page=7\" class=\"citation\" target=\"blank\">(Doc 239036, p.7)</a>, <a href=\"/pdf/DIAFileId239028page=2\" class=\"citation\" target=\"blank\">(Doc 239028, p.2)</a>, <a href=\"/pdf/DIAFileId239014page=1\" class=\"citation\" target=\"blank\">(Doc 239014, p.1)</a>, <a h",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The page discusses external alignments (pro-US stance) and domestic political dynamics (military frustration, HR-related US aid cuts) and their relation to US/Argentina interactions, which aligns with the claim\u2019s theme of intersections between domestic politics and international responses. However, it does not explicitly frame this as the Argentine FOIA literature \u201cemphasizing\u201d the point, making the support partial."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239290#page=2\" class=\"citation\" target=\"_blank\">(Doc #239290, p.2)</a>",
+          "document_id": "DIA_FileId_239290",
+          "page_no": 2
+        },
+        "context": "</a>, <a href=\"/pdf/DIAFileId239028page=2\" class=\"citation\" target=\"blank\">(Doc 239028, p.2)</a>, <a href=\"/pdf/DIAFileId239014page=1\" class=\"citation\" target=\"blank\">(Doc 239014, p.1)</a>, <a href=\"/pdf/DIAFileId239290page=2\" class=\"citation\" target=\"blank\">(Doc 239290, p.2)</a>.\n  - Venezuela: 2002 coup attempts and follow-on political reconfigurations are documented with notes about rebel leadership dynamics, post-coup legitimacy, and regional implications for stability an",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The DIA 239290 page discusses a radio claim about pardoning a jailed coup leader (Hugo Ch\u00e1vez), touching on post-coup legitimacy. However, it does not mention the 2002 Venezuelan coup attempts, rebel leadership dynamics, or regional stability implications, so it does not fully support the claim and only partially aligns with the post-coup legitimacy aspect."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239088#page=2\" class=\"citation\" target=\"_blank\">(Doc #239088, p.2)</a>",
+          "document_id": "DIA_FileId_239088",
+          "page_no": 2
+        },
+        "context": "itical reconfigurations are documented with notes about rebel leadership dynamics, post-coup legitimacy, and regional implications for stability and U.S.\u2013Latin America policy DIAFileId239258.pdf, <a href=\"/pdf/DIAFileId239088page=2\" class=\"citation\" target=\"blank\">(Doc 239088, p.2)</a>, <a href=\"/pdf/DIAFileId239290page=2\" class=\"citation\" target=\"blank\">(Doc 239290, p.2)</a>.\n- Multiple Latin American snapshots emphasize the domestic political climate, the risk of pardons or",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The page discusses regional implications of the Chavez coup and US policy reactions, which aligns with the \"regional implications for stability and U.S.\u2013Latin America policy\" aspect. However, it does not clearly document rebel leadership dynamics or post-coup legitimacy, aside from tangential references to leadership in Nicaragua and the overall political commentary, so it only partially supports the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238567#page=65\" class=\"citation\" target=\"_blank\">(Doc #238567, p.65)</a>",
+          "document_id": "DIA_FileId_238567",
+          "page_no": 65
+        },
+        "context": "ship, and how these events shaped U.S. engagement in the region <a href=\"/pdf/NSA-Cryptologic-History-SeriesIn-the-Shadow-of-War1969page=18\" class=\"citation\" target=\"blank\">(Doc 1969, p.18)</a>, <a href=\"/pdf/DIAFileId238567page=65\" class=\"citation\" target=\"blank\">(Doc 238567, p.65)</a>, <a href=\"/pdf/DIAhistOSAincep-1969upage=893\" class=\"citation\" target=\"blank\">(Doc DIAhistOSAincep-1969u, p.893)</a>.\n  - Afghanistan: the 1973 coup that replaced King Zahir Shah with Mohammed Dau",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "UNSUPPORTED (HIGH): The cited page content discusses the 1963 coup against South Vietnamese President Diem and U.S. reaction, not Afghanistan or the 1973 coup replacing Zahir Shah with Daud; thus it does not support the Afghanistan claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/CIAhistOSAincep-1969u#page=893\" class=\"citation\" target=\"_blank\">(Doc #CIAhistOSAincep-1969u, p.893)</a>",
+          "document_id": "CIAhistOSAincep-1969u",
+          "page_no": 893
+        },
+        "context": "syntheses that provide context for coup-driven changes in Europe and the Western alliance system <a href=\"/pdf/HistCIAopc1973page=9\" class=\"citation\" target=\"blank\">(Doc HistCIAopc1973, p.9)</a>, <a href=\"/pdf/CIAhistOSAincep-1969upage=893\" class=\"citation\" target=\"blank\">(Doc CIAhistOSAincep-1969u, p.893)</a>.\n\n4) Representative case studies (detailed segments)\n\n4.1 Africa: Kwame Nkrumah, Ghana (1966) and post-colonial coup dynamics\n- This Ghanaian case is used to analyze how the military can engage in go",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited excerpt from CIAhistOSAincep-1969u p.893 discusses a Turkish coup in 1960 and related U-2/Cold War context, with no reference to Kwame Nkrumah, Ghana (1966) or Africa case studies. Therefore it does not substantiate the Ghana-specific claim or the implied synthesis about coup-driven changes in Africa/Europe within the cited wiki claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238011#page=10\" class=\"citation\" target=\"_blank\">(Doc #238011, p.10)</a>",
+          "document_id": "DIA_FileId_238011",
+          "page_no": 10
+        },
+        "context": "r in post-coup transitions. The sources discuss governance reforms, Western guidance on electoral codes and constitutional interpretations, and donor involvement in post-coup stabilization and reform <a href=\"/pdf/DIAFileId238011page=10\" class=\"citation\" target=\"blank\">(Doc 238011, p.10)</a>, <a href=\"/pdf/DIAFileId238382page=10\" class=\"citation\" target=\"blank\">(Doc 238382, p.10)</a>, <a href=\"/pdf/StateDeptRelDocsIndex2010page=64\" class=\"citation\" target=\"blank\">(Doc 2010, p.64",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The cited page explicitly mentions Western guidance on electoral codes and constitutional interpretations, and notes ongoing donor support for economic reforms, as well as Western involvement in conflict resolution/democratization\u2014aligning with governance reforms and donor involvement in post-conflict transitions referenced in the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238382#page=10\" class=\"citation\" target=\"_blank\">(Doc #238382, p.10)</a>",
+          "document_id": "DIA_FileId_238382",
+          "page_no": 10
+        },
+        "context": "odes and constitutional interpretations, and donor involvement in post-coup stabilization and reform <a href=\"/pdf/DIAFileId238011page=10\" class=\"citation\" target=\"blank\">(Doc 238011, p.10)</a>, <a href=\"/pdf/DIAFileId238382page=10\" class=\"citation\" target=\"blank\">(Doc 238382, p.10)</a>, <a href=\"/pdf/StateDeptRelDocsIndex2010page=64\" class=\"citation\" target=\"blank\">(Doc 2010, p.64)</a>.\n\nEconomic consequences and reform agendas\n- Coup contexts are often accompanied by reform pr",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The cited page explicitly references Western guidance on electoral codes and constitutional interpretations and notes donor support for economic reforms, which aligns with parts of the claim. However, it does not explicitly address \u201cpost-coup stabilization,\u201d so the claim is not fully supported by this page alone."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239264#page=3\" class=\"citation\" target=\"_blank\">(Doc #239264, p.3)</a>",
+          "document_id": "DIA_FileId_239264",
+          "page_no": 3
+        },
+        "context": "ilize growth or restructure markets. The literature notes discussions of economic reform policies and social costs in post-coup contexts, reflecting the political economy of reform during transitions <a href=\"/pdf/DIAFileId239264page=3\" class=\"citation\" target=\"blank\">(Doc 239264, p.3)</a>, <a href=\"/pdf/DIApubPrimerOnTheFutureThreat1999page=26\" class=\"citation\" target=\"blank\">(Doc 1999, p.26)</a>.\n\nHuman rights and civil-military relations post-coup\n- Human rights considerations",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The cited page explicitly states that governments in the region should consider the social costs of free-market economic reform policies in the post-coup context, aligning with the claim about discussions of economic reform policies and social costs during transitions."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239120#page=3\" class=\"citation\" target=\"_blank\">(Doc #239120, p.3)</a>",
+          "document_id": "DIA_FileId_239120",
+          "page_no": 3
+        },
+        "context": "flecting shifts in public availability over time. These notes underscore the evolving information landscape around coups and the need to interpret declassified materials within their release contexts <a href=\"/pdf/DIAFileId239120page=3\" class=\"citation\" target=\"blank\">(Doc 239120, p.3)</a>, DIAFileId239290pdf (in context).\n\nVariability in coverage and detail\n- Source material varies from high-level syntheses to operational recollections and leadership rosters. This heterogeneity r",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "MEDIUM",
+        "explanation": "UNSUPPORTED (MEDIUM): The cited page contains a declassified DIA report with unrelated content (Soviet technicians, trade, etc.) and only shows declassification status and a release date. It does not discuss coups, the evolving information landscape around coups, or how declassified materials should be interpreted within their release contexts, so it does not substantiate the claim."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238816#page=3\" class=\"citation\" target=\"_blank\">(Doc #238816, p.3)</a>",
+          "document_id": "DIA_FileId_238816",
+          "page_no": 3
+        },
+        "context": "hese biases and derive a more balanced interpretation of events <a href=\"/pdf/NSA-Cryptologic-History-SeriesIn-the-Shadow-of-War1969page=18\" class=\"citation\" target=\"blank\">(Doc 1969, p.18)</a>, <a href=\"/pdf/DIAFileId238816page=3\" class=\"citation\" target=\"blank\">(Doc 238816, p.3)</a>.\n\n12) Summary: Coups & regime change in the FOIA corpus\n\nThe declassified FOIA material portrays coups and regime-change events as enduring features of domestic politics and international security, s",
+        "relevance_score": 0.5,
+        "verdict": "PARTIAL",
+        "confidence": "MEDIUM",
+        "explanation": "PARTIAL (MEDIUM): The cited DIA 238816 page 3 notes ongoing civil-military tension and a February coup attempt in Venezuela, which supports the notion that coups are a relevant feature in these contexts. However, as a single page, it does not clearly demonstrate that coups/regime-change are enduring features across the entire FOIA corpus, so the support is partial rather than full."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/NSA-SIGINT-style-manual_2010#page=191\" class=\"citation\" target=\"_blank\">(Doc #2010, p.191)</a>",
+          "document_id": "NSA-SIGINT-style-manual_2010",
+          "page_no": 191
+        },
+        "context": "Selected source citations (illustrative cross-referencing; many more are used throughout the text)\n\n- <a href=\"/pdf/DTICbiblioCSIS2019page=9\" class=\"citation\" target=\"blank\">(Doc 2019, p.9)</a>\n- <a href=\"/pdf/NSA-SIGINT-style-manual2010page=191\" class=\"citation\" target=\"blank\">(Doc 2010, p.191)</a>\n- <a href=\"/pdf/DIAFileId238567page=65\" class=\"citation\" target=\"blank\">(Doc 238567, p.65)</a>\n- <a href=\"/pdf/DIAFileId238464page=115\" class=\"citation\" target=\"blank\">(Doc 238464, p.115)</",
+        "relevance_score": 0.0,
+        "verdict": "UNSUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "UNSUPPORTED (HIGH): The cited NSA-SIGINT-style-manual page 191 excerpt shows general glossary/style entries (e.g., definitions for \"regardless,\" \"regime,\" \"releasability statement\") but it does not substantiate any claim about the wiki article\u2019s use of \u201cselected source citations\u201d or cross-referencing. There is no explicit link or evidence on cross-referencing citations in this page."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238005#page=1\" class=\"citation\" target=\"_blank\">(Doc #238005, p.1)</a>",
+          "document_id": "DIA_FileId_238005",
+          "page_no": 1
+        },
+        "context": "href=\"/pdf/DIAFileId238567page=65\" class=\"citation\" target=\"blank\">(Doc 238567, p.65)</a>\n- <a href=\"/pdf/DIAFileId238464page=115\" class=\"citation\" target=\"blank\">(Doc 238464, p.115)</a>\n- <a href=\"/pdf/DIAFileId238005page=1\" class=\"citation\" target=\"blank\">(Doc 238005, p.1)</a>\n- <a href=\"/pdf/DIAFileId239046page=2\" class=\"citation\" target=\"blank\">(Doc 239046, p.2)</a>\n- <a href=\"/pdf/DIAFileId239014page=1\" class=\"citation\" target=\"blank\">(Doc 239014, p.1)</a>\n- <",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The cited page describes the Burmese junta under Than Shwe as determined to prevent interference and to form a civilian government, while pushing for tightly controlled elections in 2010 and noting limited likelihood of fundamental reform, which aligns with the claim presented."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_239192#page=2\" class=\"citation\" target=\"_blank\">(Doc #239192, p.2)</a>",
+          "document_id": "DIA_FileId_239192",
+          "page_no": 2
+        },
+        "context": "In-the-Shadow-of-War1969page=18\" class=\"citation\" target=\"blank\">(Doc 1969, p.18)</a>\n- <a href=\"/pdf/StateDeptRelDocsIndex2010page=64\" class=\"citation\" target=\"blank\">(Doc 2010, p.64)</a>\n- <a href=\"/pdf/DIAFileId239192page=2\" class=\"citation\" target=\"blank\">(Doc 239192, p.2)</a>\n- <a href=\"/pdf/DIAFileId239120page=3\" class=\"citation\" target=\"blank\">(Doc 239120, p.3)</a>\n- <a href=\"/pdf/DIAFILEId238423page=2\" class=\"citation\" target=\"blank\">(Doc 238423, p.2)</a> (i",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The cited DIA page explicitly lists ARGENTINA and states the SUBJECT as \u201cGOVERN THE COUNTRY OR CARRY OUT A COUP,\u201d which directly supports the claim that the document discusses a coup context in Argentina."
+      },
+      {
+        "citation": {
+          "raw": "<a href=\"/pdf/DIA_FileId_238823#page=2\" class=\"citation\" target=\"_blank\">(Doc #238823, p.2)</a>",
+          "document_id": "DIA_FileId_238823",
+          "page_no": 2
+        },
+        "context": "=2\" class=\"citation\" target=\"blank\">(Doc 238423, p.2)</a> (if present in context; otherwise omit)\n- <a href=\"/pdf/DIAFileId239210page=5\" class=\"citation\" target=\"blank\">(Doc 239210, p.5)</a>\n- <a href=\"/pdf/DIAFileId238823page=2\" class=\"citation\" target=\"blank\">(Doc 238823, p.2)</a>\n- <a href=\"/pdf/DIAFileId239264page=3\" class=\"citation\" target=\"blank\">(Doc 239264, p.3)</a>\n- <a href=\"/pdf/DIAFileId238811page=10\" class=\"citation\" target=\"blank\">(Doc 238811, p.10)</a>",
+        "relevance_score": 1.0,
+        "verdict": "SUPPORTED",
+        "confidence": "HIGH",
+        "explanation": "SUPPORTED (HIGH): The cited page explicitly discusses a helicopter/aircraft context in the Tucum\u00e1n operation, including references to radar-equipped/high-performance aircraft and look-down radar, which aligns with and supports claims about the use of radar-equipped helicopters and related operational concepts in that setting."
+      }
+    ]
+  }
+}

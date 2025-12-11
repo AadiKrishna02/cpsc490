@@ -1,0 +1,431 @@
+{
+  "topic": "US - India relations",
+  "generated_at": "2025-11-19T22:34:03.111785",
+  "model": "gpt-4o",
+  "num_sources": 70,
+  "source_documents": [
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 1.0
+    },
+    {
+      "doc_id": "ThesisIndiasSearchEnergySupplies2009",
+      "title": "ThesisIndiasSearchEnergySupplies2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.902996821085769
+    },
+    {
+      "doc_id": "VOA-Legacy-Assets_2011",
+      "title": "VOA-Legacy-Assets_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8789033386610668
+    },
+    {
+      "doc_id": "USAIDtransBriefBiden_2020",
+      "title": "USAIDtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7820073633217303
+    },
+    {
+      "doc_id": "StatePArapidResponse2013",
+      "title": "StatePArapidResponse2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7560990024298372
+    },
+    {
+      "doc_id": "AWCindivRchRpts_AllDates",
+      "title": "AWCindivRchRpts_AllDates.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.738768312799949
+    },
+    {
+      "doc_id": "USTDAcongBudgetJust_FY2014-2016",
+      "title": "USTDAcongBudgetJust_FY2014-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "NRC-TribalProtocolManual_2010",
+      "title": "NRC-TribalProtocolManual_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.691766292853047
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.631656471398678
+    },
+    {
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5903364082016458
+    },
+    {
+      "doc_id": "ArmySFreviewIndochina_1976",
+      "title": "ArmySFreviewIndochina_1976.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5637651460317161
+    },
+    {
+      "doc_id": "DTICtechRptsPOW_2016",
+      "title": "DTICtechRptsPOW_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5503923632979574
+    },
+    {
+      "doc_id": "StateStyleManual_2013",
+      "title": "StateStyleManual_2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5490246020260492
+    },
+    {
+      "doc_id": "USAIDpresidentTransDocs_2016",
+      "title": "USAIDpresidentTransDocs_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5424215882352685
+    },
+    {
+      "doc_id": "ExImBankAdvMtgMinutes_2011-2013",
+      "title": "ExImBankAdvMtgMinutes_2011-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5405390684813653
+    },
+    {
+      "doc_id": "DIA_FileId_238616",
+      "title": "DIA_FileId_238616.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5402510895157012
+    },
+    {
+      "doc_id": "FBI-DangerousAliens_1951-1955",
+      "title": "FBI-DangerousAliens_1951-1955.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5364569612706719
+    },
+    {
+      "doc_id": "DIApub_PrimerOnTheFutureThreat_1999",
+      "title": "DIApub_PrimerOnTheFutureThreat_1999.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5291471630320874
+    },
+    {
+      "doc_id": "CanPercepIncomingTrump2016",
+      "title": "CanPercepIncomingTrump2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5234945054476897
+    },
+    {
+      "doc_id": "USTDAperfAcctbltyRpts2017-2019",
+      "title": "USTDAperfAcctbltyRpts2017-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5137858264163713
+    },
+    {
+      "doc_id": "BIE20WkAheadRpts2022",
+      "title": "BIE20WkAheadRpts2022.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5122636775269075
+    },
+    {
+      "doc_id": "NASAemailDroneCherylWarner2024-2025",
+      "title": "NASAemailDroneCherylWarner2024-2025.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5033882942525908
+    },
+    {
+      "doc_id": "Closed_DOI-OIG_Invest_2003-2007",
+      "title": "Closed_DOI-OIG_Invest_2003-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5019993215413272
+    },
+    {
+      "doc_id": "ODNIcongCorres_2009-2010",
+      "title": "ODNIcongCorres_2009-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5017583412550426
+    },
+    {
+      "doc_id": "DOI-OIA-ITAPpolProcedHdbk_2017",
+      "title": "DOI-OIA-ITAPpolProcedHdbk_2017.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4894450270846452
+    },
+    {
+      "doc_id": "DOJeoirTheLookoutNewsltr2017-2021",
+      "title": "DOJeoirTheLookoutNewsltr2017-2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.48758525361356364
+    },
+    {
+      "doc_id": "DEAlibraryCat2024",
+      "title": "DEAlibraryCat2024.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4780845351564449
+    },
+    {
+      "doc_id": "DIA_FileId_238905",
+      "title": "DIA_FileId_238905.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.47293488158475866
+    },
+    {
+      "doc_id": "InterioreEmailBurningMan2019",
+      "title": "InterioreEmailBurningMan2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.46247608003565127
+    },
+    {
+      "doc_id": "ATB-ISBrpts_2006-2008",
+      "title": "ATB-ISBrpts_2006-2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.461034520575416
+    },
+    {
+      "doc_id": "GAOreportUSPgmsInAfghanistan_1971",
+      "title": "GAOreportUSPgmsInAfghanistan_1971.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.457673515627996
+    },
+    {
+      "doc_id": "FBI-FgnCounterintelRevExt_1976-1979",
+      "title": "FBI-FgnCounterintelRevExt_1976-1979.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.44959686708522395
+    },
+    {
+      "doc_id": "USITC_Employee-Colloquia_2004-2008",
+      "title": "USITC_Employee-Colloquia_2004-2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.44797122293141317
+    },
+    {
+      "doc_id": "DIA_FileId_238797",
+      "title": "DIA_FileId_238797.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.44685302534183813
+    },
+    {
+      "doc_id": "DIA_FileId_238915",
+      "title": "DIA_FileId_238915.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4454310640649526
+    },
+    {
+      "doc_id": "USAIDcounterViolExtreme_2018-2019",
+      "title": "USAIDcounterViolExtreme_2018-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4431804741378526
+    },
+    {
+      "doc_id": "DTICtransmutation_2016",
+      "title": "DTICtransmutation_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.44185024870747264
+    },
+    {
+      "doc_id": "CIAhistOSAincep-1969u",
+      "title": "CIAhistOSAincep-1969u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.425854383951295
+    },
+    {
+      "doc_id": "DOCBtransBriefBiden_2020",
+      "title": "DOCBtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4146664461102336
+    },
+    {
+      "doc_id": "BIAqfrs_2018-2020",
+      "title": "BIAqfrs_2018-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4140912694309447
+    },
+    {
+      "doc_id": "DOCexecSectyGuideCorres_2021",
+      "title": "DOCexecSectyGuideCorres_2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4130482743454009
+    },
+    {
+      "doc_id": "DIA_FileId_237964",
+      "title": "DIA_FileId_237964.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.406357798616399
+    },
+    {
+      "doc_id": "DIA_FileId_239120",
+      "title": "DIA_FileId_239120.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.39203744970356424
+    },
+    {
+      "doc_id": "DOIemailsChoctaw_2014-2015",
+      "title": "DOIemailsChoctaw_2014-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.39014955372984444
+    },
+    {
+      "doc_id": "USTDAindiaEnergySmtGridDskStdy2019",
+      "title": "USTDAindiaEnergySmtGridDskStdy2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.38524720314355443
+    },
+    {
+      "doc_id": "USAFSScapabilitySEasia_1963-1964-1969",
+      "title": "USAFSScapabilitySEasia_1963-1964-1969.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3778893479202473
+    },
+    {
+      "doc_id": "NEAtransBriefBiden_2020",
+      "title": "NEAtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3776685476572604
+    },
+    {
+      "doc_id": "CDCcghWithdWHOJul-Aug2020",
+      "title": "CDCcghWithdWHOJul-Aug2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3656043215737146
+    },
+    {
+      "doc_id": "MIPBjan-Mar2009",
+      "title": "MIPBjan-Mar2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3629049360318101
+    },
+    {
+      "doc_id": "CIA-CIB-PDB_7-17-Jun-1971",
+      "title": "CIA-CIB-PDB_7-17-Jun-1971.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.35964645942414525
+    },
+    {
+      "doc_id": "TreasuryOTA-Advisor_2010-2014",
+      "title": "TreasuryOTA-Advisor_2010-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3562541980680745
+    },
+    {
+      "doc_id": "DIA_FileId_239150",
+      "title": "DIA_FileId_239150.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.35237583606253264
+    },
+    {
+      "doc_id": "DIA_FileId_237717",
+      "title": "DIA_FileId_237717.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.35195943945272284
+    },
+    {
+      "doc_id": "NARAclintonPLfoiaLogs2008-2020",
+      "title": "NARAclintonPLfoiaLogs2008-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3508764625048131
+    },
+    {
+      "doc_id": "24NRCsecyPapers_1975-1977",
+      "title": "24NRCsecyPapers_1975-1977.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3486494943403374
+    },
+    {
+      "doc_id": "USAIDrptsPIOETpgmRpts_2010-2013",
+      "title": "USAIDrptsPIOETpgmRpts_2010-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.34572884708069396
+    },
+    {
+      "doc_id": "DFCopic-USAIDcooperation_2019",
+      "title": "DFCopic-USAIDcooperation_2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.34496661510055393
+    },
+    {
+      "doc_id": "DenaliCommBudgetJusts_FY2010-2012",
+      "title": "DenaliCommBudgetJusts_FY2010-2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.33788350443287846
+    },
+    {
+      "doc_id": "DIA_FileId_237990",
+      "title": "DIA_FileId_237990.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.3369575441000525
+    },
+    {
+      "doc_id": "2012OSTworkforcePlan_2011",
+      "title": "2012OSTworkforcePlan_2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3350460138558577
+    },
+    {
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3315790571243814
+    },
+    {
+      "doc_id": "VAdocsBurson-Marsteller_2012-2013",
+      "title": "VAdocsBurson-Marsteller_2012-2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.32246858500916104
+    },
+    {
+      "doc_id": "DOC-OIGunpubRpts_1998-2007",
+      "title": "DOC-OIGunpubRpts_1998-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3213343979240481
+    },
+    {
+      "doc_id": "CIAhistOSAincep-1969Final",
+      "title": "CIAhistOSAincep-1969Final.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.31778511901791506
+    },
+    {
+      "doc_id": "DOCtransBriefBiden_2020",
+      "title": "DOCtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.31585630494802874
+    },
+    {
+      "doc_id": "ICA2003-03",
+      "title": "ICA2003-03.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3158486955213137
+    },
+    {
+      "doc_id": "EXIMtransBriefBiden_2020",
+      "title": "EXIMtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.3121786054148038
+    },
+    {
+      "doc_id": "DIA_FileId_239064",
+      "title": "DIA_FileId_239064.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.31101367461274254
+    },
+    {
+      "doc_id": "CPSC-QFR_2009-2014",
+      "title": "CPSC-QFR_2009-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.30671680223564046
+    }
+  ],
+  "context_length": 35650,
+  "style": "comprehensive",
+  "length_mode": "long"
+}

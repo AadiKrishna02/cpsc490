@@ -1,0 +1,416 @@
+{
+  "topic": "CIA operations in nigeria",
+  "generated_at": "2025-11-20T01:05:07.967599",
+  "model": "gpt-4o",
+  "num_sources": 66,
+  "source_documents": [
+    {
+      "doc_id": "DIA_FileId_238464",
+      "title": "DIA_FileId_238464.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.9077028692744051
+    },
+    {
+      "doc_id": "DTICtrdBiblioCA-CIApre2000_2014",
+      "title": "DTICtrdBiblioCA-CIApre2000_2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.9037552877280879
+    },
+    {
+      "doc_id": "USAGMtsiBusDevelopHilts2019-2021",
+      "title": "USAGMtsiBusDevelopHilts2019-2021.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8852372021765544
+    },
+    {
+      "doc_id": "USAIDoigInvestsClosedCY2021-22u",
+      "title": "USAIDoigInvestsClosedCY2021-22u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8486597465492475
+    },
+    {
+      "doc_id": "StateInfoPgmsRpts_2008",
+      "title": "StateInfoPgmsRpts_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.8396015469988287
+    },
+    {
+      "doc_id": "DIA_FileId_238616",
+      "title": "DIA_FileId_238616.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.7769556305682637
+    },
+    {
+      "doc_id": "NARAclintonPLfoiaLogs2008-2020",
+      "title": "NARAclintonPLfoiaLogs2008-2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7558127085458138
+    },
+    {
+      "doc_id": "PerryHistSatRecon-IIIA_New-Jan1974",
+      "title": "PerryHistSatRecon-IIIA_New-Jan1974.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7540946885283324
+    },
+    {
+      "doc_id": "USAIDlpaFOIApgmRpts_2012-2016",
+      "title": "USAIDlpaFOIApgmRpts_2012-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7459878541659888
+    },
+    {
+      "doc_id": "DIApub_PrimerOnTheFutureThreat_1999",
+      "title": "DIApub_PrimerOnTheFutureThreat_1999.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7337127140066122
+    },
+    {
+      "doc_id": "CIA-comments_1994-2005u",
+      "title": "CIA-comments_1994-2005u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.718907641617115
+    },
+    {
+      "doc_id": "HistCIAopc1973",
+      "title": "HistCIAopc1973.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7165652707628809
+    },
+    {
+      "doc_id": "16USAIGcloseDocsOIGinvests_2009-2019",
+      "title": "16USAIGcloseDocsOIGinvests_2009-2019.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "EEOC-OIG_SemiannualCongressRepts_2001-2003",
+      "title": "EEOC-OIG_SemiannualCongressRepts_2001-2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "DIA_FileId_238422",
+      "title": "DIA_FileId_238422.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.7
+    },
+    {
+      "doc_id": "CIA8progRptsRMPkurtz_2001-2006",
+      "title": "CIA8progRptsRMPkurtz_2001-2006.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.643314729827948
+    },
+    {
+      "doc_id": "JMDpresidTransBriefs2000-2016",
+      "title": "JMDpresidTransBriefs2000-2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6304637745474763
+    },
+    {
+      "doc_id": "USAIDpresidentTransDocs_2016",
+      "title": "USAIDpresidentTransDocs_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6214624265870966
+    },
+    {
+      "doc_id": "ForgedInTheFire_2008",
+      "title": "ForgedInTheFire_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6154885747006038
+    },
+    {
+      "doc_id": "DIA_FileId_237964",
+      "title": "DIA_FileId_237964.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.6153243318192858
+    },
+    {
+      "doc_id": "CIAbudgetSequestration_2013",
+      "title": "CIAbudgetSequestration_2013.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6151510158216315
+    },
+    {
+      "doc_id": "USGSminCAC975-1980",
+      "title": "USGSminCAC975-1980.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6142174265236762
+    },
+    {
+      "doc_id": "KHRUVIS_1957-1959",
+      "title": "KHRUVIS_1957-1959.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.6083114472235778
+    },
+    {
+      "doc_id": "FLETCIntroPracGuidCrimInvs_2007",
+      "title": "FLETCIntroPracGuidCrimInvs_2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5861620844313514
+    },
+    {
+      "doc_id": "DEAlibraryCat2024",
+      "title": "DEAlibraryCat2024.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5848722225819873
+    },
+    {
+      "doc_id": "DIA-SABrecords_1966-2002",
+      "title": "DIA-SABrecords_1966-2002.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5778589974172585
+    },
+    {
+      "doc_id": "USAINSCOMhistoryFY_2001-2003",
+      "title": "USAINSCOMhistoryFY_2001-2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5734124859321202
+    },
+    {
+      "doc_id": "DIAintelLawHndbk_2004",
+      "title": "DIAintelLawHndbk_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5733178368288516
+    },
+    {
+      "doc_id": "UnconWeapons1970Battle_1964",
+      "title": "UnconWeapons1970Battle_1964.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5714763243418973
+    },
+    {
+      "doc_id": "TIGTAweeklyRepts_2011-2014",
+      "title": "TIGTAweeklyRepts_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5666463183413719
+    },
+    {
+      "doc_id": "NSA2001PresidTransition_2004",
+      "title": "NSA2001PresidTransition_2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5646238666546937
+    },
+    {
+      "doc_id": "ThesisOIG-ODNI2007",
+      "title": "ThesisOIG-ODNI2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.563362334900151
+    },
+    {
+      "doc_id": "35StateDeptDocDeclass_1973-2009",
+      "title": "35StateDeptDocDeclass_1973-2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5579322310214847
+    },
+    {
+      "doc_id": "DHSExecCorresHdbk_2015",
+      "title": "DHSExecCorresHdbk_2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.551643208737976
+    },
+    {
+      "doc_id": "DIA_FileId_238307",
+      "title": "DIA_FileId_238307.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.5493630691037559
+    },
+    {
+      "doc_id": "NSA354-01STINFOcollFA",
+      "title": "NSA354-01STINFOcollFA.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5465471850951802
+    },
+    {
+      "doc_id": "GAO_Cocaine_Heroin_S_America_1975",
+      "title": "GAO_Cocaine_Heroin_S_America_1975.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5428249187936279
+    },
+    {
+      "doc_id": "CIAhistOSAincep-1969u",
+      "title": "CIAhistOSAincep-1969u.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5413538258099455
+    },
+    {
+      "doc_id": "USNORTHCOM-CONPLANpandemicFlu_2009",
+      "title": "USNORTHCOM-CONPLANpandemicFlu_2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5344799768573343
+    },
+    {
+      "doc_id": "ThesisRenditionsCounterterr2009",
+      "title": "ThesisRenditionsCounterterr2009.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5289168295560603
+    },
+    {
+      "doc_id": "USAINSCOMhistoryFY_1984",
+      "title": "USAINSCOMhistoryFY_1984.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.528418520083822
+    },
+    {
+      "doc_id": "DIA-JMICthesesMSSI_2004-2010",
+      "title": "DIA-JMICthesesMSSI_2004-2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5265937137336673
+    },
+    {
+      "doc_id": "NMBtransBriefBiden_2020",
+      "title": "NMBtransBriefBiden_2020.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5236690814041374
+    },
+    {
+      "doc_id": "USSSadminHistSheafeUnpub_1983",
+      "title": "USSSadminHistSheafeUnpub_1983.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5206461506040062
+    },
+    {
+      "doc_id": "USAINSCOMhistoryFY_1978",
+      "title": "USAINSCOMhistoryFY_1978.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5205648299786922
+    },
+    {
+      "doc_id": "StateDeptRedBookINR_2008",
+      "title": "StateDeptRedBookINR_2008.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5190408835502835
+    },
+    {
+      "doc_id": "ElevenCIA-OIGauditReports_1995-2003",
+      "title": "ElevenCIA-OIGauditReports_1995-2003.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5172298237272615
+    },
+    {
+      "doc_id": "NCISinvesClosed_CY2014-2015",
+      "title": "NCISinvesClosed_CY2014-2015.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.512955312882279
+    },
+    {
+      "doc_id": "BEPcommplansBurson_2007-2011",
+      "title": "BEPcommplansBurson_2007-2011.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.512491359490378
+    },
+    {
+      "doc_id": "StateOIGWeeklyActivityRpts_2011-2014",
+      "title": "StateOIGWeeklyActivityRpts_2011-2014.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5089265156500654
+    },
+    {
+      "doc_id": "NARAjfkAssassinationRecordsCollWithheld_2016",
+      "title": "NARAjfkAssassinationRecordsCollWithheld_2016.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5070813963240671
+    },
+    {
+      "doc_id": "NSA-SelHistDocs_1931-1985",
+      "title": "NSA-SelHistDocs_1931-1985.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5043378766266927
+    },
+    {
+      "doc_id": "FBI-AutoDeclassManual_2007",
+      "title": "FBI-AutoDeclassManual_2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.5038645288534348
+    },
+    {
+      "doc_id": "StateDeptRelDocsIndex_2010",
+      "title": "StateDeptRelDocsIndex_2010.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.49860469825840414
+    },
+    {
+      "doc_id": "FBI-SexPerverts_1950-1966",
+      "title": "FBI-SexPerverts_1950-1966.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.49758979715301016
+    },
+    {
+      "doc_id": "PerryHistSatRecon-IIIB_New-Nov1973",
+      "title": "PerryHistSatRecon-IIIB_New-Nov1973.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4973618276908702
+    },
+    {
+      "doc_id": "TreasuryDO-FOIAbacklogEmail_2012-14",
+      "title": "TreasuryDO-FOIAbacklogEmail_2012-14.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.49656690791513636
+    },
+    {
+      "doc_id": "ThirteenCommerceOIGrpts_1997-2007",
+      "title": "ThirteenCommerceOIGrpts_1997-2007.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.49635816914698916
+    },
+    {
+      "doc_id": "WarRptOSSvolI_1947_1976",
+      "title": "WarRptOSSvolI_1947_1976.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4891167872928663
+    },
+    {
+      "doc_id": "USAFohCat_1982",
+      "title": "USAFohCat_1982.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.48561947718876664
+    },
+    {
+      "doc_id": "ThesisUnlawDisclInfoSharing2004",
+      "title": "ThesisUnlawDisclInfoSharing2004.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.48413763175778524
+    },
+    {
+      "doc_id": "DIA_FileId_238567",
+      "title": "DIA_FileId_238567.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.4835228326797715
+    },
+    {
+      "doc_id": "DIA_FileId_238563",
+      "title": "DIA_FileId_238563.pdf",
+      "source": "DIA Reading Room",
+      "relevance": 0.481646115646831
+    },
+    {
+      "doc_id": "DA-CivilDisturbPlanGardenPlot_1968",
+      "title": "DA-CivilDisturbPlanGardenPlot_1968.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.47175424243565267
+    },
+    {
+      "doc_id": "USTDA-PublicReportsAllYears",
+      "title": "USTDA-PublicReportsAllYears.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.47133990699502426
+    },
+    {
+      "doc_id": "CloseDocs17NROoigInvests_2010-2012",
+      "title": "CloseDocs17NROoigInvests_2010-2012.pdf",
+      "source": "GovernmentAttic.org",
+      "relevance": 0.4669429975920937
+    }
+  ],
+  "context_length": 35778,
+  "style": "comprehensive",
+  "length_mode": "exhaustive",
+  "quality_iterations": 3,
+  "final_quality": {
+    "citation_density": 2.763385146804836,
+    "avg_relevance": 0.18478212323457036,
+    "total_citations": 16,
+    "valid_citations": 16,
+    "invalid_citations": 0,
+    "passes_standards": false
+  }
+}
